@@ -1,3 +1,4 @@
+
 import datetime
 import requests
 import json
@@ -21,7 +22,7 @@ def sort_papers(papers):
         output[key] = papers[key]
     return output    
 
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic,query="rgbt", max_results=2):
     """
     @param topic: str
     @param query: str
@@ -186,11 +187,10 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["SLAM"]                = "SLAM"
-    keywords["SFM"]                 = "SFM"+"OR"+"\"Structure from Motion\""
-    keywords["Visual Localization"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\"OR\"Loop Closure Detection\"OR\"visual place recognition\"OR\"image retrieval\""
-    keywords["Keypoint Detection"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\""
-    keywords["Image Matching"]      = "\"Image Matching\"OR\"Keypoint Matching\""
+    keywords["RGBT"]                = "RGBT"
+    keywords["Infrared"]                 = "Infrared"
+    keywords["RGBD"] = "RGBD"
+    keywords["Saliency Detection"]  = "Saliency Detection"
 
     for topic,keyword in keywords.items():
  
