@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-02**|**3D-DASH: The Widest Near-Infrared Hubble Space Telescope Survey**|Lamiya A. Mowla et.al.|[2206.01156v1](http://arxiv.org/abs/2206.01156v1)|null|
+|**2022-06-02**|**Mechanisms of high harmonic generation in solids**|A. Thorpe et.al.|[2206.01042v1](http://arxiv.org/abs/2206.01042v1)|null|
+|**2022-06-02**|**Theoretical study of the stability of the tetradymite-like phases of Sb$_2$S$_3$, Bi$_2$S$_3$, and Sb$_2$Se$_3$**|E. Lora da Silva et.al.|[2206.01025v1](http://arxiv.org/abs/2206.01025v1)|null|
+|**2022-06-02**|**The dynamical holographic QCD method for hadron physics and QCD matter**|Yidian Chen et.al.|[2206.00917v1](http://arxiv.org/abs/2206.00917v1)|null|
+|**2022-06-02**|**Infrared Spectroscopy of free-floating planet candidates in Upper Scorpius and Ophiuchus**|H. Bouy et.al.|[2206.00916v1](http://arxiv.org/abs/2206.00916v1)|null|
+|**2022-06-02**|**Discovering vanishing objects in POSS I red images using the Virtual Observatory**|E. Solano et.al.|[2206.00907v1](http://arxiv.org/abs/2206.00907v1)|null|
+|**2022-06-01**|**Hybrid photometric redshifts for sources in the COSMOS and XMM-LSS fields**|P. W. Hatfield et.al.|[2206.00748v1](http://arxiv.org/abs/2206.00748v1)|null|
+|**2022-06-01**|**Probing the rest-frame of the Universe with near-IR cosmic infrared background**|A. Kashlinsky et.al.|[2206.00724v1](http://arxiv.org/abs/2206.00724v1)|null|
+|**2022-06-01**|**Indications for a Nonzero Lepton Asymmetry in the Early Universe**|Anne-Katherine Burns et.al.|[2206.00693v1](http://arxiv.org/abs/2206.00693v1)|null|
+|**2022-06-01**|**Probing dynamics and thermal properties inside molecular tori with CO rovibrational absorption lines**|Kosei Matsumoto et.al.|[2206.00688v1](http://arxiv.org/abs/2206.00688v1)|null|
 |**2022-06-01**|**Dynamical Abelianization and anomalies in chiral gauge theories**|Stefano Bolognesi et.al.|[2206.00538v1](http://arxiv.org/abs/2206.00538v1)|null|
 |**2022-06-01**|**Environmental effects in Herschel observations of the ionized carbon content of star forming dwarf galaxies in the Virgo cluster**|Robert Minchin et.al.|[2206.00155v1](http://arxiv.org/abs/2206.00155v1)|null|
 |**2022-05-31**|**Structural Forecasting for Short-term Tropical Cyclone Intensity Guidance**|Trey McNeely et.al.|[2206.00067v1](http://arxiv.org/abs/2206.00067v1)|null|
@@ -49,6 +59,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-02**|**Siamese Image Modeling for Self-Supervised Vision Representation Learning**|Chenxin Tao et.al.|[2206.01204v1](http://arxiv.org/abs/2206.01204v1)|null|
+|**2022-06-02**|**Multiboson signals in the UN2HDM**|J. A. Aguilar-Saavedra et.al.|[2206.01200v1](http://arxiv.org/abs/2206.01200v1)|null|
+|**2022-06-02**|**Star Formation and AGN Feedback in the Local Universe: Combining LOFAR and MaNGA**|C. R. Mulcahey et.al.|[2206.01195v1](http://arxiv.org/abs/2206.01195v1)|null|
+|**2022-06-02**|**Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives**|Jun Li et.al.|[2206.01136v1](http://arxiv.org/abs/2206.01136v1)|null|
+|**2022-06-02**|**Comparing Conventional and Deep Feature Models for Classifying Fundus Photography of Hemorrhages**|Tamoor Aziz et.al.|[2206.01118v1](http://arxiv.org/abs/2206.01118v1)|null|
+|**2022-06-02**|**Predicted future fate of COSMOS galaxy protoclusters over 11 Gyr with constrained simulations**|Metin Ata et.al.|[2206.01115v1](http://arxiv.org/abs/2206.01115v1)|null|
+|**2022-06-02**|**A temporal chrominance trigger for clean-label backdoor attack against anti-spoof rebroadcast detection**|Wei Guo et.al.|[2206.01102v1](http://arxiv.org/abs/2206.01102v1)|null|
+|**2022-06-02**|**Machine Learning-based Lung and Colon Cancer Detection using Deep Feature Extraction and Ensemble Learning**|Md. Alamin Talukder et.al.|[2206.01088v1](http://arxiv.org/abs/2206.01088v1)|null|
+|**2022-06-02**|**Likelihood-based Changepoint Detection in Preferential Attachment Networks**|Daniel Cirkovic et.al.|[2206.01076v1](http://arxiv.org/abs/2206.01076v1)|null|
+|**2022-06-02**|**DocLayNet: A Large Human-Annotated Dataset for Document-Layout Analysis**|Birgit Pfitzmann et.al.|[2206.01062v1](http://arxiv.org/abs/2206.01062v1)|null|
 |**2022-06-01**|**Graph Neural Networks with Precomputed Node Features**|Beni Egressy et.al.|[2206.00637v1](http://arxiv.org/abs/2206.00637v1)|null|
 |**2022-06-01**|**Speech Artifact Removal from EEG Recordings of Spoken Word Production with Tensor Decomposition**|Holy Lovenia et.al.|[2206.00635v1](http://arxiv.org/abs/2206.00635v1)|null|
 |**2022-06-01**|**A Framework for Verifiable Blind Quantum Computation**|Theodoros Kapourniotis et.al.|[2206.00631v1](http://arxiv.org/abs/2206.00631v1)|null|
