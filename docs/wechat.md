@@ -1,4 +1,4 @@
-> Updated on 2022.06.02
+> Updated on 2022.06.03
 
 ## SLAM
 
@@ -337,7 +337,7 @@
 - 2022-05-31, **Searching for technosignatures in exoplanetary systems with current and future missions**, Jacob Haqq-Misra et.al., Paper: [http://arxiv.org/abs/2206.00030v1](http://arxiv.org/abs/2206.00030v1)
 - 2022-05-31, **The Role of Atmospheric Exchange in False-Positive Biosignature Detection**, Ryan C. Felton et.al., Paper: [http://arxiv.org/abs/2206.00028v1](http://arxiv.org/abs/2206.00028v1)
 - 2022-05-31, **ALMA Confirmation of an Obscured Hyperluminous Radio-Loud AGN at $z=6.853$ Associated with a Dusty Starburst in the 1.5 deg$^2$ COSMOS Field**, Ryan Endsley et.al., Paper: [http://arxiv.org/abs/2206.00018v1](http://arxiv.org/abs/2206.00018v1)
-- 2022-05-31, **Solar-to-supersolar sodium and oxygen absolute abundances for a "hot Saturn" orbiting a metal-rich star**, Nikolay Nikolov et.al., Paper: [http://arxiv.org/abs/2206.00017v1](http://arxiv.org/abs/2206.00017v1)
+- 2022-05-31, **Solar-to-supersolar sodium and oxygen absolute abundances for a "hot Saturn" orbiting a metal-rich star**, Nikolay K. Nikolov et.al., Paper: [http://arxiv.org/abs/2206.00017v1](http://arxiv.org/abs/2206.00017v1)
 - 2022-05-31, **A multiwavelength study of the W33 Main ultracompact HII region**, Sarwar Khan et.al., Paper: [http://arxiv.org/abs/2205.15697v1](http://arxiv.org/abs/2205.15697v1)
 - 2022-05-31, **Enhanced energy deposition and carrier generation in silicon induced by two-color intense femtosecond laser pulses**, Mizuki Tani et.al., Paper: [http://arxiv.org/abs/2205.15625v1](http://arxiv.org/abs/2205.15625v1)
 - 2022-06-01, **Observations of the Very Young Type Ia Supernova 2019np with Early-excess Emission**, Hanna Sai et.al., Paper: [http://arxiv.org/abs/2205.15596v2](http://arxiv.org/abs/2205.15596v2)
@@ -366,5 +366,5 @@
 - 2022-06-01, **VTOL Failure Detection and Recovery by Utilizing Redundancy**, Mohammadreza Mousaei et.al., Paper: [http://arxiv.org/abs/2206.00588v1](http://arxiv.org/abs/2206.00588v1)
 - 2022-06-01, **Sub-radiant states for imperfect quantum emitters coupled by a nanophotonic waveguide**, Xiao-Liu Chu et.al., Paper: [http://arxiv.org/abs/2206.00573v1](http://arxiv.org/abs/2206.00573v1)
 - 2022-06-01, **LiYbSe2: Frustrated Magnetism in a New Pyrochlore Lattice**, Ranuri S. Dissanayaka Mudiyanselage et.al., Paper: [http://arxiv.org/abs/2206.00565v1](http://arxiv.org/abs/2206.00565v1)
-- 2022-06-01, **Deepfake Caricatures: Amplifying attention to artifacts increases deepfake detection by humans and machines**, Camilo Fosco et.al., Paper: [http://arxiv.org/abs/2206.00535v1](http://arxiv.org/abs/2206.00535v1)
+- 2022-06-02, **Deepfake Caricatures: Amplifying attention to artifacts increases deepfake detection by humans and machines**, Camilo Fosco et.al., Paper: [http://arxiv.org/abs/2206.00535v2](http://arxiv.org/abs/2206.00535v2)
 
