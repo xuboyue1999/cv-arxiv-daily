@@ -23,6 +23,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-03**|**Euclid preparation: XX. The Complete Calibration of the Color-Redshift Relation survey: LBT observations and data release**|R. Saglia et.al.|[2206.01620v1](http://arxiv.org/abs/2206.01620v1)|null|
+|**2022-06-03**|**Tree-level soft emission of a quark pair in association with a gluon**|Vittorio Del Duca et.al.|[2206.01584v1](http://arxiv.org/abs/2206.01584v1)|null|
+|**2022-06-03**|**Electron Mass Singularities in Semileptonic Kaon Decays**|Chien-Yeah Seng et.al.|[2206.01513v1](http://arxiv.org/abs/2206.01513v1)|null|
+|**2022-06-03**|**Photometric redshifts for quasars from WISE-PS1-STRM**|Sándor Kunsági-Máté et.al.|[2206.01440v1](http://arxiv.org/abs/2206.01440v1)|null|
+|**2022-06-02**|**Lithium detection in red supergiant stars of the Perseus complex**|C. Fanelli et.al.|[2206.01218v1](http://arxiv.org/abs/2206.01218v1)|null|
 |**2022-06-02**|**3D-DASH: The Widest Near-Infrared Hubble Space Telescope Survey**|Lamiya A. Mowla et.al.|[2206.01156v1](http://arxiv.org/abs/2206.01156v1)|null|
 |**2022-06-02**|**Mechanisms of high harmonic generation in solids**|A. Thorpe et.al.|[2206.01042v1](http://arxiv.org/abs/2206.01042v1)|null|
 |**2022-06-02**|**Theoretical study of the stability of the tetradymite-like phases of Sb$_2$S$_3$, Bi$_2$S$_3$, and Sb$_2$Se$_3$**|E. Lora da Silva et.al.|[2206.01025v1](http://arxiv.org/abs/2206.01025v1)|null|
@@ -48,6 +53,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-03**|**OdomBeyondVision: An Indoor Multi-modal Multi-platform Odometry Dataset Beyond the Visible Spectrum**|Peize Li et.al.|[2206.01589v1](http://arxiv.org/abs/2206.01589v1)|null|
 |**2022-05-30**|**Few-shot Class-incremental Learning for 3D Point Cloud Objects**|Townim Chowdhury et.al.|[2205.15225v1](http://arxiv.org/abs/2205.15225v1)|**[link](https://github.com/townim-faisal/fscil-3d)**|
 |**2022-05-24**|**Single-View View Synthesis in the Wild with Learned Adaptive Multiplane Images**|Yuxuan Han et.al.|[2205.11733v1](http://arxiv.org/abs/2205.11733v1)|null|
 |**2022-05-14**|**Learning to Reorient Objects with Stable Placements Afforded by Extrinsic Supports**|Peng Xu et.al.|[2205.06970v1](http://arxiv.org/abs/2205.06970v1)|null|
@@ -63,6 +69,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-03**|**SNAKE: Shape-aware Neural 3D Keypoint Field**|Chengliang Zhong et.al.|[2206.01724v1](http://arxiv.org/abs/2206.01724v1)|**[link](https://github.com/zhongcl-thu/snake)**|
+|**2022-06-03**|**SN 2020wnt: a slow-evolving carbon-rich superluminous supernova with no O II lines and a bumpy light curve**|C. P. Gutiérrez A. Pastorello et.al.|[2206.01662v1](http://arxiv.org/abs/2206.01662v1)|null|
+|**2022-06-03**|**Metrics reloaded: Pitfalls and recommendations for image analysis validation**|Lena Maier-Hein et.al.|[2206.01653v1](http://arxiv.org/abs/2206.01653v1)|null|
+|**2022-06-03**|**Pruning for Interpretable, Feature-Preserving Circuits in CNNs**|Chris Hamblin et.al.|[2206.01627v1](http://arxiv.org/abs/2206.01627v1)|null|
+|**2022-06-03**|**On the Evolution of Rotational Modulation Amplitude in Solar-mass Main-sequence Stars**|Kento Masuda et.al.|[2206.01595v1](http://arxiv.org/abs/2206.01595v1)|null|
+|**2022-06-03**|**Hypothesis testing for matched pairs with missing data by maximum mean discrepancy: An application to continuous glucose monitoring**|Marcos Matabuena et.al.|[2206.01590v1](http://arxiv.org/abs/2206.01590v1)|null|
+|**2022-06-03**|**Findings of the The RuATD Shared Task 2022 on Artificial Text Detection in Russian**|Tatiana Shamardina et.al.|[2206.01583v1](http://arxiv.org/abs/2206.01583v1)|**[link](https://github.com/dialogue-evaluation/ruatd)**|
+|**2022-06-03**|**HI intensity mapping with MeerKAT: power spectrum detection in cross-correlation with WiggleZ galaxies**|Steven Cunnington et.al.|[2206.01579v1](http://arxiv.org/abs/2206.01579v1)|null|
+|**2022-06-03**|**Disentangling Epistemic and Aleatoric Uncertainty in Reinforcement Learning**|Bertrand Charpentier et.al.|[2206.01558v1](http://arxiv.org/abs/2206.01558v1)|null|
+|**2022-06-03**|**Detecting hyperbolic geometry in networks: why triangles are not enough**|Nelly Litvak et.al.|[2206.01553v1](http://arxiv.org/abs/2206.01553v1)|null|
 |**2022-06-02**|**Siamese Image Modeling for Self-Supervised Vision Representation Learning**|Chenxin Tao et.al.|[2206.01204v1](http://arxiv.org/abs/2206.01204v1)|null|
 |**2022-06-02**|**Multiboson signals in the UN2HDM**|J. A. Aguilar-Saavedra et.al.|[2206.01200v1](http://arxiv.org/abs/2206.01200v1)|null|
 |**2022-06-02**|**Star Formation and AGN Feedback in the Local Universe: Combining LOFAR and MaNGA**|C. R. Mulcahey et.al.|[2206.01195v1](http://arxiv.org/abs/2206.01195v1)|null|
