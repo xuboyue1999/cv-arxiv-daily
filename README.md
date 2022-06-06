@@ -1,4 +1,4 @@
-## Updated on 2022.06.05
+## Updated on 2022.06.06
 
 ## RGBT
 
@@ -62,11 +62,11 @@
 |**2022-06-02**|**Siamese Image Modeling for Self-Supervised Vision Representation Learning**|Chenxin Tao et.al.|[2206.01204v1](http://arxiv.org/abs/2206.01204v1)|null|
 |**2022-06-02**|**Multiboson signals in the UN2HDM**|J. A. Aguilar-Saavedra et.al.|[2206.01200v1](http://arxiv.org/abs/2206.01200v1)|null|
 |**2022-06-02**|**Star Formation and AGN Feedback in the Local Universe: Combining LOFAR and MaNGA**|C. R. Mulcahey et.al.|[2206.01195v1](http://arxiv.org/abs/2206.01195v1)|null|
-|**2022-06-02**|**Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives**|Jun Li et.al.|[2206.01136v1](http://arxiv.org/abs/2206.01136v1)|null|
+|**2022-06-03**|**Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives**|Jun Li et.al.|[2206.01136v2](http://arxiv.org/abs/2206.01136v2)|null|
 |**2022-06-02**|**Comparing Conventional and Deep Feature Models for Classifying Fundus Photography of Hemorrhages**|Tamoor Aziz et.al.|[2206.01118v1](http://arxiv.org/abs/2206.01118v1)|null|
 |**2022-06-02**|**Predicted future fate of COSMOS galaxy protoclusters over 11 Gyr with constrained simulations**|Metin Ata et.al.|[2206.01115v1](http://arxiv.org/abs/2206.01115v1)|**[link](https://github.com/gmetin/costco)**|
 |**2022-06-02**|**A temporal chrominance trigger for clean-label backdoor attack against anti-spoof rebroadcast detection**|Wei Guo et.al.|[2206.01102v1](http://arxiv.org/abs/2206.01102v1)|null|
-|**2022-06-02**|**Machine Learning-based Lung and Colon Cancer Detection using Deep Feature Extraction and Ensemble Learning**|Md. Alamin Talukder et.al.|[2206.01088v1](http://arxiv.org/abs/2206.01088v1)|null|
+|**2022-06-03**|**Machine Learning-based Lung and Colon Cancer Detection using Deep Feature Extraction and Ensemble Learning**|Md. Alamin Talukder et.al.|[2206.01088v2](http://arxiv.org/abs/2206.01088v2)|null|
 |**2022-06-02**|**Likelihood-based Changepoint Detection in Preferential Attachment Networks**|Daniel Cirkovic et.al.|[2206.01076v1](http://arxiv.org/abs/2206.01076v1)|null|
 |**2022-06-02**|**DocLayNet: A Large Human-Annotated Dataset for Document-Layout Analysis**|Birgit Pfitzmann et.al.|[2206.01062v1](http://arxiv.org/abs/2206.01062v1)|null|
 |**2022-06-01**|**Graph Neural Networks with Precomputed Node Features**|Beni Egressy et.al.|[2206.00637v1](http://arxiv.org/abs/2206.00637v1)|null|
