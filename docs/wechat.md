@@ -15,6 +15,16 @@
 
 ## Infrared
 
+- 2022-06-06, **FG Sge: new multicolor photometry and short-term dust shell clearing in 2019**, V. P. Arkhipova et.al., Paper: [http://arxiv.org/abs/2206.02493v1](http://arxiv.org/abs/2206.02493v1)
+- 2022-06-06, **Collision-induced C_60 rovibrational relaxation probed by state-resolved nonlinear spectroscopy**, Lee R. Liu et.al., Paper: [http://arxiv.org/abs/2206.02381v1](http://arxiv.org/abs/2206.02381v1)
+- 2022-06-06, **Simulations of the Spectral Resolving Power of a Compact Space-Borne Immersion-Echelle Spectrometer Using Mid-Infrared Wave Tracing**, Satoshi Itoh et.al., Paper: [http://arxiv.org/abs/2206.02379v1](http://arxiv.org/abs/2206.02379v1)
+- 2022-06-05, **All-BN Distributed Bragg Reflectors Fabricated in a Single MOCVD Process**, Arkadiusz Ciesielski et.al., Paper: [http://arxiv.org/abs/2206.02168v1](http://arxiv.org/abs/2206.02168v1)
+- 2022-06-05, **Three Cases of Optical Periodic Modulation in Active Galactic Nuclei**, Jie Li et.al., Paper: [http://arxiv.org/abs/2206.02129v1](http://arxiv.org/abs/2206.02129v1)
+- 2022-06-05, **MPANet: Multi-Patch Attention For Infrared Small Target object Detection**, Ao Wang et.al., Paper: [http://arxiv.org/abs/2206.02120v1](http://arxiv.org/abs/2206.02120v1)
+- 2022-06-05, **Computer Vision-based Characterization of Large-scale Jet Flames using a Synthetic Infrared Image Generation Approach**, Carmina Pérez-Guerrero et.al., Paper: [http://arxiv.org/abs/2206.02110v1](http://arxiv.org/abs/2206.02110v1)
+- 2022-06-04, **Estimating Dust Temperature and Far-IR Luminosity of High-Redshift Galaxies using ALMA Continuum Observations**, Y. Fudamoto et.al., Paper: [http://arxiv.org/abs/2206.01879v1](http://arxiv.org/abs/2206.01879v1)
+- 2022-06-03, **Infrared Plasmons Propagate through a Hyperbolic Nodal Metal**, Yinming Shao et.al., Paper: [http://arxiv.org/abs/2206.01828v1](http://arxiv.org/abs/2206.01828v1)
+- 2022-06-03, **Short GRB Host Galaxies I: Photometric and Spectroscopic Catalogs, Host Associations, and Galactocentric Offsets**, Wen-fai Fong et.al., Paper: [http://arxiv.org/abs/2206.01763v1](http://arxiv.org/abs/2206.01763v1)
 - 2022-06-03, **Euclid preparation: XX. The Complete Calibration of the Color-Redshift Relation survey: LBT observations and data release**, R. Saglia et.al., Paper: [http://arxiv.org/abs/2206.01620v1](http://arxiv.org/abs/2206.01620v1)
 - 2022-06-03, **Tree-level soft emission of a quark pair in association with a gluon**, Vittorio Del Duca et.al., Paper: [http://arxiv.org/abs/2206.01584v1](http://arxiv.org/abs/2206.01584v1)
 - 2022-06-03, **Electron Mass Singularities in Semileptonic Kaon Decays**, Chien-Yeah Seng et.al., Paper: [http://arxiv.org/abs/2206.01513v1](http://arxiv.org/abs/2206.01513v1)
@@ -57,6 +67,16 @@
 
 ## Saliency Detection
 
+- 2022-06-06, **Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation**, Feng Li et.al., Paper: [http://arxiv.org/abs/2206.02777v1](http://arxiv.org/abs/2206.02777v1)
+- 2022-06-06, **CORE: Consistent Representation Learning for Face Forgery Detection**, Yunsheng Ni et.al., Paper: [http://arxiv.org/abs/2206.02749v1](http://arxiv.org/abs/2206.02749v1), Code: **[https://github.com/niyunsheng/core](https://github.com/niyunsheng/core)**
+- 2022-06-06, **People Tracking in Panoramic Video for Guiding Robots**, Alberto Bacchin et.al., Paper: [http://arxiv.org/abs/2206.02735v1](http://arxiv.org/abs/2206.02735v1)
+- 2022-06-06, **Deep Reinforcement Learning for Cybersecurity Threat Detection and Protection: A Review**, Mohit Sewak et.al., Paper: [http://arxiv.org/abs/2206.02733v1](http://arxiv.org/abs/2206.02733v1)
+- 2022-06-06, **Neutrino Target-of-Opportunity Observations with Space-based and Suborbital Optical Cherenkov Detectors**, Tonia M. Venters et.al., Paper: [http://arxiv.org/abs/2206.02730v1](http://arxiv.org/abs/2206.02730v1)
+- 2022-06-06, **Human Behavior Recognition Method Based on CEEMD-ES Radar Selection**, Zhaolin Zhang et.al., Paper: [http://arxiv.org/abs/2206.02705v1](http://arxiv.org/abs/2206.02705v1)
+- 2022-06-06, **Perturbation Learning Based Anomaly Detection**, Jinyu Cai et.al., Paper: [http://arxiv.org/abs/2206.02704v1](http://arxiv.org/abs/2206.02704v1)
+- 2022-06-06, **Learning to Ask Like a Physician**, Eric Lehman et.al., Paper: [http://arxiv.org/abs/2206.02696v1](http://arxiv.org/abs/2206.02696v1)
+- 2022-06-06, **Separable Self-attention for Mobile Vision Transformers**, Sachin Mehta et.al., Paper: [http://arxiv.org/abs/2206.02680v1](http://arxiv.org/abs/2206.02680v1), Code: **[https://github.com/apple/ml-cvnets](https://github.com/apple/ml-cvnets)**
+- 2022-06-06, **Primordial black hole constraints with Hawking radiation -- a review**, Jérémy Auffinger et.al., Paper: [http://arxiv.org/abs/2206.02672v1](http://arxiv.org/abs/2206.02672v1)
 - 2022-06-03, **SNAKE: Shape-aware Neural 3D Keypoint Field**, Chengliang Zhong et.al., Paper: [http://arxiv.org/abs/2206.01724v1](http://arxiv.org/abs/2206.01724v1), Code: **[https://github.com/zhongcl-thu/snake](https://github.com/zhongcl-thu/snake)**
 - 2022-06-03, **SN 2020wnt: a slow-evolving carbon-rich superluminous supernova with no O II lines and a bumpy light curve**, C. P. Gutiérrez et.al., Paper: [http://arxiv.org/abs/2206.01662v1](http://arxiv.org/abs/2206.01662v1)
 - 2022-06-03, **Metrics reloaded: Pitfalls and recommendations for image analysis validation**, Lena Maier-Hein et.al., Paper: [http://arxiv.org/abs/2206.01653v1](http://arxiv.org/abs/2206.01653v1)
