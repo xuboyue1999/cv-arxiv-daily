@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.06.06
+## Updated on 2022.06.07
 
 ## RGBT
 
@@ -70,10 +70,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-06-03**|**SNAKE: Shape-aware Neural 3D Keypoint Field**|Chengliang Zhong et.al.|[2206.01724v1](http://arxiv.org/abs/2206.01724v1)|**[link](https://github.com/zhongcl-thu/snake)**|
-|**2022-06-03**|**SN 2020wnt: a slow-evolving carbon-rich superluminous supernova with no O II lines and a bumpy light curve**|C. P. Gutiérrez A. Pastorello et.al.|[2206.01662v1](http://arxiv.org/abs/2206.01662v1)|null|
+|**2022-06-03**|**SN 2020wnt: a slow-evolving carbon-rich superluminous supernova with no O II lines and a bumpy light curve**|C. P. Gutiérrez et.al.|[2206.01662v1](http://arxiv.org/abs/2206.01662v1)|null|
 |**2022-06-03**|**Metrics reloaded: Pitfalls and recommendations for image analysis validation**|Lena Maier-Hein et.al.|[2206.01653v1](http://arxiv.org/abs/2206.01653v1)|null|
 |**2022-06-03**|**Pruning for Interpretable, Feature-Preserving Circuits in CNNs**|Chris Hamblin et.al.|[2206.01627v1](http://arxiv.org/abs/2206.01627v1)|null|
-|**2022-06-03**|**On the Evolution of Rotational Modulation Amplitude in Solar-mass Main-sequence Stars**|Kento Masuda et.al.|[2206.01595v1](http://arxiv.org/abs/2206.01595v1)|null|
+|**2022-06-06**|**On the Evolution of Rotational Modulation Amplitude in Solar-mass Main-sequence Stars**|Kento Masuda et.al.|[2206.01595v2](http://arxiv.org/abs/2206.01595v2)|null|
 |**2022-06-03**|**Hypothesis testing for matched pairs with missing data by maximum mean discrepancy: An application to continuous glucose monitoring**|Marcos Matabuena et.al.|[2206.01590v1](http://arxiv.org/abs/2206.01590v1)|null|
 |**2022-06-03**|**Findings of the The RuATD Shared Task 2022 on Artificial Text Detection in Russian**|Tatiana Shamardina et.al.|[2206.01583v1](http://arxiv.org/abs/2206.01583v1)|**[link](https://github.com/dialogue-evaluation/ruatd)**|
 |**2022-06-03**|**HI intensity mapping with MeerKAT: power spectrum detection in cross-correlation with WiggleZ galaxies**|Steven Cunnington et.al.|[2206.01579v1](http://arxiv.org/abs/2206.01579v1)|null|
