@@ -23,6 +23,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-07**|**Spatial regularity of the young stellar population in spiral arms of late type galaxies NGC 895, NGC 5474, and NGC 6946**|Alexander S. Gusev et.al.|[2206.03427v1](http://arxiv.org/abs/2206.03427v1)|null|
+|**2022-06-07**|**Survey of near-infrared diffuse interstellar bands in $Y$ and $J$ bands. I. Newly identified bands**|Satoshi Hamano et.al.|[2206.03131v1](http://arxiv.org/abs/2206.03131v1)|null|
+|**2022-06-07**|**Spectrally resolved imaging with the solar gravitational lens**|Slava G. Turyshev et.al.|[2206.03037v1](http://arxiv.org/abs/2206.03037v1)|null|
+|**2022-06-06**|**Seeing the forest and the trees: a radio investigation of the ULIRG Mrk 273**|Pranav Kukreti et.al.|[2206.02847v1](http://arxiv.org/abs/2206.02847v1)|null|
+|**2022-06-06**|**Cosmology with the Redshift-Space Galaxy Bispectrum Monopole at One-Loop Order**|Oliver H. E. Philcox et.al.|[2206.02800v1](http://arxiv.org/abs/2206.02800v1)|**[link](https://github.com/oliverphilcox/oneloopbispectrum)**|
 |**2022-06-06**|**FG Sge: new multicolor photometry and short-term dust shell clearing in 2019**|V. P. Arkhipova et.al.|[2206.02493v1](http://arxiv.org/abs/2206.02493v1)|null|
 |**2022-06-06**|**Collision-induced C_60 rovibrational relaxation probed by state-resolved nonlinear spectroscopy**|Lee R. Liu et.al.|[2206.02381v1](http://arxiv.org/abs/2206.02381v1)|null|
 |**2022-06-07**|**Simulations of the Spectral Resolving Power of a Compact Space-Borne Immersion-Echelle Spectrometer Using Mid-Infrared Wave Tracing**|Satoshi Itoh et.al.|[2206.02379v2](http://arxiv.org/abs/2206.02379v2)|null|
@@ -79,6 +84,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-07**|**Detection Hub: Unifying Object Detection Datasets via Query Adaptation on Language Embedding**|Lingchen Meng et.al.|[2206.03484v1](http://arxiv.org/abs/2206.03484v1)|null|
+|**2022-06-07**|**HM-LDM: A Hybrid-Membership Latent Distance Model**|Nikolaos Nakis et.al.|[2206.03463v1](http://arxiv.org/abs/2206.03463v1)|**[link](https://github.com/nicknakis/hybrib-membership-latent-distance-model)**|
+|**2022-06-07**|**Fast Unsupervised Brain Anomaly Detection and Segmentation with Diffusion Models**|Walter H. L. Pinaya et.al.|[2206.03461v1](http://arxiv.org/abs/2206.03461v1)|null|
+|**2022-06-07**|**A Secure and Trusted Mechanism for Industrial IoT Network using Blockchain**|Geetanjali Rathee et.al.|[2206.03419v1](http://arxiv.org/abs/2206.03419v1)|null|
+|**2022-06-07**|**The Influence of Dataset Partitioning on Dysfluency Detection Systems**|Sebastian P. Bayerl et.al.|[2206.03400v1](http://arxiv.org/abs/2206.03400v1)|**[link](https://github.com/th-nuernberg/ml-stuttering-events-dataset-extended)**|
+|**2022-06-07**|**Competition of Magnetocrystalline Anisotropy of Uranium Layers and Zig-Zag Chains in UNi$_{0.34}$Ge$_2$ Single Crystals**|Adam P. Pikul et.al.|[2206.03397v1](http://arxiv.org/abs/2206.03397v1)|null|
+|**2022-06-07**|**Tutel: Adaptive Mixture-of-Experts at Scale**|Changho Hwang et.al.|[2206.03382v1](http://arxiv.org/abs/2206.03382v1)|**[link](https://github.com/microsoft/Swin-Transformer)**|
+|**2022-06-07**|**Multi-wavelength Variation Phenomena of PKS 0735+178 on Diverse Timescale**|Yue Fang et.al.|[2206.03296v1](http://arxiv.org/abs/2206.03296v1)|null|
+|**2022-06-07**|**Marvolo: Programmatic Data Augmentation for Practical ML-Driven Malware Detection**|Michael D. Wong et.al.|[2206.03265v1](http://arxiv.org/abs/2206.03265v1)|null|
+|**2022-06-07**|**Towards better Interpretable and Generalizable AD detection using Collective Artificial Intelligence**|Huy-Dung Nguyen et.al.|[2206.03247v1](http://arxiv.org/abs/2206.03247v1)|null|
 |**2022-06-06**|**Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation**|Feng Li et.al.|[2206.02777v1](http://arxiv.org/abs/2206.02777v1)|**[link](https://github.com/IDEACVR/MaskDINO)**|
 |**2022-06-06**|**CORE: Consistent Representation Learning for Face Forgery Detection**|Yunsheng Ni et.al.|[2206.02749v1](http://arxiv.org/abs/2206.02749v1)|**[link](https://github.com/niyunsheng/core)**|
 |**2022-06-06**|**People Tracking in Panoramic Video for Guiding Robots**|Alberto Bacchin et.al.|[2206.02735v1](http://arxiv.org/abs/2206.02735v1)|null|
