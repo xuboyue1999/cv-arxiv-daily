@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-08**|**Robust Environment Perception for Automated Driving: A Unified Learning Pipeline for Visual-Infrared Object Detection**|Mohsen Vadidar et.al.|[2206.03943v1](http://arxiv.org/abs/2206.03943v1)|null|
 |**2022-02-17**|**TAFNet: A Three-Stream Adaptive Fusion Network for RGB-T Crowd Counting**|Haihan Tang et.al.|[2202.08517v1](http://arxiv.org/abs/2202.08517v1)|**[link](https://github.com/tanghaihan/tafnet)**|
 |**2022-01-29**|**A Survey for Deep RGBT Tracking**|Zhangyong Tang et.al.|[2201.09296v2](http://arxiv.org/abs/2201.09296v2)|null|
 |**2022-01-29**|**Temporal Aggregation for Adaptive RGBT Tracking**|Zhangyong Tang et.al.|[2201.08949v2](http://arxiv.org/abs/2201.08949v2)|**[link](https://github.com/zhangyong-tang/taat)**|
@@ -19,6 +20,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-08**|**Robust Environment Perception for Automated Driving: A Unified Learning Pipeline for Visual-Infrared Object Detection**|Mohsen Vadidar et.al.|[2206.03943v1](http://arxiv.org/abs/2206.03943v1)|null|
+|**2022-06-08**|**Constraints to neutron-star kicks in High-Mass X-ray Binaries with Gaia EDR3**|Francis Fortin et.al.|[2206.03904v1](http://arxiv.org/abs/2206.03904v1)|null|
+|**2022-06-08**|**Ising model in a boundary magnetic field with random discontinuities**|Anatoly Konechny et.al.|[2206.03903v1](http://arxiv.org/abs/2206.03903v1)|null|
+|**2022-06-08**|**Signatures of the Yang-Mills deconfinement transition from the gluon two-point correlator**|Duifje Maria van Egmond et.al.|[2206.03841v1](http://arxiv.org/abs/2206.03841v1)|null|
+|**2022-06-08**|**Simultaneous J-, H-, K- and L-band spectroscopic observations of galactic Be stars. I. IR atlas**|Y. R. Cochetti et.al.|[2206.03819v1](http://arxiv.org/abs/2206.03819v1)|null|
+|**2022-06-08**|**Electrical Generation of Surface Phonon Polaritons**|Christopher R. Gubbin et.al.|[2206.03812v1](http://arxiv.org/abs/2206.03812v1)|null|
+|**2022-06-07**|**A 1.46-2.48 $μ$m Spectroscopic Atlas of a T6 Dwarf (1060 K) Atmosphere with IGRINS: First Detections of H$_2$S and H$_2$, and Verification of H$_2$O, CH$_4$, and NH$_3$ Line Lists**|Megan E. Tannock et.al.|[2206.03519v1](http://arxiv.org/abs/2206.03519v1)|null|
+|**2022-06-07**|**ALPINE: A Large Survey to Understand Teenage Galaxies**|A. L. Faisst et.al.|[2206.03510v1](http://arxiv.org/abs/2206.03510v1)|null|
 |**2022-06-07**|**Spatial regularity of the young stellar population in spiral arms of late type galaxies NGC 895, NGC 5474, and NGC 6946**|Alexander S. Gusev et.al.|[2206.03427v1](http://arxiv.org/abs/2206.03427v1)|null|
 |**2022-06-07**|**Survey of near-infrared diffuse interstellar bands in $Y$ and $J$ bands. I. Newly identified bands**|Satoshi Hamano et.al.|[2206.03131v1](http://arxiv.org/abs/2206.03131v1)|null|
 |**2022-06-07**|**Spectrally resolved imaging with the solar gravitational lens**|Slava G. Turyshev et.al.|[2206.03037v1](http://arxiv.org/abs/2206.03037v1)|null|
@@ -80,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-08**|**Learning Ego 3D Representation as Ray Tracing**|Jiachen Lu et.al.|[2206.04042v1](http://arxiv.org/abs/2206.04042v1)|null|
+|**2022-06-08**|**An Improved One millisecond Mobile Backbone**|Pavan Kumar Anasosalu Vasu et.al.|[2206.04040v1](http://arxiv.org/abs/2206.04040v1)|null|
+|**2022-06-08**|**Photocounting statistics of superconducting nanowire single-photon detectors**|V. A. Uzunova et.al.|[2206.04032v1](http://arxiv.org/abs/2206.04032v1)|null|
+|**2022-06-08**|**CO^3: Cooperative Unsupervised 3D Representation Learning for Autonomous Driving**|Runjian Chen et.al.|[2206.04028v1](http://arxiv.org/abs/2206.04028v1)|null|
+|**2022-06-08**|**Population synthesis of AX J1745.6-2901 X-ray nova type binaries with rapidly decreasing orbital periods**|A. I. Bogomazov et.al.|[2206.04025v1](http://arxiv.org/abs/2206.04025v1)|null|
+|**2022-06-08**|**Pterodactyls: A Tool to Uniformly Search and Vet for Young Transiting Planets In TESS Primary Mission Photometry**|Rachel B. Fernandes et.al.|[2206.03989v1](http://arxiv.org/abs/2206.03989v1)|null|
+|**2022-06-08**|**Structural identifiability of compartmental models for infectious disease transmission is influenced by data type**|Emmanuelle A. Dankwa et.al.|[2206.03959v1](http://arxiv.org/abs/2206.03959v1)|null|
+|**2022-06-08**|**Out-of-Distribution Detection with Class Ratio Estimation**|Mingtian Zhang et.al.|[2206.03955v1](http://arxiv.org/abs/2206.03955v1)|null|
+|**2022-06-08**|**Challenges in Applying Explainability Methods to Improve the Fairness of NLP Models**|Esma Balkir et.al.|[2206.03945v1](http://arxiv.org/abs/2206.03945v1)|null|
+|**2022-06-08**|**Robust Environment Perception for Automated Driving: A Unified Learning Pipeline for Visual-Infrared Object Detection**|Mohsen Vadidar et.al.|[2206.03943v1](http://arxiv.org/abs/2206.03943v1)|null|
 |**2022-06-07**|**Detection Hub: Unifying Object Detection Datasets via Query Adaptation on Language Embedding**|Lingchen Meng et.al.|[2206.03484v1](http://arxiv.org/abs/2206.03484v1)|null|
 |**2022-06-07**|**HM-LDM: A Hybrid-Membership Latent Distance Model**|Nikolaos Nakis et.al.|[2206.03463v1](http://arxiv.org/abs/2206.03463v1)|**[link](https://github.com/nicknakis/hybrib-membership-latent-distance-model)**|
 |**2022-06-07**|**Fast Unsupervised Brain Anomaly Detection and Segmentation with Diffusion Models**|Walter H. L. Pinaya et.al.|[2206.03461v1](http://arxiv.org/abs/2206.03461v1)|null|
