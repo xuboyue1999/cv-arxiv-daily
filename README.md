@@ -1,4 +1,4 @@
-## Updated on 2022.06.09
+## Updated on 2022.06.10
 
 ## RGBT
 
@@ -27,7 +27,7 @@
 |**2022-06-08**|**Simultaneous J-, H-, K- and L-band spectroscopic observations of galactic Be stars. I. IR atlas**|Y. R. Cochetti et.al.|[2206.03819v1](http://arxiv.org/abs/2206.03819v1)|null|
 |**2022-06-08**|**Electrical Generation of Surface Phonon Polaritons**|Christopher R. Gubbin et.al.|[2206.03812v1](http://arxiv.org/abs/2206.03812v1)|null|
 |**2022-06-07**|**A 1.46-2.48 $μ$m Spectroscopic Atlas of a T6 Dwarf (1060 K) Atmosphere with IGRINS: First Detections of H$_2$S and H$_2$, and Verification of H$_2$O, CH$_4$, and NH$_3$ Line Lists**|Megan E. Tannock et.al.|[2206.03519v1](http://arxiv.org/abs/2206.03519v1)|null|
-|**2022-06-07**|**ALPINE: A Large Survey to Understand Teenage Galaxies**|A. L. Faisst et.al.|[2206.03510v1](http://arxiv.org/abs/2206.03510v1)|null|
+|**2022-06-09**|**ALPINE: A Large Survey to Understand Teenage Galaxies**|A. L. Faisst et.al.|[2206.03510v2](http://arxiv.org/abs/2206.03510v2)|null|
 |**2022-06-07**|**Spatial regularity of the young stellar population in spiral arms of late type galaxies NGC 895, NGC 5474, and NGC 6946**|Alexander S. Gusev et.al.|[2206.03427v1](http://arxiv.org/abs/2206.03427v1)|null|
 |**2022-06-07**|**Survey of near-infrared diffuse interstellar bands in $Y$ and $J$ bands. I. Newly identified bands**|Satoshi Hamano et.al.|[2206.03131v1](http://arxiv.org/abs/2206.03131v1)|null|
 |**2022-06-07**|**Spectrally resolved imaging with the solar gravitational lens**|Slava G. Turyshev et.al.|[2206.03037v1](http://arxiv.org/abs/2206.03037v1)|null|
