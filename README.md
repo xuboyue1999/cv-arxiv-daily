@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-09**|**A recent update of gas-phase chemical reactions and molecular lines in CLOUDY: its effects on millimeter and sub-millimeter molecular line predictions**|Gargi Shaw et.al.|[2206.04606v1](http://arxiv.org/abs/2206.04606v1)|null|
+|**2022-06-09**|**Actively tuning anisotropic light-matter interaction in biaxial hyperbolic material $α$-MoO$_3$ using phase change material VO$_2$ and graphene**|Kun Zhou et.al.|[2206.04534v1](http://arxiv.org/abs/2206.04534v1)|null|
+|**2022-06-09**|**Recent X-ray flare from MAXI J0709-159: a follow-up study using optical spectroscopy and multi-epoch photometry**|Suman Bhattacharyya et.al.|[2206.04473v1](http://arxiv.org/abs/2206.04473v1)|null|
+|**2022-06-09**|**Silicon oxynitride platform for linear and nonlinear photonics at NIR wavelengths**|Gioele Piccoli et.al.|[2206.04388v1](http://arxiv.org/abs/2206.04388v1)|null|
+|**2022-06-09**|**Double-slit time diffraction at optical frequencies**|Romain Tirole et.al.|[2206.04362v1](http://arxiv.org/abs/2206.04362v1)|null|
+|**2022-06-09**|**Optimizing supercontinuum spectro-temporal properties by leveraging machine learning towards multi-photon microscopy**|Van Thuy Hoang et.al.|[2206.04324v1](http://arxiv.org/abs/2206.04324v1)|null|
+|**2022-06-09**|**Lanthanide Features in Near-infrared Spectra of Kilonovae**|Nanae Domoto et.al.|[2206.04232v1](http://arxiv.org/abs/2206.04232v1)|null|
+|**2022-06-09**|**Discovery of the most luminous quasar of the last 9 Gyr**|Christopher A. Onken et.al.|[2206.04204v1](http://arxiv.org/abs/2206.04204v1)|null|
+|**2022-06-08**|**Photoluminescence Path Bifurcations by Spin Flip in Two-Dimensional CrPS4**|Suhyeon Kim et.al.|[2206.04194v1](http://arxiv.org/abs/2206.04194v1)|null|
+|**2022-06-08**|**QED as a many-body theory of worldlines: I. General formalism and infrared structure**|Xabier Feal et.al.|[2206.04188v1](http://arxiv.org/abs/2206.04188v1)|null|
 |**2022-06-08**|**Robust Environment Perception for Automated Driving: A Unified Learning Pipeline for Visual-Infrared Object Detection**|Mohsen Vadidar et.al.|[2206.03943v1](http://arxiv.org/abs/2206.03943v1)|null|
 |**2022-06-08**|**Constraints to neutron-star kicks in High-Mass X-ray Binaries with Gaia EDR3**|Francis Fortin et.al.|[2206.03904v1](http://arxiv.org/abs/2206.03904v1)|null|
 |**2022-06-08**|**Ising model in a boundary magnetic field with random discontinuities**|Anatoly Konechny et.al.|[2206.03903v1](http://arxiv.org/abs/2206.03903v1)|null|
@@ -89,6 +99,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-09**|**Beyond RGB: Scene-Property Synthesis with Neural Radiance Fields**|Mingtong Zhang et.al.|[2206.04669v1](http://arxiv.org/abs/2206.04669v1)|null|
+|**2022-06-09**|**GateHUB: Gated History Unit with Background Suppression for Online Action Detection**|Junwen Chen et.al.|[2206.04668v1](http://arxiv.org/abs/2206.04668v1)|null|
+|**2022-06-09**|**Diffuse radio emission from non-Planck galaxy clusters in the LoTSS-DR2 fields**|D. N. Hoang et.al.|[2206.04666v1](http://arxiv.org/abs/2206.04666v1)|null|
+|**2022-06-09**|**Simple Cues Lead to a Strong Multi-Object Tracker**|Jenny Seidenschwarz et.al.|[2206.04656v1](http://arxiv.org/abs/2206.04656v1)|null|
+|**2022-06-09**|**Weighing the Darkness III: How Gaia Could, but Probably Won't, Astrometrically Detect Free-Floating Black Holes**|Jeff J. Andrews et.al.|[2206.04648v1](http://arxiv.org/abs/2206.04648v1)|null|
+|**2022-06-09**|**Evidence of jet induced optical microvariability in radio-loud Narrow Line Seyfert 1 Galaxies**|Vineet Ojha et.al.|[2206.04641v1](http://arxiv.org/abs/2206.04641v1)|null|
+|**2022-06-09**|**Unshielded portable optically pumped magnetometer for the remote detection of conductive objects using eddy current measurements**|L. M. Rushton et.al.|[2206.04631v1](http://arxiv.org/abs/2206.04631v1)|null|
+|**2022-06-09**|**Beam-based RF Station Fault Identification at the Linac Coherent Light Source**|Ryan Humble et.al.|[2206.04626v1](http://arxiv.org/abs/2206.04626v1)|null|
+|**2022-06-09**|**Autonomous Precision Drone Landing with Fiducial Markers and a Gimbal-Mounted Camera for Active Tracking**|Joshua Springer et.al.|[2206.04617v1](http://arxiv.org/abs/2206.04617v1)|null|
+|**2022-06-09**|**A recent update of gas-phase chemical reactions and molecular lines in CLOUDY: its effects on millimeter and sub-millimeter molecular line predictions**|Gargi Shaw et.al.|[2206.04606v1](http://arxiv.org/abs/2206.04606v1)|null|
 |**2022-06-08**|**Learning Ego 3D Representation as Ray Tracing**|Jiachen Lu et.al.|[2206.04042v1](http://arxiv.org/abs/2206.04042v1)|null|
 |**2022-06-08**|**An Improved One millisecond Mobile Backbone**|Pavan Kumar Anasosalu Vasu et.al.|[2206.04040v1](http://arxiv.org/abs/2206.04040v1)|null|
 |**2022-06-08**|**Photocounting statistics of superconducting nanowire single-photon detectors**|V. A. Uzunova et.al.|[2206.04032v1](http://arxiv.org/abs/2206.04032v1)|null|
