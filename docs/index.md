@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.06.12
+## Updated on 2022.06.13
 
 ## RGBT
 
@@ -106,7 +106,7 @@ layout: default
 |**2022-06-09**|**Beyond RGB: Scene-Property Synthesis with Neural Radiance Fields**|Mingtong Zhang et.al.|[2206.04669v1](http://arxiv.org/abs/2206.04669v1)|null|
 |**2022-06-09**|**GateHUB: Gated History Unit with Background Suppression for Online Action Detection**|Junwen Chen et.al.|[2206.04668v1](http://arxiv.org/abs/2206.04668v1)|null|
 |**2022-06-09**|**Diffuse radio emission from non-Planck galaxy clusters in the LoTSS-DR2 fields**|D. N. Hoang et.al.|[2206.04666v1](http://arxiv.org/abs/2206.04666v1)|null|
-|**2022-06-09**|**Simple Cues Lead to a Strong Multi-Object Tracker**|Jenny Seidenschwarz et.al.|[2206.04656v1](http://arxiv.org/abs/2206.04656v1)|null|
+|**2022-06-10**|**Simple Cues Lead to a Strong Multi-Object Tracker**|Jenny Seidenschwarz et.al.|[2206.04656v2](http://arxiv.org/abs/2206.04656v2)|null|
 |**2022-06-09**|**Weighing the Darkness III: How Gaia Could, but Probably Won't, Astrometrically Detect Free-Floating Black Holes**|Jeff J. Andrews et.al.|[2206.04648v1](http://arxiv.org/abs/2206.04648v1)|null|
 |**2022-06-09**|**Evidence of jet induced optical microvariability in radio-loud Narrow Line Seyfert 1 Galaxies**|Vineet Ojha et.al.|[2206.04641v1](http://arxiv.org/abs/2206.04641v1)|null|
 |**2022-06-09**|**Unshielded portable optically pumped magnetometer for the remote detection of conductive objects using eddy current measurements**|L. M. Rushton et.al.|[2206.04631v1](http://arxiv.org/abs/2206.04631v1)|null|
