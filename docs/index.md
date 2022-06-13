@@ -24,6 +24,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-10**|**Binarity and beyond in A stars I. Survey description and first results of VLTI/GRAVITY observations of VAST targets with high Gaia-Hipparcos accelerations**|Idel Waisberg et.al.|[2206.05251v1](http://arxiv.org/abs/2206.05251v1)|null|
+|**2022-06-10**|**Characterizing and Mitigating Telluric Absorption in Precise Radial Velocities II: A Study of an M2 Type Star**|Natasha Latouf et.al.|[2206.05233v1](http://arxiv.org/abs/2206.05233v1)|null|
+|**2022-06-10**|**Tailored frequency conversion makes infrared light visible for streak cameras**|Carolin Lüders et.al.|[2206.05074v1](http://arxiv.org/abs/2206.05074v1)|null|
+|**2022-06-10**|**Heterogeneous Face Recognition via Face Synthesis with Identity-Attribute Disentanglement**|Ziming Yang et.al.|[2206.04854v1](http://arxiv.org/abs/2206.04854v1)|null|
+|**2022-06-10**|**Up-conversion detection of mid-infrared light carrying orbital angular momentum**|Zheng Ge et.al.|[2206.04849v1](http://arxiv.org/abs/2206.04849v1)|null|
+|**2022-06-09**|**Tunable Multi-Peak Perfect Absorbers Based on Borophene for High-Performance Near-Infrared Refractive Index Sensing**|Ruda Jian et.al.|[2206.04758v1](http://arxiv.org/abs/2206.04758v1)|null|
+|**2022-06-09**|**Analysis of the structural complexity of Crab nebula observed at radio and infrared frequencies using a multifractal approach**|Athokpam Langlen Chanu et.al.|[2206.04717v1](http://arxiv.org/abs/2206.04717v1)|null|
+|**2022-06-09**|**Effective Theory of Warped Compactifications and the Implications for KKLT**|Severin Lüst et.al.|[2206.04708v1](http://arxiv.org/abs/2206.04708v1)|null|
 |**2022-06-09**|**A recent update of gas-phase chemical reactions and molecular lines in CLOUDY: its effects on millimeter and sub-millimeter molecular line predictions**|Gargi Shaw et.al.|[2206.04606v1](http://arxiv.org/abs/2206.04606v1)|null|
 |**2022-06-09**|**Actively tuning anisotropic light-matter interaction in biaxial hyperbolic material $α$-MoO$_3$ using phase change material VO$_2$ and graphene**|Kun Zhou et.al.|[2206.04534v1](http://arxiv.org/abs/2206.04534v1)|null|
 |**2022-06-09**|**Recent X-ray flare from MAXI J0709-159: a follow-up study using optical spectroscopy and multi-epoch photometry**|Suman Bhattacharyya et.al.|[2206.04473v1](http://arxiv.org/abs/2206.04473v1)|null|
@@ -103,6 +111,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-10**|**Spectral analysis of ultra-cool white dwarfs polluted by planetary debris**|Abbigail K. Elms et.al.|[2206.05258v1](http://arxiv.org/abs/2206.05258v1)|null|
+|**2022-06-10**|**Binarity and beyond in A stars I. Survey description and first results of VLTI/GRAVITY observations of VAST targets with high Gaia-Hipparcos accelerations**|Idel Waisberg et.al.|[2206.05251v1](http://arxiv.org/abs/2206.05251v1)|null|
+|**2022-06-10**|**Quantum space, ground space traversal, and how to embed multi-prover interactive proofs into unentanglement**|Sevag Gharibian et.al.|[2206.05243v1](http://arxiv.org/abs/2206.05243v1)|null|
+|**2022-06-10**|**Demonstrating backflow as a classical wave phenomenon**|Anat Daniel et.al.|[2206.05242v1](http://arxiv.org/abs/2206.05242v1)|null|
+|**2022-06-10**|**Dimensional Modeling of Emotions in Text with Appraisal Theories: Corpus Creation, Annotation Reliability, and Prediction**|Enrica Troiano et.al.|[2206.05238v1](http://arxiv.org/abs/2206.05238v1)|null|
+|**2022-06-10**|**Broadband spectral analysis of Mrk 926 using multi-epoch X-ray observations**|S. Chalise et.al.|[2206.05237v1](http://arxiv.org/abs/2206.05237v1)|null|
+|**2022-06-10**|**Optical Diffraction Tomography based on 3D Physics-Inspired Neural Network (PINN)**|Ahmed B. Ayoub et.al.|[2206.05236v1](http://arxiv.org/abs/2206.05236v1)|null|
+|**2022-06-10**|**Probing electron-hole weights of an Andreev bound state by transient currents**|Zhan Cao et.al.|[2206.05234v1](http://arxiv.org/abs/2206.05234v1)|null|
+|**2022-06-10**|**Bulge formation inside quiescent lopsided stellar disks: connecting accretion, star formation and morphological transformation in a z ~ 3 galaxy group**|Boris S. Kalita et.al.|[2206.05217v1](http://arxiv.org/abs/2206.05217v1)|null|
+|**2022-06-10**|**On the safe use of prior densities for Bayesian model selection**|F. Llorente et.al.|[2206.05210v1](http://arxiv.org/abs/2206.05210v1)|null|
 |**2022-06-09**|**Beyond RGB: Scene-Property Synthesis with Neural Radiance Fields**|Mingtong Zhang et.al.|[2206.04669v1](http://arxiv.org/abs/2206.04669v1)|null|
 |**2022-06-09**|**GateHUB: Gated History Unit with Background Suppression for Online Action Detection**|Junwen Chen et.al.|[2206.04668v1](http://arxiv.org/abs/2206.04668v1)|null|
 |**2022-06-09**|**Diffuse radio emission from non-Planck galaxy clusters in the LoTSS-DR2 fields**|D. N. Hoang et.al.|[2206.04666v1](http://arxiv.org/abs/2206.04666v1)|null|
