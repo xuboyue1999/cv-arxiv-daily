@@ -16,6 +16,16 @@
 
 ## Infrared
 
+- 2022-06-13, **New Identifications and Multi-wavelength Properties of Extragalactic Fermi Gamma-Ray Sources in the SPT-SZ Survey Field**, Lizhong Zhang et.al., Paper: [http://arxiv.org/abs/2206.06228v1](http://arxiv.org/abs/2206.06228v1)
+- 2022-06-13, **Gaia Data Release 3: Processing and validation of BP/RP low-resolution spectral data**, F. De Angeli et.al., Paper: [http://arxiv.org/abs/2206.06143v1](http://arxiv.org/abs/2206.06143v1)
+- 2022-06-13, **Oxygen and calcium nebular emission line relationships in core-collapse supernovae and Ca-rich transients**, Simon Prentice et.al., Paper: [http://arxiv.org/abs/2206.06062v1](http://arxiv.org/abs/2206.06062v1)
+- 2022-06-13, **A facile approach for phase change material encapsulation into polymeric flexible fibers using microfluidic principles**, Mikel Duran et.al., Paper: [http://arxiv.org/abs/2206.06055v1](http://arxiv.org/abs/2206.06055v1)
+- 2022-06-13, **Polyakov loop, gluon mass, gluon condensate and its asymmetry near deconfinement**, D. Dudal et.al., Paper: [http://arxiv.org/abs/2206.06002v1](http://arxiv.org/abs/2206.06002v1)
+- 2022-06-12, **ALMA Images the Eccentric HD 53143 Debris Disk**, Meredith A. MacGregor et.al., Paper: [http://arxiv.org/abs/2206.05856v1](http://arxiv.org/abs/2206.05856v1)
+- 2022-06-12, **Gemini-LIGHTS: Herbig Ae/Be and massive T-Tauri protoplanetary disks imaged with Gemini Planet Imager**, Evan A. Rich et.al., Paper: [http://arxiv.org/abs/2206.05815v1](http://arxiv.org/abs/2206.05815v1)
+- 2022-06-12, **Gaia Data Release 3 Validating the classification of variable Young Stellar Object candidates**, Gábor Marton et.al., Paper: [http://arxiv.org/abs/2206.05796v1](http://arxiv.org/abs/2206.05796v1)
+- 2022-06-12, **Gaia Data Release 3. Stellar chromospheric activity and mass accretion from Ca II IRT observed by the Radial Velocity Spectrometer**, A. C. Lanzafame et.al., Paper: [http://arxiv.org/abs/2206.05766v1](http://arxiv.org/abs/2206.05766v1)
+- 2022-06-11, **Borel-Laplace Sum Rules with ALEPH $τ$ decay data, using OPE with improved anomalous dimensions**, Cesar Ayala et.al., Paper: [http://arxiv.org/abs/2206.05631v1](http://arxiv.org/abs/2206.05631v1)
 - 2022-06-10, **Binarity and beyond in A stars I. Survey description and first results of VLTI/GRAVITY observations of VAST targets with high Gaia-Hipparcos accelerations**, Idel Waisberg et.al., Paper: [http://arxiv.org/abs/2206.05251v1](http://arxiv.org/abs/2206.05251v1)
 - 2022-06-10, **Characterizing and Mitigating Telluric Absorption in Precise Radial Velocities II: A Study of an M2 Type Star**, Natasha Latouf et.al., Paper: [http://arxiv.org/abs/2206.05233v1](http://arxiv.org/abs/2206.05233v1)
 - 2022-06-10, **Tailored frequency conversion makes infrared light visible for streak cameras**, Carolin Lüders et.al., Paper: [http://arxiv.org/abs/2206.05074v1](http://arxiv.org/abs/2206.05074v1)
@@ -99,6 +109,16 @@
 
 ## Saliency Detection
 
+- 2022-06-13, **EnergyMatch: Energy-based Pseudo-Labeling for Semi-Supervised Learning**, Zhuoran Yu et.al., Paper: [http://arxiv.org/abs/2206.06359v1](http://arxiv.org/abs/2206.06359v1)
+- 2022-06-13, **Anomaly Detection and Inter-Sensor Transfer Learning on Smart Manufacturing Datasets**, Mustafa Abdallah et.al., Paper: [http://arxiv.org/abs/2206.06355v1](http://arxiv.org/abs/2206.06355v1)
+- 2022-06-13, **Tidally induced velocity gradients in the Milky Way dwarf spheroidal satellites**, Alberto Manuel Martínez-García et.al., Paper: [http://arxiv.org/abs/2206.06339v1](http://arxiv.org/abs/2206.06339v1)
+- 2022-06-13, **On the HI Content of MaNGA Major Merger Pairs**, Qingzheng Yu et.al., Paper: [http://arxiv.org/abs/2206.06330v1](http://arxiv.org/abs/2206.06330v1)
+- 2022-06-13, **Topological Bordism of Singular Spaces and an Application to Stratified L-Classes**, Martin Rabel et.al., Paper: [http://arxiv.org/abs/2206.06329v1](http://arxiv.org/abs/2206.06329v1)
+- 2022-06-13, **JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding**, Wayne Xin Zhao et.al., Paper: [http://arxiv.org/abs/2206.06315v1](http://arxiv.org/abs/2206.06315v1)
+- 2022-06-13, **Learning Domain Adaptive Object Detection with Probabilistic Teacher**, Meilin Chen et.al., Paper: [http://arxiv.org/abs/2206.06293v1](http://arxiv.org/abs/2206.06293v1), Code: **[https://github.com/hikvision-research/probabilisticteacher](https://github.com/hikvision-research/probabilisticteacher)**
+- 2022-06-13, **Exploring Structure-aware Transformer over Interaction Proposals for Human-Object Interaction Detection**, Yong Zhang et.al., Paper: [http://arxiv.org/abs/2206.06291v1](http://arxiv.org/abs/2206.06291v1), Code: **[https://github.com/zyong812/stip](https://github.com/zyong812/stip)**
+- 2022-06-13, **Mitigating health disparities in hospital readmissions**, Shaina Raza et.al., Paper: [http://arxiv.org/abs/2206.06279v1](http://arxiv.org/abs/2206.06279v1)
+- 2022-06-13, **Automatic Polyp Segmentation with Multiple Kernel Dilated Convolution Network**, Nikhil Kumar Tomar et.al., Paper: [http://arxiv.org/abs/2206.06264v1](http://arxiv.org/abs/2206.06264v1), Code: **[https://github.com/nikhilroxtomar/mkdcnet](https://github.com/nikhilroxtomar/mkdcnet)**
 - 2022-06-10, **Spectral analysis of ultra-cool white dwarfs polluted by planetary debris**, Abbigail K. Elms et.al., Paper: [http://arxiv.org/abs/2206.05258v1](http://arxiv.org/abs/2206.05258v1)
 - 2022-06-10, **Binarity and beyond in A stars I. Survey description and first results of VLTI/GRAVITY observations of VAST targets with high Gaia-Hipparcos accelerations**, Idel Waisberg et.al., Paper: [http://arxiv.org/abs/2206.05251v1](http://arxiv.org/abs/2206.05251v1)
 - 2022-06-10, **Quantum space, ground space traversal, and how to embed multi-prover interactive proofs into unentanglement**, Sevag Gharibian et.al., Paper: [http://arxiv.org/abs/2206.05243v1](http://arxiv.org/abs/2206.05243v1)
