@@ -16,6 +16,16 @@
 
 ## Infrared
 
+- 2022-06-14, **Infrared Radiation of Graphene Electrothermal Film Triggered Alpha and Theta Brainwaves**, Yanghua Lu et.al., Paper: [http://arxiv.org/abs/2206.06956v1](http://arxiv.org/abs/2206.06956v1)
+- 2022-06-14, **ALMA reveals extended cool gas and hot ionized outflows in a typical star-forming galaxy at $z=7.13$**, Hollis Akins et.al., Paper: [http://arxiv.org/abs/2206.06939v1](http://arxiv.org/abs/2206.06939v1)
+- 2022-06-14, **Infrared Divergences in $e^{+}e^{-}\rightarrow 2\; jets$ in the Light Front Coherent State Formalism**, Deepesh Bhamre et.al., Paper: [http://arxiv.org/abs/2206.06933v1](http://arxiv.org/abs/2206.06933v1)
+- 2022-06-14, **The Dark Energy Survey Supernova Program results: Type Ia Supernova brightness correlates with host galaxy dust**, Cole Meldorf et.al., Paper: [http://arxiv.org/abs/2206.06928v1](http://arxiv.org/abs/2206.06928v1)
+- 2022-06-14, **A Multi-task Framework for Infrared Small Target Detection and Segmentation**, Yuhang Chen et.al., Paper: [http://arxiv.org/abs/2206.06923v1](http://arxiv.org/abs/2206.06923v1), Code: **[https://github.com/chenastron/mtunet](https://github.com/chenastron/mtunet)**
+- 2022-06-14, **Structural aspects of FRG in quantum tunnelling computations**, Alfio Bonanno et.al., Paper: [http://arxiv.org/abs/2206.06917v1](http://arxiv.org/abs/2206.06917v1)
+- 2022-06-14, **Giant mid-IR resonant coupling to molecular vibrations in sub-nm gaps of plasmonic multilayer metafilms**, Rakesh Arul et.al., Paper: [http://arxiv.org/abs/2206.06906v1](http://arxiv.org/abs/2206.06906v1)
+- 2022-06-14, **The local Universe in the era of large surveys -- II. Multi-wavelength characterisation of activity in nearby S0 galaxies**, C. Jiménez-Palau et.al., Paper: [http://arxiv.org/abs/2206.06860v1](http://arxiv.org/abs/2206.06860v1)
+- 2022-06-14, **Magnetic Field of Molecular Gas Measured with the Velocity Gradient Technique I. Orion A**, Mengke Zhao et.al., Paper: [http://arxiv.org/abs/2206.06717v1](http://arxiv.org/abs/2206.06717v1)
+- 2022-06-13, **Mapping fNIRS to fMRI with Neural Data Augmentation and Machine Learning Models**, Jihyun Hur et.al., Paper: [http://arxiv.org/abs/2206.06486v1](http://arxiv.org/abs/2206.06486v1)
 - 2022-06-13, **New Identifications and Multi-wavelength Properties of Extragalactic Fermi Gamma-Ray Sources in the SPT-SZ Survey Field**, Lizhong Zhang et.al., Paper: [http://arxiv.org/abs/2206.06228v1](http://arxiv.org/abs/2206.06228v1)
 - 2022-06-13, **Gaia Data Release 3: Processing and validation of BP/RP low-resolution spectral data**, F. De Angeli et.al., Paper: [http://arxiv.org/abs/2206.06143v1](http://arxiv.org/abs/2206.06143v1)
 - 2022-06-13, **Oxygen and calcium nebular emission line relationships in core-collapse supernovae and Ca-rich transients**, Simon Prentice et.al., Paper: [http://arxiv.org/abs/2206.06062v1](http://arxiv.org/abs/2206.06062v1)
@@ -109,6 +119,16 @@
 
 ## Saliency Detection
 
+- 2022-06-14, **Gravitational Wave Pathway to Testable Leptogenesis**, Arnab Dasgupta et.al., Paper: [http://arxiv.org/abs/2206.07032v1](http://arxiv.org/abs/2206.07032v1)
+- 2022-06-14, **Broadband microwave detection using electron spins in a hybrid diamond-magnet sensor chip**, Joris J. Carmiggelt et.al., Paper: [http://arxiv.org/abs/2206.07013v1](http://arxiv.org/abs/2206.07013v1)
+- 2022-06-14, **Gate-tunable proximity effects in graphene on layered magnetic insulators**, Chun-Chih Tseng et.al., Paper: [http://arxiv.org/abs/2206.06949v1](http://arxiv.org/abs/2206.06949v1)
+- 2022-06-14, **A Multi-task Framework for Infrared Small Target Detection and Segmentation**, Yuhang Chen et.al., Paper: [http://arxiv.org/abs/2206.06923v1](http://arxiv.org/abs/2206.06923v1), Code: **[https://github.com/chenastron/mtunet](https://github.com/chenastron/mtunet)**
+- 2022-06-14, **Recent progress on Majorana in semiconductor-superconductor heterostructures--Engineering and detection**, Zhan Cao et.al., Paper: [http://arxiv.org/abs/2206.06916v1](http://arxiv.org/abs/2206.06916v1)
+- 2022-06-14, **Optomechanical generation of coherent GHz vibrations in a phononic waveguide**, Guilhem Madiot et.al., Paper: [http://arxiv.org/abs/2206.06913v1](http://arxiv.org/abs/2206.06913v1)
+- 2022-06-14, **RDU: A Region-based Approach to Form-style Document Understanding**, Fengbin Zhu et.al., Paper: [http://arxiv.org/abs/2206.06890v1](http://arxiv.org/abs/2206.06890v1)
+- 2022-06-14, **Searching for Afterglow: Light Dark Matter boosted by Supernova Neutrinos**, Yen-Hsun Lin et.al., Paper: [http://arxiv.org/abs/2206.06864v1](http://arxiv.org/abs/2206.06864v1)
+- 2022-06-14, **Evaluating histopathology transfer learning with ChampKit**, Jakub R. Kaczmarzyk et.al., Paper: [http://arxiv.org/abs/2206.06862v1](http://arxiv.org/abs/2206.06862v1), Code: **[https://github.com/kaczmarj/champkit](https://github.com/kaczmarj/champkit)**
+- 2022-06-14, **The local Universe in the era of large surveys -- II. Multi-wavelength characterisation of activity in nearby S0 galaxies**, C. Jiménez-Palau et.al., Paper: [http://arxiv.org/abs/2206.06860v1](http://arxiv.org/abs/2206.06860v1)
 - 2022-06-13, **EnergyMatch: Energy-based Pseudo-Labeling for Semi-Supervised Learning**, Zhuoran Yu et.al., Paper: [http://arxiv.org/abs/2206.06359v1](http://arxiv.org/abs/2206.06359v1)
 - 2022-06-13, **Anomaly Detection and Inter-Sensor Transfer Learning on Smart Manufacturing Datasets**, Mustafa Abdallah et.al., Paper: [http://arxiv.org/abs/2206.06355v1](http://arxiv.org/abs/2206.06355v1)
 - 2022-06-13, **Tidally induced velocity gradients in the Milky Way dwarf spheroidal satellites**, Alberto Manuel Martínez-García et.al., Paper: [http://arxiv.org/abs/2206.06339v1](http://arxiv.org/abs/2206.06339v1)
