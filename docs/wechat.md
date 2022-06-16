@@ -16,6 +16,16 @@
 
 ## Infrared
 
+- 2022-06-15, **Predictions of Astrometric Jitter for Sun-like Stars. III. Fast Rotators**, K. Sowmya et.al., Paper: [http://arxiv.org/abs/2206.07702v1](http://arxiv.org/abs/2206.07702v1)
+- 2022-06-15, **Photometric metallicity and distance estimates for $\sim$ 136,000 RR Lyrae stars from Gaia DR3**, Xin-Yi Li et.al., Paper: [http://arxiv.org/abs/2206.07668v1](http://arxiv.org/abs/2206.07668v1)
+- 2022-06-15, **Tunable wavefront control in the visible spectrum using low-loss chalcogenide phase change metasurfaces**, Parikshit Moitra et.al., Paper: [http://arxiv.org/abs/2206.07628v1](http://arxiv.org/abs/2206.07628v1)
+- 2022-06-15, **Intensity correlations in quantum cascade laser harmonic frequency combs**, Tecla Gabbrielli et.al., Paper: [http://arxiv.org/abs/2206.07624v1](http://arxiv.org/abs/2206.07624v1)
+- 2022-06-15, **Tracing the Top-of-the-atmosphere and Vertical Cloud Structure of a fast-rotating late T-dwarf**, Elena Manjavacas et.al., Paper: [http://arxiv.org/abs/2206.07566v1](http://arxiv.org/abs/2206.07566v1)
+- 2022-06-15, **Study of the experimental and simulated vibrational spectra together with conformational analysis for thioether cyanobiphenyl-based liquid crystal dimers**, Barbara Loska et.al., Paper: [http://arxiv.org/abs/2206.07443v1](http://arxiv.org/abs/2206.07443v1)
+- 2022-06-15, **Increased intermolecular interactions and cluster formation at the onset of the twist-bend nematic phase in thioether cyanobiphenyl-based liquid crystal dimers**, Katarzyna Merkel et.al., Paper: [http://arxiv.org/abs/2206.07437v1](http://arxiv.org/abs/2206.07437v1)
+- 2022-06-15, **Acceleration for infrared radiation**, Michael R. R. Good et.al., Paper: [http://arxiv.org/abs/2206.07291v1](http://arxiv.org/abs/2206.07291v1)
+- 2022-06-15, **Characterizing and Mitigating the Impact of Telluric Absorption in Precise Radial Velocities**, Sharon Xuesong Wang et.al., Paper: [http://arxiv.org/abs/2206.07287v1](http://arxiv.org/abs/2206.07287v1)
+- 2022-06-15, **Investigation of stellar magnetic activity using variational autoencoder based on low-resolution spectroscopic survey**, Yue Xiang et.al., Paper: [http://arxiv.org/abs/2206.07257v1](http://arxiv.org/abs/2206.07257v1)
 - 2022-06-14, **Infrared Radiation of Graphene Electrothermal Film Triggered Alpha and Theta Brainwaves**, Yanghua Lu et.al., Paper: [http://arxiv.org/abs/2206.06956v1](http://arxiv.org/abs/2206.06956v1)
 - 2022-06-14, **ALMA reveals extended cool gas and hot ionized outflows in a typical star-forming galaxy at $z=7.13$**, Hollis Akins et.al., Paper: [http://arxiv.org/abs/2206.06939v1](http://arxiv.org/abs/2206.06939v1)
 - 2022-06-14, **Infrared Divergences in $e^{+}e^{-}\rightarrow 2\; jets$ in the Light Front Coherent State Formalism**, Deepesh Bhamre et.al., Paper: [http://arxiv.org/abs/2206.06933v1](http://arxiv.org/abs/2206.06933v1)
@@ -119,6 +129,16 @@
 
 ## Saliency Detection
 
+- 2022-06-15, **PlanarRecon: Real-time 3D Plane Detection and Reconstruction from Posed Monocular Videos**, Yiming Xie et.al., Paper: [http://arxiv.org/abs/2206.07710v1](http://arxiv.org/abs/2206.07710v1)
+- 2022-06-15, **LET-3D-AP: Longitudinal Error Tolerant 3D Average Precision for Camera-Only 3D Detection**, Wei-Chih Hung et.al., Paper: [http://arxiv.org/abs/2206.07705v1](http://arxiv.org/abs/2206.07705v1), Code: **[https://github.com/waymo-research/waymo-open-dataset](https://github.com/waymo-research/waymo-open-dataset)**
+- 2022-06-15, **Predictions of Astrometric Jitter for Sun-like Stars. III. Fast Rotators**, K. Sowmya et.al., Paper: [http://arxiv.org/abs/2206.07702v1](http://arxiv.org/abs/2206.07702v1)
+- 2022-06-15, **Masked Siamese ConvNets**, Li Jing et.al., Paper: [http://arxiv.org/abs/2206.07700v1](http://arxiv.org/abs/2206.07700v1)
+- 2022-06-15, **Deep-field Metacalibration**, Zhuoqi Zhang et.al., Paper: [http://arxiv.org/abs/2206.07683v1](http://arxiv.org/abs/2206.07683v1)
+- 2022-06-15, **Dust polarization spectral dependence from Planck HFI data. Turning point on CMB polarization foregrounds modelling**, Alessia Ritacco et.al., Paper: [http://arxiv.org/abs/2206.07671v1](http://arxiv.org/abs/2206.07671v1)
+- 2022-06-15, **A Unified Sequence Interface for Vision Tasks**, Ting Chen et.al., Paper: [http://arxiv.org/abs/2206.07669v1](http://arxiv.org/abs/2206.07669v1)
+- 2022-06-15, **Region-enhanced Deep Graph Convolutional Networks for Rumor Detection**, Ge Wang et.al., Paper: [http://arxiv.org/abs/2206.07665v1](http://arxiv.org/abs/2206.07665v1)
+- 2022-06-15, **A population of ultraviolet-dim protoclusters detected in absorption**, Andrew B. Newman et.al., Paper: [http://arxiv.org/abs/2206.07661v1](http://arxiv.org/abs/2206.07661v1)
+- 2022-06-15, **Hyperparameter Sensitivity in Deep Outlier Detection: Analysis and a Scalable Hyper-Ensemble Solution**, Xueying Ding et.al., Paper: [http://arxiv.org/abs/2206.07647v1](http://arxiv.org/abs/2206.07647v1)
 - 2022-06-14, **Gravitational Wave Pathway to Testable Leptogenesis**, Arnab Dasgupta et.al., Paper: [http://arxiv.org/abs/2206.07032v1](http://arxiv.org/abs/2206.07032v1)
 - 2022-06-14, **Broadband microwave detection using electron spins in a hybrid diamond-magnet sensor chip**, Joris J. Carmiggelt et.al., Paper: [http://arxiv.org/abs/2206.07013v1](http://arxiv.org/abs/2206.07013v1)
 - 2022-06-14, **Gate-tunable proximity effects in graphene on layered magnetic insulators**, Chun-Chih Tseng et.al., Paper: [http://arxiv.org/abs/2206.06949v1](http://arxiv.org/abs/2206.06949v1)
