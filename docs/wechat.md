@@ -16,6 +16,9 @@
 
 ## Infrared
 
+- 2022-06-16, **K-Radar: 4D Radar Object Detection Dataset and Benchmark for Autonomous Driving in Various Weather Conditions**, Dong-Hee Paek et.al., Paper: [http://arxiv.org/abs/2206.08171v1](http://arxiv.org/abs/2206.08171v1)
+- 2022-06-16, **Semiconductor-like photocarrier dynamics in Dirac Semimetal Cd3As2 film Probed with transient Terahertz Spectroscopy**, Wenjie Zhang et.al., Paper: [http://arxiv.org/abs/2206.08008v1](http://arxiv.org/abs/2206.08008v1)
+- 2022-06-15, **Hybrid full-field thermal characterization of additive manufacturing processes using physics-informed neural networks with data**, Shuheng Liao et.al., Paper: [http://arxiv.org/abs/2206.07756v1](http://arxiv.org/abs/2206.07756v1), Code: **[https://github.com/shuhengliao/physics_informed_am](https://github.com/shuhengliao/physics_informed_am)**
 - 2022-06-15, **Predictions of Astrometric Jitter for Sun-like Stars. III. Fast Rotators**, K. Sowmya et.al., Paper: [http://arxiv.org/abs/2206.07702v1](http://arxiv.org/abs/2206.07702v1)
 - 2022-06-15, **Photometric metallicity and distance estimates for $\sim$ 136,000 RR Lyrae stars from Gaia DR3**, Xin-Yi Li et.al., Paper: [http://arxiv.org/abs/2206.07668v1](http://arxiv.org/abs/2206.07668v1)
 - 2022-06-15, **Tunable wavefront control in the visible spectrum using low-loss chalcogenide phase change metasurfaces**, Parikshit Moitra et.al., Paper: [http://arxiv.org/abs/2206.07628v1](http://arxiv.org/abs/2206.07628v1)
@@ -129,6 +132,16 @@
 
 ## Saliency Detection
 
+- 2022-06-16, **Electron spin resonance and collective excitations in magic-angle twisted bilayer graphene**, Erin Morissette et.al., Paper: [http://arxiv.org/abs/2206.08354v1](http://arxiv.org/abs/2206.08354v1)
+- 2022-06-16, **Adversarial Patch Attacks and Defences in Vision-Based Tasks: A Survey**, Abhijith Sharma et.al., Paper: [http://arxiv.org/abs/2206.08304v1](http://arxiv.org/abs/2206.08304v1)
+- 2022-06-16, **Over 2.7 Million Carbon-Enhanced Metal-Poor stars from BP/RP Spectra in $Gaia$ DR3**, Madeline Lucey et.al., Paper: [http://arxiv.org/abs/2206.08299v1](http://arxiv.org/abs/2206.08299v1)
+- 2022-06-16, **Video Capsule Endoscopy Classification using Focal Modulation Guided Convolutional Neural Network**, Abhishek Srivastava et.al., Paper: [http://arxiv.org/abs/2206.08298v1](http://arxiv.org/abs/2206.08298v1), Code: **[https://github.com/noviceman-prog/focalconvnet](https://github.com/noviceman-prog/focalconvnet)**
+- 2022-06-16, **Rank the triplets: A ranking-based multiple instance learning framework for detecting HPV infection in head and neck cancers using routine H&E images**, Ruoyu Wang et.al., Paper: [http://arxiv.org/abs/2206.08275v1](http://arxiv.org/abs/2206.08275v1)
+- 2022-06-16, **Longitudinal detection of new MS lesions using Deep Learning**, Reda Abdellah Kamraoui et.al., Paper: [http://arxiv.org/abs/2206.08272v1](http://arxiv.org/abs/2206.08272v1)
+- 2022-06-16, **'John ate 5 apples' != 'John ate some apples': Self-Supervised Paraphrase Quality Detection for Algebraic Word Problems**, Rishabh Gupta et.al., Paper: [http://arxiv.org/abs/2206.08263v1](http://arxiv.org/abs/2206.08263v1), Code: **[https://github.com/ads-ai/paraqd](https://github.com/ads-ai/paraqd)**
+- 2022-06-16, **Adversarial Robustness of Graph-based Anomaly Detection**, Yulin Zhu et.al., Paper: [http://arxiv.org/abs/2206.08260v1](http://arxiv.org/abs/2206.08260v1)
+- 2022-06-16, **Gradient-Based Adversarial and Out-of-Distribution Detection**, Jinsol Lee et.al., Paper: [http://arxiv.org/abs/2206.08255v1](http://arxiv.org/abs/2206.08255v1)
+- 2022-06-16, **Bayesian estimation of the low-energy constants up to fourth order in the nucleon-nucleon sector of chiral effective field theory**, Isak Svensson et.al., Paper: [http://arxiv.org/abs/2206.08250v1](http://arxiv.org/abs/2206.08250v1)
 - 2022-06-15, **PlanarRecon: Real-time 3D Plane Detection and Reconstruction from Posed Monocular Videos**, Yiming Xie et.al., Paper: [http://arxiv.org/abs/2206.07710v1](http://arxiv.org/abs/2206.07710v1)
 - 2022-06-15, **LET-3D-AP: Longitudinal Error Tolerant 3D Average Precision for Camera-Only 3D Detection**, Wei-Chih Hung et.al., Paper: [http://arxiv.org/abs/2206.07705v1](http://arxiv.org/abs/2206.07705v1), Code: **[https://github.com/waymo-research/waymo-open-dataset](https://github.com/waymo-research/waymo-open-dataset)**
 - 2022-06-15, **Predictions of Astrometric Jitter for Sun-like Stars. III. Fast Rotators**, K. Sowmya et.al., Paper: [http://arxiv.org/abs/2206.07702v1](http://arxiv.org/abs/2206.07702v1)
