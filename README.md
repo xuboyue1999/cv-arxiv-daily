@@ -1,4 +1,4 @@
-## Updated on 2022.06.16
+## Updated on 2022.06.17
 
 ## RGBT
 
@@ -29,7 +29,7 @@
 |**2022-06-15**|**Increased intermolecular interactions and cluster formation at the onset of the twist-bend nematic phase in thioether cyanobiphenyl-based liquid crystal dimers**|Katarzyna Merkel et.al.|[2206.07437v1](http://arxiv.org/abs/2206.07437v1)|null|
 |**2022-06-15**|**Acceleration for infrared radiation**|Michael R. R. Good et.al.|[2206.07291v1](http://arxiv.org/abs/2206.07291v1)|null|
 |**2022-06-15**|**Characterizing and Mitigating the Impact of Telluric Absorption in Precise Radial Velocities**|Sharon Xuesong Wang et.al.|[2206.07287v1](http://arxiv.org/abs/2206.07287v1)|null|
-|**2022-06-15**|**Investigation of stellar magnetic activity using variational autoencoder based on low-resolution spectroscopic survey**|Yue Xiang et.al.|[2206.07257v1](http://arxiv.org/abs/2206.07257v1)|null|
+|**2022-06-16**|**Investigation of stellar magnetic activity using variational autoencoder based on low-resolution spectroscopic survey**|Yue Xiang et.al.|[2206.07257v2](http://arxiv.org/abs/2206.07257v2)|null|
 |**2022-06-14**|**Infrared Radiation of Graphene Electrothermal Film Triggered Alpha and Theta Brainwaves**|Yanghua Lu et.al.|[2206.06956v1](http://arxiv.org/abs/2206.06956v1)|null|
 |**2022-06-14**|**ALMA reveals extended cool gas and hot ionized outflows in a typical star-forming galaxy at $z=7.13$**|Hollis Akins et.al.|[2206.06939v1](http://arxiv.org/abs/2206.06939v1)|null|
 |**2022-06-14**|**Infrared Divergences in $e^{+}e^{-}\rightarrow 2\; jets$ in the Light Front Coherent State Formalism**|Deepesh Bhamre et.al.|[2206.06933v1](http://arxiv.org/abs/2206.06933v1)|null|
