@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-16**|**Non-Perturbative Groundstate of High Temperature Yang-Mills Theory**|D. Yamada et.al.|[2206.08470v1](http://arxiv.org/abs/2206.08470v1)|null|
+|**2022-06-16**|**Tri-Functional Metasurface for Phase, Amplitude, and Luminescence Control**|Soroosh Daqiqeh Rezaei et.al.|[2206.08393v1](http://arxiv.org/abs/2206.08393v1)|null|
 |**2022-06-16**|**K-Radar: 4D Radar Object Detection Dataset and Benchmark for Autonomous Driving in Various Weather Conditions**|Dong-Hee Paek et.al.|[2206.08171v1](http://arxiv.org/abs/2206.08171v1)|null|
 |**2022-06-16**|**Semiconductor-like photocarrier dynamics in Dirac Semimetal Cd3As2 film Probed with transient Terahertz Spectroscopy**|Wenjie Zhang et.al.|[2206.08008v1](http://arxiv.org/abs/2206.08008v1)|null|
 |**2022-06-15**|**Hybrid full-field thermal characterization of additive manufacturing processes using physics-informed neural networks with data**|Shuheng Liao et.al.|[2206.07756v1](http://arxiv.org/abs/2206.07756v1)|**[link](https://github.com/shuhengliao/physics_informed_am)**|
@@ -140,6 +142,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-17**|**The metal content of the circumgalactic medium around star-forming galaxies at z $\sim$ 2.6 as revealed by the VIMOS Ultra-Deep Survey**|H. Méndez-Hernández et.al.|[2206.08923v1](http://arxiv.org/abs/2206.08923v1)|null|
+|**2022-06-17**|**Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks**|Jiasen Lu et.al.|[2206.08916v1](http://arxiv.org/abs/2206.08916v1)|null|
+|**2022-06-17**|**Colonoscopy 3D Video Dataset with Paired Depth from 2D-3D Registration**|Taylor L. Bobrow et.al.|[2206.08903v1](http://arxiv.org/abs/2206.08903v1)|null|
+|**2022-06-17**|**Scaling multi-species occupancy models to large citizen science datasets**|Martin Ingram et.al.|[2206.08894v1](http://arxiv.org/abs/2206.08894v1)|null|
+|**2022-06-17**|**SwarmHawk: Self-Sustaining Multi-Agent System for Landing on a Moving Platform through an Agent Supervision**|Ayush Gupta et.al.|[2206.08874v1](http://arxiv.org/abs/2206.08874v1)|null|
+|**2022-06-17**|**Optimal tests of genuine multipartite nonlocality**|Mahasweta Pandit et.al.|[2206.08848v1](http://arxiv.org/abs/2206.08848v1)|null|
+|**2022-06-17**|**AutoML Two-Sample Test**|Jonas M. Kübler et.al.|[2206.08843v1](http://arxiv.org/abs/2206.08843v1)|**[link](https://github.com/jmkuebler/auto-tst)**|
+|**2022-06-17**|**Multimodal Attention-based Deep Learning for Alzheimer's Disease Diagnosis**|Michal Golovanevsky et.al.|[2206.08826v1](http://arxiv.org/abs/2206.08826v1)|null|
+|**2022-06-17**|**Video Shadow Detection via Spatio-Temporal Interpolation Consistency Training**|Xiao Lu et.al.|[2206.08801v1](http://arxiv.org/abs/2206.08801v1)|**[link](https://github.com/yihong-97/stict)**|
+|**2022-06-17**|**Is Multi-Modal Necessarily Better? Robustness Evaluation of Multi-modal Fake News Detection**|Jinyin Chen et.al.|[2206.08788v1](http://arxiv.org/abs/2206.08788v1)|null|
 |**2022-06-16**|**Electron spin resonance and collective excitations in magic-angle twisted bilayer graphene**|Erin Morissette et.al.|[2206.08354v1](http://arxiv.org/abs/2206.08354v1)|null|
 |**2022-06-16**|**Adversarial Patch Attacks and Defences in Vision-Based Tasks: A Survey**|Abhijith Sharma et.al.|[2206.08304v1](http://arxiv.org/abs/2206.08304v1)|null|
 |**2022-06-16**|**Over 2.7 Million Carbon-Enhanced Metal-Poor stars from BP/RP Spectra in $Gaia$ DR3**|Madeline Lucey et.al.|[2206.08299v1](http://arxiv.org/abs/2206.08299v1)|null|
