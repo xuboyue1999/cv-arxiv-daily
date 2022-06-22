@@ -1,4 +1,4 @@
-> Updated on 2022.06.21
+> Updated on 2022.06.22
 
 ## RGBT
 
@@ -16,6 +16,16 @@
 
 ## Infrared
 
+- 2022-06-21, **Terabit Indoor Laser-Based Wireless Communications: LiFi 2.0 for 6G**, Mohammad Dehghani Soltani et.al., Paper: [http://arxiv.org/abs/2206.10532v1](http://arxiv.org/abs/2206.10532v1)
+- 2022-06-21, **Controlling rotationally-resolved two-dimensional infrared spectra with polarization**, Grzegorz Kowzan et.al., Paper: [http://arxiv.org/abs/2206.10492v1](http://arxiv.org/abs/2206.10492v1)
+- 2022-06-21, **Theory of rotationally-resolved two-dimensional infrared spectroscopy**, Grzegorz Kowzan et.al., Paper: [http://arxiv.org/abs/2206.10488v1](http://arxiv.org/abs/2206.10488v1)
+- 2022-06-21, **Formation of the simplest amide in molecular clouds: formamide (NH$_{2}$CHO) and its derivatives in H$_2$O-rich and CO-rich interstellar ice analogs upon VUV irradiation**, K. -J. Chuang et.al., Paper: [http://arxiv.org/abs/2206.10470v1](http://arxiv.org/abs/2206.10470v1)
+- 2022-06-21, **Hydration Dynamics and IR Spectroscopy of 4-Fluorophenol**, Seyedeh Maryam Salehi et.al., Paper: [http://arxiv.org/abs/2206.10463v1](http://arxiv.org/abs/2206.10463v1)
+- 2022-06-21, **In-plane hyperbolic polariton tuner in terahertz and long-wave infrared regimes**, Wuchao Huang et.al., Paper: [http://arxiv.org/abs/2206.10433v1](http://arxiv.org/abs/2206.10433v1)
+- 2022-06-21, **Diagnosing deceivingly cold dusty galaxies at 3.5<z<6: a substantial population of compact starbursts with high infrared optical depths**, Shuowen Jin et.al., Paper: [http://arxiv.org/abs/2206.10401v1](http://arxiv.org/abs/2206.10401v1)
+- 2022-06-21, **Renormalised spectral flows**, Jens Braun et.al., Paper: [http://arxiv.org/abs/2206.10232v1](http://arxiv.org/abs/2206.10232v1)
+- 2022-06-21, **A note on interacting holographic dark energy with a Hubble-scale cutoff**, Ricardo G. Landim et.al., Paper: [http://arxiv.org/abs/2206.10205v1](http://arxiv.org/abs/2206.10205v1)
+- 2022-06-20, **Fate of false vacuum in non-perturbative regimes: Gravity effects**, Gianluca Calcagni et.al., Paper: [http://arxiv.org/abs/2206.09965v1](http://arxiv.org/abs/2206.09965v1)
 - 2022-06-16, **Non-Perturbative Groundstate of High Temperature Yang-Mills Theory**, D. Yamada et.al., Paper: [http://arxiv.org/abs/2206.08470v1](http://arxiv.org/abs/2206.08470v1)
 - 2022-06-16, **Tri-Functional Metasurface for Phase, Amplitude, and Luminescence Control**, Soroosh Daqiqeh Rezaei et.al., Paper: [http://arxiv.org/abs/2206.08393v1](http://arxiv.org/abs/2206.08393v1)
 - 2022-06-16, **K-Radar: 4D Radar Object Detection Dataset and Benchmark for Autonomous Driving in Various Weather Conditions**, Dong-Hee Paek et.al., Paper: [http://arxiv.org/abs/2206.08171v1](http://arxiv.org/abs/2206.08171v1)
@@ -134,6 +144,16 @@
 
 ## Saliency Detection
 
+- 2022-06-21, **EdgeNeXt: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications**, Muhammad Maaz et.al., Paper: [http://arxiv.org/abs/2206.10589v1](http://arxiv.org/abs/2206.10589v1), Code: **[https://github.com/mmaaz60/EdgeNeXt](https://github.com/mmaaz60/EdgeNeXt)**
+- 2022-06-21, **Guiding Visual Attention in Deep Convolutional Neural Networks Based on Human Eye Movements**, Leonard E. van Dyck et.al., Paper: [http://arxiv.org/abs/2206.10587v1](http://arxiv.org/abs/2206.10587v1)
+- 2022-06-21, **Modeling gravitational few-body problems with TSUNAMI and OKINAMI**, Alessandro Alberto Trani et.al., Paper: [http://arxiv.org/abs/2206.10583v1](http://arxiv.org/abs/2206.10583v1)
+- 2022-06-21, **H&E-based Computational Biomarker Enables Universal EGFR Screening for Lung Adenocarcinoma**, Gabriele Campanella et.al., Paper: [http://arxiv.org/abs/2206.10573v1](http://arxiv.org/abs/2206.10573v1)
+- 2022-06-21, **Controllability of Coarsely Measured Networked Linear Dynamical Systems (Extended Version)**, Nafiseh Ghoroghchian et.al., Paper: [http://arxiv.org/abs/2206.10569v1](http://arxiv.org/abs/2206.10569v1)
+- 2022-06-21, **Fair Queuing Aware Congestion Control**, Maximilian Bachl et.al., Paper: [http://arxiv.org/abs/2206.10561v1](http://arxiv.org/abs/2206.10561v1), Code: **[https://github.com/muxamilian/fair-queuing-aware-congestion-control](https://github.com/muxamilian/fair-queuing-aware-congestion-control)**
+- 2022-06-21, **Low Resource Pipeline for Spoken Language Understanding via Weak Supervision**, Ayush Kumar et.al., Paper: [http://arxiv.org/abs/2206.10559v1](http://arxiv.org/abs/2206.10559v1)
+- 2022-06-21, **A Study of Weisfeiler-Leman Colorings on Planar Graphs**, Sandra Kiefer et.al., Paper: [http://arxiv.org/abs/2206.10557v1](http://arxiv.org/abs/2206.10557v1)
+- 2022-06-21, **Scaling up Kernels in 3D CNNs**, Yukang Chen et.al., Paper: [http://arxiv.org/abs/2206.10555v1](http://arxiv.org/abs/2206.10555v1), Code: **[https://github.com/dvlab-research/largekernel3d](https://github.com/dvlab-research/largekernel3d)**
+- 2022-06-21, **On the effectiveness of persistent homology**, Renata Turkeš et.al., Paper: [http://arxiv.org/abs/2206.10551v1](http://arxiv.org/abs/2206.10551v1), Code: **[https://github.com/renata-turkes/turkevs2022on](https://github.com/renata-turkes/turkevs2022on)**
 - 2022-06-17, **The metal content of the circumgalactic medium around star-forming galaxies at z $\sim$ 2.6 as revealed by the VIMOS Ultra-Deep Survey**, H. Méndez-Hernández et.al., Paper: [http://arxiv.org/abs/2206.08923v1](http://arxiv.org/abs/2206.08923v1)
 - 2022-06-17, **Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks**, Jiasen Lu et.al., Paper: [http://arxiv.org/abs/2206.08916v1](http://arxiv.org/abs/2206.08916v1)
 - 2022-06-17, **Colonoscopy 3D Video Dataset with Paired Depth from 2D-3D Registration**, Taylor L. Bobrow et.al., Paper: [http://arxiv.org/abs/2206.08903v1](http://arxiv.org/abs/2206.08903v1)
