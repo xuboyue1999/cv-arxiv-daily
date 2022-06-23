@@ -20,6 +20,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-22**|**Ultrafast transport and energy relaxation of hot electrons in Au/Fe/MgO(001) heterostructures analyzed by linear time-resolved photoelectron spectroscopy**|Florian Kühne et.al.|[2206.11193v1](http://arxiv.org/abs/2206.11193v1)|null|
+|**2022-06-22**|**Non-LTE abundance corrections for late-type stars from 2000Å to 3μm: I. Na, Mg, and Al**|K. Lind et.al.|[2206.11070v1](http://arxiv.org/abs/2206.11070v1)|null|
+|**2022-06-22**|**A new phase of massive star formation? A luminous outflow cavity centred on an infrared quiet core**|L. Bonne et.al.|[2206.10889v1](http://arxiv.org/abs/2206.10889v1)|null|
+|**2022-06-22**|**Faint debris disk peering through superflare light echo**|Ko Arimatsu et.al.|[2206.10851v1](http://arxiv.org/abs/2206.10851v1)|null|
+|**2022-06-21**|**Strong NIR emission following the long duration GRB 211211A: Dust heating as an alternative to a kilonova**|Eli Waxman et.al.|[2206.10710v1](http://arxiv.org/abs/2206.10710v1)|null|
+|**2022-06-21**|**QED nuclear medium effects in (anti)neutrino-nucleus and electron-nucleus scattering**|Oleksandr Tomalak et.al.|[2206.10637v1](http://arxiv.org/abs/2206.10637v1)|null|
+|**2022-06-21**|**A First Look at CRIRES+: Performance Assessment and Exoplanet Spectroscopy**|Måns Holmberg et.al.|[2206.10621v1](http://arxiv.org/abs/2206.10621v1)|null|
 |**2022-06-21**|**Terabit Indoor Laser-Based Wireless Communications: LiFi 2.0 for 6G**|Mohammad Dehghani Soltani et.al.|[2206.10532v1](http://arxiv.org/abs/2206.10532v1)|null|
 |**2022-06-21**|**Controlling rotationally-resolved two-dimensional infrared spectra with polarization**|Grzegorz Kowzan et.al.|[2206.10492v1](http://arxiv.org/abs/2206.10492v1)|null|
 |**2022-06-21**|**Theory of rotationally-resolved two-dimensional infrared spectroscopy**|Grzegorz Kowzan et.al.|[2206.10488v1](http://arxiv.org/abs/2206.10488v1)|null|
@@ -152,6 +159,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-22**|**Behavior Transformers: Cloning $k$ modes with one stone**|Nur Muhammad Mahi Shafiullah et.al.|[2206.11251v1](http://arxiv.org/abs/2206.11251v1)|**[link](https://github.com/notmahi/bet)**|
+|**2022-06-22**|**Depth-aware Glass Surface Detection with Cross-modal Context Mining**|Jiaying Lin et.al.|[2206.11250v1](http://arxiv.org/abs/2206.11250v1)|null|
+|**2022-06-22**|**Time-Limited Waveforms with Minimum Time Broadening for the Nonlinear Schrödinger Channel**|Youssef Jaffal et.al.|[2206.11240v1](http://arxiv.org/abs/2206.11240v1)|null|
+|**2022-06-22**|**Event-Based Imaging of Levitated Microparticles**|Yugang Ren et.al.|[2206.11220v1](http://arxiv.org/abs/2206.11220v1)|null|
+|**2022-06-22**|**Correct and Certify: A New Approach to Self-Supervised 3D-Object Perception**|Rajat Talak et.al.|[2206.11215v1](http://arxiv.org/abs/2206.11215v1)|null|
+|**2022-06-22**|**Offline Change Detection under Contamination**|Sujay Bhatt et.al.|[2206.11214v1](http://arxiv.org/abs/2206.11214v1)|null|
+|**2022-06-22**|**Laser cooling a membrane-in-the-middle system close to the quantum ground state from room temperature**|Sampo A. Saarinen et.al.|[2206.11169v1](http://arxiv.org/abs/2206.11169v1)|null|
+|**2022-06-22**|**Probing the multiwavelength emission scenario of GRB 190114C**|Marc Klinger et.al.|[2206.11148v1](http://arxiv.org/abs/2206.11148v1)|null|
+|**2022-06-22**|**Hybrid Physical Metric For 6-DoF Grasp Pose Detection**|Yuhao Lu et.al.|[2206.11141v1](http://arxiv.org/abs/2206.11141v1)|**[link](https://github.com/luyh20/fgc-graspnet)**|
+|**2022-06-22**|**Artificial optoelectronic spiking neuron based on a resonant tunnelling diode coupled to a vertical cavity surface emitting laser**|Matěj Hejda et.al.|[2206.11044v1](http://arxiv.org/abs/2206.11044v1)|null|
 |**2022-06-21**|**EdgeNeXt: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications**|Muhammad Maaz et.al.|[2206.10589v1](http://arxiv.org/abs/2206.10589v1)|**[link](https://github.com/mmaaz60/EdgeNeXt)**|
 |**2022-06-21**|**Guiding Visual Attention in Deep Convolutional Neural Networks Based on Human Eye Movements**|Leonard E. van Dyck et.al.|[2206.10587v1](http://arxiv.org/abs/2206.10587v1)|null|
 |**2022-06-21**|**Modeling gravitational few-body problems with TSUNAMI and OKINAMI**|Alessandro Alberto Trani et.al.|[2206.10583v1](http://arxiv.org/abs/2206.10583v1)|null|
