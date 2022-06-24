@@ -1,4 +1,4 @@
-## Updated on 2022.06.23
+## Updated on 2022.06.24
 
 ## RGBT
 
@@ -163,8 +163,8 @@
 |**2022-06-22**|**Depth-aware Glass Surface Detection with Cross-modal Context Mining**|Jiaying Lin et.al.|[2206.11250v1](http://arxiv.org/abs/2206.11250v1)|null|
 |**2022-06-22**|**Time-Limited Waveforms with Minimum Time Broadening for the Nonlinear Schrödinger Channel**|Youssef Jaffal et.al.|[2206.11240v1](http://arxiv.org/abs/2206.11240v1)|null|
 |**2022-06-22**|**Event-Based Imaging of Levitated Microparticles**|Yugang Ren et.al.|[2206.11220v1](http://arxiv.org/abs/2206.11220v1)|null|
-|**2022-06-22**|**Correct and Certify: A New Approach to Self-Supervised 3D-Object Perception**|Rajat Talak et.al.|[2206.11215v1](http://arxiv.org/abs/2206.11215v1)|null|
-|**2022-06-22**|**Offline Change Detection under Contamination**|Sujay Bhatt et.al.|[2206.11214v1](http://arxiv.org/abs/2206.11214v1)|null|
+|**2022-06-23**|**Correct and Certify: A New Approach to Self-Supervised 3D-Object Perception**|Rajat Talak et.al.|[2206.11215v2](http://arxiv.org/abs/2206.11215v2)|null|
+|**2022-06-23**|**Offline Change Detection under Contamination**|Sujay Bhatt et.al.|[2206.11214v2](http://arxiv.org/abs/2206.11214v2)|null|
 |**2022-06-22**|**Laser cooling a membrane-in-the-middle system close to the quantum ground state from room temperature**|Sampo A. Saarinen et.al.|[2206.11169v1](http://arxiv.org/abs/2206.11169v1)|null|
 |**2022-06-22**|**Probing the multiwavelength emission scenario of GRB 190114C**|Marc Klinger et.al.|[2206.11148v1](http://arxiv.org/abs/2206.11148v1)|null|
 |**2022-06-22**|**Hybrid Physical Metric For 6-DoF Grasp Pose Detection**|Yuhao Lu et.al.|[2206.11141v1](http://arxiv.org/abs/2206.11141v1)|**[link](https://github.com/luyh20/fgc-graspnet)**|
