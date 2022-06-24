@@ -16,6 +16,10 @@
 
 ## Infrared
 
+- 2022-06-23, **Laboratory Experiments on the Radiation Astrochemistry of Water Ice Phases**, Duncan V. Mifsud et.al., Paper: [http://arxiv.org/abs/2206.11614v1](http://arxiv.org/abs/2206.11614v1)
+- 2022-06-23, **Corrosion Monitoring On Zinc Electroplated Steel Using Shortwave Infrared Hyperspectral Imaging**, Thomas De Kerf et.al., Paper: [http://arxiv.org/abs/2206.11592v1](http://arxiv.org/abs/2206.11592v1)
+- 2022-06-23, **Electrical manipulation of plasmon-phonon polaritons in heterostructures of graphene on biaxial crystals**, Zhiyong Li et.al., Paper: [http://arxiv.org/abs/2206.11579v1](http://arxiv.org/abs/2206.11579v1)
+- 2022-06-23, **Star Formation Activity Beyond the Outer Arm II: Distribution and Properties of Star Formation**, Natsuko Izumi et.al., Paper: [http://arxiv.org/abs/2206.11508v1](http://arxiv.org/abs/2206.11508v1)
 - 2022-06-22, **Ultrafast transport and energy relaxation of hot electrons in Au/Fe/MgO(001) heterostructures analyzed by linear time-resolved photoelectron spectroscopy**, Florian Kühne et.al., Paper: [http://arxiv.org/abs/2206.11193v1](http://arxiv.org/abs/2206.11193v1)
 - 2022-06-22, **Non-LTE abundance corrections for late-type stars from 2000Å to 3μm: I. Na, Mg, and Al**, K. Lind et.al., Paper: [http://arxiv.org/abs/2206.11070v1](http://arxiv.org/abs/2206.11070v1)
 - 2022-06-22, **A new phase of massive star formation? A luminous outflow cavity centred on an infrared quiet core**, L. Bonne et.al., Paper: [http://arxiv.org/abs/2206.10889v1](http://arxiv.org/abs/2206.10889v1)
@@ -137,6 +141,7 @@
 
 ## RGBD
 
+- 2022-06-23, **Unseen Object 6D Pose Estimation: A Benchmark and Baselines**, Minghao Gou et.al., Paper: [http://arxiv.org/abs/2206.11808v1](http://arxiv.org/abs/2206.11808v1)
 - 2022-06-03, **OdomBeyondVision: An Indoor Multi-modal Multi-platform Odometry Dataset Beyond the Visible Spectrum**, Peize Li et.al., Paper: [http://arxiv.org/abs/2206.01589v1](http://arxiv.org/abs/2206.01589v1), Code: **[https://github.com/maps-lab/odombeyondvision](https://github.com/maps-lab/odombeyondvision)**
 - 2022-05-30, **Few-shot Class-incremental Learning for 3D Point Cloud Objects**, Townim Chowdhury et.al., Paper: [http://arxiv.org/abs/2205.15225v1](http://arxiv.org/abs/2205.15225v1), Code: **[https://github.com/townim-faisal/fscil-3d](https://github.com/townim-faisal/fscil-3d)**
 - 2022-05-24, **Single-View View Synthesis in the Wild with Learned Adaptive Multiplane Images**, Yuxuan Han et.al., Paper: [http://arxiv.org/abs/2205.11733v1](http://arxiv.org/abs/2205.11733v1)
@@ -151,6 +156,16 @@
 
 ## Saliency Detection
 
+- 2022-06-23, **Remote Sensing Change Detection (Segmentation) using Denoising Diffusion Probabilistic Models**, Wele Gedara Chaminda Bandara et.al., Paper: [http://arxiv.org/abs/2206.11892v1](http://arxiv.org/abs/2206.11892v1), Code: **[https://github.com/wgcban/ddpm-cd](https://github.com/wgcban/ddpm-cd)**
+- 2022-06-23, **Sensitivity of Rydberg-atom receiver to frequency and amplitude modulation of microwaves**, Sebastian Borówka et.al., Paper: [http://arxiv.org/abs/2206.11829v1](http://arxiv.org/abs/2206.11829v1)
+- 2022-06-23, **Toward Clinically Assisted Colorectal Polyp Recognition via Structured Cross-modal Representation Consistency**, Weijie Ma et.al., Paper: [http://arxiv.org/abs/2206.11826v1](http://arxiv.org/abs/2206.11826v1), Code: **[https://github.com/weijiemax/cpc-trans](https://github.com/weijiemax/cpc-trans)**
+- 2022-06-23, **YOLOSA: Object detection based on 2D local feature superimposed self-attention**, Weisheng Li et.al., Paper: [http://arxiv.org/abs/2206.11825v1](http://arxiv.org/abs/2206.11825v1)
+- 2022-06-23, **DeepSafety:Multi-level Audio-Text Feature Extraction and Fusion Approach for Violence Detection in Conversations**, Amna Anwar et.al., Paper: [http://arxiv.org/abs/2206.11822v1](http://arxiv.org/abs/2206.11822v1)
+- 2022-06-23, **Authentication of Copy Detection Patterns under Machine Learning Attacks: A Supervised Approach**, Brian Pulfer et.al., Paper: [http://arxiv.org/abs/2206.11793v1](http://arxiv.org/abs/2206.11793v1)
+- 2022-06-23, **Open-source FPGA-ML codesign for the MLPerf Tiny Benchmark**, Hendrik Borras et.al., Paper: [http://arxiv.org/abs/2206.11791v1](http://arxiv.org/abs/2206.11791v1), Code: **[https://github.com/mlcommons/tiny_results_v0.7/tree/main/open/hls4ml-finn](https://github.com/mlcommons/tiny_results_v0.7/tree/main/open/hls4ml-finn)**
+- 2022-06-23, **Flexible and disposable paper- and plastic-based gel micropads for nematode handling, imaging, and chemical testing**, Zach Njus et.al., Paper: [http://arxiv.org/abs/2206.11749v1](http://arxiv.org/abs/2206.11749v1)
+- 2022-06-23, **NovelCraft: A Dataset for Novelty Detection and Discovery in Open Worlds**, Patrick Feeney et.al., Paper: [http://arxiv.org/abs/2206.11736v1](http://arxiv.org/abs/2206.11736v1), Code: **[https://github.com/tufts-ai-robotics-group/polycraft-novelty-detection](https://github.com/tufts-ai-robotics-group/polycraft-novelty-detection)**
+- 2022-06-23, **Sequential Detection of Transient Signals in High Dimensional Data Stream**, Yanhong Wu et.al., Paper: [http://arxiv.org/abs/2206.11731v1](http://arxiv.org/abs/2206.11731v1)
 - 2022-06-22, **Behavior Transformers: Cloning $k$ modes with one stone**, Nur Muhammad Mahi Shafiullah et.al., Paper: [http://arxiv.org/abs/2206.11251v1](http://arxiv.org/abs/2206.11251v1), Code: **[https://github.com/notmahi/bet](https://github.com/notmahi/bet)**
 - 2022-06-22, **Depth-aware Glass Surface Detection with Cross-modal Context Mining**, Jiaying Lin et.al., Paper: [http://arxiv.org/abs/2206.11250v1](http://arxiv.org/abs/2206.11250v1)
 - 2022-06-22, **Time-Limited Waveforms with Minimum Time Broadening for the Nonlinear Schrödinger Channel**, Youssef Jaffal et.al., Paper: [http://arxiv.org/abs/2206.11240v1](http://arxiv.org/abs/2206.11240v1)
