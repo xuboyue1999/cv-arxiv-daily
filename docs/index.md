@@ -24,6 +24,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-24**|**The evolution of the H2O maser emission in the accretion burst source G358.93-0.03**|O. S. Bayandina et.al.|[2206.12119v1](http://arxiv.org/abs/2206.12119v1)|null|
+|**2022-06-24**|**State-resolved infrared spectrum of the protonated water dimer: Revisiting the characteristic proton transfer doublet peak**|Henrik R. Larsson et.al.|[2206.12029v1](http://arxiv.org/abs/2206.12029v1)|null|
+|**2022-06-23**|**Infrared phases of 3D Class R theories**|Sunjin Choi et.al.|[2206.11982v1](http://arxiv.org/abs/2206.11982v1)|null|
+|**2022-06-23**|**Universal visible emitters in nanoscale integrated photonics**|Grisha Spektor et.al.|[2206.11966v1](http://arxiv.org/abs/2206.11966v1)|null|
+|**2022-06-23**|**The Dark Energy Camera Plane Survey 2 (DECaPS2): More Sky, Less Bias, and Better Uncertainties**|A. K. Saydjari et.al.|[2206.11909v1](http://arxiv.org/abs/2206.11909v1)|null|
 |**2022-06-23**|**Laboratory Experiments on the Radiation Astrochemistry of Water Ice Phases**|Duncan V. Mifsud et.al.|[2206.11614v1](http://arxiv.org/abs/2206.11614v1)|null|
 |**2022-06-23**|**Corrosion Monitoring On Zinc Electroplated Steel Using Shortwave Infrared Hyperspectral Imaging**|Thomas De Kerf et.al.|[2206.11592v1](http://arxiv.org/abs/2206.11592v1)|null|
 |**2022-06-23**|**Electrical manipulation of plasmon-phonon polaritons in heterostructures of graphene on biaxial crystals**|Zhiyong Li et.al.|[2206.11579v1](http://arxiv.org/abs/2206.11579v1)|null|
@@ -168,6 +173,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-24**|**Dragging of inertial frames by matter and waves**|Jiří Bičák et.al.|[2206.12397v1](http://arxiv.org/abs/2206.12397v1)|null|
+|**2022-06-24**|**Vibrationally excited HCN transitions in circumstellar envelopes of carbon-rich AGB stars**|Manali Jeste et.al.|[2206.12371v1](http://arxiv.org/abs/2206.12371v1)|null|
+|**2022-06-24**|**Analysis of one-neutron transfer reaction in $^{18}$O + $^{76}$Se collision at 275 MeV**|I. Ciraldo et.al.|[2206.12341v1](http://arxiv.org/abs/2206.12341v1)|null|
+|**2022-06-24**|**The strongly coupled $E_8\times E_8$ heterotic string: Geometry $\&$ Phenomenology**|Sebastian Dumitru et.al.|[2206.12310v1](http://arxiv.org/abs/2206.12310v1)|null|
+|**2022-06-24**|**Iterative Sound Source Localization for Unknown Number of Sources**|Yanjie Fu et.al.|[2206.12273v1](http://arxiv.org/abs/2206.12273v1)|null|
+|**2022-06-24**|**Constraining masses and separations of unseen companions to five accelerating nearby stars**|D. Mesa et.al.|[2206.12266v1](http://arxiv.org/abs/2206.12266v1)|null|
+|**2022-06-24**|**A Fundamental Limit of Distributed Hypothesis Testing Under Memoryless Quantization**|Yunus Inan et.al.|[2206.12232v1](http://arxiv.org/abs/2206.12232v1)|null|
+|**2022-06-24**|**Adversarial Robustness of Deep Neural Networks: A Survey from a Formal Verification Perspective**|Mark Huasong Meng et.al.|[2206.12227v1](http://arxiv.org/abs/2206.12227v1)|null|
+|**2022-06-24**|**Bits missing: Finding exotic pulsars using bfloat16 on NVIDIA GPUs**|Jack White et.al.|[2206.12205v1](http://arxiv.org/abs/2206.12205v1)|null|
+|**2022-06-24**|**Improving count rate capability of timing RPCs by increasing the detector working temperature**|A. Blanco et.al.|[2206.12199v1](http://arxiv.org/abs/2206.12199v1)|null|
 |**2022-06-23**|**Remote Sensing Change Detection (Segmentation) using Denoising Diffusion Probabilistic Models**|Wele Gedara Chaminda Bandara et.al.|[2206.11892v1](http://arxiv.org/abs/2206.11892v1)|**[link](https://github.com/wgcban/ddpm-cd)**|
 |**2022-06-23**|**Sensitivity of Rydberg-atom receiver to frequency and amplitude modulation of microwaves**|Sebastian Borówka et.al.|[2206.11829v1](http://arxiv.org/abs/2206.11829v1)|null|
 |**2022-06-24**|**Toward Clinically Assisted Colorectal Polyp Recognition via Structured Cross-modal Representation Consistency**|Weijie Ma et.al.|[2206.11826v2](http://arxiv.org/abs/2206.11826v2)|**[link](https://github.com/weijiemax/cpc-trans)**|
