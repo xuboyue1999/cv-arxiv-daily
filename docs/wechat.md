@@ -1,4 +1,4 @@
-> Updated on 2022.06.26
+> Updated on 2022.06.27
 
 ## RGBT
 
@@ -19,7 +19,7 @@
 - 2022-06-23, **Laboratory Experiments on the Radiation Astrochemistry of Water Ice Phases**, Duncan V. Mifsud et.al., Paper: [http://arxiv.org/abs/2206.11614v1](http://arxiv.org/abs/2206.11614v1)
 - 2022-06-23, **Corrosion Monitoring On Zinc Electroplated Steel Using Shortwave Infrared Hyperspectral Imaging**, Thomas De Kerf et.al., Paper: [http://arxiv.org/abs/2206.11592v1](http://arxiv.org/abs/2206.11592v1)
 - 2022-06-23, **Electrical manipulation of plasmon-phonon polaritons in heterostructures of graphene on biaxial crystals**, Zhiyong Li et.al., Paper: [http://arxiv.org/abs/2206.11579v1](http://arxiv.org/abs/2206.11579v1)
-- 2022-06-23, **Star Formation Activity Beyond the Outer Arm II: Distribution and Properties of Star Formation**, Natsuko Izumi et.al., Paper: [http://arxiv.org/abs/2206.11508v1](http://arxiv.org/abs/2206.11508v1)
+- 2022-06-24, **Star Formation Activity Beyond the Outer Arm II: Distribution and Properties of Star Formation**, Natsuko Izumi et.al., Paper: [http://arxiv.org/abs/2206.11508v2](http://arxiv.org/abs/2206.11508v2)
 - 2022-06-22, **Ultrafast transport and energy relaxation of hot electrons in Au/Fe/MgO(001) heterostructures analyzed by linear time-resolved photoelectron spectroscopy**, Florian Kühne et.al., Paper: [http://arxiv.org/abs/2206.11193v1](http://arxiv.org/abs/2206.11193v1)
 - 2022-06-22, **Non-LTE abundance corrections for late-type stars from 2000Å to 3μm: I. Na, Mg, and Al**, K. Lind et.al., Paper: [http://arxiv.org/abs/2206.11070v1](http://arxiv.org/abs/2206.11070v1)
 - 2022-06-22, **A new phase of massive star formation? A luminous outflow cavity centred on an infrared quiet core**, L. Bonne et.al., Paper: [http://arxiv.org/abs/2206.10889v1](http://arxiv.org/abs/2206.10889v1)
@@ -158,7 +158,7 @@
 
 - 2022-06-23, **Remote Sensing Change Detection (Segmentation) using Denoising Diffusion Probabilistic Models**, Wele Gedara Chaminda Bandara et.al., Paper: [http://arxiv.org/abs/2206.11892v1](http://arxiv.org/abs/2206.11892v1), Code: **[https://github.com/wgcban/ddpm-cd](https://github.com/wgcban/ddpm-cd)**
 - 2022-06-23, **Sensitivity of Rydberg-atom receiver to frequency and amplitude modulation of microwaves**, Sebastian Borówka et.al., Paper: [http://arxiv.org/abs/2206.11829v1](http://arxiv.org/abs/2206.11829v1)
-- 2022-06-23, **Toward Clinically Assisted Colorectal Polyp Recognition via Structured Cross-modal Representation Consistency**, Weijie Ma et.al., Paper: [http://arxiv.org/abs/2206.11826v1](http://arxiv.org/abs/2206.11826v1), Code: **[https://github.com/weijiemax/cpc-trans](https://github.com/weijiemax/cpc-trans)**
+- 2022-06-24, **Toward Clinically Assisted Colorectal Polyp Recognition via Structured Cross-modal Representation Consistency**, Weijie Ma et.al., Paper: [http://arxiv.org/abs/2206.11826v2](http://arxiv.org/abs/2206.11826v2), Code: **[https://github.com/weijiemax/cpc-trans](https://github.com/weijiemax/cpc-trans)**
 - 2022-06-23, **YOLOSA: Object detection based on 2D local feature superimposed self-attention**, Weisheng Li et.al., Paper: [http://arxiv.org/abs/2206.11825v1](http://arxiv.org/abs/2206.11825v1)
 - 2022-06-23, **DeepSafety:Multi-level Audio-Text Feature Extraction and Fusion Approach for Violence Detection in Conversations**, Amna Anwar et.al., Paper: [http://arxiv.org/abs/2206.11822v1](http://arxiv.org/abs/2206.11822v1)
 - 2022-06-23, **Authentication of Copy Detection Patterns under Machine Learning Attacks: A Supervised Approach**, Brian Pulfer et.al., Paper: [http://arxiv.org/abs/2206.11793v1](http://arxiv.org/abs/2206.11793v1)
