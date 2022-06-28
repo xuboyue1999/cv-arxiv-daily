@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-27**|**Improving Condensed Phase Water Dynamics with Explicit Nuclear Quantum Effects: the Polarizable Q-AMOEBA Force Field**|Nastasia Mauger et.al.|[2206.13430v1](http://arxiv.org/abs/2206.13430v1)|null|
+|**2022-06-27**|**Dust emissivity in resolved spiral galaxies**|S. Bianchi et.al.|[2206.13375v1](http://arxiv.org/abs/2206.13375v1)|null|
+|**2022-06-27**|**Design and analysis of electrothermal metasurfaces**|Xiu Liu et.al.|[2206.13315v1](http://arxiv.org/abs/2206.13315v1)|null|
+|**2022-06-27**|**Physical properties and trigonometric distance of the peculiar dwarf WISE J181005.5$-$101002.3**|N. Lodieu et.al.|[2206.13097v1](http://arxiv.org/abs/2206.13097v1)|null|
+|**2022-06-27**|**Anisotropic polaritons in 2D vdW materials**|Babar Shabbir et.al.|[2206.13039v1](http://arxiv.org/abs/2206.13039v1)|null|
+|**2022-06-26**|**Atomically imprinted graphene plasmonic cavities**|Brian S. Y. Kim et.al.|[2206.12754v1](http://arxiv.org/abs/2206.12754v1)|null|
+|**2022-06-25**|**MIRAC-5: A ground-based mid-IR instrumentwith the potential to detect ammonia in gas giants**|R. Bowens et.al.|[2206.12682v1](http://arxiv.org/abs/2206.12682v1)|null|
+|**2022-06-25**|**Space-resolved Chemical Information from Infrared Extinction Spectra**|Kalpa de Silva et.al.|[2206.12656v1](http://arxiv.org/abs/2206.12656v1)|null|
+|**2022-06-24**|**A multi-epoch, multi-wavelength study of the classical FUor V1515 Cyg approaching quiescence**|Zs. M. Szabó et.al.|[2206.12446v1](http://arxiv.org/abs/2206.12446v1)|null|
+|**2022-06-24**|**The Spectroscopy and H-band Imaging of Virgo cluster galaxies (SHIVir) Survey: Data Catalogue and Kinematic Profiles**|Nathalie N. -Q. Ouellette et.al.|[2206.12431v1](http://arxiv.org/abs/2206.12431v1)|null|
 |**2022-06-24**|**The evolution of the H2O maser emission in the accretion burst source G358.93-0.03**|O. S. Bayandina et.al.|[2206.12119v1](http://arxiv.org/abs/2206.12119v1)|null|
 |**2022-06-24**|**State-resolved infrared spectrum of the protonated water dimer: Revisiting the characteristic proton transfer doublet peak**|Henrik R. Larsson et.al.|[2206.12029v1](http://arxiv.org/abs/2206.12029v1)|null|
 |**2022-06-23**|**Infrared phases of 3D Class R theories**|Sunjin Choi et.al.|[2206.11982v1](http://arxiv.org/abs/2206.11982v1)|null|
@@ -169,6 +179,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-27**|**Auditing Visualizations: Transparency Methods Struggle to Detect Anomalous Behavior**|Jean-Stanislas Denain et.al.|[2206.13498v1](http://arxiv.org/abs/2206.13498v1)|**[link](https://github.com/js-d/auditing-vis)**|
+|**2022-06-27**|**"Double vaccinated, 5G boosted!": Learning Attitudes towards COVID-19 Vaccination from Social Media**|Ninghan Chen et.al.|[2206.13456v1](http://arxiv.org/abs/2206.13456v1)|null|
+|**2022-06-27**|**A Generalized Probabilistic Monitoring Model with Both Random and Sequential Data**|Wanke Yu et.al.|[2206.13437v1](http://arxiv.org/abs/2206.13437v1)|null|
+|**2022-06-27**|**Interpretable Hidden Markov Model-Based Deep Reinforcement Learning Hierarchical Framework for Predictive Maintenance of Turbofan Engines**|Ammar N. Abbas et.al.|[2206.13433v1](http://arxiv.org/abs/2206.13433v1)|null|
+|**2022-06-27**|**Incivility Detection in Open Source Code Review and Issue Discussions**|Isabella Ferreira et.al.|[2206.13429v1](http://arxiv.org/abs/2206.13429v1)|null|
+|**2022-06-27**|**Unsupervised Voice Activity Detection by Modeling Source and System Information using Zero Frequency Filtering**|Eklavya Sarkar et.al.|[2206.13420v1](http://arxiv.org/abs/2206.13420v1)|null|
+|**2022-06-27**|**DeStripe: A Self2Self Spatio-Spectral Graph Neural Network with Unfolded Hessian for Stripe Artifact Removal in Light-sheet Microscopy**|Yu Liu et.al.|[2206.13419v1](http://arxiv.org/abs/2206.13419v1)|null|
+|**2022-06-27**|**Belief-selective Propagation Detection for MIMO Systems**|Wenyue Zhou et.al.|[2206.13418v1](http://arxiv.org/abs/2206.13418v1)|null|
+|**2022-06-27**|**RES: A Robust Framework for Guiding Visual Explanation**|Yuyang Gao et.al.|[2206.13413v1](http://arxiv.org/abs/2206.13413v1)|**[link](https://github.com/yuyanggao/res)**|
+|**2022-06-27**|**TextDCT: Arbitrary-Shaped Text Detection via Discrete Cosine Transform Mask**|Yuchen Su et.al.|[2206.13381v1](http://arxiv.org/abs/2206.13381v1)|null|
 |**2022-06-24**|**Dragging of inertial frames by matter and waves**|Jiří Bičák et.al.|[2206.12397v1](http://arxiv.org/abs/2206.12397v1)|null|
 |**2022-06-24**|**Vibrationally excited HCN transitions in circumstellar envelopes of carbon-rich AGB stars**|Manali Jeste et.al.|[2206.12371v1](http://arxiv.org/abs/2206.12371v1)|null|
 |**2022-06-24**|**Analysis of one-neutron transfer reaction in $^{18}$O + $^{76}$Se collision at 275 MeV**|I. Ciraldo et.al.|[2206.12341v1](http://arxiv.org/abs/2206.12341v1)|null|
