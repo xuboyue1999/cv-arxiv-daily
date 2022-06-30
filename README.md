@@ -20,6 +20,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-29**|**Discovery of an optical cocoon tail behind the runaway HD 185806**|Z. T. Spetsieri et.al.|[2206.14806v1](http://arxiv.org/abs/2206.14806v1)|null|
+|**2022-06-29**|**ShapePipe: A modular weak-lensing processing and analysis pipeline**|S. Farrens et.al.|[2206.14689v1](http://arxiv.org/abs/2206.14689v1)|null|
+|**2022-06-29**|**Radioactivity induced dark count rate for single near-infrared photon detection with a tungsten transition edge sensor at 80 mK**|N. Bastidon et.al.|[2206.14654v1](http://arxiv.org/abs/2206.14654v1)|null|
+|**2022-06-29**|**Infrared physics of the 3D SU(2) adjoint Higgs model at the crossover transition**|Lauri Niemi et.al.|[2206.14487v1](http://arxiv.org/abs/2206.14487v1)|null|
+|**2022-06-28**|**Low star-formation activity and low gas content of quiescent galaxies at $z=$ 3.5-4.0 constrained with ALMA**|Tomoko L. Suzuki et.al.|[2206.14238v1](http://arxiv.org/abs/2206.14238v1)|null|
 |**2022-06-28**|**Infrared Radiation Feedback Does Not Regulate Star Cluster Formation or Drive Winds**|Shyam H. Menon et.al.|[2206.14190v1](http://arxiv.org/abs/2206.14190v1)|null|
 |**2022-06-28**|**The Galactic Nova Rate: Estimates from the ASAS-SN and Gaia Surveys**|A. Kawash et.al.|[2206.14132v1](http://arxiv.org/abs/2206.14132v1)|null|
 |**2022-06-29**|**Quantum Antennas**|Gregory Ya. Slepyan et.al.|[2206.14065v2](http://arxiv.org/abs/2206.14065v2)|null|
@@ -187,6 +192,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-29**|**Discovery of an optical cocoon tail behind the runaway HD 185806**|Z. T. Spetsieri et.al.|[2206.14806v1](http://arxiv.org/abs/2206.14806v1)|null|
+|**2022-06-29**|**Superresolution at the quantum limit beyond two point sources**|Hari Krovi et.al.|[2206.14788v1](http://arxiv.org/abs/2206.14788v1)|null|
+|**2022-06-29**|**Potential Technical Debt and Its Resolution in Code Reviews: An Exploratory Study of the OpenStack and Qt Communities**|Liming Fu et.al.|[2206.14764v1](http://arxiv.org/abs/2206.14764v1)|null|
+|**2022-06-29**|**LOFAR discovery of rare large FR-I jets in low-luminosity radio galaxy NGC 5322**|Amitesh Omar et.al.|[2206.14734v1](http://arxiv.org/abs/2206.14734v1)|null|
+|**2022-06-29**|**Large Neutrino Asymmetry from TeV Scale Leptogenesis in the Light of Helium Anomaly**|Debasish Borah et.al.|[2206.14722v1](http://arxiv.org/abs/2206.14722v1)|null|
+|**2022-06-29**|**Very Large Array Multi-band Radio Imaging of the Triple AGN Candidate SDSS J0849+1114**|Sijia Peng et.al.|[2206.14705v1](http://arxiv.org/abs/2206.14705v1)|null|
+|**2022-06-29**|**Four eccentric mergers increase the evidence that LIGO--Virgo--KAGRA's binary black holes form dynamically**|Isobel M. Romero-Shaw et.al.|[2206.14695v1](http://arxiv.org/abs/2206.14695v1)|null|
+|**2022-06-29**|**On the polarization of the non-prompt contribution to inclusive J/$ψ$ production in pp collisions**|Pietro Faccioli et.al.|[2206.14686v1](http://arxiv.org/abs/2206.14686v1)|null|
+|**2022-06-29**|**Computer-aided diagnosis and prediction in brain disorders**|Vikram Venkatraghavan et.al.|[2206.14683v1](http://arxiv.org/abs/2206.14683v1)|null|
+|**2022-06-29**|**BiometryNet: Landmark-based Fetal Biometry Estimation from Standard Ultrasound Planes**|Netanell Avisdris et.al.|[2206.14678v1](http://arxiv.org/abs/2206.14678v1)|null|
 |**2022-06-28**|**Probing parity-odd bispectra with anisotropies of GW $V$ modes**|Giorgio Orlando et.al.|[2206.14173v1](http://arxiv.org/abs/2206.14173v1)|null|
 |**2022-06-28**|**Trapped magnetic flux in hydrogen-rich high-temperature superconductors**|V. S. Minkov et.al.|[2206.14108v1](http://arxiv.org/abs/2206.14108v1)|null|
 |**2022-06-28**|**Gapped collective charge excitations and interlayer hopping in cuprate superconductors**|M. Hepting et.al.|[2206.14083v1](http://arxiv.org/abs/2206.14083v1)|null|
