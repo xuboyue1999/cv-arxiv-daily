@@ -1,4 +1,4 @@
-> Updated on 2022.06.29
+> Updated on 2022.06.30
 
 ## RGBT
 
@@ -18,7 +18,7 @@
 
 - 2022-06-28, **Infrared Radiation Feedback Does Not Regulate Star Cluster Formation or Drive Winds**, Shyam H. Menon et.al., Paper: [http://arxiv.org/abs/2206.14190v1](http://arxiv.org/abs/2206.14190v1)
 - 2022-06-28, **The Galactic Nova Rate: Estimates from the ASAS-SN and Gaia Surveys**, A. Kawash et.al., Paper: [http://arxiv.org/abs/2206.14132v1](http://arxiv.org/abs/2206.14132v1)
-- 2022-06-28, **Quantum Antennas**, Gregory Ya. Slepyan et.al., Paper: [http://arxiv.org/abs/2206.14065v1](http://arxiv.org/abs/2206.14065v1)
+- 2022-06-29, **Quantum Antennas**, Gregory Ya. Slepyan et.al., Paper: [http://arxiv.org/abs/2206.14065v2](http://arxiv.org/abs/2206.14065v2)
 - 2022-06-28, **Pressure-dependent structure of BaZrO$_3$ crystals as determined by Raman Spectroscopy**, Dong-Hyeon Gim et.al., Paper: [http://arxiv.org/abs/2206.14042v1](http://arxiv.org/abs/2206.14042v1)
 - 2022-06-28, **Modal Simulation Framework for the Design and Verification of Future Few-Mode Far-Infrared Spectrometers**, B. N. R. Lap et.al., Paper: [http://arxiv.org/abs/2206.13954v1](http://arxiv.org/abs/2206.13954v1)
 - 2022-06-28, **Generating near-infrared facial expression datasets with dimensional affect labels**, Calvin Chen et.al., Paper: [http://arxiv.org/abs/2206.13887v1](http://arxiv.org/abs/2206.13887v1)
@@ -185,7 +185,7 @@
 - 2022-06-28, **An Injection System for the CHIME/FRB Experiment**, Marcus Merryfield et.al., Paper: [http://arxiv.org/abs/2206.14079v1](http://arxiv.org/abs/2206.14079v1)
 - 2022-06-28, **FuSeBMC v4: Improving code coverage with smart seeds via fuzzing and static analysis**, Kaled M. Alshmrany et.al., Paper: [http://arxiv.org/abs/2206.14068v1](http://arxiv.org/abs/2206.14068v1)
 - 2022-06-28, **Linear detection of 30 mW dual-comb interferograms**, Philippe Guay et.al., Paper: [http://arxiv.org/abs/2206.14064v1](http://arxiv.org/abs/2206.14064v1)
-- 2022-06-28, **Towards Lexical Gender Inference: A Scalable Methodology using Online Databases**, Marion Bartl et.al., Paper: [http://arxiv.org/abs/2206.14055v1](http://arxiv.org/abs/2206.14055v1)
+- 2022-06-28, **Towards Lexical Gender Inference: A Scalable Methodology using Online Databases**, Marion Bartl et.al., Paper: [http://arxiv.org/abs/2206.14055v1](http://arxiv.org/abs/2206.14055v1), Code: **[https://github.com/marionbartl/lexical-gender](https://github.com/marionbartl/lexical-gender)**
 - 2022-06-28, **Scalable Simulation of Quantum Measurement Process with Quantum Computers**, Meng-Jun Hu et.al., Paper: [http://arxiv.org/abs/2206.14029v1](http://arxiv.org/abs/2206.14029v1)
 - 2022-06-28, **Search for multi-messenger events during LIGO/Virgo era**, Tosta e Melo et.al., Paper: [http://arxiv.org/abs/2206.14014v1](http://arxiv.org/abs/2206.14014v1)
 - 2022-06-28, **Microscopic calculation of the $β^-$ decays of $^{151}$Sm, $^{171}$Tm, and $^{210}$Pb with implications to detection of the cosmic neutrino background**, Joel Kostensalo et.al., Paper: [http://arxiv.org/abs/2206.14010v1](http://arxiv.org/abs/2206.14010v1)
