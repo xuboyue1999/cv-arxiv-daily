@@ -16,6 +16,14 @@
 
 ## Infrared
 
+- 2022-06-30, **The star formation history in the last 10 billion years from CIB cross-correlations**, Baptiste Jego et.al., Paper: [http://arxiv.org/abs/2206.15394v1](http://arxiv.org/abs/2206.15394v1)
+- 2022-06-30, **Warm molecular and ionized gas kinematics in the Type-2 quasar J0945+1737**, G. Speranza et.al., Paper: [http://arxiv.org/abs/2206.15347v1](http://arxiv.org/abs/2206.15347v1)
+- 2022-06-30, **A Route to Large-Scale Ultra-Low Noise Detector Arrays for Far-Infrared Space Applications**, D J Goldie et.al., Paper: [http://arxiv.org/abs/2206.15151v1](http://arxiv.org/abs/2206.15151v1)
+- 2022-06-30, **Core-excited states of SF$_{6}$ probed with soft X-ray femtosecond transient absorption of vibrational wavepackets**, Lou Barreau et.al., Paper: [http://arxiv.org/abs/2206.15125v1](http://arxiv.org/abs/2206.15125v1)
+- 2022-06-30, **Anomalies and Symmetry Fractionalization**, Diego Delmastro et.al., Paper: [http://arxiv.org/abs/2206.15118v1](http://arxiv.org/abs/2206.15118v1)
+- 2022-06-30, **Infrared view of the multiphase ISM in NGC 253 I. Observations and fundamental parameters of the ionised gas**, André Beck et.al., Paper: [http://arxiv.org/abs/2206.15062v1](http://arxiv.org/abs/2206.15062v1)
+- 2022-06-29, **Twist-tunable Polaritonic Nanoresonators in a van der Waals Crystal**, O. G. Matveeva et.al., Paper: [http://arxiv.org/abs/2206.14886v1](http://arxiv.org/abs/2206.14886v1)
+- 2022-06-29, **Are the host galaxies of Long Gamma-Ray Bursts more compact than star-forming galaxies of the field?**, B. Schneider et.al., Paper: [http://arxiv.org/abs/2206.14873v1](http://arxiv.org/abs/2206.14873v1)
 - 2022-06-29, **Discovery of an optical cocoon tail behind the runaway HD 185806**, Z. T. Spetsieri et.al., Paper: [http://arxiv.org/abs/2206.14806v1](http://arxiv.org/abs/2206.14806v1)
 - 2022-06-29, **ShapePipe: A modular weak-lensing processing and analysis pipeline**, S. Farrens et.al., Paper: [http://arxiv.org/abs/2206.14689v1](http://arxiv.org/abs/2206.14689v1)
 - 2022-06-29, **Radioactivity induced dark count rate for single near-infrared photon detection with a tungsten transition edge sensor at 80 mK**, N. Bastidon et.al., Paper: [http://arxiv.org/abs/2206.14654v1](http://arxiv.org/abs/2206.14654v1)
@@ -169,6 +177,7 @@
 
 ## RGBD
 
+- 2022-06-30, **Category-Level 6D Object Pose Estimation in the Wild: A Semi-Supervised Learning Approach and A New Dataset**, Yang Fu et.al., Paper: [http://arxiv.org/abs/2206.15436v1](http://arxiv.org/abs/2206.15436v1)
 - 2022-06-23, **Unseen Object 6D Pose Estimation: A Benchmark and Baselines**, Minghao Gou et.al., Paper: [http://arxiv.org/abs/2206.11808v1](http://arxiv.org/abs/2206.11808v1)
 - 2022-06-03, **OdomBeyondVision: An Indoor Multi-modal Multi-platform Odometry Dataset Beyond the Visible Spectrum**, Peize Li et.al., Paper: [http://arxiv.org/abs/2206.01589v1](http://arxiv.org/abs/2206.01589v1), Code: **[https://github.com/maps-lab/odombeyondvision](https://github.com/maps-lab/odombeyondvision)**
 - 2022-05-30, **Few-shot Class-incremental Learning for 3D Point Cloud Objects**, Townim Chowdhury et.al., Paper: [http://arxiv.org/abs/2205.15225v1](http://arxiv.org/abs/2205.15225v1), Code: **[https://github.com/townim-faisal/fscil-3d](https://github.com/townim-faisal/fscil-3d)**
@@ -184,6 +193,16 @@
 
 ## Saliency Detection
 
+- 2022-06-30, **AnoShift: A Distribution Shift Benchmark for Unsupervised Anomaly Detection**, Marius Drăgoi et.al., Paper: [http://arxiv.org/abs/2206.15476v1](http://arxiv.org/abs/2206.15476v1), Code: **[https://github.com/bit-ml/anoshift](https://github.com/bit-ml/anoshift)**
+- 2022-06-30, **A Solid-State Microwave Magnetometer with Picotesla-Level Sensitivity**, Scott T. Alsid et.al., Paper: [http://arxiv.org/abs/2206.15440v1](http://arxiv.org/abs/2206.15440v1)
+- 2022-06-30, **JACK2: a new high-level communication library for parallel iterative methods**, Guillaume Gbikpi-Benissan et.al., Paper: [http://arxiv.org/abs/2206.15420v1](http://arxiv.org/abs/2206.15420v1)
+- 2022-06-30, **SHERPAD: test of Slow high-efficiency extraction of Positrons from a Ring At DAFNE**, Paolo Valente et.al., Paper: [http://arxiv.org/abs/2206.15419v1](http://arxiv.org/abs/2206.15419v1)
+- 2022-06-30, **Distributed asynchronous convergence detection without detection protocol**, Guillaume Gbikpi-Benissan et.al., Paper: [http://arxiv.org/abs/2206.15418v1](http://arxiv.org/abs/2206.15418v1)
+- 2022-06-30, **MEAD: A Multi-Armed Approach for Evaluation of Adversarial Examples Detectors**, Federica Granese et.al., Paper: [http://arxiv.org/abs/2206.15415v1](http://arxiv.org/abs/2206.15415v1), Code: **[https://github.com/meadsubmission/mead](https://github.com/meadsubmission/mead)**
+- 2022-06-30, **PolarFormer: Multi-camera 3D Object Detection with Polar Transformer**, Yanqin Jiang et.al., Paper: [http://arxiv.org/abs/2206.15398v1](http://arxiv.org/abs/2206.15398v1)
+- 2022-06-30, **Compact Binary Coalescences: Astrophysical Processes and Lessons Learned**, Mario Spera et.al., Paper: [http://arxiv.org/abs/2206.15392v1](http://arxiv.org/abs/2206.15392v1)
+- 2022-06-30, **Constraining white dwarf tides from gravitational waves with LISA**, Sylvia Biscoveanu et.al., Paper: [http://arxiv.org/abs/2206.15390v1](http://arxiv.org/abs/2206.15390v1)
+- 2022-06-30, **On the efficacy of higher-order spectral clustering under weighted stochastic block models**, Xiao Guo et.al., Paper: [http://arxiv.org/abs/2206.15379v1](http://arxiv.org/abs/2206.15379v1)
 - 2022-06-29, **Discovery of an optical cocoon tail behind the runaway HD 185806**, Z. T. Spetsieri et.al., Paper: [http://arxiv.org/abs/2206.14806v1](http://arxiv.org/abs/2206.14806v1)
 - 2022-06-29, **Superresolution at the quantum limit beyond two point sources**, Hari Krovi et.al., Paper: [http://arxiv.org/abs/2206.14788v1](http://arxiv.org/abs/2206.14788v1)
 - 2022-06-29, **Potential Technical Debt and Its Resolution in Code Reviews: An Exploratory Study of the OpenStack and Qt Communities**, Liming Fu et.al., Paper: [http://arxiv.org/abs/2206.14764v1](http://arxiv.org/abs/2206.14764v1)
