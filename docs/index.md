@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.03
+## Updated on 2022.07.04
 
 ## RGBT
 
@@ -24,6 +24,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-01**|**The infrared [WC] stars**|Albert Zijlstra et.al.|[2207.00547v1](http://arxiv.org/abs/2207.00547v1)|null|
+|**2022-07-01**|**A complete POVM description of multi-channel quantum electro-optic sampling with monochromatic field modes**|Emanuel Hubenschmid et.al.|[2207.00490v1](http://arxiv.org/abs/2207.00490v1)|null|
+|**2022-07-01**|**The well-posedness of the Cauchy problem for self-interacting vector fields**|Enrico Barausse et.al.|[2207.00443v1](http://arxiv.org/abs/2207.00443v1)|null|
+|**2022-07-01**|**High Sensitivity real-time VOCs monitoring in air through FTIR Spectroscopy using a Multipass Gas Cell Setup**|A. D'Arco et.al.|[2207.00340v1](http://arxiv.org/abs/2207.00340v1)|null|
+|**2022-06-30**|**SRG/eROSITA discovery of an extremely radio-faint iron-rich X-ray candidate supernova remnant SRGe J003602.3+605421 = G121.1-1.9**|I. I. Khabibullin et.al.|[2207.00064v1](http://arxiv.org/abs/2207.00064v1)|null|
+|**2022-06-30**|**Dual constraints with ALMA: new [O III] 88 μm and dust-continuum observations reveal the ISM conditions of luminous LBGs at $z \sim 7$**|Joris Witstok et.al.|[2207.00022v1](http://arxiv.org/abs/2207.00022v1)|null|
 |**2022-06-30**|**The star formation history in the last 10 billion years from CIB cross-correlations**|Baptiste Jego et.al.|[2206.15394v1](http://arxiv.org/abs/2206.15394v1)|**[link](https://github.com/LSSTDESC/CCL)**|
 |**2022-06-30**|**Warm molecular and ionized gas kinematics in the Type-2 quasar J0945+1737**|G. Speranza et.al.|[2206.15347v1](http://arxiv.org/abs/2206.15347v1)|null|
 |**2022-06-30**|**A Route to Large-Scale Ultra-Low Noise Detector Arrays for Far-Infrared Space Applications**|D J Goldie et.al.|[2206.15151v1](http://arxiv.org/abs/2206.15151v1)|null|
@@ -187,6 +193,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-01**|**Towards Two-view 6D Object Pose Estimation: A Comparative Study on Fusion Strategy**|Jun Wu et.al.|[2207.00260v1](http://arxiv.org/abs/2207.00260v1)|null|
 |**2022-06-30**|**Category-Level 6D Object Pose Estimation in the Wild: A Semi-Supervised Learning Approach and A New Dataset**|Yang Fu et.al.|[2206.15436v1](http://arxiv.org/abs/2206.15436v1)|null|
 |**2022-06-23**|**Unseen Object 6D Pose Estimation: A Benchmark and Baselines**|Minghao Gou et.al.|[2206.11808v1](http://arxiv.org/abs/2206.11808v1)|null|
 |**2022-06-03**|**OdomBeyondVision: An Indoor Multi-modal Multi-platform Odometry Dataset Beyond the Visible Spectrum**|Peize Li et.al.|[2206.01589v1](http://arxiv.org/abs/2206.01589v1)|**[link](https://github.com/maps-lab/odombeyondvision)**|
@@ -205,6 +212,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-01**|**Hard X-ray emission from the eastern jet of SS 433 powering the W50 `Manatee' nebula: Evidence for particle re-acceleration**|Samar Safi-Harb et.al.|[2207.00573v1](http://arxiv.org/abs/2207.00573v1)|null|
+|**2022-07-01**|**Characterising the AGB bump and its potential to constrain mixing processes in stellar interiors**|G. Dréau et.al.|[2207.00571v1](http://arxiv.org/abs/2207.00571v1)|null|
+|**2022-07-01**|**AIROPA III: Testing Simulated and On-Sky Data**|Paolo Turri et.al.|[2207.00548v1](http://arxiv.org/abs/2207.00548v1)|null|
+|**2022-07-01**|**Masked Autoencoders for Self-Supervised Learning on Automotive Point Clouds**|Georg Hess et.al.|[2207.00531v1](http://arxiv.org/abs/2207.00531v1)|null|
+|**2022-07-01**|**X-Ray Optics for Astrophysics: a historical review**|Finn E. Christensen et.al.|[2207.00512v1](http://arxiv.org/abs/2207.00512v1)|null|
+|**2022-07-01**|**Enhancing cluster analysis via topological manifold learning**|Moritz Herrmann et.al.|[2207.00510v1](http://arxiv.org/abs/2207.00510v1)|null|
+|**2022-07-01**|**New, late-type spectroscopic binaries with X-ray emission**|A. Frasca et.al.|[2207.00505v1](http://arxiv.org/abs/2207.00505v1)|null|
+|**2022-07-01**|**A complete POVM description of multi-channel quantum electro-optic sampling with monochromatic field modes**|Emanuel Hubenschmid et.al.|[2207.00490v1](http://arxiv.org/abs/2207.00490v1)|null|
+|**2022-07-01**|**Panning for gold: Lessons learned from the platform-agnostic automated detection of political content in textual data**|Mykola Makhortykh et.al.|[2207.00489v1](http://arxiv.org/abs/2207.00489v1)|null|
+|**2022-07-01**|**Top-philic Dark Matter in a Hybrid KSVZ axion framework**|Anupam Ghosh et.al.|[2207.00487v1](http://arxiv.org/abs/2207.00487v1)|null|
 |**2022-06-30**|**AnoShift: A Distribution Shift Benchmark for Unsupervised Anomaly Detection**|Marius Drăgoi et.al.|[2206.15476v1](http://arxiv.org/abs/2206.15476v1)|**[link](https://github.com/bit-ml/anoshift)**|
 |**2022-06-30**|**A Solid-State Microwave Magnetometer with Picotesla-Level Sensitivity**|Scott T. Alsid et.al.|[2206.15440v1](http://arxiv.org/abs/2206.15440v1)|null|
 |**2022-06-30**|**JACK2: a new high-level communication library for parallel iterative methods**|Guillaume Gbikpi-Benissan et.al.|[2206.15420v1](http://arxiv.org/abs/2206.15420v1)|null|
