@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-04**|**Observing the completion of the first solvation shell of carbon dioxide in argon from rotationally resolved spectra**|A. J. Barclay et.al.|[2207.01522v1](http://arxiv.org/abs/2207.01522v1)|null|
+|**2022-07-03**|**The composition and structure of the ubiquitous hydrocarbon contamination on van der Waals materials**|András Pálinkás et.al.|[2207.01057v1](http://arxiv.org/abs/2207.01057v1)|null|
 |**2022-07-01**|**The infrared [WC] stars**|Albert Zijlstra et.al.|[2207.00547v1](http://arxiv.org/abs/2207.00547v1)|null|
 |**2022-07-01**|**A complete POVM description of multi-channel quantum electro-optic sampling with monochromatic field modes**|Emanuel Hubenschmid et.al.|[2207.00490v1](http://arxiv.org/abs/2207.00490v1)|null|
 |**2022-07-01**|**The well-posedness of the Cauchy problem for self-interacting vector fields**|Enrico Barausse et.al.|[2207.00443v1](http://arxiv.org/abs/2207.00443v1)|null|
@@ -189,6 +191,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-04**|**Accurate Instance-Level CAD Model Retrieval in a Large-Scale Database**|Jiaxin Wei et.al.|[2207.01339v1](http://arxiv.org/abs/2207.01339v1)|null|
 |**2022-07-01**|**Towards Two-view 6D Object Pose Estimation: A Comparative Study on Fusion Strategy**|Jun Wu et.al.|[2207.00260v1](http://arxiv.org/abs/2207.00260v1)|null|
 |**2022-06-30**|**Category-Level 6D Object Pose Estimation in the Wild: A Semi-Supervised Learning Approach and A New Dataset**|Yang Fu et.al.|[2206.15436v1](http://arxiv.org/abs/2206.15436v1)|null|
 |**2022-06-23**|**Unseen Object 6D Pose Estimation: A Benchmark and Baselines**|Minghao Gou et.al.|[2206.11808v1](http://arxiv.org/abs/2206.11808v1)|null|
@@ -208,6 +211,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-04**|**Exploring realistic nanohertz gravitational-wave backgrounds**|Bence Bécsy et.al.|[2207.01607v1](http://arxiv.org/abs/2207.01607v1)|null|
+|**2022-07-04**|**Quasi-simultaneous observations of radio and X-ray variability in three radio-quiet Seyfert galaxies**|Sina Chen et.al.|[2207.01601v1](http://arxiv.org/abs/2207.01601v1)|null|
+|**2022-07-04**|**Classification of Alzheimer's Disease Using the Convolutional Neural Network (CNN) with Transfer Learning and Weighted Loss**|Muhammad Wildan Oktavian et.al.|[2207.01584v1](http://arxiv.org/abs/2207.01584v1)|null|
+|**2022-07-04**|**Embedding contrastive unsupervised features to cluster in- and out-of-distribution noise in corrupted image datasets**|Paul Albert et.al.|[2207.01573v1](http://arxiv.org/abs/2207.01573v1)|null|
+|**2022-07-04**|**Population properties and multimessenger prospects of neutron star-black hole mergers following GWTC-3**|Sylvia Biscoveanu et.al.|[2207.01568v1](http://arxiv.org/abs/2207.01568v1)|null|
+|**2022-07-04**|**Fidelity of Ensemble Aggregation for Saliency Map Explanations using Bayesian Optimization Techniques**|Yannik Mahlau et.al.|[2207.01565v1](http://arxiv.org/abs/2207.01565v1)|null|
+|**2022-07-04**|**Machine Learning of Average Non-Markovianity from Randomized Benchmarking**|Shih-Xian Yang et.al.|[2207.01542v1](http://arxiv.org/abs/2207.01542v1)|null|
+|**2022-07-04**|**Efficient Lung Cancer Image Classification and Segmentation Algorithm Based on Improved Swin Transformer**|Ruina Sun et.al.|[2207.01527v1](http://arxiv.org/abs/2207.01527v1)|null|
+|**2022-07-04**|**Adaptive GLCM sampling for transformer-based COVID-19 detection on CT**|Okchul Jung et.al.|[2207.01520v1](http://arxiv.org/abs/2207.01520v1)|null|
+|**2022-07-04**|**Phase Diagram Detection via Gaussian Fitting of Number Probability Distribution**|Daniele Contessi et.al.|[2207.01478v1](http://arxiv.org/abs/2207.01478v1)|null|
 |**2022-07-01**|**Hard X-ray emission from the eastern jet of SS 433 powering the W50 `Manatee' nebula: Evidence for particle re-acceleration**|Samar Safi-Harb et.al.|[2207.00573v1](http://arxiv.org/abs/2207.00573v1)|null|
 |**2022-07-01**|**Characterising the AGB bump and its potential to constrain mixing processes in stellar interiors**|G. Dréau et.al.|[2207.00571v1](http://arxiv.org/abs/2207.00571v1)|null|
 |**2022-07-01**|**AIROPA III: Testing Simulated and On-Sky Data**|Paolo Turri et.al.|[2207.00548v1](http://arxiv.org/abs/2207.00548v1)|null|
