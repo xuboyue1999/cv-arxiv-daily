@@ -16,6 +16,12 @@
 
 ## Infrared
 
+- 2022-07-05, **Efficiently combining Alpha CenA multi-epoch high-contrast imaging data. Application of K-Stacker to the 80 hrs NEAR campaign**, Hervé Le Coroller et.al., Paper: [http://arxiv.org/abs/2207.02137v1](http://arxiv.org/abs/2207.02137v1)
+- 2022-07-05, **Drone Detection and Tracking in Real-Time by Fusion of Different Sensing Modalities**, Fredrik Svanström et.al., Paper: [http://arxiv.org/abs/2207.01927v1](http://arxiv.org/abs/2207.01927v1)
+- 2022-07-05, **Spatial-Temporal Frequency Forgery Clue for Video Forgery Detection in VIS and NIR Scenario**, Yukai Wang et.al., Paper: [http://arxiv.org/abs/2207.01906v1](http://arxiv.org/abs/2207.01906v1)
+- 2022-07-05, **Ultraviolet Spectropolarimetry: Investigating stellar magnetic field diagnostics**, C. P. Folsom et.al., Paper: [http://arxiv.org/abs/2207.01865v1](http://arxiv.org/abs/2207.01865v1)
+- 2022-07-04, **Giant radio galaxies in the LoTSS Boötes deep field**, Marco Simonte et.al., Paper: [http://arxiv.org/abs/2207.01648v1](http://arxiv.org/abs/2207.01648v1)
+- 2022-07-04, **A machine learning classifier for LOFAR radio galaxy cross-matching techniques**, Lara Alegre et.al., Paper: [http://arxiv.org/abs/2207.01645v1](http://arxiv.org/abs/2207.01645v1)
 - 2022-07-04, **Observing the completion of the first solvation shell of carbon dioxide in argon from rotationally resolved spectra**, A. J. Barclay et.al., Paper: [http://arxiv.org/abs/2207.01522v1](http://arxiv.org/abs/2207.01522v1)
 - 2022-07-03, **The composition and structure of the ubiquitous hydrocarbon contamination on van der Waals materials**, András Pálinkás et.al., Paper: [http://arxiv.org/abs/2207.01057v1](http://arxiv.org/abs/2207.01057v1)
 - 2022-07-01, **The infrared [WC] stars**, Albert Zijlstra et.al., Paper: [http://arxiv.org/abs/2207.00547v1](http://arxiv.org/abs/2207.00547v1)
@@ -185,6 +191,7 @@
 
 ## RGBD
 
+- 2022-07-05, **Open-Vocabulary 3D Detection via Image-level Class and Debiased Cross-modal Contrastive Learning**, Yuheng Lu et.al., Paper: [http://arxiv.org/abs/2207.01987v1](http://arxiv.org/abs/2207.01987v1)
 - 2022-07-04, **Accurate Instance-Level CAD Model Retrieval in a Large-Scale Database**, Jiaxin Wei et.al., Paper: [http://arxiv.org/abs/2207.01339v1](http://arxiv.org/abs/2207.01339v1)
 - 2022-07-01, **Towards Two-view 6D Object Pose Estimation: A Comparative Study on Fusion Strategy**, Jun Wu et.al., Paper: [http://arxiv.org/abs/2207.00260v1](http://arxiv.org/abs/2207.00260v1)
 - 2022-06-30, **Category-Level 6D Object Pose Estimation in the Wild: A Semi-Supervised Learning Approach and A New Dataset**, Yang Fu et.al., Paper: [http://arxiv.org/abs/2206.15436v1](http://arxiv.org/abs/2206.15436v1)
@@ -203,6 +210,16 @@
 
 ## Saliency Detection
 
+- 2022-07-05, **walter: A Tool for Predicting Resolved Stellar Population Observations with Applications to the Roman Space Telescope**, Lachlan Lancaster et.al., Paper: [http://arxiv.org/abs/2207.02208v1](http://arxiv.org/abs/2207.02208v1)
+- 2022-07-05, **Clustered Saliency Prediction**, Rezvan Sherkati et.al., Paper: [http://arxiv.org/abs/2207.02205v1](http://arxiv.org/abs/2207.02205v1)
+- 2022-07-05, **Detecting and Recovering Sequential DeepFake Manipulation**, Rui Shao et.al., Paper: [http://arxiv.org/abs/2207.02204v1](http://arxiv.org/abs/2207.02204v1), Code: **[https://github.com/rshaojimmy/seqdeepfake](https://github.com/rshaojimmy/seqdeepfake)**
+- 2022-07-05, **CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers**, Runsheng Xu et.al., Paper: [http://arxiv.org/abs/2207.02202v1](http://arxiv.org/abs/2207.02202v1)
+- 2022-07-05, **Activation Template Matching Loss for Explainable Face Recognition**, Huawei Lin et.al., Paper: [http://arxiv.org/abs/2207.02179v1](http://arxiv.org/abs/2207.02179v1)
+- 2022-07-05, **Multi-IRS-Aided Doppler-Tolerant Wideband DFRC System**, Tong Wei et.al., Paper: [http://arxiv.org/abs/2207.02157v1](http://arxiv.org/abs/2207.02157v1)
+- 2022-07-05, **Observation of S4716 -- a Star with a 4 yr Orbit around Sgr A***, Florian Peißker et.al., Paper: [http://arxiv.org/abs/2207.02142v1](http://arxiv.org/abs/2207.02142v1)
+- 2022-07-05, **Efficiently combining Alpha CenA multi-epoch high-contrast imaging data. Application of K-Stacker to the 80 hrs NEAR campaign**, Hervé Le Coroller et.al., Paper: [http://arxiv.org/abs/2207.02137v1](http://arxiv.org/abs/2207.02137v1)
+- 2022-07-05, **Numerical considerations and a new implementation for ICS**, Aurore Archimbaud et.al., Paper: [http://arxiv.org/abs/2207.02131v1](http://arxiv.org/abs/2207.02131v1)
+- 2022-07-05, **An Intrusion Detection System based on Deep Belief Networks**, Othmane Belarbi et.al., Paper: [http://arxiv.org/abs/2207.02117v1](http://arxiv.org/abs/2207.02117v1), Code: **[https://github.com/othmbela/dbn-based-nids](https://github.com/othmbela/dbn-based-nids)**
 - 2022-07-04, **Exploring realistic nanohertz gravitational-wave backgrounds**, Bence Bécsy et.al., Paper: [http://arxiv.org/abs/2207.01607v1](http://arxiv.org/abs/2207.01607v1)
 - 2022-07-04, **Quasi-simultaneous observations of radio and X-ray variability in three radio-quiet Seyfert galaxies**, Sina Chen et.al., Paper: [http://arxiv.org/abs/2207.01601v1](http://arxiv.org/abs/2207.01601v1)
 - 2022-07-04, **Classification of Alzheimer's Disease Using the Convolutional Neural Network (CNN) with Transfer Learning and Weighted Loss**, Muhammad Wildan Oktavian et.al., Paper: [http://arxiv.org/abs/2207.01584v1](http://arxiv.org/abs/2207.01584v1)
