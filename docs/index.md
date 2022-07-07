@@ -24,6 +24,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-06**|**Characterising the orbit and circumstellar environment of the high-mass binary MWC 166 A**|Sebastian A. Zarrilli et.al.|[2207.02836v1](http://arxiv.org/abs/2207.02836v1)|null|
+|**2022-07-06**|**Gaze-Vergence-Controlled See-Through Vision in Augmented Reality**|Zhimin Wang et.al.|[2207.02645v1](http://arxiv.org/abs/2207.02645v1)|null|
+|**2022-07-06**|**The MICADO Atmospheric Dispersion Corrector: Optomechanical design, expected performance and calibration techniques**|J. A. van den Born et.al.|[2207.02572v1](http://arxiv.org/abs/2207.02572v1)|null|
+|**2022-07-06**|**Exploring refractory organics in extraterrestrial particles**|Alexey Potapov et.al.|[2207.02537v1](http://arxiv.org/abs/2207.02537v1)|null|
+|**2022-07-05**|**Ionization rate and plasma dynamics at 3.9 micron femtosecond photoionization of air**|Adam Patel et.al.|[2207.02354v1](http://arxiv.org/abs/2207.02354v1)|null|
+|**2022-07-05**|**Relativistic Atomic Structure of Au IV and the Os Isoelectronic Sequence: opacity data for kilonova ejecta**|Z. S. Taghadomi et.al.|[2207.02311v1](http://arxiv.org/abs/2207.02311v1)|null|
+|**2022-07-05**|**Water UV-shielding in the terrestrial planet-forming zone: Implications for carbon dioxide emission**|Arthur D. Bosman et.al.|[2207.02236v1](http://arxiv.org/abs/2207.02236v1)|null|
+|**2022-07-05**|**Can one hear the shape of a wormhole?**|Stefano Antonini et.al.|[2207.02225v1](http://arxiv.org/abs/2207.02225v1)|null|
 |**2022-07-05**|**Efficiently combining Alpha CenA multi-epoch high-contrast imaging data. Application of K-Stacker to the 80 hrs NEAR campaign**|Hervé Le Coroller et.al.|[2207.02137v1](http://arxiv.org/abs/2207.02137v1)|null|
 |**2022-07-05**|**Drone Detection and Tracking in Real-Time by Fusion of Different Sensing Modalities**|Fredrik Svanström et.al.|[2207.01927v1](http://arxiv.org/abs/2207.01927v1)|null|
 |**2022-07-05**|**Spatial-Temporal Frequency Forgery Clue for Video Forgery Detection in VIS and NIR Scenario**|Yukai Wang et.al.|[2207.01906v1](http://arxiv.org/abs/2207.01906v1)|null|
@@ -222,6 +230,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-06**|**Addressing Detection Limits with Semiparametric Cumulative Probability Models**|Yuqi Tian et.al.|[2207.02815v1](http://arxiv.org/abs/2207.02815v1)|null|
+|**2022-07-06**|**Multi-View Object Pose Refinement With Differentiable Renderer**|Ivan Shugurov et.al.|[2207.02811v1](http://arxiv.org/abs/2207.02811v1)|null|
+|**2022-07-06**|**DPODv2: Dense Correspondence-Based 6 DoF Pose Estimation**|Ivan Shugurov et.al.|[2207.02805v1](http://arxiv.org/abs/2207.02805v1)|null|
+|**2022-07-06**|**Delving into Sequential Patches for Deepfake Detection**|Jiazhi Guan et.al.|[2207.02803v1](http://arxiv.org/abs/2207.02803v1)|null|
+|**2022-07-06**|**Rethinking the Value of Gazetteer in Chinese Named Entity Recognition**|Qianglong Chen et.al.|[2207.02802v1](http://arxiv.org/abs/2207.02802v1)|**[link](https://github.com/knowledgeresearch/kaner)**|
+|**2022-07-06**|**Filtering and imaging of frequency-degenerate spin waves using nanopositioning of a single-spin sensor**|Brecht G. Simon et.al.|[2207.02798v1](http://arxiv.org/abs/2207.02798v1)|null|
+|**2022-07-06**|**An Unsupervised Learning Approach for Quasar Continuum Prediction**|Zechang Sun et.al.|[2207.02788v1](http://arxiv.org/abs/2207.02788v1)|null|
+|**2022-07-06**|**Galaxy Merger Reconstruction with Equivariant Graph Normalizing Flows**|Kwok Sun Tang et.al.|[2207.02786v1](http://arxiv.org/abs/2207.02786v1)|null|
+|**2022-07-06**|**Unsupervised Learning for Stellar Spectra with Deep Normalizing Flows**|Ioana Ciuca et.al.|[2207.02785v1](http://arxiv.org/abs/2207.02785v1)|null|
+|**2022-07-06**|**Relative Sea Level and Abrupt Mass Unloading**|Julien Gargani et.al.|[2207.02784v1](http://arxiv.org/abs/2207.02784v1)|null|
 |**2022-07-05**|**walter: A Tool for Predicting Resolved Stellar Population Observations with Applications to the Roman Space Telescope**|Lachlan Lancaster et.al.|[2207.02208v1](http://arxiv.org/abs/2207.02208v1)|null|
 |**2022-07-05**|**Clustered Saliency Prediction**|Rezvan Sherkati et.al.|[2207.02205v1](http://arxiv.org/abs/2207.02205v1)|null|
 |**2022-07-05**|**Detecting and Recovering Sequential DeepFake Manipulation**|Rui Shao et.al.|[2207.02204v1](http://arxiv.org/abs/2207.02204v1)|**[link](https://github.com/rshaojimmy/seqdeepfake)**|
