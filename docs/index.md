@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.07
+## Updated on 2022.07.08
 
 ## RGBT
 
@@ -30,7 +30,7 @@ layout: default
 |**2022-07-06**|**Exploring refractory organics in extraterrestrial particles**|Alexey Potapov et.al.|[2207.02537v1](http://arxiv.org/abs/2207.02537v1)|null|
 |**2022-07-05**|**Ionization rate and plasma dynamics at 3.9 micron femtosecond photoionization of air**|Adam Patel et.al.|[2207.02354v1](http://arxiv.org/abs/2207.02354v1)|null|
 |**2022-07-05**|**Relativistic Atomic Structure of Au IV and the Os Isoelectronic Sequence: opacity data for kilonova ejecta**|Z. S. Taghadomi et.al.|[2207.02311v1](http://arxiv.org/abs/2207.02311v1)|null|
-|**2022-07-05**|**Water UV-shielding in the terrestrial planet-forming zone: Implications for carbon dioxide emission**|Arthur D. Bosman et.al.|[2207.02236v1](http://arxiv.org/abs/2207.02236v1)|null|
+|**2022-07-07**|**Water UV-shielding in the terrestrial planet-forming zone: Implications for carbon dioxide emission**|Arthur D. Bosman et.al.|[2207.02236v2](http://arxiv.org/abs/2207.02236v2)|null|
 |**2022-07-05**|**Can one hear the shape of a wormhole?**|Stefano Antonini et.al.|[2207.02225v1](http://arxiv.org/abs/2207.02225v1)|null|
 |**2022-07-05**|**Efficiently combining Alpha CenA multi-epoch high-contrast imaging data. Application of K-Stacker to the 80 hrs NEAR campaign**|Hervé Le Coroller et.al.|[2207.02137v1](http://arxiv.org/abs/2207.02137v1)|null|
 |**2022-07-05**|**Drone Detection and Tracking in Real-Time by Fusion of Different Sensing Modalities**|Fredrik Svanström et.al.|[2207.01927v1](http://arxiv.org/abs/2207.01927v1)|null|
