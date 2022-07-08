@@ -16,6 +16,11 @@
 
 ## Infrared
 
+- 2022-07-07, **ACCESS: Confirmation of a Clear Atmosphere for WASP-96b and a Comparison of Light Curve Detrending Techniques**, Chima D. McGruder et.al., Paper: [http://arxiv.org/abs/2207.03479v1](http://arxiv.org/abs/2207.03479v1)
+- 2022-07-07, **Infrared spectra of (CO$_2$)$_2$-Rg trimers, Rg = Ne, Ar, Kr, and Xe**, A. J. Barclay et.al., Paper: [http://arxiv.org/abs/2207.03042v1](http://arxiv.org/abs/2207.03042v1)
+- 2022-07-06, **2D spectroscopies from condensed phase dynamics: Accessing third-order response properties from equilibrium multi-time correlation functions**, Kenneth A. Jung et.al., Paper: [http://arxiv.org/abs/2207.02981v1](http://arxiv.org/abs/2207.02981v1)
+- 2022-07-06, **COol Companions ON Ultrawide orbiTS (COCONUTS). III. A Very Red L6 Benchmark Brown Dwarf around a Young M5 Dwarf**, Zhoujian Zhang et.al., Paper: [http://arxiv.org/abs/2207.02865v1](http://arxiv.org/abs/2207.02865v1)
+- 2022-07-06, **Infrared singularities of multi-leg QCD amplitudes with a massive parton at three loops**, Ze Long Liu et.al., Paper: [http://arxiv.org/abs/2207.02864v1](http://arxiv.org/abs/2207.02864v1)
 - 2022-07-06, **Characterising the orbit and circumstellar environment of the high-mass binary MWC 166 A**, Sebastian A. Zarrilli et.al., Paper: [http://arxiv.org/abs/2207.02836v1](http://arxiv.org/abs/2207.02836v1)
 - 2022-07-06, **Gaze-Vergence-Controlled See-Through Vision in Augmented Reality**, Zhimin Wang et.al., Paper: [http://arxiv.org/abs/2207.02645v1](http://arxiv.org/abs/2207.02645v1)
 - 2022-07-06, **The MICADO Atmospheric Dispersion Corrector: Optomechanical design, expected performance and calibration techniques**, J. A. van den Born et.al., Paper: [http://arxiv.org/abs/2207.02572v1](http://arxiv.org/abs/2207.02572v1)
@@ -218,6 +223,16 @@
 
 ## Saliency Detection
 
+- 2022-07-07, **Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection**, Hanoona Rasheed et.al., Paper: [http://arxiv.org/abs/2207.03482v1](http://arxiv.org/abs/2207.03482v1), Code: **[https://github.com/hanoonaR/object-centric-ovd](https://github.com/hanoonaR/object-centric-ovd)**
+- 2022-07-07, **ACCESS: Confirmation of a Clear Atmosphere for WASP-96b and a Comparison of Light Curve Detrending Techniques**, Chima D. McGruder et.al., Paper: [http://arxiv.org/abs/2207.03479v1](http://arxiv.org/abs/2207.03479v1)
+- 2022-07-07, **Red PANDA: Disambiguating Anomaly Detection by Removing Nuisance Factors**, Niv Cohen et.al., Paper: [http://arxiv.org/abs/2207.03478v1](http://arxiv.org/abs/2207.03478v1)
+- 2022-07-07, **Endemic infectious states below the epidemic threshold and beyond herd immunity**, Javier Aguilar et.al., Paper: [http://arxiv.org/abs/2207.03462v1](http://arxiv.org/abs/2207.03462v1)
+- 2022-07-07, **Relativistic distortions in galaxy density-ellipticity correlations: gravitational redshift and peculiar velocity effects**, Shohei Saga et.al., Paper: [http://arxiv.org/abs/2207.03454v1](http://arxiv.org/abs/2207.03454v1)
+- 2022-07-07, **Semi-supervised Object Detection via Virtual Category Learning**, Changrui Chen et.al., Paper: [http://arxiv.org/abs/2207.03433v1](http://arxiv.org/abs/2207.03433v1)
+- 2022-07-07, **Subtracting glitches from gravitational-wave detector data during the third observing run**, D. Davis et.al., Paper: [http://arxiv.org/abs/2207.03429v1](http://arxiv.org/abs/2207.03429v1)
+- 2022-07-07, **Millimeter wave spectrum and search for vinyl isocyanate toward Sgr B2(N) with ALMA**, K. Vávra et.al., Paper: [http://arxiv.org/abs/2207.03417v1](http://arxiv.org/abs/2207.03417v1)
+- 2022-07-07, **Robust Watermarking for Video Forgery Detection with Improved Imperceptibility and Robustness**, Yangming Zhou et.al., Paper: [http://arxiv.org/abs/2207.03409v1](http://arxiv.org/abs/2207.03409v1)
+- 2022-07-07, **Neural Language Models are not Born Equal to Fit Brain Data, but Training Helps**, Alexandre Pasquiou et.al., Paper: [http://arxiv.org/abs/2207.03380v1](http://arxiv.org/abs/2207.03380v1)
 - 2022-07-06, **Addressing Detection Limits with Semiparametric Cumulative Probability Models**, Yuqi Tian et.al., Paper: [http://arxiv.org/abs/2207.02815v1](http://arxiv.org/abs/2207.02815v1)
 - 2022-07-06, **Multi-View Object Pose Refinement With Differentiable Renderer**, Ivan Shugurov et.al., Paper: [http://arxiv.org/abs/2207.02811v1](http://arxiv.org/abs/2207.02811v1)
 - 2022-07-06, **DPODv2: Dense Correspondence-Based 6 DoF Pose Estimation**, Ivan Shugurov et.al., Paper: [http://arxiv.org/abs/2207.02805v1](http://arxiv.org/abs/2207.02805v1)
