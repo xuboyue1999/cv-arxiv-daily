@@ -16,6 +16,16 @@
 
 ## Infrared
 
+- 2022-07-08, **Preparation of Vibrational Quasi-Bound States of the Transition State Complex BrHBr from the Bihalide Ion BrHBr-}**, Luis H. Delgado G et.al., Paper: [http://arxiv.org/abs/2207.04022v1](http://arxiv.org/abs/2207.04022v1)
+- 2022-07-08, **Stimulated-Raman-Scattering Metrology**, M. Lamperti et.al., Paper: [http://arxiv.org/abs/2207.03998v1](http://arxiv.org/abs/2207.03998v1)
+- 2022-07-08, **A direct measurement of galaxy major and minor merger rates and stellar mass accretion histories at $z < 3$ using galaxy pairs in the REFINE survey**, Christopher J. Conselice et.al., Paper: [http://arxiv.org/abs/2207.03984v1](http://arxiv.org/abs/2207.03984v1)
+- 2022-07-08, **The Atacama Large Aperture Submillimeter Telescope: Key science drivers**, Joanna Ramasawmy et.al., Paper: [http://arxiv.org/abs/2207.03914v1](http://arxiv.org/abs/2207.03914v1)
+- 2022-07-08, **Generation of synchronized high-intensity x-rays and mid-infrared pulses by Doppler-shifting of relativistically intense radiation from near-critical-density plasmas**, Nikita A. Mikheytsev et.al., Paper: [http://arxiv.org/abs/2207.03882v1](http://arxiv.org/abs/2207.03882v1)
+- 2022-07-08, **Video-based Smoky Vehicle Detection with A Coarse-to-Fine Framework**, Xiaojiang Peng et.al., Paper: [http://arxiv.org/abs/2207.03708v1](http://arxiv.org/abs/2207.03708v1)
+- 2022-07-08, **Strong Magnetic Fields Play Important Role in the Filamentary Infrared Dark Cloud G11.11-0.12**, Zhiwei Chen et.al., Paper: [http://arxiv.org/abs/2207.03695v1](http://arxiv.org/abs/2207.03695v1)
+- 2022-07-08, **Topological phonon polariton enhanced radiative heat transfer in bichromatic nanoparticle arrays mimicking Aubry-André-Harper model**, B. X. Wang et.al., Paper: [http://arxiv.org/abs/2207.03675v1](http://arxiv.org/abs/2207.03675v1)
+- 2022-07-07, **Mirror Complementary Transformer Network for RGB-thermal Salient Object Detection**, Xiurong Jiang et.al., Paper: [http://arxiv.org/abs/2207.03558v1](http://arxiv.org/abs/2207.03558v1), Code: **[https://github.com/jxr326/swinmcnet](https://github.com/jxr326/swinmcnet)**
+- 2022-07-07, **Three-loop helicity amplitudes for quark-gluon scattering in QCD**, Fabrizio Caola et.al., Paper: [http://arxiv.org/abs/2207.03503v1](http://arxiv.org/abs/2207.03503v1)
 - 2022-07-07, **ACCESS: Confirmation of a Clear Atmosphere for WASP-96b and a Comparison of Light Curve Detrending Techniques**, Chima D. McGruder et.al., Paper: [http://arxiv.org/abs/2207.03479v1](http://arxiv.org/abs/2207.03479v1)
 - 2022-07-07, **Infrared spectra of (CO$_2$)$_2$-Rg trimers, Rg = Ne, Ar, Kr, and Xe**, A. J. Barclay et.al., Paper: [http://arxiv.org/abs/2207.03042v1](http://arxiv.org/abs/2207.03042v1)
 - 2022-07-06, **2D spectroscopies from condensed phase dynamics: Accessing third-order response properties from equilibrium multi-time correlation functions**, Kenneth A. Jung et.al., Paper: [http://arxiv.org/abs/2207.02981v1](http://arxiv.org/abs/2207.02981v1)
@@ -204,6 +214,7 @@
 
 ## RGBD
 
+- 2022-07-08, **ASL-Homework-RGBD Dataset: An annotated dataset of 45 fluent and non-fluent signers performing American Sign Language homeworks**, Saad Hassan et.al., Paper: [http://arxiv.org/abs/2207.04021v1](http://arxiv.org/abs/2207.04021v1)
 - 2022-07-05, **Open-Vocabulary 3D Detection via Image-level Class and Debiased Cross-modal Contrastive Learning**, Yuheng Lu et.al., Paper: [http://arxiv.org/abs/2207.01987v1](http://arxiv.org/abs/2207.01987v1)
 - 2022-07-04, **Accurate Instance-Level CAD Model Retrieval in a Large-Scale Database**, Jiaxin Wei et.al., Paper: [http://arxiv.org/abs/2207.01339v1](http://arxiv.org/abs/2207.01339v1)
 - 2022-07-01, **Towards Two-view 6D Object Pose Estimation: A Comparative Study on Fusion Strategy**, Jun Wu et.al., Paper: [http://arxiv.org/abs/2207.00260v1](http://arxiv.org/abs/2207.00260v1)
@@ -223,6 +234,16 @@
 
 ## Saliency Detection
 
+- 2022-07-08, **k-means Mask Transformer**, Qihang Yu et.al., Paper: [http://arxiv.org/abs/2207.04044v1](http://arxiv.org/abs/2207.04044v1), Code: **[https://github.com/google-research/deeplab2](https://github.com/google-research/deeplab2)**
+- 2022-07-08, **A Multi-tasking Model of Speaker-Keyword Classification for Keeping Human in the Loop of Drone-assisted Inspection**, Yu Li et.al., Paper: [http://arxiv.org/abs/2207.04027v1](http://arxiv.org/abs/2207.04027v1), Code: **[https://github.com/yuli1102/speech-dataset-for-drone-assisted-inspection](https://github.com/yuli1102/speech-dataset-for-drone-assisted-inspection)**
+- 2022-07-08, **ASL-Homework-RGBD Dataset: An annotated dataset of 45 fluent and non-fluent signers performing American Sign Language homeworks**, Saad Hassan et.al., Paper: [http://arxiv.org/abs/2207.04021v1](http://arxiv.org/abs/2207.04021v1)
+- 2022-07-08, **On the possibility of detecting gravity of an object frozen in a spatial superposition by the Zeno effect**, Peter Sidajaya et.al., Paper: [http://arxiv.org/abs/2207.04017v1](http://arxiv.org/abs/2207.04017v1)
+- 2022-07-08, **No Time Like the Present: Effects of Language Change on Automated Comment Moderation**, Lennart Justen et.al., Paper: [http://arxiv.org/abs/2207.04003v1](http://arxiv.org/abs/2207.04003v1)
+- 2022-07-08, **On Improving the Performance of Glitch Classification for Gravitational Wave Detection by using Generative Adversarial Networks**, Jianqi Yan et.al., Paper: [http://arxiv.org/abs/2207.04001v1](http://arxiv.org/abs/2207.04001v1)
+- 2022-07-08, **MeerKAT radio observations of the neutron star low-mass X-ray binary Cen X-4 at low accretion rates**, J. van den Eijnden et.al., Paper: [http://arxiv.org/abs/2207.03962v1](http://arxiv.org/abs/2207.03962v1)
+- 2022-07-08, **Detection of Furigana Text in Images**, Nikolaj Kjøller Bjerregaard et.al., Paper: [http://arxiv.org/abs/2207.03960v1](http://arxiv.org/abs/2207.03960v1), Code: **[https://github.com/nikolajkb/furiganadetection](https://github.com/nikolajkb/furiganadetection)**
+- 2022-07-08, **An Approach to Ensure Fairness in News Articles**, Shaina Raza et.al., Paper: [http://arxiv.org/abs/2207.03938v1](http://arxiv.org/abs/2207.03938v1)
+- 2022-07-08, **Search by triplet: An efficient local track reconstruction algorithm for parallel architectures**, Daniel Hugo Cámpora Pérez et.al., Paper: [http://arxiv.org/abs/2207.03936v1](http://arxiv.org/abs/2207.03936v1)
 - 2022-07-07, **Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection**, Hanoona Rasheed et.al., Paper: [http://arxiv.org/abs/2207.03482v1](http://arxiv.org/abs/2207.03482v1), Code: **[https://github.com/hanoonaR/object-centric-ovd](https://github.com/hanoonaR/object-centric-ovd)**
 - 2022-07-07, **ACCESS: Confirmation of a Clear Atmosphere for WASP-96b and a Comparison of Light Curve Detrending Techniques**, Chima D. McGruder et.al., Paper: [http://arxiv.org/abs/2207.03479v1](http://arxiv.org/abs/2207.03479v1)
 - 2022-07-07, **Red PANDA: Disambiguating Anomaly Detection by Removing Nuisance Factors**, Niv Cohen et.al., Paper: [http://arxiv.org/abs/2207.03478v1](http://arxiv.org/abs/2207.03478v1)
