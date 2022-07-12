@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.11
+## Updated on 2022.07.12
 
 ## RGBT
 
@@ -255,7 +255,7 @@ layout: default
 |**2022-07-08**|**MeerKAT radio observations of the neutron star low-mass X-ray binary Cen X-4 at low accretion rates**|J. van den Eijnden et.al.|[2207.03962v1](http://arxiv.org/abs/2207.03962v1)|null|
 |**2022-07-08**|**Detection of Furigana Text in Images**|Nikolaj Kjøller Bjerregaard et.al.|[2207.03960v1](http://arxiv.org/abs/2207.03960v1)|**[link](https://github.com/nikolajkb/furiganadetection)**|
 |**2022-07-08**|**An Approach to Ensure Fairness in News Articles**|Shaina Raza et.al.|[2207.03938v1](http://arxiv.org/abs/2207.03938v1)|null|
-|**2022-07-08**|**Search by triplet: An efficient local track reconstruction algorithm for parallel architectures**|Daniel Hugo Cámpora Pérez et.al.|[2207.03936v1](http://arxiv.org/abs/2207.03936v1)|null|
+|**2022-07-11**|**Search by triplet: An efficient local track reconstruction algorithm for parallel architectures**|Daniel Hugo Cámpora Pérez et.al.|[2207.03936v2](http://arxiv.org/abs/2207.03936v2)|null|
 |**2022-07-07**|**Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection**|Hanoona Rasheed et.al.|[2207.03482v1](http://arxiv.org/abs/2207.03482v1)|**[link](https://github.com/hanoonaR/object-centric-ovd)**|
 |**2022-07-07**|**ACCESS: Confirmation of a Clear Atmosphere for WASP-96b and a Comparison of Light Curve Detrending Techniques**|Chima D. McGruder et.al.|[2207.03479v1](http://arxiv.org/abs/2207.03479v1)|null|
 |**2022-07-07**|**Red PANDA: Disambiguating Anomaly Detection by Removing Nuisance Factors**|Niv Cohen et.al.|[2207.03478v1](http://arxiv.org/abs/2207.03478v1)|null|
