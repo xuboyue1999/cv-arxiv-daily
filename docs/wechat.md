@@ -16,6 +16,11 @@
 
 ## Infrared
 
+- 2022-07-11, **Hidden Cooling Flows in Clusters of Galaxies**, A. C. Fabian et.al., Paper: [http://arxiv.org/abs/2207.04951v1](http://arxiv.org/abs/2207.04951v1)
+- 2022-07-11, **Testing the Homogeneity of Type Ia Supernovae in the Near-Infrared for Accurate Distance Estimations**, T. E. Müller-Bravo et.al., Paper: [http://arxiv.org/abs/2207.04780v1](http://arxiv.org/abs/2207.04780v1)
+- 2022-07-09, **Ice Age : Chemo-dynamical modeling of Cha-MMS1 to predict new solid-phase species for detection with JWST**, Mihwa Jin et.al., Paper: [http://arxiv.org/abs/2207.04269v1](http://arxiv.org/abs/2207.04269v1)
+- 2022-07-09, **Near-Infrared plasmon induced hot electron extraction evidence in an indium tin oxide nanoparticle / monolayer molybdenum disulphide heterostructure**, Michele Guizzardi et.al., Paper: [http://arxiv.org/abs/2207.04195v1](http://arxiv.org/abs/2207.04195v1)
+- 2022-07-08, **Water UV-Shielding in the Terrestrial Planet-Forming Zone: Implications for Oxygen-18 Isotope Anomalies in H2-18O Infrared Emission and Meteorites**, Jenny K. Calahan et.al., Paper: [http://arxiv.org/abs/2207.04063v1](http://arxiv.org/abs/2207.04063v1)
 - 2022-07-08, **Preparation of Vibrational Quasi-Bound States of the Transition State Complex BrHBr from the Bihalide Ion BrHBr-}**, Luis H. Delgado G et.al., Paper: [http://arxiv.org/abs/2207.04022v1](http://arxiv.org/abs/2207.04022v1)
 - 2022-07-08, **Stimulated-Raman-Scattering Metrology**, M. Lamperti et.al., Paper: [http://arxiv.org/abs/2207.03998v1](http://arxiv.org/abs/2207.03998v1)
 - 2022-07-08, **A direct measurement of galaxy major and minor merger rates and stellar mass accretion histories at $z < 3$ using galaxy pairs in the REFINE survey**, Christopher J. Conselice et.al., Paper: [http://arxiv.org/abs/2207.03984v1](http://arxiv.org/abs/2207.03984v1)
@@ -234,6 +239,16 @@
 
 ## Saliency Detection
 
+- 2022-07-11, **An Entanglement-Complexity Generalization of the Geometric Entanglement**, Alex Nico-Katz et.al., Paper: [http://arxiv.org/abs/2207.05052v1](http://arxiv.org/abs/2207.05052v1)
+- 2022-07-11, **Unsupervised Semantic Segmentation with Self-supervised Object-centric Representations**, Andrii Zadaianchuk et.al., Paper: [http://arxiv.org/abs/2207.05027v1](http://arxiv.org/abs/2207.05027v1)
+- 2022-07-11, **A Closer Look at Invariances in Self-supervised Pre-training for 3D Vision**, Lanxiao Li et.al., Paper: [http://arxiv.org/abs/2207.04997v1](http://arxiv.org/abs/2207.04997v1)
+- 2022-07-11, **The mass distribution in the outskirts of clusters of galaxies as a probe of the theory of gravity**, M. Pizzardo et.al., Paper: [http://arxiv.org/abs/2207.04982v1](http://arxiv.org/abs/2207.04982v1)
+- 2022-07-11, **Wave-ViT: Unifying Wavelet and Transformers for Visual Representation Learning**, Ting Yao et.al., Paper: [http://arxiv.org/abs/2207.04978v1](http://arxiv.org/abs/2207.04978v1), Code: **[https://github.com/yehli/imagenetmodel](https://github.com/yehli/imagenetmodel)**
+- 2022-07-11, **Direct detection of pseudo-Nambu-Goldstone dark matter in a two Higgs doublet plus singlet extension of the SM**, Thomas Biekötter et.al., Paper: [http://arxiv.org/abs/2207.04973v1](http://arxiv.org/abs/2207.04973v1)
+- 2022-07-11, **Search for Astrophysical Neutrinos from 1FLE Blazars with IceCube**, R. Abbasi et.al., Paper: [http://arxiv.org/abs/2207.04946v1](http://arxiv.org/abs/2207.04946v1)
+- 2022-07-11, **On Outage-based Beamforming Design for Dual-Functional Radar-Communication 6G Systems**, Ahmad Bazzi et.al., Paper: [http://arxiv.org/abs/2207.04921v1](http://arxiv.org/abs/2207.04921v1)
+- 2022-07-11, **Team CERBERUS Wins the DARPA Subterranean Challenge: Technical Overview and Lessons Learned**, Marco Tranzatto et.al., Paper: [http://arxiv.org/abs/2207.04914v1](http://arxiv.org/abs/2207.04914v1)
+- 2022-07-11, **Superfluidity in multicomponent fermions via the functional renormalization group**, Michal Hnatič et.al., Paper: [http://arxiv.org/abs/2207.04910v1](http://arxiv.org/abs/2207.04910v1)
 - 2022-07-08, **k-means Mask Transformer**, Qihang Yu et.al., Paper: [http://arxiv.org/abs/2207.04044v1](http://arxiv.org/abs/2207.04044v1), Code: **[https://github.com/google-research/deeplab2](https://github.com/google-research/deeplab2)**
 - 2022-07-08, **A Multi-tasking Model of Speaker-Keyword Classification for Keeping Human in the Loop of Drone-assisted Inspection**, Yu Li et.al., Paper: [http://arxiv.org/abs/2207.04027v1](http://arxiv.org/abs/2207.04027v1), Code: **[https://github.com/yuli1102/speech-dataset-for-drone-assisted-inspection](https://github.com/yuli1102/speech-dataset-for-drone-assisted-inspection)**
 - 2022-07-08, **ASL-Homework-RGBD Dataset: An annotated dataset of 45 fluent and non-fluent signers performing American Sign Language homeworks**, Saad Hassan et.al., Paper: [http://arxiv.org/abs/2207.04021v1](http://arxiv.org/abs/2207.04021v1)
