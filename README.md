@@ -1,4 +1,4 @@
-## Updated on 2022.07.12
+## Updated on 2022.07.13
 
 ## RGBT
 
@@ -252,7 +252,7 @@
 |**2022-07-11**|**A Closer Look at Invariances in Self-supervised Pre-training for 3D Vision**|Lanxiao Li et.al.|[2207.04997v1](http://arxiv.org/abs/2207.04997v1)|null|
 |**2022-07-11**|**The mass distribution in the outskirts of clusters of galaxies as a probe of the theory of gravity**|M. Pizzardo et.al.|[2207.04982v1](http://arxiv.org/abs/2207.04982v1)|null|
 |**2022-07-11**|**Wave-ViT: Unifying Wavelet and Transformers for Visual Representation Learning**|Ting Yao et.al.|[2207.04978v1](http://arxiv.org/abs/2207.04978v1)|**[link](https://github.com/yehli/imagenetmodel)**|
-|**2022-07-11**|**Direct detection of pseudo-Nambu-Goldstone dark matter in a two Higgs doublet plus singlet extension of the SM**|Thomas Biekötter et.al.|[2207.04973v1](http://arxiv.org/abs/2207.04973v1)|null|
+|**2022-07-12**|**Direct detection of pseudo-Nambu-Goldstone dark matter in a two Higgs doublet plus singlet extension of the SM**|Thomas Biekötter et.al.|[2207.04973v2](http://arxiv.org/abs/2207.04973v2)|null|
 |**2022-07-11**|**Search for Astrophysical Neutrinos from 1FLE Blazars with IceCube**|R. Abbasi et.al.|[2207.04946v1](http://arxiv.org/abs/2207.04946v1)|null|
 |**2022-07-11**|**On Outage-based Beamforming Design for Dual-Functional Radar-Communication 6G Systems**|Ahmad Bazzi et.al.|[2207.04921v1](http://arxiv.org/abs/2207.04921v1)|null|
 |**2022-07-11**|**Team CERBERUS Wins the DARPA Subterranean Challenge: Technical Overview and Lessons Learned**|Marco Tranzatto et.al.|[2207.04914v1](http://arxiv.org/abs/2207.04914v1)|null|
