@@ -16,6 +16,16 @@
 
 ## Infrared
 
+- 2022-07-12, **The Rate and Spatial Distribution of Novae in M31 as Determined by a Twenty-Year Survey**, Travis A. Rector et.al., Paper: [http://arxiv.org/abs/2207.05689v1](http://arxiv.org/abs/2207.05689v1)
+- 2022-07-12, **Modelling ground pickup for microwave telescopes**, Alexandre E. Adler et.al., Paper: [http://arxiv.org/abs/2207.05662v1](http://arxiv.org/abs/2207.05662v1)
+- 2022-07-12, **Energy Dependence of the Breit-Wheeler process in Heavy-Ion Collisions and its Application to Nuclear Charge Radius Measurements**, Xiaofeng Wang et.al., Paper: [http://arxiv.org/abs/2207.05595v1](http://arxiv.org/abs/2207.05595v1)
+- 2022-07-12, **Resolving Power of Visible to Near-Infrared Hybrid $β$-Ta/NbTiN Kinetic Inductance Detectors**, Kevin Kouwenhoven et.al., Paper: [http://arxiv.org/abs/2207.05534v1](http://arxiv.org/abs/2207.05534v1)
+- 2022-07-12, **Renormalization in tensor field theory and the melonic fixed point**, Sabine Harribey et.al., Paper: [http://arxiv.org/abs/2207.05520v1](http://arxiv.org/abs/2207.05520v1)
+- 2022-07-12, **Fragmented atomic shell around S187 HII region and its interaction with molecular and ionized gas**, Petr Zemlyanukha et.al., Paper: [http://arxiv.org/abs/2207.05507v1](http://arxiv.org/abs/2207.05507v1)
+- 2022-07-12, **Bridging Optical and Far-Infrared Emission-Line Diagrams of Galaxies from Local to the Epoch of Reionization: Characteristic High [O III] 88 $\mathrm{μm}$/SFR at $z > 6$**, Yuma Sugahara et.al., Paper: [http://arxiv.org/abs/2207.05236v1](http://arxiv.org/abs/2207.05236v1)
+- 2022-07-11, **ATOCA: an algorithm to treat order contamination. Application to the NIRISS SOSS mode**, Antoine Darveau-Bernier et.al., Paper: [http://arxiv.org/abs/2207.05199v1](http://arxiv.org/abs/2207.05199v1)
+- 2022-07-11, **Ice features of low-luminosity protostars in near-infrared spectra of AKARI/IRC**, Jaeyeong Kim et.al., Paper: [http://arxiv.org/abs/2207.05178v1](http://arxiv.org/abs/2207.05178v1)
+- 2022-07-11, **Extreme giant molecular clouds in the luminous infrared galaxy NGC 3256**, Nathan Brunetti et.al., Paper: [http://arxiv.org/abs/2207.05174v1](http://arxiv.org/abs/2207.05174v1)
 - 2022-07-11, **Hidden Cooling Flows in Clusters of Galaxies**, A. C. Fabian et.al., Paper: [http://arxiv.org/abs/2207.04951v1](http://arxiv.org/abs/2207.04951v1)
 - 2022-07-11, **Testing the Homogeneity of Type Ia Supernovae in the Near-Infrared for Accurate Distance Estimations**, T. E. Müller-Bravo et.al., Paper: [http://arxiv.org/abs/2207.04780v1](http://arxiv.org/abs/2207.04780v1)
 - 2022-07-09, **Ice Age : Chemo-dynamical modeling of Cha-MMS1 to predict new solid-phase species for detection with JWST**, Mihwa Jin et.al., Paper: [http://arxiv.org/abs/2207.04269v1](http://arxiv.org/abs/2207.04269v1)
@@ -239,6 +249,16 @@
 
 ## Saliency Detection
 
+- 2022-07-12, **Non-thermal emission from mildly relativistic dynamical ejecta of neutron star mergers**, Gilad Sadeh et.al., Paper: [http://arxiv.org/abs/2207.05746v1](http://arxiv.org/abs/2207.05746v1)
+- 2022-07-12, **Reactive Exploration to Cope with Non-Stationarity in Lifelong Reinforcement Learning**, Christian Steinparz et.al., Paper: [http://arxiv.org/abs/2207.05742v1](http://arxiv.org/abs/2207.05742v1)
+- 2022-07-12, **The d-separation criterion in Categorical Probability**, Tobias Fritz et.al., Paper: [http://arxiv.org/abs/2207.05740v1](http://arxiv.org/abs/2207.05740v1)
+- 2022-07-12, **A Data-Based Perspective on Transfer Learning**, Saachi Jain et.al., Paper: [http://arxiv.org/abs/2207.05739v1](http://arxiv.org/abs/2207.05739v1)
+- 2022-07-12, **Learning Joint Detection, Equalization and Decoding for Short-Packet Communications**, Sebastian Dörner et.al., Paper: [http://arxiv.org/abs/2207.05699v1](http://arxiv.org/abs/2207.05699v1)
+- 2022-07-12, **Investigating a predicted metallicity [Fe/H] variation in the Type II Globular Cluster NGC 362**, C. Vargas et.al., Paper: [http://arxiv.org/abs/2207.05693v1](http://arxiv.org/abs/2207.05693v1)
+- 2022-07-12, **The Rate and Spatial Distribution of Novae in M31 as Determined by a Twenty-Year Survey**, Travis A. Rector et.al., Paper: [http://arxiv.org/abs/2207.05689v1](http://arxiv.org/abs/2207.05689v1)
+- 2022-07-12, **Using Machine Learning to Reduce Observational Biases When Detecting New Impacts on Mars**, Kiri L. Wagstaff et.al., Paper: [http://arxiv.org/abs/2207.05679v1](http://arxiv.org/abs/2207.05679v1)
+- 2022-07-12, **DDI Prediction via Heterogeneous Graph Attention Networks**, Farhan Tanvir et.al., Paper: [http://arxiv.org/abs/2207.05672v1](http://arxiv.org/abs/2207.05672v1)
+- 2022-07-12, **Modelling ground pickup for microwave telescopes**, Alexandre E. Adler et.al., Paper: [http://arxiv.org/abs/2207.05662v1](http://arxiv.org/abs/2207.05662v1)
 - 2022-07-11, **An Entanglement-Complexity Generalization of the Geometric Entanglement**, Alex Nico-Katz et.al., Paper: [http://arxiv.org/abs/2207.05052v1](http://arxiv.org/abs/2207.05052v1)
 - 2022-07-11, **Unsupervised Semantic Segmentation with Self-supervised Object-centric Representations**, Andrii Zadaianchuk et.al., Paper: [http://arxiv.org/abs/2207.05027v1](http://arxiv.org/abs/2207.05027v1)
 - 2022-07-11, **A Closer Look at Invariances in Self-supervised Pre-training for 3D Vision**, Lanxiao Li et.al., Paper: [http://arxiv.org/abs/2207.04997v1](http://arxiv.org/abs/2207.04997v1)
