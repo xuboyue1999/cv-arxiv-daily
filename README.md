@@ -269,7 +269,7 @@
 |**2022-07-13**|**Water Surface Patch Classification Using Mixture Augmentation for River Scum Index**|Takato Yasuno et.al.|[2207.06388v1](http://arxiv.org/abs/2207.06388v1)|null|
 |**2022-07-13**|**Exploration of 3D wavelet scattering transform coefficients for line-intensity mapping measurements**|Dongwoo T Chung et.al.|[2207.06383v1](http://arxiv.org/abs/2207.06383v1)|null|
 |**2022-07-13**|**Polyphonic sound event detection for highly dense birdsong scenes**|Alberto García Arroba Parrilla et.al.|[2207.06349v1](http://arxiv.org/abs/2207.06349v1)|null|
-|**2022-07-13**|**Symmetry-Aware Transformer-based Mirror Detection**|Tianyu Huang et.al.|[2207.06332v1](http://arxiv.org/abs/2207.06332v1)|null|
+|**2022-07-13**|**Symmetry-Aware Transformer-based Mirror Detection**|Tianyu Huang et.al.|[2207.06332v1](http://arxiv.org/abs/2207.06332v1)|**[link](https://github.com/tyhuang0428/satnet)**|
 |**2022-07-13**|**Design and characterization of a recoil ion momentum spectrometer for investigating molecular fragmentation dynamics upon MeV energy ion impact ionization**|Avijit Duley et.al.|[2207.06312v1](http://arxiv.org/abs/2207.06312v1)|null|
 |**2022-07-13**|**Non-geometric tilt-to-length coupling in precision interferometry: mechanisms and analytical descriptions**|Marie-Sophie Hartig et.al.|[2207.06278v1](http://arxiv.org/abs/2207.06278v1)|null|
 |**2022-07-13**|**Understanding Unfairness in Fraud Detection through Model and Data Bias Interactions**|José Pombal et.al.|[2207.06273v1](http://arxiv.org/abs/2207.06273v1)|null|
