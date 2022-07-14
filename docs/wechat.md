@@ -1,4 +1,4 @@
-> Updated on 2022.07.13
+> Updated on 2022.07.14
 
 ## RGBT
 
@@ -16,6 +16,14 @@
 
 ## Infrared
 
+- 2022-07-13, **Deciphering the radio star formation correlation on kpc scales II. The integrated infrared-radio continuum and star formation - radio continuum correlations**, B. Vollmer et.al., Paper: [http://arxiv.org/abs/2207.06173v1](http://arxiv.org/abs/2207.06173v1)
+- 2022-07-13, **Inferring the HII region escape fraction of ionizing photons from infrared emission lines in metal-poor star-forming dwarf galaxies**, L. Ramambason et.al., Paper: [http://arxiv.org/abs/2207.06146v1](http://arxiv.org/abs/2207.06146v1)
+- 2022-07-13, **Inclusive $τ$ Hadronic Decay Rate in a Renormalon-Free Gluon Condensate Scheme**, Miguel A. Benitez-Rathgeb et.al., Paper: [http://arxiv.org/abs/2207.06081v1](http://arxiv.org/abs/2207.06081v1)
+- 2022-07-13, **Seeking for resonances in unitarized one-loop graviton-graviton scattering**, Rafael L. Delgado et.al., Paper: [http://arxiv.org/abs/2207.06070v1](http://arxiv.org/abs/2207.06070v1)
+- 2022-07-13, **Quasi-classical Ground States. I. Linearly Coupled Pauli-fierz Hamiltonians**, Sébastien Breteaux et.al., Paper: [http://arxiv.org/abs/2207.06053v1](http://arxiv.org/abs/2207.06053v1)
+- 2022-07-13, **Crystal and electronic structure of a quasi-two-dimensional semiconductor Mg$_3$Si$_2$Te$_6$**, Chaoxin Huang et.al., Paper: [http://arxiv.org/abs/2207.05936v1](http://arxiv.org/abs/2207.05936v1)
+- 2022-07-13, **Molecules with ALMA at Planet-forming Scales (MAPS). A Circumplanetary Disk Candidate in Molecular Line Emission in the AS 209 Disk**, Jaehan Bae et.al., Paper: [http://arxiv.org/abs/2207.05923v1](http://arxiv.org/abs/2207.05923v1)
+- 2022-07-12, **About the bosonic decays of heavy Higgs states in the (N)MSSM**, Florian Domingo et.al., Paper: [http://arxiv.org/abs/2207.05776v1](http://arxiv.org/abs/2207.05776v1)
 - 2022-07-12, **The Rate and Spatial Distribution of Novae in M31 as Determined by a Twenty-Year Survey**, Travis A. Rector et.al., Paper: [http://arxiv.org/abs/2207.05689v1](http://arxiv.org/abs/2207.05689v1)
 - 2022-07-12, **Modelling ground pickup for microwave telescopes**, Alexandre E. Adler et.al., Paper: [http://arxiv.org/abs/2207.05662v1](http://arxiv.org/abs/2207.05662v1)
 - 2022-07-12, **Energy Dependence of the Breit-Wheeler process in Heavy-Ion Collisions and its Application to Nuclear Charge Radius Measurements**, Xiaofeng Wang et.al., Paper: [http://arxiv.org/abs/2207.05595v1](http://arxiv.org/abs/2207.05595v1)
@@ -229,6 +237,7 @@
 
 ## RGBD
 
+- 2022-07-13, **3D Concept Grounding on Neural Fields**, Yining Hong et.al., Paper: [http://arxiv.org/abs/2207.06403v1](http://arxiv.org/abs/2207.06403v1)
 - 2022-07-08, **ASL-Homework-RGBD Dataset: An annotated dataset of 45 fluent and non-fluent signers performing American Sign Language homeworks**, Saad Hassan et.al., Paper: [http://arxiv.org/abs/2207.04021v1](http://arxiv.org/abs/2207.04021v1)
 - 2022-07-05, **Open-Vocabulary 3D Detection via Image-level Class and Debiased Cross-modal Contrastive Learning**, Yuheng Lu et.al., Paper: [http://arxiv.org/abs/2207.01987v1](http://arxiv.org/abs/2207.01987v1)
 - 2022-07-04, **Accurate Instance-Level CAD Model Retrieval in a Large-Scale Database**, Jiaxin Wei et.al., Paper: [http://arxiv.org/abs/2207.01339v1](http://arxiv.org/abs/2207.01339v1)
@@ -249,6 +258,16 @@
 
 ## Saliency Detection
 
+- 2022-07-13, **Water Surface Patch Classification Using Mixture Augmentation for River Scum Index**, Takato Yasuno et.al., Paper: [http://arxiv.org/abs/2207.06388v1](http://arxiv.org/abs/2207.06388v1)
+- 2022-07-13, **Exploration of 3D wavelet scattering transform coefficients for line-intensity mapping measurements**, Dongwoo T Chung et.al., Paper: [http://arxiv.org/abs/2207.06383v1](http://arxiv.org/abs/2207.06383v1)
+- 2022-07-13, **Polyphonic sound event detection for highly dense birdsong scenes**, Alberto García Arroba Parrilla et.al., Paper: [http://arxiv.org/abs/2207.06349v1](http://arxiv.org/abs/2207.06349v1)
+- 2022-07-13, **Symmetry-Aware Transformer-based Mirror Detection**, Tianyu Huang et.al., Paper: [http://arxiv.org/abs/2207.06332v1](http://arxiv.org/abs/2207.06332v1)
+- 2022-07-13, **Design and characterization of a recoil ion momentum spectrometer for investigating molecular fragmentation dynamics upon MeV energy ion impact ionization**, Avijit Duley et.al., Paper: [http://arxiv.org/abs/2207.06312v1](http://arxiv.org/abs/2207.06312v1)
+- 2022-07-13, **Non-geometric tilt-to-length coupling in precision interferometry: mechanisms and analytical descriptions**, Marie-Sophie Hartig et.al., Paper: [http://arxiv.org/abs/2207.06278v1](http://arxiv.org/abs/2207.06278v1)
+- 2022-07-13, **Understanding Unfairness in Fraud Detection through Model and Data Bias Interactions**, José Pombal et.al., Paper: [http://arxiv.org/abs/2207.06273v1](http://arxiv.org/abs/2207.06273v1)
+- 2022-07-13, **A photometric study of two contact binaries: CRTS J025408.1+265957 and CRTS J012111.1+272933**, S. Ma et.al., Paper: [http://arxiv.org/abs/2207.06255v1](http://arxiv.org/abs/2207.06255v1)
+- 2022-07-13, **Is the light neutralino thermal dark matter in the MSSM ruled out?**, Rahool Kumar Barman et.al., Paper: [http://arxiv.org/abs/2207.06238v1](http://arxiv.org/abs/2207.06238v1)
+- 2022-07-13, **Hierarchy exploitation to detect missing annotations on hierarchical multi-label classification**, Miguel Romero et.al., Paper: [http://arxiv.org/abs/2207.06237v1](http://arxiv.org/abs/2207.06237v1)
 - 2022-07-12, **Non-thermal emission from mildly relativistic dynamical ejecta of neutron star mergers**, Gilad Sadeh et.al., Paper: [http://arxiv.org/abs/2207.05746v1](http://arxiv.org/abs/2207.05746v1)
 - 2022-07-12, **Reactive Exploration to Cope with Non-Stationarity in Lifelong Reinforcement Learning**, Christian Steinparz et.al., Paper: [http://arxiv.org/abs/2207.05742v1](http://arxiv.org/abs/2207.05742v1)
 - 2022-07-12, **The d-separation criterion in Categorical Probability**, Tobias Fritz et.al., Paper: [http://arxiv.org/abs/2207.05740v1](http://arxiv.org/abs/2207.05740v1)
