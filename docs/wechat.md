@@ -16,6 +16,16 @@
 
 ## Infrared
 
+- 2022-07-14, **Mass-induced confinement near the sill of the conformal window**, Roman Marcarelli et.al., Paper: [http://arxiv.org/abs/2207.07113v1](http://arxiv.org/abs/2207.07113v1)
+- 2022-07-14, **Unscrambling the lensed galaxies in JWST images behind SMACS0723**, Massimo Pascale et.al., Paper: [http://arxiv.org/abs/2207.07102v1](http://arxiv.org/abs/2207.07102v1)
+- 2022-07-14, **Thermal stability and optoelectronic behavior of polyaniline/GNP (graphene nanoplatelets) nanocomposites**, Pralhad Lamichhane et.al., Paper: [http://arxiv.org/abs/2207.07062v1](http://arxiv.org/abs/2207.07062v1)
+- 2022-07-14, **Two substellar survivor candidates; one found and one missing**, N. Walters et.al., Paper: [http://arxiv.org/abs/2207.07022v1](http://arxiv.org/abs/2207.07022v1)
+- 2022-07-14, **Infrared Excess of a Large OB Star Sample**, Dingshan Deng et.al., Paper: [http://arxiv.org/abs/2207.06961v1](http://arxiv.org/abs/2207.06961v1)
+- 2022-07-14, **Twisted polaritonic crystals in thin van der Waals slabs**, Nathaniel Capote-Robayna et.al., Paper: [http://arxiv.org/abs/2207.06826v1](http://arxiv.org/abs/2207.06826v1)
+- 2022-07-14, **The Quasar Candidates Catalogs of DESI Legacy Imaging Survey Data Release 9**, He Zizhao et.al., Paper: [http://arxiv.org/abs/2207.06792v1](http://arxiv.org/abs/2207.06792v1)
+- 2022-07-14, **Electric Field Measurement of Femtosecond Time-Resolved Four-Wave Mixing Signals in Molecules**, Francis Walz et.al., Paper: [http://arxiv.org/abs/2207.06643v1](http://arxiv.org/abs/2207.06643v1)
+- 2022-07-14, **X-SHYNE: X-shooter spectra of young exoplanet analogs. I. A medium-resolution 0.65-2.5$\mathrm{μm}$ one-shot spectrum of VHS\,1256-1257 b**, Simon Petrus et.al., Paper: [http://arxiv.org/abs/2207.06622v1](http://arxiv.org/abs/2207.06622v1)
+- 2022-07-13, **Connecting SPHERE and CRIRES+ for the characterisation of young exoplanets at high spectral resolution: status update of VLT/HiRISE**, A. Vigan et.al., Paper: [http://arxiv.org/abs/2207.06436v1](http://arxiv.org/abs/2207.06436v1)
 - 2022-07-13, **Deciphering the radio star formation correlation on kpc scales II. The integrated infrared-radio continuum and star formation - radio continuum correlations**, B. Vollmer et.al., Paper: [http://arxiv.org/abs/2207.06173v1](http://arxiv.org/abs/2207.06173v1)
 - 2022-07-13, **Inferring the HII region escape fraction of ionizing photons from infrared emission lines in metal-poor star-forming dwarf galaxies**, L. Ramambason et.al., Paper: [http://arxiv.org/abs/2207.06146v1](http://arxiv.org/abs/2207.06146v1)
 - 2022-07-13, **Inclusive $τ$ Hadronic Decay Rate in a Renormalon-Free Gluon Condensate Scheme**, Miguel A. Benitez-Rathgeb et.al., Paper: [http://arxiv.org/abs/2207.06081v1](http://arxiv.org/abs/2207.06081v1)
@@ -237,6 +247,7 @@
 
 ## RGBD
 
+- 2022-07-14, **Egocentric Scene Understanding via Multimodal Spatial Rectifier**, Tien Do et.al., Paper: [http://arxiv.org/abs/2207.07077v1](http://arxiv.org/abs/2207.07077v1), Code: **[https://github.com/tien-d/EgoDepthNormal](https://github.com/tien-d/EgoDepthNormal)**
 - 2022-07-13, **3D Concept Grounding on Neural Fields**, Yining Hong et.al., Paper: [http://arxiv.org/abs/2207.06403v1](http://arxiv.org/abs/2207.06403v1)
 - 2022-07-08, **ASL-Homework-RGBD Dataset: An annotated dataset of 45 fluent and non-fluent signers performing American Sign Language homeworks**, Saad Hassan et.al., Paper: [http://arxiv.org/abs/2207.04021v1](http://arxiv.org/abs/2207.04021v1)
 - 2022-07-05, **Open-Vocabulary 3D Detection via Image-level Class and Debiased Cross-modal Contrastive Learning**, Yuheng Lu et.al., Paper: [http://arxiv.org/abs/2207.01987v1](http://arxiv.org/abs/2207.01987v1)
@@ -258,6 +269,16 @@
 
 ## Saliency Detection
 
+- 2022-07-14, **Bootstrapped Masked Autoencoders for Vision BERT Pretraining**, Xiaoyi Dong et.al., Paper: [http://arxiv.org/abs/2207.07116v1](http://arxiv.org/abs/2207.07116v1), Code: **[https://github.com/lightdxy/bootmae](https://github.com/lightdxy/bootmae)**
+- 2022-07-14, **Nonlinear coupled magnonics: Terahertz field-driven magnon upconversion**, Zhuquan Zhang et.al., Paper: [http://arxiv.org/abs/2207.07103v1](http://arxiv.org/abs/2207.07103v1)
+- 2022-07-14, **Unscrambling the lensed galaxies in JWST images behind SMACS0723**, Massimo Pascale et.al., Paper: [http://arxiv.org/abs/2207.07102v1](http://arxiv.org/abs/2207.07102v1)
+- 2022-07-14, **ReAct: Temporal Action Detection with Relational Queries**, Dingfeng Shi et.al., Paper: [http://arxiv.org/abs/2207.07097v1](http://arxiv.org/abs/2207.07097v1), Code: **[https://github.com/sssste/react](https://github.com/sssste/react)**
+- 2022-07-14, **Curve classes on conic bundle threefolds and applications to rationality**, Sarah Frei et.al., Paper: [http://arxiv.org/abs/2207.07093v1](http://arxiv.org/abs/2207.07093v1)
+- 2022-07-14, **A Personalized Zero-Shot ECG Arrhythmia Monitoring System: From Sparse Representation Based Domain Adaption to Energy Efficient Abnormal Beat Detection for Practical ECG Surveillance**, Mehmet Yamaç et.al., Paper: [http://arxiv.org/abs/2207.07089v1](http://arxiv.org/abs/2207.07089v1), Code: **[https://github.com/mertduman/zero-shot-ecg](https://github.com/mertduman/zero-shot-ecg)**
+- 2022-07-14, **Spin relaxation dynamics of radical-pair processes at low magnetic fields**, T. H. Tennahewa et.al., Paper: [http://arxiv.org/abs/2207.07086v1](http://arxiv.org/abs/2207.07086v1)
+- 2022-07-14, **Semi-Supervised Temporal Action Detection with Proposal-Free Masking**, Sauradip Nag et.al., Paper: [http://arxiv.org/abs/2207.07059v1](http://arxiv.org/abs/2207.07059v1)
+- 2022-07-14, **Leakage and the Reproducibility Crisis in ML-based Science**, Sayash Kapoor et.al., Paper: [http://arxiv.org/abs/2207.07048v1](http://arxiv.org/abs/2207.07048v1)
+- 2022-07-14, **Adversarial Attacks on Monocular Pose Estimation**, Hemang Chawla et.al., Paper: [http://arxiv.org/abs/2207.07032v1](http://arxiv.org/abs/2207.07032v1), Code: **[https://github.com/neurai-lab/mono-pose-attack](https://github.com/neurai-lab/mono-pose-attack)**
 - 2022-07-13, **Water Surface Patch Classification Using Mixture Augmentation for River Scum Index**, Takato Yasuno et.al., Paper: [http://arxiv.org/abs/2207.06388v1](http://arxiv.org/abs/2207.06388v1)
 - 2022-07-13, **Exploration of 3D wavelet scattering transform coefficients for line-intensity mapping measurements**, Dongwoo T Chung et.al., Paper: [http://arxiv.org/abs/2207.06383v1](http://arxiv.org/abs/2207.06383v1)
 - 2022-07-13, **Polyphonic sound event detection for highly dense birdsong scenes**, Alberto García Arroba Parrilla et.al., Paper: [http://arxiv.org/abs/2207.06349v1](http://arxiv.org/abs/2207.06349v1)
