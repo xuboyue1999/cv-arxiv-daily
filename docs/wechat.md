@@ -16,6 +16,11 @@
 
 ## Infrared
 
+- 2022-07-15, **First JWST observations of a gravitational lens: Mass model of new multiple images with near-infrared observations of SMACS~J0723.3$-$7327**, G. B. Caminha et.al., Paper: [http://arxiv.org/abs/2207.07567v1](http://arxiv.org/abs/2207.07567v1)
+- 2022-07-15, **Insights into physical conditions and magnetic fields from high redshift quasars**, Bomee Lee et.al., Paper: [http://arxiv.org/abs/2207.07290v1](http://arxiv.org/abs/2207.07290v1)
+- 2022-07-14, **An ALMA 1.3 millimeter Search for Debris Disks around Solar-type Stars in the Pleiades**, Devin Sullivan et.al., Paper: [http://arxiv.org/abs/2207.07171v1](http://arxiv.org/abs/2207.07171v1)
+- 2022-07-14, **Simultaneous imaging of dopants and free charge carriers by STEM-EELS**, Hongbin Yang et.al., Paper: [http://arxiv.org/abs/2207.07152v1](http://arxiv.org/abs/2207.07152v1)
+- 2022-07-14, **The ALPINE-ALMA [CII] survey: The infrared-radio correlation and AGN fraction of star-forming galaxies at z $\sim$ 4.4-5.9**, Lu Shen et.al., Paper: [http://arxiv.org/abs/2207.07137v1](http://arxiv.org/abs/2207.07137v1)
 - 2022-07-14, **Mass-induced confinement near the sill of the conformal window**, Roman Marcarelli et.al., Paper: [http://arxiv.org/abs/2207.07113v1](http://arxiv.org/abs/2207.07113v1)
 - 2022-07-15, **Unscrambling the lensed galaxies in JWST images behind SMACS0723**, Massimo Pascale et.al., Paper: [http://arxiv.org/abs/2207.07102v2](http://arxiv.org/abs/2207.07102v2)
 - 2022-07-14, **Thermal stability and optoelectronic behavior of polyaniline/GNP (graphene nanoplatelets) nanocomposites**, Pralhad Lamichhane et.al., Paper: [http://arxiv.org/abs/2207.07062v1](http://arxiv.org/abs/2207.07062v1)
@@ -269,6 +274,16 @@
 
 ## Saliency Detection
 
+- 2022-07-15, **A Probabilistic Autoencoder for Type Ia Supernovae Spectral Time Series**, George Stein et.al., Paper: [http://arxiv.org/abs/2207.07645v1](http://arxiv.org/abs/2207.07645v1), Code: **[https://github.com/georgestein/supaernova](https://github.com/georgestein/supaernova)**
+- 2022-07-15, **Gusts in the Headwind: Uncertainties in Direct Dark Matter Detection**, Grace E. Lawrence et.al., Paper: [http://arxiv.org/abs/2207.07644v1](http://arxiv.org/abs/2207.07644v1)
+- 2022-07-15, **ARShopping: In-Store Shopping Decision Support Through Augmented Reality and Immersive Visualization**, Bingjie Xu et.al., Paper: [http://arxiv.org/abs/2207.07643v1](http://arxiv.org/abs/2207.07643v1)
+- 2022-07-15, **Simulating Spectral Kurtosis Mitigation Against Realistic RFI Signals**, Evan T. Smith et.al., Paper: [http://arxiv.org/abs/2207.07642v1](http://arxiv.org/abs/2207.07642v1)
+- 2022-07-15, **Dynamical phase and quantum heat transport at fractional frequencies**, George Thomas et.al., Paper: [http://arxiv.org/abs/2207.07632v1](http://arxiv.org/abs/2207.07632v1)
+- 2022-07-15, **Mixture-of-theories Training: Can We Find New Physics and Anomalies Better by Mixing Physical Theories?**, Sascha Caron et.al., Paper: [http://arxiv.org/abs/2207.07631v1](http://arxiv.org/abs/2207.07631v1)
+- 2022-07-15, **GUSOT: Green and Unsupervised Single Object Tracking for Long Video Sequences**, Zhiruo Zhou et.al., Paper: [http://arxiv.org/abs/2207.07629v1](http://arxiv.org/abs/2207.07629v1)
+- 2022-07-15, **Dual-space Compressed Sensing**, Xudong Lv et.al., Paper: [http://arxiv.org/abs/2207.07627v1](http://arxiv.org/abs/2207.07627v1)
+- 2022-07-15, **A Non-Anatomical Graph Structure for isolated hand gesture separation in continuous gesture sequences**, Razieh Rastgoo et.al., Paper: [http://arxiv.org/abs/2207.07619v1](http://arxiv.org/abs/2207.07619v1)
+- 2022-07-15, **Improved Algorithms for Recognizing Perfect Graphs and Finding Shortest Odd and Even Holes**, Yung-Chung Chiu et.al., Paper: [http://arxiv.org/abs/2207.07613v1](http://arxiv.org/abs/2207.07613v1)
 - 2022-07-14, **Bootstrapped Masked Autoencoders for Vision BERT Pretraining**, Xiaoyi Dong et.al., Paper: [http://arxiv.org/abs/2207.07116v1](http://arxiv.org/abs/2207.07116v1), Code: **[https://github.com/lightdxy/bootmae](https://github.com/lightdxy/bootmae)**
 - 2022-07-14, **Nonlinear coupled magnonics: Terahertz field-driven magnon upconversion**, Zhuquan Zhang et.al., Paper: [http://arxiv.org/abs/2207.07103v1](http://arxiv.org/abs/2207.07103v1)
 - 2022-07-15, **Unscrambling the lensed galaxies in JWST images behind SMACS0723**, Massimo Pascale et.al., Paper: [http://arxiv.org/abs/2207.07102v2](http://arxiv.org/abs/2207.07102v2)
