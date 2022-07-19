@@ -1,4 +1,4 @@
-> Updated on 2022.07.18
+> Updated on 2022.07.19
 
 ## RGBT
 
@@ -275,7 +275,7 @@
 ## Saliency Detection
 
 - 2022-07-15, **A Probabilistic Autoencoder for Type Ia Supernovae Spectral Time Series**, George Stein et.al., Paper: [http://arxiv.org/abs/2207.07645v1](http://arxiv.org/abs/2207.07645v1), Code: **[https://github.com/georgestein/supaernova](https://github.com/georgestein/supaernova)**
-- 2022-07-15, **Gusts in the Headwind: Uncertainties in Direct Dark Matter Detection**, Grace E. Lawrence et.al., Paper: [http://arxiv.org/abs/2207.07644v1](http://arxiv.org/abs/2207.07644v1)
+- 2022-07-15, **Gusts in the Headwind: Uncertainties in Direct Dark Matter Detection**, Grace E. Lawrence et.al., Paper: [http://arxiv.org/abs/2207.07644v1](http://arxiv.org/abs/2207.07644v1), Code: **[https://github.com/grace-lawrence/gusts_in_the_headwind-uncertainties_in_direct_dark_matter_detection-supplementary](https://github.com/grace-lawrence/gusts_in_the_headwind-uncertainties_in_direct_dark_matter_detection-supplementary)**
 - 2022-07-15, **ARShopping: In-Store Shopping Decision Support Through Augmented Reality and Immersive Visualization**, Bingjie Xu et.al., Paper: [http://arxiv.org/abs/2207.07643v1](http://arxiv.org/abs/2207.07643v1)
 - 2022-07-15, **Simulating Spectral Kurtosis Mitigation Against Realistic RFI Signals**, Evan T. Smith et.al., Paper: [http://arxiv.org/abs/2207.07642v1](http://arxiv.org/abs/2207.07642v1)
 - 2022-07-15, **Dynamical phase and quantum heat transport at fractional frequencies**, George Thomas et.al., Paper: [http://arxiv.org/abs/2207.07632v1](http://arxiv.org/abs/2207.07632v1)
