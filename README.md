@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-18**|**A first look at the SMACS0723 JWST ERO: spectroscopic redshifts, stellar masses and star-formation histories**|A. C. Carnall et.al.|[2207.08778v1](http://arxiv.org/abs/2207.08778v1)|null|
+|**2022-07-18**|**Measuring chemical abundances in AGN from infrared nebular lines: HII-CHI-Mistry-IR for AGN**|Borja Pérez-Díaz et.al.|[2207.08718v1](http://arxiv.org/abs/2207.08718v1)|null|
+|**2022-07-18**|**Heating anomaly of cold interfacial water under irradiation of mid-infrared pulses**|Liu-Ye Meng et.al.|[2207.08676v1](http://arxiv.org/abs/2207.08676v1)|null|
+|**2022-07-18**|**Ultra-efficient mid-infrared energy absorption by water confined in carbon nanotubes**|Rong-Yao Yang et.al.|[2207.08672v1](http://arxiv.org/abs/2207.08672v1)|null|
+|**2022-07-18**|**Ultra-sensitive Super-THz Microwave Kinetic Inductance Detectors for future space telescopes**|J. J. A. Baselmans et.al.|[2207.08647v1](http://arxiv.org/abs/2207.08647v1)|null|
+|**2022-07-18**|**External or internal companion exciting the spiral arms in CQ Tau?**|Iain Hammond et.al.|[2207.08587v1](http://arxiv.org/abs/2207.08587v1)|null|
+|**2022-07-18**|**Sub-surface alteration and related change in reflectance spectra of space-weathered materials**|K. Chrbolková et.al.|[2207.08473v1](http://arxiv.org/abs/2207.08473v1)|null|
+|**2022-07-17**|**Phase-resolved attosecond near-threshold photoionization of molecular nitrogen**|S. Haessler et.al.|[2207.08310v1](http://arxiv.org/abs/2207.08310v1)|null|
+|**2022-07-17**|**Properties of the submillimeter galaxies revealed by JWST and ALMA in SMACS 0723 galaxy cluster**|Cheng Cheng et.al.|[2207.08234v1](http://arxiv.org/abs/2207.08234v1)|null|
+|**2022-07-16**|**Spatial disconnection between stellar and dust emissions: the test of the Antennae Galaxies (Arp 244)**|L. -M. Seillé et.al.|[2207.07967v1](http://arxiv.org/abs/2207.07967v1)|null|
 |**2022-07-15**|**First JWST observations of a gravitational lens: Mass model of new multiple images with near-infrared observations of SMACS~J0723.3$-$7327**|G. B. Caminha et.al.|[2207.07567v1](http://arxiv.org/abs/2207.07567v1)|null|
 |**2022-07-15**|**Insights into physical conditions and magnetic fields from high redshift quasars**|Bomee Lee et.al.|[2207.07290v1](http://arxiv.org/abs/2207.07290v1)|null|
 |**2022-07-14**|**An ALMA 1.3 millimeter Search for Debris Disks around Solar-type Stars in the Pleiades**|Devin Sullivan et.al.|[2207.07171v1](http://arxiv.org/abs/2207.07171v1)|null|
@@ -258,6 +268,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-17**|**Detecting Humans in RGB-D Data with CNNs**|Kaiyang Zhou et.al.|[2207.08064v1](http://arxiv.org/abs/2207.08064v1)|**[link](https://github.com/kaiyangzhou/roi-selection)**|
+|**2022-07-16**|**Autonomously Untangling Long Cables**|Vainavi Viswanath et.al.|[2207.07813v1](http://arxiv.org/abs/2207.07813v1)|null|
 |**2022-07-14**|**Egocentric Scene Understanding via Multimodal Spatial Rectifier**|Tien Do et.al.|[2207.07077v1](http://arxiv.org/abs/2207.07077v1)|**[link](https://github.com/tien-d/EgoDepthNormal)**|
 |**2022-07-13**|**3D Concept Grounding on Neural Fields**|Yining Hong et.al.|[2207.06403v1](http://arxiv.org/abs/2207.06403v1)|null|
 |**2022-07-08**|**ASL-Homework-RGBD Dataset: An annotated dataset of 45 fluent and non-fluent signers performing American Sign Language homeworks**|Saad Hassan et.al.|[2207.04021v1](http://arxiv.org/abs/2207.04021v1)|null|
@@ -282,6 +294,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-18**|**Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations**|Hashmat Shadab Malik et.al.|[2207.08803v1](http://arxiv.org/abs/2207.08803v1)|**[link](https://github.com/hashmatshadab/apr)**|
+|**2022-07-18**|**Instance-Aware Observer Network for Out-of-Distribution Object Segmentation**|Victor Besnier et.al.|[2207.08782v1](http://arxiv.org/abs/2207.08782v1)|null|
+|**2022-07-18**|**A first look at the SMACS0723 JWST ERO: spectroscopic redshifts, stellar masses and star-formation histories**|A. C. Carnall et.al.|[2207.08778v1](http://arxiv.org/abs/2207.08778v1)|null|
+|**2022-07-18**|**Don't Be a Tattle-Tale: Preventing Leakages through Data Dependencies on Access Control Protected Data**|Primal Pappachan et.al.|[2207.08757v1](http://arxiv.org/abs/2207.08757v1)|null|
+|**2022-07-18**|**A Scintillation Arc Survey of 22 Pulsars with Low to Moderate Dispersion Measures**|Dan R. Stinebring et.al.|[2207.08756v1](http://arxiv.org/abs/2207.08756v1)|null|
+|**2022-07-18**|**Sub-stellar Companions of Intermediate-mass Stars with CoRoT: CoRoT-34b, CoRoT-35b, and CoRoT-36b**|D. Sebastian et.al.|[2207.08742v1](http://arxiv.org/abs/2207.08742v1)|null|
+|**2022-07-18**|**Semantic Novelty Detection via Relational Reasoning**|Francesco Cappio Borlino et.al.|[2207.08699v1](http://arxiv.org/abs/2207.08699v1)|**[link](https://github.com/francescocappio/resend)**|
+|**2022-07-18**|**The Kink of Gravitational Waves in a Vibrating Detector: An Emergent Berry Phase**|Partha Nandi et.al.|[2207.08687v1](http://arxiv.org/abs/2207.08687v1)|null|
+|**2022-07-18**|**A comparative study of deconvolution techniques for quantum-gas microscope images**|A. La Rooij et.al.|[2207.08663v1](http://arxiv.org/abs/2207.08663v1)|null|
+|**2022-07-18**|**Leveraging Action Affinity and Continuity for Semi-supervised Temporal Action Segmentation**|Guodong Ding et.al.|[2207.08653v1](http://arxiv.org/abs/2207.08653v1)|null|
 |**2022-07-15**|**A Probabilistic Autoencoder for Type Ia Supernovae Spectral Time Series**|George Stein et.al.|[2207.07645v1](http://arxiv.org/abs/2207.07645v1)|**[link](https://github.com/georgestein/supaernova)**|
 |**2022-07-15**|**Gusts in the Headwind: Uncertainties in Direct Dark Matter Detection**|Grace E. Lawrence et.al.|[2207.07644v1](http://arxiv.org/abs/2207.07644v1)|**[link](https://github.com/grace-lawrence/gusts_in_the_headwind-uncertainties_in_direct_dark_matter_detection-supplementary)**|
 |**2022-07-15**|**ARShopping: In-Store Shopping Decision Support Through Augmented Reality and Immersive Visualization**|Bingjie Xu et.al.|[2207.07643v1](http://arxiv.org/abs/2207.07643v1)|null|
