@@ -24,6 +24,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-19**|**Correlated Fractional Dirac Materials**|Bitan Roy et.al.|[2207.09449v1](http://arxiv.org/abs/2207.09449v1)|null|
+|**2022-07-19**|**Influence of grain growth on CO2 ice spectroscopic profiles : Modelling for dense cores and disks**|Emmanuel Dartois et.al.|[2207.09411v1](http://arxiv.org/abs/2207.09411v1)|null|
+|**2022-07-19**|**External-leg corrections as an origin of large logarithms**|Henning Bahl et.al.|[2207.09355v1](http://arxiv.org/abs/2207.09355v1)|null|
+|**2022-07-19**|**Optimization of broad gain and high optical nonlinearity of mid-infrared quantum cascade laser frequency combs**|Martin Franckie et.al.|[2207.09347v1](http://arxiv.org/abs/2207.09347v1)|null|
+|**2022-07-19**|**Deep Near-Infrared Survey Toward the W40 and Serpens South Region in Aquila Rift: A Comprehensive Catalog of Young Stellar Objects**|Jia Sun et.al.|[2207.09041v1](http://arxiv.org/abs/2207.09041v1)|null|
+|**2022-07-18**|**DeformIrisNet: An Identity-Preserving Model of Iris Texture Deformation**|Siamul Karim Khan et.al.|[2207.08980v1](http://arxiv.org/abs/2207.08980v1)|null|
+|**2022-07-18**|**Thermal decomposition as an activity driver of near-Earth asteroid (3200) Phaethon**|Eric MacLennan et.al.|[2207.08968v1](http://arxiv.org/abs/2207.08968v1)|null|
+|**2022-07-18**|**The Simons Observatory: Antenna control software integration and implementation**|Lauren J. Saunders et.al.|[2207.08949v1](http://arxiv.org/abs/2207.08949v1)|null|
+|**2022-07-18**|**Low frequency radio continuum imaging and SED modeling of 11 LIRGs: radio-only and FUV to radio bands**|Subhrata Dey et.al.|[2207.08929v1](http://arxiv.org/abs/2207.08929v1)|null|
+|**2022-07-18**|**The Detectability of Rocky Planet Surface and Atmosphere Composition with JWST: The Case of LHS 3844b**|Emily A. Whittaker et.al.|[2207.08889v1](http://arxiv.org/abs/2207.08889v1)|null|
 |**2022-07-18**|**A first look at the SMACS0723 JWST ERO: spectroscopic redshifts, stellar masses and star-formation histories**|A. C. Carnall et.al.|[2207.08778v1](http://arxiv.org/abs/2207.08778v1)|null|
 |**2022-07-18**|**Measuring chemical abundances in AGN from infrared nebular lines: HII-CHI-Mistry-IR for AGN**|Borja Pérez-Díaz et.al.|[2207.08718v1](http://arxiv.org/abs/2207.08718v1)|null|
 |**2022-07-18**|**Heating anomaly of cold interfacial water under irradiation of mid-infrared pulses**|Liu-Ye Meng et.al.|[2207.08676v1](http://arxiv.org/abs/2207.08676v1)|null|
@@ -298,6 +308,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-19**|**Swampland Bounds on Dark Sectors**|Miguel Montero et.al.|[2207.09448v1](http://arxiv.org/abs/2207.09448v1)|null|
+|**2022-07-19**|**PoserNet: Refining Relative Camera Poses Exploiting Object Detections**|Matteo Taiana et.al.|[2207.09445v1](http://arxiv.org/abs/2207.09445v1)|null|
+|**2022-07-19**|**Two Remarkably Luminous Galaxy Candidates at $z\approx11-13$ Revealed by JWST**|Rohan P. Naidu et.al.|[2207.09434v1](http://arxiv.org/abs/2207.09434v1)|null|
+|**2022-07-19**|**Interstellar Complex Organic Molecules in SiO-traced massive outflows**|O. S. Rojas-García et.al.|[2207.09426v1](http://arxiv.org/abs/2207.09426v1)|null|
+|**2022-07-19**|**Det6D: A Ground-Aware Full-Pose 3D Object Detector for Improving Terrain Robustness**|Junyuan Ouyang et.al.|[2207.09412v1](http://arxiv.org/abs/2207.09412v1)|null|
+|**2022-07-19**|**Bounding generalization error with input compression: An empirical study with infinite-width networks**|Angus Galloway et.al.|[2207.09408v1](http://arxiv.org/abs/2207.09408v1)|null|
+|**2022-07-19**|**Derivative of a hypergraph as a tool for linguistic pattern analysis**|Angeles Criado-Alonso et.al.|[2207.09400v1](http://arxiv.org/abs/2207.09400v1)|null|
+|**2022-07-19**|**RCLane: Relay Chain Prediction for Lane Detection**|Shenghua Xu et.al.|[2207.09399v1](http://arxiv.org/abs/2207.09399v1)|null|
+|**2022-07-19**|**Image Synthesis with Disentangled Attributes for Chest X-Ray Nodule Augmentation and Detection**|Zhenrong Shen et.al.|[2207.09389v1](http://arxiv.org/abs/2207.09389v1)|null|
+|**2022-07-19**|**Hybrid photon-phonon blockade**|Shilan Abo et.al.|[2207.09388v1](http://arxiv.org/abs/2207.09388v1)|null|
 |**2022-07-18**|**Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations**|Hashmat Shadab Malik et.al.|[2207.08803v1](http://arxiv.org/abs/2207.08803v1)|**[link](https://github.com/hashmatshadab/apr)**|
 |**2022-07-18**|**Instance-Aware Observer Network for Out-of-Distribution Object Segmentation**|Victor Besnier et.al.|[2207.08782v1](http://arxiv.org/abs/2207.08782v1)|null|
 |**2022-07-18**|**A first look at the SMACS0723 JWST ERO: spectroscopic redshifts, stellar masses and star-formation histories**|A. C. Carnall et.al.|[2207.08778v1](http://arxiv.org/abs/2207.08778v1)|null|
