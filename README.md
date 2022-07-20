@@ -1,4 +1,4 @@
-## Updated on 2022.07.19
+## Updated on 2022.07.20
 
 ## RGBT
 
@@ -28,7 +28,7 @@
 |**2022-07-18**|**External or internal companion exciting the spiral arms in CQ Tau?**|Iain Hammond et.al.|[2207.08587v1](http://arxiv.org/abs/2207.08587v1)|null|
 |**2022-07-18**|**Sub-surface alteration and related change in reflectance spectra of space-weathered materials**|K. Chrbolková et.al.|[2207.08473v1](http://arxiv.org/abs/2207.08473v1)|null|
 |**2022-07-17**|**Phase-resolved attosecond near-threshold photoionization of molecular nitrogen**|S. Haessler et.al.|[2207.08310v1](http://arxiv.org/abs/2207.08310v1)|null|
-|**2022-07-17**|**Properties of the submillimeter galaxies revealed by JWST and ALMA in SMACS 0723 galaxy cluster**|Cheng Cheng et.al.|[2207.08234v1](http://arxiv.org/abs/2207.08234v1)|null|
+|**2022-07-19**|**Properties of the submillimeter galaxies revealed by JWST and ALMA in SMACS 0723 galaxy cluster**|Cheng Cheng et.al.|[2207.08234v2](http://arxiv.org/abs/2207.08234v2)|null|
 |**2022-07-16**|**Spatial disconnection between stellar and dust emissions: the test of the Antennae Galaxies (Arp 244)**|L. -M. Seillé et.al.|[2207.07967v1](http://arxiv.org/abs/2207.07967v1)|null|
 |**2022-07-15**|**First JWST observations of a gravitational lens: Mass model of new multiple images with near-infrared observations of SMACS~J0723.3$-$7327**|G. B. Caminha et.al.|[2207.07567v1](http://arxiv.org/abs/2207.07567v1)|null|
 |**2022-07-15**|**Insights into physical conditions and magnetic fields from high redshift quasars**|Bomee Lee et.al.|[2207.07290v1](http://arxiv.org/abs/2207.07290v1)|null|
