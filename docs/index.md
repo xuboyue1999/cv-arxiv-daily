@@ -24,6 +24,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-20**|**Interferometric carrier-envelope phase stabilization for ultrashort pulses in the mid-infrared**|Manuel Meierhofer et.al.|[2207.10073v1](http://arxiv.org/abs/2207.10073v1)|null|
+|**2022-07-20**|**Searching for giant planets in the outer Solar System with far-infrared all-sky surveys**|Chris Sedgwick et.al.|[2207.09985v1](http://arxiv.org/abs/2207.09985v1)|null|
+|**2022-07-20**|**The Asymptotically Safe Standard Model: From quantum gravity to dynamical chiral symmetry breaking**|Álvaro Pastor-Gutiérrez et.al.|[2207.09817v1](http://arxiv.org/abs/2207.09817v1)|null|
+|**2022-07-20**|**The GAPS Programme at TNG XXXIX -- Multiple molecular species in the atmosphere of the warm giant planet WASP-80 b unveiled at high resolution with GIANO-B**|Ilaria Carleo et.al.|[2207.09761v1](http://arxiv.org/abs/2207.09761v1)|null|
+|**2022-07-20**|**The GAPS Programme at TNG XXXVIII. Five molecules in the atmosphere of the warm giant planet WASP-69b detected at high spectral resolution**|G. Guilluy et.al.|[2207.09760v1](http://arxiv.org/abs/2207.09760v1)|null|
+|**2022-07-19**|**Companion Mass Limits for 17 Binary Systems Obtained with Binary Differential Imaging and MagAO/Clio**|Logan A. Pearce et.al.|[2207.09579v1](http://arxiv.org/abs/2207.09579v1)|null|
+|**2022-07-19**|**Ground States for Infrared Renormalized Translation-Invariant Non-Relativistic QED**|David Hasler et.al.|[2207.09559v1](http://arxiv.org/abs/2207.09559v1)|null|
+|**2022-07-19**|**The clustering properties of AGNs/quasars in CatWISE2020 catalog**|Prabhakar Tiwari et.al.|[2207.09477v1](http://arxiv.org/abs/2207.09477v1)|null|
+|**2022-07-19**|**On the origin of radio-loudness in active galactic nuclei using far-infrared polarimetric observations**|Enrique Lopez-Rodriguez et.al.|[2207.09466v1](http://arxiv.org/abs/2207.09466v1)|null|
 |**2022-07-19**|**Correlated Fractional Dirac Materials**|Bitan Roy et.al.|[2207.09449v1](http://arxiv.org/abs/2207.09449v1)|null|
 |**2022-07-19**|**Influence of grain growth on CO2 ice spectroscopic profiles : Modelling for dense cores and disks**|Emmanuel Dartois et.al.|[2207.09411v1](http://arxiv.org/abs/2207.09411v1)|null|
 |**2022-07-19**|**External-leg corrections as an origin of large logarithms**|Henning Bahl et.al.|[2207.09355v1](http://arxiv.org/abs/2207.09355v1)|null|
@@ -308,6 +317,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-20**|**Automatic Segmentation of Coronal Holes in Solar Images and Solar Prediction Map Classification**|Venkatesh Jatla et.al.|[2207.10070v1](http://arxiv.org/abs/2207.10070v1)|null|
+|**2022-07-20**|**Edge-of-the-Multis: Evidence for a Transition in the Outer Architectures of Compact Multi-Planet Systems**|Sarah C. Millholland et.al.|[2207.10068v1](http://arxiv.org/abs/2207.10068v1)|null|
+|**2022-07-20**|**Primordial black hole dark matter from inflation: the reverse engineering approach**|Gabriele Franciolini et.al.|[2207.10056v1](http://arxiv.org/abs/2207.10056v1)|null|
+|**2022-07-20**|**Densely Constrained Depth Estimator for Monocular 3D Object Detection**|Yingyan Li et.al.|[2207.10047v1](http://arxiv.org/abs/2207.10047v1)|**[link](https://github.com/bravegroup/dcd)**|
+|**2022-07-20**|**Fully Sparse 3D Object Detection**|Lue Fan et.al.|[2207.10035v1](http://arxiv.org/abs/2207.10035v1)|**[link](https://github.com/tusimple/sst)**|
+|**2022-07-20**|**First look with JWST spectroscopy: $z \sim 8$ galaxies resemble local analogues**|D. Schaerer et.al.|[2207.10034v1](http://arxiv.org/abs/2207.10034v1)|null|
+|**2022-07-20**|**Wigner Function Tomography via Optical Parametric Amplification**|Mahmoud Kalash et.al.|[2207.10030v1](http://arxiv.org/abs/2207.10030v1)|null|
+|**2022-07-20**|**Search for merger ejecta emission from late time radio observations of short GRBs using GMRT**|Ankur Ghosh et.al.|[2207.10001v1](http://arxiv.org/abs/2207.10001v1)|null|
+|**2022-07-20**|**Digital Twin-based Intrusion Detection for Industrial Control Systems**|Seba Anna Varghese et.al.|[2207.09999v1](http://arxiv.org/abs/2207.09999v1)|**[link](https://github.com/sebavarghese/dt-based-ids-framework)**|
+|**2022-07-20**|**Euclid: Testing the Copernican principle with next-generation surveys**|D. Camarena et.al.|[2207.09995v1](http://arxiv.org/abs/2207.09995v1)|null|
 |**2022-07-19**|**Swampland Bounds on Dark Sectors**|Miguel Montero et.al.|[2207.09448v1](http://arxiv.org/abs/2207.09448v1)|null|
 |**2022-07-19**|**PoserNet: Refining Relative Camera Poses Exploiting Object Detections**|Matteo Taiana et.al.|[2207.09445v1](http://arxiv.org/abs/2207.09445v1)|**[link](https://github.com/iit-pavis/posernet)**|
 |**2022-07-19**|**Two Remarkably Luminous Galaxy Candidates at $z\approx11-13$ Revealed by JWST**|Rohan P. Naidu et.al.|[2207.09434v1](http://arxiv.org/abs/2207.09434v1)|null|
