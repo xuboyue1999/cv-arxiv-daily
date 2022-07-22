@@ -20,6 +20,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-21**|**Rest-frame near-infrared sizes of galaxies at cosmic noon: objects in JWST's mirror are smaller than they appeared**|Katherine A. Suess et.al.|[2207.10655v1](http://arxiv.org/abs/2207.10655v1)|null|
+|**2022-07-21**|**Renormalization Group flows between Gaussian Fixed Points**|Diego Buccio et.al.|[2207.10596v1](http://arxiv.org/abs/2207.10596v1)|null|
+|**2022-07-21**|**Multi-modal Retinal Image Registration Using a Keypoint-Based Vessel Structure Aligning Network**|Aline Sindel et.al.|[2207.10506v1](http://arxiv.org/abs/2207.10506v1)|null|
+|**2022-07-21**|**Ozone Production in Electron Irradiated CO2:O2 Ices**|Duncan V. Mifsud et.al.|[2207.10453v1](http://arxiv.org/abs/2207.10453v1)|null|
+|**2022-07-21**|**Buckyball-metal complexes as promising carriers of astronomical unidentified infrared emission bands**|Gao-Lei Hou et.al.|[2207.10311v1](http://arxiv.org/abs/2207.10311v1)|null|
+|**2022-07-20**|**Inferring properties of dust in supernovae with neural networks**|Zoe Ansari et.al.|[2207.10104v1](http://arxiv.org/abs/2207.10104v1)|null|
+|**2022-07-20**|**Emergent symmetry and free energy**|Ken Kikuchi et.al.|[2207.10095v1](http://arxiv.org/abs/2207.10095v1)|null|
+|**2022-07-20**|**Dark Matter from a Conformal Dark Sector**|Sungwoo Hong et.al.|[2207.10093v1](http://arxiv.org/abs/2207.10093v1)|null|
 |**2022-07-20**|**Interferometric carrier-envelope phase stabilization for ultrashort pulses in the mid-infrared**|Manuel Meierhofer et.al.|[2207.10073v1](http://arxiv.org/abs/2207.10073v1)|null|
 |**2022-07-20**|**Searching for giant planets in the outer Solar System with far-infrared all-sky surveys**|Chris Sedgwick et.al.|[2207.09985v1](http://arxiv.org/abs/2207.09985v1)|null|
 |**2022-07-20**|**The Asymptotically Safe Standard Model: From quantum gravity to dynamical chiral symmetry breaking**|Álvaro Pastor-Gutiérrez et.al.|[2207.09817v1](http://arxiv.org/abs/2207.09817v1)|null|
@@ -313,6 +321,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-21**|**Omni3D: A Large Benchmark and Model for 3D Object Detection in the Wild**|Garrick Brazil et.al.|[2207.10660v1](http://arxiv.org/abs/2207.10660v1)|**[link](https://github.com/facebookresearch/omni3d)**|
+|**2022-07-21**|**TAROGE-M: Radio Antenna Array on Antarctic High Mountain for Detecting Near-Horizontal Ultra-High Energy Air Showers**|TAROGE Collaboration et.al.|[2207.10616v1](http://arxiv.org/abs/2207.10616v1)|null|
+|**2022-07-21**|**Boosting 3D Object Detection via Object-Focused Image Fusion**|Hao Yang et.al.|[2207.10589v1](http://arxiv.org/abs/2207.10589v1)|**[link](https://github.com/haoy945/demf)**|
+|**2022-07-21**|**Feedback capacity of Gaussian channels with memory**|Oron Sabag et.al.|[2207.10580v1](http://arxiv.org/abs/2207.10580v1)|null|
+|**2022-07-21**|**A Global View on Star Formation: The GLOSTAR Galactic Plane Survey V. 6.7 GHz Methanol Maser Catalogue**|H. Nguyen et.al.|[2207.10548v1](http://arxiv.org/abs/2207.10548v1)|null|
+|**2022-07-21**|**Surrey System for DCASE 2022 Task 5: Few-shot Bioacoustic Event Detection with Segment-level Metric Learning**|Haohe Liu et.al.|[2207.10547v1](http://arxiv.org/abs/2207.10547v1)|null|
+|**2022-07-21**|**Artificial intelligence enables mobile soil analysis for sustainable agriculture**|Ademir Ferreira da Silva et.al.|[2207.10537v1](http://arxiv.org/abs/2207.10537v1)|null|
+|**2022-07-21**|**Neural Network Learning of Chemical Bond Representations in Spectral Indices and Features**|Bill Basener et.al.|[2207.10530v1](http://arxiv.org/abs/2207.10530v1)|null|
+|**2022-07-21**|**Multi-modal Retinal Image Registration Using a Keypoint-Based Vessel Structure Aligning Network**|Aline Sindel et.al.|[2207.10506v1](http://arxiv.org/abs/2207.10506v1)|null|
+|**2022-07-21**|**A Forgotten Danger in DNN Supervision Testing: Generating and Detecting True Ambiguity**|Michael Weiss et.al.|[2207.10495v1](http://arxiv.org/abs/2207.10495v1)|null|
 |**2022-07-20**|**Automatic Segmentation of Coronal Holes in Solar Images and Solar Prediction Map Classification**|Venkatesh Jatla et.al.|[2207.10070v1](http://arxiv.org/abs/2207.10070v1)|null|
 |**2022-07-20**|**Edge-of-the-Multis: Evidence for a Transition in the Outer Architectures of Compact Multi-Planet Systems**|Sarah C. Millholland et.al.|[2207.10068v1](http://arxiv.org/abs/2207.10068v1)|null|
 |**2022-07-20**|**Primordial black hole dark matter from inflation: the reverse engineering approach**|Gabriele Franciolini et.al.|[2207.10056v1](http://arxiv.org/abs/2207.10056v1)|null|
