@@ -20,6 +20,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-22**|**Hollow-core fibers with reduced surface roughness and ultralow loss in the short-wavelength range**|Jonas H. Osório et.al.|[2207.11090v1](http://arxiv.org/abs/2207.11090v1)|null|
+|**2022-07-22**|**Broadband spectroscopy of astrophysical ice analogues: II. Optical constants of CO and CO$_2$ ices in the terahertz and infrared ranges**|A. A. Gavdush et.al.|[2207.11052v1](http://arxiv.org/abs/2207.11052v1)|null|
+|**2022-07-22**|**Scalable colored sub-ambient radiative coolers based on a polymer-Tamm photonic structure**|Tianzhe Huang et.al.|[2207.10957v1](http://arxiv.org/abs/2207.10957v1)|null|
+|**2022-07-22**|**Visible and Near Infrared Image Fusion Based on Texture Information**|Guanyu Zhang et.al.|[2207.10953v1](http://arxiv.org/abs/2207.10953v1)|null|
+|**2022-07-22**|**The European Solar Telescope**|C. Quintero Noda et.al.|[2207.10905v1](http://arxiv.org/abs/2207.10905v1)|null|
+|**2022-07-21**|**H$_2$O distribution in the disc of HD 100546 and HD 163296: the role of dust dynamics and planet--disc interaction**|L. M. Pirovano et.al.|[2207.10744v1](http://arxiv.org/abs/2207.10744v1)|null|
+|**2022-07-21**|**Extreme-ultraviolet structured beams via high harmonic generation**|Alok Kumar Pandey et.al.|[2207.10730v1](http://arxiv.org/abs/2207.10730v1)|null|
+|**2022-07-21**|**Two-loop three-gluon vertex from the Curci-Ferrari model and its leading infrared behavior to all loop orders**|Nahuel Barrios et.al.|[2207.10704v1](http://arxiv.org/abs/2207.10704v1)|null|
 |**2022-07-21**|**Rest-frame near-infrared sizes of galaxies at cosmic noon: objects in JWST's mirror are smaller than they appeared**|Katherine A. Suess et.al.|[2207.10655v1](http://arxiv.org/abs/2207.10655v1)|null|
 |**2022-07-21**|**Renormalization Group flows between Gaussian Fixed Points**|Diego Buccio et.al.|[2207.10596v1](http://arxiv.org/abs/2207.10596v1)|null|
 |**2022-07-21**|**Multi-modal Retinal Image Registration Using a Keypoint-Based Vessel Structure Aligning Network**|Aline Sindel et.al.|[2207.10506v1](http://arxiv.org/abs/2207.10506v1)|null|
@@ -321,6 +329,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-22**|**Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2207.11247v1](http://arxiv.org/abs/2207.11247v1)|**[link](https://github.com/Jingkang50/OpenPSG)**|
+|**2022-07-22**|**Deep Learning Hyperparameter Optimization for Breast Mass Detection in Mammograms**|Adarsh Sehgal et.al.|[2207.11244v1](http://arxiv.org/abs/2207.11244v1)|**[link](https://github.com/aralab-unr/ga-mammograms)**|
+|**2022-07-22**|**Multi-Faceted Distillation of Base-Novel Commonality for Few-shot Object Detection**|Shuang Wu et.al.|[2207.11184v1](http://arxiv.org/abs/2207.11184v1)|**[link](https://github.com/wushuang1998/mfdc)**|
+|**2022-07-22**|**Population synthesis of pulsar wind nebulae and pulsar halos in the Milky Way -- Predicted contributions to the very-high-energy sky**|Pierrick Martin et.al.|[2207.11178v1](http://arxiv.org/abs/2207.11178v1)|null|
+|**2022-07-22**|**Silent Spring: Prototype Pollution Leads to Remote Code Execution in Node.js**|Mikhail Shcherbakov et.al.|[2207.11171v1](http://arxiv.org/abs/2207.11171v1)|null|
+|**2022-07-22**|**Rethinking Few-Shot Object Detection on a Multi-Domain Benchmark**|Kibok Lee et.al.|[2207.11169v1](http://arxiv.org/abs/2207.11169v1)|null|
+|**2022-07-22**|**Position measurement and the nonlinear regime of cavity quantum optomechanics**|Jack Clarke et.al.|[2207.11153v1](http://arxiv.org/abs/2207.11153v1)|null|
+|**2022-07-22**|**Imprints of ultralight axions on the gravitational wave signals of neutron star-black hole binary**|Ning Xie et.al.|[2207.11145v1](http://arxiv.org/abs/2207.11145v1)|null|
+|**2022-07-22**|**The $P_{ψs}^Λ(4338)$ pentaquark and its partners in the molecular picture**|Mao-Jun Yan et.al.|[2207.11144v1](http://arxiv.org/abs/2207.11144v1)|null|
+|**2022-07-22**|**Development of monitoring systems for anomaly detection using ASTD specifications**|El Jabri Chaymae et.al.|[2207.11134v1](http://arxiv.org/abs/2207.11134v1)|null|
 |**2022-07-21**|**Omni3D: A Large Benchmark and Model for 3D Object Detection in the Wild**|Garrick Brazil et.al.|[2207.10660v1](http://arxiv.org/abs/2207.10660v1)|**[link](https://github.com/facebookresearch/omni3d)**|
 |**2022-07-21**|**TAROGE-M: Radio Antenna Array on Antarctic High Mountain for Detecting Near-Horizontal Ultra-High Energy Air Showers**|TAROGE Collaboration et.al.|[2207.10616v1](http://arxiv.org/abs/2207.10616v1)|null|
 |**2022-07-21**|**Boosting 3D Object Detection via Object-Focused Image Fusion**|Hao Yang et.al.|[2207.10589v1](http://arxiv.org/abs/2207.10589v1)|**[link](https://github.com/haoy945/demf)**|

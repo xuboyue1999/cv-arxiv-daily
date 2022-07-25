@@ -16,6 +16,14 @@
 
 ## Infrared
 
+- 2022-07-22, **Hollow-core fibers with reduced surface roughness and ultralow loss in the short-wavelength range**, Jonas H. Osório et.al., Paper: [http://arxiv.org/abs/2207.11090v1](http://arxiv.org/abs/2207.11090v1)
+- 2022-07-22, **Broadband spectroscopy of astrophysical ice analogues: II. Optical constants of CO and CO$_2$ ices in the terahertz and infrared ranges**, A. A. Gavdush et.al., Paper: [http://arxiv.org/abs/2207.11052v1](http://arxiv.org/abs/2207.11052v1)
+- 2022-07-22, **Scalable colored sub-ambient radiative coolers based on a polymer-Tamm photonic structure**, Tianzhe Huang et.al., Paper: [http://arxiv.org/abs/2207.10957v1](http://arxiv.org/abs/2207.10957v1)
+- 2022-07-22, **Visible and Near Infrared Image Fusion Based on Texture Information**, Guanyu Zhang et.al., Paper: [http://arxiv.org/abs/2207.10953v1](http://arxiv.org/abs/2207.10953v1)
+- 2022-07-22, **The European Solar Telescope**, C. Quintero Noda et.al., Paper: [http://arxiv.org/abs/2207.10905v1](http://arxiv.org/abs/2207.10905v1)
+- 2022-07-21, **H$_2$O distribution in the disc of HD 100546 and HD 163296: the role of dust dynamics and planet--disc interaction**, L. M. Pirovano et.al., Paper: [http://arxiv.org/abs/2207.10744v1](http://arxiv.org/abs/2207.10744v1)
+- 2022-07-21, **Extreme-ultraviolet structured beams via high harmonic generation**, Alok Kumar Pandey et.al., Paper: [http://arxiv.org/abs/2207.10730v1](http://arxiv.org/abs/2207.10730v1)
+- 2022-07-21, **Two-loop three-gluon vertex from the Curci-Ferrari model and its leading infrared behavior to all loop orders**, Nahuel Barrios et.al., Paper: [http://arxiv.org/abs/2207.10704v1](http://arxiv.org/abs/2207.10704v1)
 - 2022-07-21, **Rest-frame near-infrared sizes of galaxies at cosmic noon: objects in JWST's mirror are smaller than they appeared**, Katherine A. Suess et.al., Paper: [http://arxiv.org/abs/2207.10655v1](http://arxiv.org/abs/2207.10655v1)
 - 2022-07-21, **Renormalization Group flows between Gaussian Fixed Points**, Diego Buccio et.al., Paper: [http://arxiv.org/abs/2207.10596v1](http://arxiv.org/abs/2207.10596v1)
 - 2022-07-21, **Multi-modal Retinal Image Registration Using a Keypoint-Based Vessel Structure Aligning Network**, Aline Sindel et.al., Paper: [http://arxiv.org/abs/2207.10506v1](http://arxiv.org/abs/2207.10506v1)
@@ -313,6 +321,16 @@
 
 ## Saliency Detection
 
+- 2022-07-22, **Panoptic Scene Graph Generation**, Jingkang Yang et.al., Paper: [http://arxiv.org/abs/2207.11247v1](http://arxiv.org/abs/2207.11247v1), Code: **[https://github.com/Jingkang50/OpenPSG](https://github.com/Jingkang50/OpenPSG)**
+- 2022-07-22, **Deep Learning Hyperparameter Optimization for Breast Mass Detection in Mammograms**, Adarsh Sehgal et.al., Paper: [http://arxiv.org/abs/2207.11244v1](http://arxiv.org/abs/2207.11244v1), Code: **[https://github.com/aralab-unr/ga-mammograms](https://github.com/aralab-unr/ga-mammograms)**
+- 2022-07-22, **Multi-Faceted Distillation of Base-Novel Commonality for Few-shot Object Detection**, Shuang Wu et.al., Paper: [http://arxiv.org/abs/2207.11184v1](http://arxiv.org/abs/2207.11184v1), Code: **[https://github.com/wushuang1998/mfdc](https://github.com/wushuang1998/mfdc)**
+- 2022-07-22, **Population synthesis of pulsar wind nebulae and pulsar halos in the Milky Way -- Predicted contributions to the very-high-energy sky**, Pierrick Martin et.al., Paper: [http://arxiv.org/abs/2207.11178v1](http://arxiv.org/abs/2207.11178v1)
+- 2022-07-22, **Silent Spring: Prototype Pollution Leads to Remote Code Execution in Node.js**, Mikhail Shcherbakov et.al., Paper: [http://arxiv.org/abs/2207.11171v1](http://arxiv.org/abs/2207.11171v1)
+- 2022-07-22, **Rethinking Few-Shot Object Detection on a Multi-Domain Benchmark**, Kibok Lee et.al., Paper: [http://arxiv.org/abs/2207.11169v1](http://arxiv.org/abs/2207.11169v1)
+- 2022-07-22, **Position measurement and the nonlinear regime of cavity quantum optomechanics**, Jack Clarke et.al., Paper: [http://arxiv.org/abs/2207.11153v1](http://arxiv.org/abs/2207.11153v1)
+- 2022-07-22, **Imprints of ultralight axions on the gravitational wave signals of neutron star-black hole binary**, Ning Xie et.al., Paper: [http://arxiv.org/abs/2207.11145v1](http://arxiv.org/abs/2207.11145v1)
+- 2022-07-22, **The $P_{ψs}^Λ(4338)$ pentaquark and its partners in the molecular picture**, Mao-Jun Yan et.al., Paper: [http://arxiv.org/abs/2207.11144v1](http://arxiv.org/abs/2207.11144v1)
+- 2022-07-22, **Development of monitoring systems for anomaly detection using ASTD specifications**, El Jabri Chaymae et.al., Paper: [http://arxiv.org/abs/2207.11134v1](http://arxiv.org/abs/2207.11134v1)
 - 2022-07-21, **Omni3D: A Large Benchmark and Model for 3D Object Detection in the Wild**, Garrick Brazil et.al., Paper: [http://arxiv.org/abs/2207.10660v1](http://arxiv.org/abs/2207.10660v1), Code: **[https://github.com/facebookresearch/omni3d](https://github.com/facebookresearch/omni3d)**
 - 2022-07-21, **TAROGE-M: Radio Antenna Array on Antarctic High Mountain for Detecting Near-Horizontal Ultra-High Energy Air Showers**, TAROGE Collaboration et.al., Paper: [http://arxiv.org/abs/2207.10616v1](http://arxiv.org/abs/2207.10616v1)
 - 2022-07-21, **Boosting 3D Object Detection via Object-Focused Image Fusion**, Hao Yang et.al., Paper: [http://arxiv.org/abs/2207.10589v1](http://arxiv.org/abs/2207.10589v1), Code: **[https://github.com/haoy945/demf](https://github.com/haoy945/demf)**
