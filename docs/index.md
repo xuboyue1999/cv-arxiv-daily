@@ -24,6 +24,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-25**|**Monolithically integrated MEMS cantilevers with embedded waveguides for visible light beam-scanning**|Saeed Sharif Azadeh et.al.|[2207.12374v1](http://arxiv.org/abs/2207.12374v1)|null|
+|**2022-07-25**|**The evolution of the galaxy UV luminosity function at redshifts z ~ 8-15 from deep JWST and ground-based near-infrared imaging**|C. T. Donnan et.al.|[2207.12356v1](http://arxiv.org/abs/2207.12356v1)|null|
+|**2022-07-25**|**The VMC Survey -- XLIX. Discovery of a population of quasars dominated by nuclear dust emission behind the Magellanic Clouds**|Clara M. Pennock et.al.|[2207.12301v1](http://arxiv.org/abs/2207.12301v1)|null|
+|**2022-07-25**|**The Infrared Medium-deep Survey. IX. Discovery of Two New $z\sim6$ Quasars and Space Density down to $M_{1450}\sim-23.5$ mag**|Kim Yongjung et.al.|[2207.12282v1](http://arxiv.org/abs/2207.12282v1)|null|
+|**2022-07-25**|**Potential signature of Population III pair-instability supernova ejecta in the BLR gas of the most distant quasar at z = 7.54**|Yuzuru Yoshii et.al.|[2207.11909v1](http://arxiv.org/abs/2207.11909v1)|null|
+|**2022-07-25**|**Portable recording system for spherical thermography and its application to longwave mean radiant temperature estimation**|Takashi Asawa et.al.|[2207.11881v1](http://arxiv.org/abs/2207.11881v1)|null|
+|**2022-07-23**|**The distribution of dust in edge-on galaxies: I. The global structure**|Aleksandr V. Mosenkov et.al.|[2207.11589v1](http://arxiv.org/abs/2207.11589v1)|null|
+|**2022-07-23**|**Identification and parameter determination of F-type Herbig stars from LAMOST DR8**|Yun-Jin Zhang et.al.|[2207.11574v1](http://arxiv.org/abs/2207.11574v1)|null|
+|**2022-07-22**|**Three-dimensional structure of thermal waves in Venus' mesosphere from ground-based observations**|Rohini S Giles et.al.|[2207.11369v1](http://arxiv.org/abs/2207.11369v1)|null|
 |**2022-07-22**|**Hollow-core fibers with reduced surface roughness and ultralow loss in the short-wavelength range**|Jonas H. Osório et.al.|[2207.11090v1](http://arxiv.org/abs/2207.11090v1)|null|
 |**2022-07-22**|**Broadband spectroscopy of astrophysical ice analogues: II. Optical constants of CO and CO$_2$ ices in the terahertz and infrared ranges**|A. A. Gavdush et.al.|[2207.11052v1](http://arxiv.org/abs/2207.11052v1)|null|
 |**2022-07-22**|**Scalable colored sub-ambient radiative coolers based on a polymer-Tamm photonic structure**|Tianzhe Huang et.al.|[2207.10957v1](http://arxiv.org/abs/2207.10957v1)|null|
@@ -333,6 +342,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-25**|**LightX3ECG: A Lightweight and eXplainable Deep Learning System for 3-lead Electrocardiogram Classification**|Khiem H. Le et.al.|[2207.12381v1](http://arxiv.org/abs/2207.12381v1)|null|
+|**2022-07-25**|**Task-Relevant Failure Detection for Trajectory Predictors in Autonomous Vehicles**|Alec Farid et.al.|[2207.12380v1](http://arxiv.org/abs/2207.12380v1)|null|
+|**2022-07-25**|**MIGHTEE: the nature of the radio-loud AGN population**|I. H. Whittam et.al.|[2207.12379v1](http://arxiv.org/abs/2207.12379v1)|null|
+|**2022-07-25**|**The chemical enrichment in the early Universe as probed by JWST via direct metallicity measurements at z~8**|M. Curti et.al.|[2207.12375v1](http://arxiv.org/abs/2207.12375v1)|null|
+|**2022-07-25**|**TRAPPIST-1h as an Exo-Titan. I. The Role of Assumptions about Atmospheric Parameters in Understanding an Exoplanet Atmosphere**|Kathleen Mandt et.al.|[2207.12358v1](http://arxiv.org/abs/2207.12358v1)|null|
+|**2022-07-25**|**Bistability of the atmospheric circulation on TRAPPIST-1e**|Denis E. Sergeev et.al.|[2207.12342v1](http://arxiv.org/abs/2207.12342v1)|null|
+|**2022-07-25**|**Localization of Coordinated Cyber-Physical Attacks in Power Grids Using Moving Target Defense and Deep Learning**|Yexiang Chen et.al.|[2207.12339v1](http://arxiv.org/abs/2207.12339v1)|null|
+|**2022-07-25**|**Four New Fast Radio Bursts Discovered in the Parkes 70-cm Pulsar Survey Archive**|F. Crawford et.al.|[2207.12332v1](http://arxiv.org/abs/2207.12332v1)|null|
+|**2022-07-25**|**Time to reach the maximum for a stationary stochastic process**|Francesco Mori et.al.|[2207.12329v1](http://arxiv.org/abs/2207.12329v1)|null|
+|**2022-07-25**|**Ultra wideband axion search using a Faraday haloscope**|A. T. M. Anishur Rahman et.al.|[2207.12325v1](http://arxiv.org/abs/2207.12325v1)|null|
 |**2022-07-22**|**Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2207.11247v1](http://arxiv.org/abs/2207.11247v1)|**[link](https://github.com/Jingkang50/OpenPSG)**|
 |**2022-07-22**|**Deep Learning Hyperparameter Optimization for Breast Mass Detection in Mammograms**|Adarsh Sehgal et.al.|[2207.11244v1](http://arxiv.org/abs/2207.11244v1)|**[link](https://github.com/aralab-unr/ga-mammograms)**|
 |**2022-07-22**|**Multi-Faceted Distillation of Base-Novel Commonality for Few-shot Object Detection**|Shuang Wu et.al.|[2207.11184v1](http://arxiv.org/abs/2207.11184v1)|**[link](https://github.com/wushuang1998/mfdc)**|
