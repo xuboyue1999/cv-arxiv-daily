@@ -16,6 +16,13 @@
 
 ## Infrared
 
+- 2022-07-26, **A low-cost ultraviolet-to-infrared absolute quantum efficiency characterization system of detectors**, Ajay S. Gill et.al., Paper: [http://arxiv.org/abs/2207.13052v1](http://arxiv.org/abs/2207.13052v1)
+- 2022-07-26, **Nondestructive Quality Control in Powder Metallurgy using Hyperspectral Imaging**, Yijun Yan et.al., Paper: [http://arxiv.org/abs/2207.12966v1](http://arxiv.org/abs/2207.12966v1)
+- 2022-07-26, **A tool towards EEG semi-autonomous electrode placement**, Pan Liu et.al., Paper: [http://arxiv.org/abs/2207.12677v1](http://arxiv.org/abs/2207.12677v1)
+- 2022-07-25, **Theia : science cases and mission profiles for high precision astrometry in the future**, Fabien Malbet et.al., Paper: [http://arxiv.org/abs/2207.12540v1](http://arxiv.org/abs/2207.12540v1)
+- 2022-07-25, **Infrared spectra of complex organic molecules in astronomically relevant ice mixtures. V. Methyl cyanide (acetonitrile)**, Marina G. Rachid et.al., Paper: [http://arxiv.org/abs/2207.12502v1](http://arxiv.org/abs/2207.12502v1)
+- 2022-07-25, **The ALMA Survey of 70 μm Dark High-mass Clumps in Early Stages (ASHES). VI. The core-scale CO-depletion**, Giovanni Sabatini et.al., Paper: [http://arxiv.org/abs/2207.12431v1](http://arxiv.org/abs/2207.12431v1)
+- 2022-07-25, **BASS XXVIII: Near-infrared Data Release 2, High-Ionization and Broad Lines in Active Galactic Nuclei**, Jakob den Brok et.al., Paper: [http://arxiv.org/abs/2207.12426v1](http://arxiv.org/abs/2207.12426v1)
 - 2022-07-25, **Monolithically integrated MEMS cantilevers with embedded waveguides for visible light beam-scanning**, Saeed Sharif Azadeh et.al., Paper: [http://arxiv.org/abs/2207.12374v1](http://arxiv.org/abs/2207.12374v1)
 - 2022-07-25, **The evolution of the galaxy UV luminosity function at redshifts z ~ 8-15 from deep JWST and ground-based near-infrared imaging**, C. T. Donnan et.al., Paper: [http://arxiv.org/abs/2207.12356v1](http://arxiv.org/abs/2207.12356v1)
 - 2022-07-25, **The VMC Survey -- XLIX. Discovery of a population of quasars dominated by nuclear dust emission behind the Magellanic Clouds**, Clara M. Pennock et.al., Paper: [http://arxiv.org/abs/2207.12301v1](http://arxiv.org/abs/2207.12301v1)
@@ -330,6 +337,16 @@
 
 ## Saliency Detection
 
+- 2022-07-26, **Group DETR: Fast Training Convergence with Decoupled One-to-Many Label Assignment**, Qiang Chen et.al., Paper: [http://arxiv.org/abs/2207.13085v1](http://arxiv.org/abs/2207.13085v1)
+- 2022-07-26, **Task Agnostic and Post-hoc Unseen Distribution Detection**, Radhika Dua et.al., Paper: [http://arxiv.org/abs/2207.13083v1](http://arxiv.org/abs/2207.13083v1)
+- 2022-07-26, **DETRs with Hybrid Matching**, Ding Jia et.al., Paper: [http://arxiv.org/abs/2207.13080v1](http://arxiv.org/abs/2207.13080v1)
+- 2022-07-26, **Resolving the core of R136 in the optical**, Venu M. Kalari et.al., Paper: [http://arxiv.org/abs/2207.13078v1](http://arxiv.org/abs/2207.13078v1)
+- 2022-07-26, **Video Manipulations Beyond Faces: A Dataset with Human-Machine Analysis**, Trisha Mittal et.al., Paper: [http://arxiv.org/abs/2207.13064v1](http://arxiv.org/abs/2207.13064v1)
+- 2022-07-26, **Mirror Neutron Stars: How QCD can be used to study dark matter through gravitational waves**, Maurício Hippert et.al., Paper: [http://arxiv.org/abs/2207.13063v1](http://arxiv.org/abs/2207.13063v1)
+- 2022-07-26, **Efficient High-Resolution Deep Learning: A Survey**, Arian Bakhtiarnia et.al., Paper: [http://arxiv.org/abs/2207.13050v1](http://arxiv.org/abs/2207.13050v1)
+- 2022-07-26, **Detecting the gravitational wave memory effect with TianQin**, Shuo Sun et.al., Paper: [http://arxiv.org/abs/2207.13009v1](http://arxiv.org/abs/2207.13009v1)
+- 2022-07-26, **Monocular 3D Object Detection with Depth from Motion**, Tai Wang et.al., Paper: [http://arxiv.org/abs/2207.12988v1](http://arxiv.org/abs/2207.12988v1), Code: **[https://github.com/tai-wang/depth-from-motion](https://github.com/tai-wang/depth-from-motion)**
+- 2022-07-26, **$\textit{Ab initio}$ description of magnetic properties of spin-glass pyrochlore NaSrMn$_{2}$F$_{7}$**, Mohammad Amirabbasi et.al., Paper: [http://arxiv.org/abs/2207.12968v1](http://arxiv.org/abs/2207.12968v1)
 - 2022-07-25, **LightX3ECG: A Lightweight and eXplainable Deep Learning System for 3-lead Electrocardiogram Classification**, Khiem H. Le et.al., Paper: [http://arxiv.org/abs/2207.12381v1](http://arxiv.org/abs/2207.12381v1)
 - 2022-07-25, **Task-Relevant Failure Detection for Trajectory Predictors in Autonomous Vehicles**, Alec Farid et.al., Paper: [http://arxiv.org/abs/2207.12380v1](http://arxiv.org/abs/2207.12380v1)
 - 2022-07-25, **MIGHTEE: the nature of the radio-loud AGN population**, I. H. Whittam et.al., Paper: [http://arxiv.org/abs/2207.12379v1](http://arxiv.org/abs/2207.12379v1)
