@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.26
+## Updated on 2022.07.27
 
 ## RGBT
 
@@ -29,7 +29,7 @@ layout: default
 |**2022-07-25**|**The VMC Survey -- XLIX. Discovery of a population of quasars dominated by nuclear dust emission behind the Magellanic Clouds**|Clara M. Pennock et.al.|[2207.12301v1](http://arxiv.org/abs/2207.12301v1)|null|
 |**2022-07-25**|**The Infrared Medium-deep Survey. IX. Discovery of Two New $z\sim6$ Quasars and Space Density down to $M_{1450}\sim-23.5$ mag**|Kim Yongjung et.al.|[2207.12282v1](http://arxiv.org/abs/2207.12282v1)|null|
 |**2022-07-25**|**Potential signature of Population III pair-instability supernova ejecta in the BLR gas of the most distant quasar at z = 7.54**|Yuzuru Yoshii et.al.|[2207.11909v1](http://arxiv.org/abs/2207.11909v1)|null|
-|**2022-07-25**|**Portable recording system for spherical thermography and its application to longwave mean radiant temperature estimation**|Takashi Asawa et.al.|[2207.11881v1](http://arxiv.org/abs/2207.11881v1)|null|
+|**2022-07-26**|**Portable recording system for spherical thermography and its application to longwave mean radiant temperature estimation**|Takashi Asawa et.al.|[2207.11881v2](http://arxiv.org/abs/2207.11881v2)|null|
 |**2022-07-23**|**The distribution of dust in edge-on galaxies: I. The global structure**|Aleksandr V. Mosenkov et.al.|[2207.11589v1](http://arxiv.org/abs/2207.11589v1)|null|
 |**2022-07-23**|**Identification and parameter determination of F-type Herbig stars from LAMOST DR8**|Yun-Jin Zhang et.al.|[2207.11574v1](http://arxiv.org/abs/2207.11574v1)|null|
 |**2022-07-22**|**Three-dimensional structure of thermal waves in Venus' mesosphere from ground-based observations**|Rohini S Giles et.al.|[2207.11369v1](http://arxiv.org/abs/2207.11369v1)|null|
@@ -345,9 +345,9 @@ layout: default
 |**2022-07-25**|**LightX3ECG: A Lightweight and eXplainable Deep Learning System for 3-lead Electrocardiogram Classification**|Khiem H. Le et.al.|[2207.12381v1](http://arxiv.org/abs/2207.12381v1)|null|
 |**2022-07-25**|**Task-Relevant Failure Detection for Trajectory Predictors in Autonomous Vehicles**|Alec Farid et.al.|[2207.12380v1](http://arxiv.org/abs/2207.12380v1)|null|
 |**2022-07-25**|**MIGHTEE: the nature of the radio-loud AGN population**|I. H. Whittam et.al.|[2207.12379v1](http://arxiv.org/abs/2207.12379v1)|null|
-|**2022-07-25**|**The chemical enrichment in the early Universe as probed by JWST via direct metallicity measurements at z~8**|M. Curti et.al.|[2207.12375v1](http://arxiv.org/abs/2207.12375v1)|null|
+|**2022-07-26**|**The chemical enrichment in the early Universe as probed by JWST via direct metallicity measurements at z~8**|M. Curti et.al.|[2207.12375v2](http://arxiv.org/abs/2207.12375v2)|null|
 |**2022-07-25**|**TRAPPIST-1h as an Exo-Titan. I. The Role of Assumptions about Atmospheric Parameters in Understanding an Exoplanet Atmosphere**|Kathleen Mandt et.al.|[2207.12358v1](http://arxiv.org/abs/2207.12358v1)|null|
-|**2022-07-25**|**Bistability of the atmospheric circulation on TRAPPIST-1e**|Denis E. Sergeev et.al.|[2207.12342v1](http://arxiv.org/abs/2207.12342v1)|null|
+|**2022-07-25**|**Bistability of the atmospheric circulation on TRAPPIST-1e**|Denis E. Sergeev et.al.|[2207.12342v1](http://arxiv.org/abs/2207.12342v1)|**[link](https://github.com/dennissergeev/t1e_bistability_code)**|
 |**2022-07-25**|**Localization of Coordinated Cyber-Physical Attacks in Power Grids Using Moving Target Defense and Deep Learning**|Yexiang Chen et.al.|[2207.12339v1](http://arxiv.org/abs/2207.12339v1)|null|
 |**2022-07-25**|**Four New Fast Radio Bursts Discovered in the Parkes 70-cm Pulsar Survey Archive**|F. Crawford et.al.|[2207.12332v1](http://arxiv.org/abs/2207.12332v1)|null|
 |**2022-07-25**|**Time to reach the maximum for a stationary stochastic process**|Francesco Mori et.al.|[2207.12329v1](http://arxiv.org/abs/2207.12329v1)|null|
