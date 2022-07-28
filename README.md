@@ -20,6 +20,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-27**|**The Role of AGN in Luminous Infrared Galaxies from the Multiwavelength Perspective**|Vivian U et.al.|[2207.13690v1](http://arxiv.org/abs/2207.13690v1)|null|
+|**2022-07-27**|**Kerr optical parametric oscillation in a photonic crystal microring for accessing the infrared**|Xiyuan Lu et.al.|[2207.13668v1](http://arxiv.org/abs/2207.13668v1)|null|
+|**2022-07-27**|**Line-by-line velocity measurements, an outlier-resistant method for precision velocimetry**|Étienne Artigau et.al.|[2207.13524v1](http://arxiv.org/abs/2207.13524v1)|null|
+|**2022-07-27**|**Sub-promille measurements and calculations of CO (3--0) overtone line intensities**|K. Bielska et.al.|[2207.13463v1](http://arxiv.org/abs/2207.13463v1)|null|
+|**2022-07-27**|**Early results from GLASS-JWST. VI: Extreme rest-optical equivalent widths detected in NIRISS Wide Field Slitless Spectroscopy**|K. Boyett et.al.|[2207.13459v1](http://arxiv.org/abs/2207.13459v1)|null|
+|**2022-07-27**|**Diagnosing FUor-like Sources: The Parameter Space of Viscously Heated Disks in the Optical and Near-IR**|Hanpu Liu et.al.|[2207.13324v1](http://arxiv.org/abs/2207.13324v1)|null|
+|**2022-07-27**|**Fan-shaped jet close to a light bridge**|Y. Liu et.al.|[2207.13246v1](http://arxiv.org/abs/2207.13246v1)|null|
+|**2022-07-26**|**C-BLUE 3 PC : a photon counting multimegapixel visible CMOS camera**|Jean-Luc Gach et.al.|[2207.13127v1](http://arxiv.org/abs/2207.13127v1)|null|
+|**2022-07-26**|**Identifying active galactic nuclei via brightness temperature with sub-arcsecond International LOFAR Telescope observations**|Leah K. Morabito et.al.|[2207.13096v1](http://arxiv.org/abs/2207.13096v1)|null|
 |**2022-07-26**|**A low-cost ultraviolet-to-infrared absolute quantum efficiency characterization system of detectors**|Ajay S. Gill et.al.|[2207.13052v1](http://arxiv.org/abs/2207.13052v1)|null|
 |**2022-07-26**|**Nondestructive Quality Control in Powder Metallurgy using Hyperspectral Imaging**|Yijun Yan et.al.|[2207.12966v1](http://arxiv.org/abs/2207.12966v1)|null|
 |**2022-07-26**|**A tool towards EEG semi-autonomous electrode placement**|Pan Liu et.al.|[2207.12677v1](http://arxiv.org/abs/2207.12677v1)|null|
@@ -345,6 +354,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-27**|**ShAPO: Implicit Representations for Multi-Object Shape, Appearance, and Pose Optimization**|Muhammad Zubair Irshad et.al.|[2207.13691v1](http://arxiv.org/abs/2207.13691v1)|null|
+|**2022-07-27**|**High frequency study of FRB 20180916B using the 100-m Effelsberg radio telescope**|S. Bethapudi et.al.|[2207.13669v1](http://arxiv.org/abs/2207.13669v1)|null|
+|**2022-07-27**|**SAC-AP: Soft Actor Critic based Deep Reinforcement Learning for Alert Prioritization**|Lalitha Chavali et.al.|[2207.13666v1](http://arxiv.org/abs/2207.13666v1)|null|
+|**2022-07-27**|**Axion-Like Particle Production at Beam Dump Experiments with Distinct Nuclear Excitation Lines**|Loyd Waites et.al.|[2207.13659v1](http://arxiv.org/abs/2207.13659v1)|null|
+|**2022-07-27**|**BotBuster: Multi-platform Bot Detection Using A Mixture of Experts**|Lynnette Hui Xian Ng et.al.|[2207.13658v1](http://arxiv.org/abs/2207.13658v1)|null|
+|**2022-07-27**|**Using Deep Learning to Detecting Deepfakes**|Jacob Mallet et.al.|[2207.13644v1](http://arxiv.org/abs/2207.13644v1)|null|
+|**2022-07-27**|**Proprioceptive Slip Detection for Planetary Rovers in Perceptually Degraded Extraterrestrial Environments**|Cagri Kilic et.al.|[2207.13629v1](http://arxiv.org/abs/2207.13629v1)|null|
+|**2022-07-27**|**Improved Measurements of Galaxy Star Formation Stochasticity from the Intrinsic Scatter of Burst Indicators**|Adam Broussard et.al.|[2207.13620v1](http://arxiv.org/abs/2207.13620v1)|null|
+|**2022-07-27**|**Wave packet propagation and the materialization of classical trajectories**|James M. Feagin et.al.|[2207.13617v1](http://arxiv.org/abs/2207.13617v1)|null|
+|**2022-07-27**|**Cryogenic front-end amplifier design for large SiPM arrays in the DUNE FD1-HD photon detection system**|C. Brizzolari et.al.|[2207.13616v1](http://arxiv.org/abs/2207.13616v1)|null|
 |**2022-07-26**|**Group DETR: Fast Training Convergence with Decoupled One-to-Many Label Assignment**|Qiang Chen et.al.|[2207.13085v1](http://arxiv.org/abs/2207.13085v1)|null|
 |**2022-07-26**|**Task Agnostic and Post-hoc Unseen Distribution Detection**|Radhika Dua et.al.|[2207.13083v1](http://arxiv.org/abs/2207.13083v1)|null|
 |**2022-07-26**|**DETRs with Hybrid Matching**|Ding Jia et.al.|[2207.13080v1](http://arxiv.org/abs/2207.13080v1)|null|
