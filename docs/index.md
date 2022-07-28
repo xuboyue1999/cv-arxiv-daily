@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.27
+## Updated on 2022.07.28
 
 ## RGBT
 
@@ -353,7 +353,7 @@ layout: default
 |**2022-07-26**|**Task Agnostic and Post-hoc Unseen Distribution Detection**|Radhika Dua et.al.|[2207.13083v1](http://arxiv.org/abs/2207.13083v1)|null|
 |**2022-07-26**|**DETRs with Hybrid Matching**|Ding Jia et.al.|[2207.13080v1](http://arxiv.org/abs/2207.13080v1)|null|
 |**2022-07-26**|**Resolving the core of R136 in the optical**|Venu M. Kalari et.al.|[2207.13078v1](http://arxiv.org/abs/2207.13078v1)|null|
-|**2022-07-26**|**Video Manipulations Beyond Faces: A Dataset with Human-Machine Analysis**|Trisha Mittal et.al.|[2207.13064v1](http://arxiv.org/abs/2207.13064v1)|null|
+|**2022-07-27**|**Video Manipulations Beyond Faces: A Dataset with Human-Machine Analysis**|Trisha Mittal et.al.|[2207.13064v2](http://arxiv.org/abs/2207.13064v2)|null|
 |**2022-07-26**|**Mirror Neutron Stars: How QCD can be used to study dark matter through gravitational waves**|Maurício Hippert et.al.|[2207.13063v1](http://arxiv.org/abs/2207.13063v1)|null|
 |**2022-07-26**|**Efficient High-Resolution Deep Learning: A Survey**|Arian Bakhtiarnia et.al.|[2207.13050v1](http://arxiv.org/abs/2207.13050v1)|null|
 |**2022-07-26**|**Detecting the gravitational wave memory effect with TianQin**|Shuo Sun et.al.|[2207.13009v1](http://arxiv.org/abs/2207.13009v1)|null|
