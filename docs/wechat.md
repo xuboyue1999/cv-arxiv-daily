@@ -1,4 +1,4 @@
-> Updated on 2022.07.28
+> Updated on 2022.07.29
 
 ## RGBT
 
@@ -16,6 +16,16 @@
 
 ## Infrared
 
+- 2022-07-28, **Toward a multidimensional analysis of transmission spectroscopy. Part III: Modelling 2D effects in retrievals with TauREx**, Tiziano Zingales et.al., Paper: [http://arxiv.org/abs/2207.14247v1](http://arxiv.org/abs/2207.14247v1)
+- 2022-07-28, **Infrared photoresistance as a sensitive probe of electronic transport in twisted bilayer graphene**, S. Hubmann et.al., Paper: [http://arxiv.org/abs/2207.14223v1](http://arxiv.org/abs/2207.14223v1)
+- 2022-07-28, **Investigating star-formation activity towards the southern HII region RCW 42**, Vipin Kumar et.al., Paper: [http://arxiv.org/abs/2207.14040v1](http://arxiv.org/abs/2207.14040v1)
+- 2022-07-28, **The spectrum of a Gross-Neveu Yukawa model with flavor disorder in $d=3$**, Shiroman Prakash et.al., Paper: [http://arxiv.org/abs/2207.13983v1](http://arxiv.org/abs/2207.13983v1)
+- 2022-07-28, **Reflectance study of ice and Mars soil simulant associations -- II. CO$_2$ and H$_2$O ice**, Zuriñe Yoldi et.al., Paper: [http://arxiv.org/abs/2207.13905v1](http://arxiv.org/abs/2207.13905v1)
+- 2022-07-28, **Development of Fast and Precise Scan Mirror Mechanism for an Airborne Solar Telescope**, Takayoshi Oba et.al., Paper: [http://arxiv.org/abs/2207.13864v1](http://arxiv.org/abs/2207.13864v1)
+- 2022-07-27, **Dynamical Friction in fuzzy dark matter: circular orbits**, Robin Buehler et.al., Paper: [http://arxiv.org/abs/2207.13740v1](http://arxiv.org/abs/2207.13740v1)
+- 2022-07-27, **Development and performance of Universal Readout Harnesses for the Simons Observatory**, Jenna E. Moore et.al., Paper: [http://arxiv.org/abs/2207.13737v1](http://arxiv.org/abs/2207.13737v1)
+- 2022-07-27, **MIRECLE: Science Yield for a Mid-IR Explorer-Class Mission to Study Non-Transiting Rocky Planets Orbiting the Nearest M-Stars Using Planetary Infrared Excess**, Avi M. Mandell et.al., Paper: [http://arxiv.org/abs/2207.13727v1](http://arxiv.org/abs/2207.13727v1)
+- 2022-07-27, **Dense Gas and Star Formation in Nearby Infrared Bright Galaxies: APEX survey of HCN and HCO+ J=2-1**, Jing Zhou et.al., Paper: [http://arxiv.org/abs/2207.13724v1](http://arxiv.org/abs/2207.13724v1)
 - 2022-07-27, **The Role of AGN in Luminous Infrared Galaxies from the Multiwavelength Perspective**, Vivian U et.al., Paper: [http://arxiv.org/abs/2207.13690v1](http://arxiv.org/abs/2207.13690v1)
 - 2022-07-27, **Kerr optical parametric oscillation in a photonic crystal microring for accessing the infrared**, Xiyuan Lu et.al., Paper: [http://arxiv.org/abs/2207.13668v1](http://arxiv.org/abs/2207.13668v1)
 - 2022-07-27, **Line-by-line velocity measurements, an outlier-resistant method for precision velocimetry**, Étienne Artigau et.al., Paper: [http://arxiv.org/abs/2207.13524v1](http://arxiv.org/abs/2207.13524v1)
@@ -346,6 +356,16 @@
 
 ## Saliency Detection
 
+- 2022-07-28, **Density-clustering of continuous gravitational wave candidates from large surveys**, Benjamin Steltner et.al., Paper: [http://arxiv.org/abs/2207.14286v1](http://arxiv.org/abs/2207.14286v1)
+- 2022-07-28, **HorNet: Efficient High-Order Spatial Interactions with Recursive Gated Convolutions**, Yongming Rao et.al., Paper: [http://arxiv.org/abs/2207.14284v1](http://arxiv.org/abs/2207.14284v1)
+- 2022-07-28, **The Large Magellanic Cloud Revealed in Gravitational Waves with LISA**, Michael A. Keim et.al., Paper: [http://arxiv.org/abs/2207.14277v1](http://arxiv.org/abs/2207.14277v1)
+- 2022-07-28, **MonteBoxFinder: Detecting and Filtering Primitives to Fit a Noisy Point Cloud**, Michaël Ramamonjisoa et.al., Paper: [http://arxiv.org/abs/2207.14268v1](http://arxiv.org/abs/2207.14268v1)
+- 2022-07-28, **Exploiting and Defending Against the Approximate Linearity of Apple's NeuralHash**, Jagdeep Singh Bhatia et.al., Paper: [http://arxiv.org/abs/2207.14258v1](http://arxiv.org/abs/2207.14258v1)
+- 2022-07-28, **Current Paths in an Atomic Precision Advanced Manufactured Device Imaged by Nitrogen-Vacancy Diamond Magnetic Microscopy**, Luca Basso et.al., Paper: [http://arxiv.org/abs/2207.14254v1](http://arxiv.org/abs/2207.14254v1)
+- 2022-07-28, **Improving the Performance of Robust Control through Event-Triggered Learning**, Alexander von Rohr et.al., Paper: [http://arxiv.org/abs/2207.14252v1](http://arxiv.org/abs/2207.14252v1)
+- 2022-07-28, **Massive Black Hole Binaries from the TNG50-3 Simulation: II. Using Dual AGNs to Predict the Rate of Black Hole Mergers**, Kunyang Li et.al., Paper: [http://arxiv.org/abs/2207.14231v1](http://arxiv.org/abs/2207.14231v1)
+- 2022-07-28, **Information parity on cortical functional brain networks increases under psychedelic influences**, Aline Viol et.al., Paper: [http://arxiv.org/abs/2207.14209v1](http://arxiv.org/abs/2207.14209v1)
+- 2022-07-28, **DoRO: Disambiguation of referred object for embodied agents**, Pradip Pramanick et.al., Paper: [http://arxiv.org/abs/2207.14205v1](http://arxiv.org/abs/2207.14205v1)
 - 2022-07-27, **ShAPO: Implicit Representations for Multi-Object Shape, Appearance, and Pose Optimization**, Muhammad Zubair Irshad et.al., Paper: [http://arxiv.org/abs/2207.13691v1](http://arxiv.org/abs/2207.13691v1)
 - 2022-07-27, **High frequency study of FRB 20180916B using the 100-m Effelsberg radio telescope**, S. Bethapudi et.al., Paper: [http://arxiv.org/abs/2207.13669v1](http://arxiv.org/abs/2207.13669v1)
 - 2022-07-27, **SAC-AP: Soft Actor Critic based Deep Reinforcement Learning for Alert Prioritization**, Lalitha Chavali et.al., Paper: [http://arxiv.org/abs/2207.13666v1](http://arxiv.org/abs/2207.13666v1)
