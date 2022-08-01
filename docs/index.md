@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.31
+## Updated on 2022.08.01
 
 ## RGBT
 
@@ -24,9 +24,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-29**|**Dual-slope imaging of cerebral hemodynamics with frequency-domain near-infrared spectroscopy**|Giles Blaney et.al.|[2207.14761v1](http://arxiv.org/abs/2207.14761v1)|null|
+|**2022-07-29**|**Unveiling the Nature of Infrared Bright, Optically Dark Galaxies with Early JWST Data**|L. Barrufet et.al.|[2207.14733v1](http://arxiv.org/abs/2207.14733v1)|null|
+|**2022-07-29**|**The recurrent nova V3890~Sgr: a near-infrared and optical study of the red giant component and its environment**|B. Kaminsky et.al.|[2207.14721v1](http://arxiv.org/abs/2207.14721v1)|null|
+|**2022-07-29**|**Spectral Functions of Gauge Theories with Banks-Zaks Fixed Points**|Yannick Kluth et.al.|[2207.14510v1](http://arxiv.org/abs/2207.14510v1)|null|
+|**2022-07-28**|**Enhanced valley polarization of graphene on hBN under circularly polarized light irradiation**|Keisuke Nakagahara et.al.|[2207.14399v1](http://arxiv.org/abs/2207.14399v1)|null|
+|**2022-07-28**|**An overdensity of red galaxies around the hyperluminous dust-obscured quasar W1835$+$4355 at $z=2.3$**|Yibin Luo et.al.|[2207.14312v1](http://arxiv.org/abs/2207.14312v1)|null|
 |**2022-07-28**|**Toward a multidimensional analysis of transmission spectroscopy. Part III: Modelling 2D effects in retrievals with TauREx**|Tiziano Zingales et.al.|[2207.14247v1](http://arxiv.org/abs/2207.14247v1)|null|
 |**2022-07-28**|**Infrared photoresistance as a sensitive probe of electronic transport in twisted bilayer graphene**|S. Hubmann et.al.|[2207.14223v1](http://arxiv.org/abs/2207.14223v1)|null|
-|**2022-07-28**|**Investigating star-formation activity towards the southern HII region RCW 42**|Vipin Kumar et.al.|[2207.14040v1](http://arxiv.org/abs/2207.14040v1)|null|
+|**2022-07-29**|**Investigating star-formation activity towards the southern HII region RCW 42**|Vipin Kumar et.al.|[2207.14040v2](http://arxiv.org/abs/2207.14040v2)|null|
 |**2022-07-28**|**The spectrum of a Gross-Neveu Yukawa model with flavor disorder in $d=3$**|Shiroman Prakash et.al.|[2207.13983v1](http://arxiv.org/abs/2207.13983v1)|null|
 |**2022-07-28**|**Reflectance study of ice and Mars soil simulant associations -- II. CO$_2$ and H$_2$O ice**|Zuriñe Yoldi et.al.|[2207.13905v1](http://arxiv.org/abs/2207.13905v1)|null|
 |**2022-07-28**|**Development of Fast and Precise Scan Mirror Mechanism for an Airborne Solar Telescope**|Takayoshi Oba et.al.|[2207.13864v1](http://arxiv.org/abs/2207.13864v1)|null|
@@ -368,6 +374,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-29**|**The brightest galaxies at Cosmic Dawn**|Charlotte A. Mason et.al.|[2207.14808v1](http://arxiv.org/abs/2207.14808v1)|null|
+|**2022-07-29**|**PageNet: Towards End-to-End Weakly Supervised Page-Level Handwritten Chinese Text Recognition**|Dezhi Peng et.al.|[2207.14807v1](http://arxiv.org/abs/2207.14807v1)|null|
+|**2022-07-29**|**Bragg glass signatures in Pd$_x$ErTe$_3$ with X-ray diffraction Temperature Clustering (X-TEC)**|Krishnanand Mallayya et.al.|[2207.14795v1](http://arxiv.org/abs/2207.14795v1)|null|
+|**2022-07-29**|**The role of magnetoelastic coupling and magnetic anisotropy in MnTiO$_3$**|L. Gries et.al.|[2207.14750v1](http://arxiv.org/abs/2207.14750v1)|null|
+|**2022-07-29**|**The Gaia-ESO survey: placing constraints on the origin of r-process elements**|M. Van der Swaelmen et.al.|[2207.14747v1](http://arxiv.org/abs/2207.14747v1)|null|
+|**2022-07-29**|**Collision detection and identification for a legged manipulator**|Jessie van Dam et.al.|[2207.14745v1](http://arxiv.org/abs/2207.14745v1)|null|
+|**2022-07-29**|**Unveiling the Nature of Infrared Bright, Optically Dark Galaxies with Early JWST Data**|L. Barrufet et.al.|[2207.14733v1](http://arxiv.org/abs/2207.14733v1)|null|
+|**2022-07-29**|**The impact of gravitational lensing in the reconstruction of stellar orbits around Sgr A***|Silvia Pietroni et.al.|[2207.14732v1](http://arxiv.org/abs/2207.14732v1)|null|
+|**2022-07-29**|**Flipping of antiferromagnetic to superconducting states in pressurized quasi-one-dimensional manganese-based compounds**|Sijin Long et.al.|[2207.14697v1](http://arxiv.org/abs/2207.14697v1)|null|
+|**2022-07-29**|**Towards Unconstrained Audio Splicing Detection and Localization with Neural Networks**|Denise Moussa et.al.|[2207.14682v1](http://arxiv.org/abs/2207.14682v1)|null|
 |**2022-07-28**|**Density-clustering of continuous gravitational wave candidates from large surveys**|Benjamin Steltner et.al.|[2207.14286v1](http://arxiv.org/abs/2207.14286v1)|null|
 |**2022-07-28**|**HorNet: Efficient High-Order Spatial Interactions with Recursive Gated Convolutions**|Yongming Rao et.al.|[2207.14284v1](http://arxiv.org/abs/2207.14284v1)|**[link](https://github.com/raoyongming/hornet)**|
 |**2022-07-28**|**The Large Magellanic Cloud Revealed in Gravitational Waves with LISA**|Michael A. Keim et.al.|[2207.14277v1](http://arxiv.org/abs/2207.14277v1)|null|
