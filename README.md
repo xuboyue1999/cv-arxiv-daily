@@ -1,4 +1,4 @@
-## Updated on 2022.08.01
+## Updated on 2022.08.02
 
 ## RGBT
 
@@ -345,7 +345,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-07-17**|**Detecting Humans in RGB-D Data with CNNs**|Kaiyang Zhou et.al.|[2207.08064v1](http://arxiv.org/abs/2207.08064v1)|**[link](https://github.com/kaiyangzhou/roi-selection)**|
-|**2022-07-16**|**Autonomously Untangling Long Cables**|Vainavi Viswanath et.al.|[2207.07813v1](http://arxiv.org/abs/2207.07813v1)|null|
+|**2022-07-31**|**Autonomously Untangling Long Cables**|Vainavi Viswanath et.al.|[2207.07813v2](http://arxiv.org/abs/2207.07813v2)|null|
 |**2022-07-14**|**Egocentric Scene Understanding via Multimodal Spatial Rectifier**|Tien Do et.al.|[2207.07077v1](http://arxiv.org/abs/2207.07077v1)|**[link](https://github.com/tien-d/EgoDepthNormal)**|
 |**2022-07-13**|**3D Concept Grounding on Neural Fields**|Yining Hong et.al.|[2207.06403v1](http://arxiv.org/abs/2207.06403v1)|null|
 |**2022-07-08**|**ASL-Homework-RGBD Dataset: An annotated dataset of 45 fluent and non-fluent signers performing American Sign Language homeworks**|Saad Hassan et.al.|[2207.04021v1](http://arxiv.org/abs/2207.04021v1)|null|
