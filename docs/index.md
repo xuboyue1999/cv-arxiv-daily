@@ -24,6 +24,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-01**|**JWST/NIRCam Coronagraphy: Commissioning and First On-Sky Results**|Julien H. Girard et.al.|[2208.00998v1](http://arxiv.org/abs/2208.00998v1)|null|
+|**2022-08-01**|**Performance of near-infrared high-contrast imaging methods with JWST from commissioning**|Jens Kammerer et.al.|[2208.00996v1](http://arxiv.org/abs/2208.00996v1)|null|
+|**2022-08-01**|**Counterfactual Intervention Feature Transfer for Visible-Infrared Person Re-identification**|Xulin Li et.al.|[2208.00967v1](http://arxiv.org/abs/2208.00967v1)|null|
+|**2022-08-01**|**Parametric Waveform Synthesis: a scalable approach to generate sub-cycle optical transients**|Roland E. Mainz et.al.|[2208.00899v1](http://arxiv.org/abs/2208.00899v1)|null|
+|**2022-08-01**|**Early Growth of the Star Formation Rate Function in the Epoch of Reionization: an Approach with Rest-frame Optical Emissions**|Yoshihisa Asada et.al.|[2208.00749v1](http://arxiv.org/abs/2208.00749v1)|null|
+|**2022-08-01**|**Wideband dispersion-free THz waveguide platform**|David Rohrbach et.al.|[2208.00678v1](http://arxiv.org/abs/2208.00678v1)|null|
+|**2022-08-01**|**Multi-spectral Vehicle Re-identification with Cross-directional Consistency Network and a High-quality Benchmark**|Aihua Zheng et.al.|[2208.00632v1](http://arxiv.org/abs/2208.00632v1)|null|
+|**2022-08-01**|**Simplified Method for the Identification of Low Mass Ratio Contact Binary Systems that are Potential Red Nova Progenitors**|Surjit S. Wadhwa et.al.|[2208.00626v1](http://arxiv.org/abs/2208.00626v1)|null|
+|**2022-07-31**|**The classical cosmological constant of open-closed string field theory**|Carlo Maccaferri et.al.|[2208.00410v1](http://arxiv.org/abs/2208.00410v1)|null|
+|**2022-07-31**|**Sub-electron noise infrared camera development using Leonardo large format 2Kx2K SWIR LmAPD array**|Philippe Feautrier et.al.|[2208.00381v1](http://arxiv.org/abs/2208.00381v1)|null|
 |**2022-07-29**|**Dual-slope imaging of cerebral hemodynamics with frequency-domain near-infrared spectroscopy**|Giles Blaney et.al.|[2207.14761v1](http://arxiv.org/abs/2207.14761v1)|null|
 |**2022-07-29**|**Unveiling the Nature of Infrared Bright, Optically Dark Galaxies with Early JWST Data**|L. Barrufet et.al.|[2207.14733v1](http://arxiv.org/abs/2207.14733v1)|null|
 |**2022-07-29**|**The recurrent nova V3890~Sgr: a near-infrared and optical study of the red giant component and its environment**|B. Kaminsky et.al.|[2207.14721v1](http://arxiv.org/abs/2207.14721v1)|null|
@@ -374,6 +384,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-01**|**PRODIGE -- Envelope to disk with NOEMA I. A 3000 au streamer feeding a Class I protostar**|M. T. Valdivia-Mena et.al.|[2208.01023v1](http://arxiv.org/abs/2208.01023v1)|null|
+|**2022-08-01**|**Robust Change Detection Based on Neural Descriptor Fields**|Jiahui Fu et.al.|[2208.01014v1](http://arxiv.org/abs/2208.01014v1)|null|
+|**2022-08-01**|**JWST/NIRCam Coronagraphy: Commissioning and First On-Sky Results**|Julien H. Girard et.al.|[2208.00998v1](http://arxiv.org/abs/2208.00998v1)|null|
+|**2022-08-01**|**Performance of near-infrared high-contrast imaging methods with JWST from commissioning**|Jens Kammerer et.al.|[2208.00996v1](http://arxiv.org/abs/2208.00996v1)|null|
+|**2022-08-01**|**Battle of the Predictive Wavefront Controls: Comparing Data and Model-Driven Predictive Control for High Contrast Imaging**|J. Fowler et.al.|[2208.00984v1](http://arxiv.org/abs/2208.00984v1)|null|
+|**2022-08-01**|**Charge-pseudospin coupled diffusion in semi-Dirac graphene: pseudospin assisted valley transport**|Saber Rostamzadeh et.al.|[2208.00977v1](http://arxiv.org/abs/2208.00977v1)|null|
+|**2022-08-01**|**Mechanisms for high spin in black-hole neutron-star binaries and kilonova emission: inheritance and accretion**|Nathan Steinle et.al.|[2208.00973v1](http://arxiv.org/abs/2208.00973v1)|null|
+|**2022-08-01**|**FrOoDo: Framework for Out-of-Distribution Detection**|Jonathan Stieber et.al.|[2208.00963v1](http://arxiv.org/abs/2208.00963v1)|**[link](https://github.com/meclabtuda/froodo)**|
+|**2022-08-01**|**Change point detection in dynamic Gaussian graphical models: the impact of COVID-19 pandemic on the US stock market**|Beatrice Franzolini et.al.|[2208.00952v1](http://arxiv.org/abs/2208.00952v1)|null|
+|**2022-08-01**|**Motion-aware Memory Network for Fast Video Salient Object Detection**|Xing Zhao et.al.|[2208.00946v1](http://arxiv.org/abs/2208.00946v1)|null|
 |**2022-07-29**|**The brightest galaxies at Cosmic Dawn**|Charlotte A. Mason et.al.|[2207.14808v1](http://arxiv.org/abs/2207.14808v1)|null|
 |**2022-07-29**|**PageNet: Towards End-to-End Weakly Supervised Page-Level Handwritten Chinese Text Recognition**|Dezhi Peng et.al.|[2207.14807v1](http://arxiv.org/abs/2207.14807v1)|null|
 |**2022-07-29**|**Bragg glass signatures in Pd$_x$ErTe$_3$ with X-ray diffraction Temperature Clustering (X-TEC)**|Krishnanand Mallayya et.al.|[2207.14795v1](http://arxiv.org/abs/2207.14795v1)|null|
