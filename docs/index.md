@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.02
+## Updated on 2022.08.03
 
 ## RGBT
 
@@ -24,7 +24,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-08-01**|**JWST/NIRCam Coronagraphy: Commissioning and First On-Sky Results**|Julien H. Girard et.al.|[2208.00998v1](http://arxiv.org/abs/2208.00998v1)|null|
+|**2022-08-02**|**JWST/NIRCam Coronagraphy: Commissioning and First On-Sky Results**|Julien H. Girard et.al.|[2208.00998v2](http://arxiv.org/abs/2208.00998v2)|null|
 |**2022-08-01**|**Performance of near-infrared high-contrast imaging methods with JWST from commissioning**|Jens Kammerer et.al.|[2208.00996v1](http://arxiv.org/abs/2208.00996v1)|null|
 |**2022-08-01**|**Counterfactual Intervention Feature Transfer for Visible-Infrared Person Re-identification**|Xulin Li et.al.|[2208.00967v1](http://arxiv.org/abs/2208.00967v1)|null|
 |**2022-08-01**|**Parametric Waveform Synthesis: a scalable approach to generate sub-cycle optical transients**|Roland E. Mainz et.al.|[2208.00899v1](http://arxiv.org/abs/2208.00899v1)|null|
@@ -386,13 +386,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-08-01**|**PRODIGE -- Envelope to disk with NOEMA I. A 3000 au streamer feeding a Class I protostar**|M. T. Valdivia-Mena et.al.|[2208.01023v1](http://arxiv.org/abs/2208.01023v1)|null|
 |**2022-08-01**|**Robust Change Detection Based on Neural Descriptor Fields**|Jiahui Fu et.al.|[2208.01014v1](http://arxiv.org/abs/2208.01014v1)|null|
-|**2022-08-01**|**JWST/NIRCam Coronagraphy: Commissioning and First On-Sky Results**|Julien H. Girard et.al.|[2208.00998v1](http://arxiv.org/abs/2208.00998v1)|null|
+|**2022-08-02**|**JWST/NIRCam Coronagraphy: Commissioning and First On-Sky Results**|Julien H. Girard et.al.|[2208.00998v2](http://arxiv.org/abs/2208.00998v2)|null|
 |**2022-08-01**|**Performance of near-infrared high-contrast imaging methods with JWST from commissioning**|Jens Kammerer et.al.|[2208.00996v1](http://arxiv.org/abs/2208.00996v1)|null|
 |**2022-08-01**|**Battle of the Predictive Wavefront Controls: Comparing Data and Model-Driven Predictive Control for High Contrast Imaging**|J. Fowler et.al.|[2208.00984v1](http://arxiv.org/abs/2208.00984v1)|null|
 |**2022-08-01**|**Charge-pseudospin coupled diffusion in semi-Dirac graphene: pseudospin assisted valley transport**|Saber Rostamzadeh et.al.|[2208.00977v1](http://arxiv.org/abs/2208.00977v1)|null|
 |**2022-08-01**|**Mechanisms for high spin in black-hole neutron-star binaries and kilonova emission: inheritance and accretion**|Nathan Steinle et.al.|[2208.00973v1](http://arxiv.org/abs/2208.00973v1)|null|
 |**2022-08-01**|**FrOoDo: Framework for Out-of-Distribution Detection**|Jonathan Stieber et.al.|[2208.00963v1](http://arxiv.org/abs/2208.00963v1)|**[link](https://github.com/meclabtuda/froodo)**|
-|**2022-08-01**|**Change point detection in dynamic Gaussian graphical models: the impact of COVID-19 pandemic on the US stock market**|Beatrice Franzolini et.al.|[2208.00952v1](http://arxiv.org/abs/2208.00952v1)|null|
+|**2022-08-02**|**Change point detection in dynamic Gaussian graphical models: the impact of COVID-19 pandemic on the US stock market**|Beatrice Franzolini et.al.|[2208.00952v2](http://arxiv.org/abs/2208.00952v2)|null|
 |**2022-08-01**|**Motion-aware Memory Network for Fast Video Salient Object Detection**|Xing Zhao et.al.|[2208.00946v1](http://arxiv.org/abs/2208.00946v1)|null|
 |**2022-07-29**|**The brightest galaxies at Cosmic Dawn**|Charlotte A. Mason et.al.|[2207.14808v1](http://arxiv.org/abs/2207.14808v1)|null|
 |**2022-07-29**|**PageNet: Towards End-to-End Weakly Supervised Page-Level Handwritten Chinese Text Recognition**|Dezhi Peng et.al.|[2207.14807v1](http://arxiv.org/abs/2207.14807v1)|null|
