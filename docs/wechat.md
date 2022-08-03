@@ -16,6 +16,14 @@
 
 ## Infrared
 
+- 2022-08-02, **XMM-Newton and NuSTAR Observations of an Optically Quiescent Quasar**, Claire Greenwell et.al., Paper: [http://arxiv.org/abs/2208.01627v1](http://arxiv.org/abs/2208.01627v1)
+- 2022-08-02, **Dust, CO and [CI]: Cross-calibration of molecular gas mass tracers in metal-rich galaxies across cosmic time**, L Dunne et.al., Paper: [http://arxiv.org/abs/2208.01622v1](http://arxiv.org/abs/2208.01622v1)
+- 2022-08-02, **Wideband Mid Infrared Absorber using surface Doped Black Silicon**, Sreyash Sarkar et.al., Paper: [http://arxiv.org/abs/2208.01540v1](http://arxiv.org/abs/2208.01540v1)
+- 2022-08-02, **Mid-Infrared and Maser Flux Variability Correlation in Massive Young Stellar Object G036.70+00.09**, Mizuho Uchiyama et.al., Paper: [http://arxiv.org/abs/2208.01473v1](http://arxiv.org/abs/2208.01473v1)
+- 2022-08-02, **PENELLOPE III. The peculiar accretion variability of XX Cha and its impact on the observed spread of accretion rates**, R. A. B. Claes et.al., Paper: [http://arxiv.org/abs/2208.01447v1](http://arxiv.org/abs/2208.01447v1)
+- 2022-08-02, **Stimulated emission from multilayer graphene**, Ken-ichi Sasaki et.al., Paper: [http://arxiv.org/abs/2208.01311v1](http://arxiv.org/abs/2208.01311v1)
+- 2022-08-02, **Quantum scale invariance in gauge theories and applications to muon production**, Matthias Weißwange et.al., Paper: [http://arxiv.org/abs/2208.01293v1](http://arxiv.org/abs/2208.01293v1)
+- 2022-08-01, **Cluster Cepheids with High Precision Gaia Parallaxes, Low Zeropoint Uncertainties, and Hubble Space Telescope Photometry**, Adam G. Riess et.al., Paper: [http://arxiv.org/abs/2208.01045v1](http://arxiv.org/abs/2208.01045v1)
 - 2022-08-02, **JWST/NIRCam Coronagraphy: Commissioning and First On-Sky Results**, Julien H. Girard et.al., Paper: [http://arxiv.org/abs/2208.00998v2](http://arxiv.org/abs/2208.00998v2)
 - 2022-08-01, **Performance of near-infrared high-contrast imaging methods with JWST from commissioning**, Jens Kammerer et.al., Paper: [http://arxiv.org/abs/2208.00996v1](http://arxiv.org/abs/2208.00996v1)
 - 2022-08-01, **Counterfactual Intervention Feature Transfer for Visible-Infrared Person Re-identification**, Xulin Li et.al., Paper: [http://arxiv.org/abs/2208.00967v1](http://arxiv.org/abs/2208.00967v1)
@@ -372,6 +380,16 @@
 
 ## Saliency Detection
 
+- 2022-08-02, **Sensor Deployment and Link Analysis in Satellite IoT Systems for Wildfire Detection**, How-Hang Liu et.al., Paper: [http://arxiv.org/abs/2208.01632v1](http://arxiv.org/abs/2208.01632v1)
+- 2022-08-02, **JWST reveals a population of ultra-red, flattened disk galaxies at 2<z<6 previously missed by HST**, Erica J. Nelson et.al., Paper: [http://arxiv.org/abs/2208.01630v1](http://arxiv.org/abs/2208.01630v1)
+- 2022-08-02, **XMM-Newton and NuSTAR Observations of an Optically Quiescent Quasar**, Claire Greenwell et.al., Paper: [http://arxiv.org/abs/2208.01627v1](http://arxiv.org/abs/2208.01627v1)
+- 2022-08-02, **MaRCoS, an open-source electronic control system for low-field MRI**, Vlad Negnevitsky et.al., Paper: [http://arxiv.org/abs/2208.01616v1](http://arxiv.org/abs/2208.01616v1)
+- 2022-08-02, **Constrained Reference Star Differential Imaging: Enabling High-Fidelity Imagery of Highly Structured Circumstellar Disks**, Kellen Lawson et.al., Paper: [http://arxiv.org/abs/2208.01606v1](http://arxiv.org/abs/2208.01606v1)
+- 2022-08-02, **On the ages of bright galaxies $\sim 500$ Myr after the Big Bang: insights into star formation activity at $z \gtrsim 15$ with JWST**, Lily Whitler et.al., Paper: [http://arxiv.org/abs/2208.01599v1](http://arxiv.org/abs/2208.01599v1)
+- 2022-08-02, **Do I really need all this work to find vulnerabilities? An empirical case study comparing vulnerability detection techniques on a Java application**, Sarah Elder et.al., Paper: [http://arxiv.org/abs/2208.01595v1](http://arxiv.org/abs/2208.01595v1)
+- 2022-08-02, **Learning to Incorporate Texture Saliency Adaptive Attention to Image Cartoonization**, Xiang Gao et.al., Paper: [http://arxiv.org/abs/2208.01587v1](http://arxiv.org/abs/2208.01587v1)
+- 2022-08-02, **Cluster Weighted Model Based on TSNE algorithm for High-Dimensional Data**, Kehinde Olobatuyi et.al., Paper: [http://arxiv.org/abs/2208.01579v1](http://arxiv.org/abs/2208.01579v1)
+- 2022-08-02, **Improved all-sky search method for continuous gravitational waves from unknown neutron stars in binary systems**, P. B. Covas et.al., Paper: [http://arxiv.org/abs/2208.01543v1](http://arxiv.org/abs/2208.01543v1)
 - 2022-08-01, **PRODIGE -- Envelope to disk with NOEMA I. A 3000 au streamer feeding a Class I protostar**, M. T. Valdivia-Mena et.al., Paper: [http://arxiv.org/abs/2208.01023v1](http://arxiv.org/abs/2208.01023v1)
 - 2022-08-01, **Robust Change Detection Based on Neural Descriptor Fields**, Jiahui Fu et.al., Paper: [http://arxiv.org/abs/2208.01014v1](http://arxiv.org/abs/2208.01014v1)
 - 2022-08-02, **JWST/NIRCam Coronagraphy: Commissioning and First On-Sky Results**, Julien H. Girard et.al., Paper: [http://arxiv.org/abs/2208.00998v2](http://arxiv.org/abs/2208.00998v2)
