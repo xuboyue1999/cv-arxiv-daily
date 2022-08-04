@@ -20,6 +20,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-03**|**The Sparkler: Evolved High-Redshift Globular Clusters Captured by JWST**|Lamiya A. Mowla et.al.|[2208.02233v1](http://arxiv.org/abs/2208.02233v1)|null|
+|**2022-08-03**|**Nuclear physics uncertainties in light hypernuclei**|D. Gazda et.al.|[2208.02176v1](http://arxiv.org/abs/2208.02176v1)|null|
+|**2022-08-03**|**Disappearance and reappearance of above-threshold-ionization peaks**|Lars Bojer Madsen et.al.|[2208.02039v1](http://arxiv.org/abs/2208.02039v1)|null|
+|**2022-08-03**|**Synthetic ngVLA line observations of a massive star-forming cloud**|M. Juvela et.al.|[2208.01894v1](http://arxiv.org/abs/2208.01894v1)|null|
+|**2022-08-03**|**A dusty starburst masquerading as an ultra-high redshift galaxy in JWST CEERS observations**|Jorge A. Zavala et.al.|[2208.01816v1](http://arxiv.org/abs/2208.01816v1)|null|
+|**2022-08-02**|**Connecting MeerKAT radio continuum properties to GAMA optical emission-line and WISE mid-infrared activity**|H. F. M. Yao et.al.|[2208.01679v1](http://arxiv.org/abs/2208.01679v1)|null|
+|**2022-08-02**|**The Relative Importance of Thermal Gas, Radiation, and Magnetic Pressures Around Star-Forming Regions in Normal Galaxies and Dusty Starbursts**|Eric J. Murphy et.al.|[2208.01663v1](http://arxiv.org/abs/2208.01663v1)|null|
 |**2022-08-02**|**XMM-Newton and NuSTAR Observations of an Optically Quiescent Quasar**|Claire Greenwell et.al.|[2208.01627v1](http://arxiv.org/abs/2208.01627v1)|null|
 |**2022-08-02**|**Dust, CO and [CI]: Cross-calibration of molecular gas mass tracers in metal-rich galaxies across cosmic time**|L Dunne et.al.|[2208.01622v1](http://arxiv.org/abs/2208.01622v1)|null|
 |**2022-08-02**|**Wideband Mid Infrared Absorber using surface Doped Black Silicon**|Sreyash Sarkar et.al.|[2208.01540v1](http://arxiv.org/abs/2208.01540v1)|null|
@@ -388,6 +395,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-03**|**DAHiTrA: Damage Assessment Using a Novel Hierarchical Transformer Architecture**|Navjot Kaur et.al.|[2208.02205v1](http://arxiv.org/abs/2208.02205v1)|null|
+|**2022-08-03**|**HirFuzz: Detecting High-Level Optimization Bugs in DL Compilers via Computational Graph Generation**|Haoyang Ma et.al.|[2208.02193v1](http://arxiv.org/abs/2208.02193v1)|null|
+|**2022-08-03**|**KD-SCFNet: Towards More Accurate and Efficient Salient Object Detection via Knowledge Distillation**|Jin Zhang et.al.|[2208.02178v1](http://arxiv.org/abs/2208.02178v1)|**[link](https://github.com/zhangjincv/kd-scfnet)**|
+|**2022-08-03**|**FauxThrow: Exploring the Effects of Incorrect Point of Release in Throwing Motions**|Goksu Yamac et.al.|[2208.02166v1](http://arxiv.org/abs/2208.02166v1)|null|
+|**2022-08-03**|**Child Care Provider Survival Analysis**|Phillip Sherlock et.al.|[2208.02154v1](http://arxiv.org/abs/2208.02154v1)|null|
+|**2022-08-03**|**Thermo-acoustics and its detection in a premixed flame**|Ratan Joarder et.al.|[2208.02146v1](http://arxiv.org/abs/2208.02146v1)|null|
+|**2022-08-03**|**LSSANet: A Long Short Slice-Aware Network for Pulmonary Nodule Detection**|Rui Xu et.al.|[2208.02122v1](http://arxiv.org/abs/2208.02122v1)|null|
+|**2022-08-03**|**MTGFlow: Unsupervised Multivariate Time Series Anomaly Detection via Dynamic Graph and Entity-aware Normalizing Flow**|Qihang Zhou et.al.|[2208.02108v1](http://arxiv.org/abs/2208.02108v1)|null|
+|**2022-08-03**|**Single-cycle THz-field electro-optical sampling with single-photon detectors**|Taylor Shields et.al.|[2208.02103v1](http://arxiv.org/abs/2208.02103v1)|null|
+|**2022-08-03**|**The Importance of the Instantaneous Phase in Detecting Faces with Convolutional Neural Networks**|Luis Sanchez Tapia et.al.|[2208.01638v1](http://arxiv.org/abs/2208.01638v1)|null|
 |**2022-08-02**|**Sensor Deployment and Link Analysis in Satellite IoT Systems for Wildfire Detection**|How-Hang Liu et.al.|[2208.01632v1](http://arxiv.org/abs/2208.01632v1)|null|
 |**2022-08-02**|**JWST reveals a population of ultra-red, flattened disk galaxies at 2<z<6 previously missed by HST**|Erica J. Nelson et.al.|[2208.01630v1](http://arxiv.org/abs/2208.01630v1)|null|
 |**2022-08-02**|**XMM-Newton and NuSTAR Observations of an Optically Quiescent Quasar**|Claire Greenwell et.al.|[2208.01627v1](http://arxiv.org/abs/2208.01627v1)|null|
