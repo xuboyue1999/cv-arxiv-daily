@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.04
+## Updated on 2022.08.05
 
 ## RGBT
 
@@ -399,7 +399,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-08-03**|**DAHiTrA: Damage Assessment Using a Novel Hierarchical Transformer Architecture**|Navjot Kaur et.al.|[2208.02205v1](http://arxiv.org/abs/2208.02205v1)|null|
+|**2022-08-03**|**DAHiTrA: Damage Assessment Using a Novel Hierarchical Transformer Architecture**|Navjot Kaur et.al.|[2208.02205v1](http://arxiv.org/abs/2208.02205v1)|**[link](https://github.com/nka77/dahitra)**|
 |**2022-08-03**|**HirFuzz: Detecting High-Level Optimization Bugs in DL Compilers via Computational Graph Generation**|Haoyang Ma et.al.|[2208.02193v1](http://arxiv.org/abs/2208.02193v1)|null|
 |**2022-08-03**|**KD-SCFNet: Towards More Accurate and Efficient Salient Object Detection via Knowledge Distillation**|Jin Zhang et.al.|[2208.02178v1](http://arxiv.org/abs/2208.02178v1)|**[link](https://github.com/zhangjincv/kd-scfnet)**|
 |**2022-08-03**|**FauxThrow: Exploring the Effects of Incorrect Point of Release in Throwing Motions**|Goksu Yamac et.al.|[2208.02166v1](http://arxiv.org/abs/2208.02166v1)|null|
