@@ -16,6 +16,12 @@
 
 ## Infrared
 
+- 2022-08-04, **Developing a New Generation of Integrated Micro-Spec Far Infrared Spectrometers for the EXperiment for Cryogenic Large-Aperture Intensity Mapping (EXCLAIM)**, Carolyn G. Volpert et.al., Paper: [http://arxiv.org/abs/2208.02786v1](http://arxiv.org/abs/2208.02786v1)
+- 2022-08-04, **Interacting Tsallis holographic dark energy in $q$-modified DGP braneworld**, Naouel Boulkaboul et.al., Paper: [http://arxiv.org/abs/2208.02754v1](http://arxiv.org/abs/2208.02754v1)
+- 2022-08-04, **Angular momentum of the asymptotic electromagnetic field in the classical scattering of charged particles**, Luke Lippstreu et.al., Paper: [http://arxiv.org/abs/2208.02727v1](http://arxiv.org/abs/2208.02727v1)
+- 2022-08-04, **A First Look at the Abundance Pattern -- O/H, C/O, Ne/O, and Fe/O -- in $z>7$ Galaxies with JWST/NIRSpec**, Karla Z. Arellano-Córdova et.al., Paper: [http://arxiv.org/abs/2208.02562v1](http://arxiv.org/abs/2208.02562v1)
+- 2022-08-04, **Raman Scattering with infrared excitation resonant with MoSe$_2$ indirect band gap**, Simone Sotgiu et.al., Paper: [http://arxiv.org/abs/2208.02505v1](http://arxiv.org/abs/2208.02505v1)
+- 2022-08-04, **Learning Modal-Invariant and Temporal-Memory for Video-based Visible-Infrared Person Re-Identification**, Xinyu Lin et.al., Paper: [http://arxiv.org/abs/2208.02450v1](http://arxiv.org/abs/2208.02450v1), Code: **[https://github.com/vcm-project233/mitml](https://github.com/vcm-project233/mitml)**
 - 2022-08-03, **The Sparkler: Evolved High-Redshift Globular Clusters Captured by JWST**, Lamiya A. Mowla et.al., Paper: [http://arxiv.org/abs/2208.02233v1](http://arxiv.org/abs/2208.02233v1)
 - 2022-08-03, **Nuclear physics uncertainties in light hypernuclei**, D. Gazda et.al., Paper: [http://arxiv.org/abs/2208.02176v1](http://arxiv.org/abs/2208.02176v1)
 - 2022-08-03, **Disappearance and reappearance of above-threshold-ionization peaks**, Lars Bojer Madsen et.al., Paper: [http://arxiv.org/abs/2208.02039v1](http://arxiv.org/abs/2208.02039v1)
@@ -387,6 +393,16 @@
 
 ## Saliency Detection
 
+- 2022-08-04, **On-the-Fly Syntax Highlighting using Neural Networks**, Marco Edoardo Palma et.al., Paper: [http://arxiv.org/abs/2208.02815v1](http://arxiv.org/abs/2208.02815v1)
+- 2022-08-04, **Schrodinger's Galaxy Candidate: Puzzlingly Luminous at $z\approx17$, or Dusty/Quenched at $z\approx5$?**, Rohan P. Naidu et.al., Paper: [http://arxiv.org/abs/2208.02794v1](http://arxiv.org/abs/2208.02794v1)
+- 2022-08-04, **A Cooperative Perception Environment for Traffic Operations and Control**, Hanlin Chen et.al., Paper: [http://arxiv.org/abs/2208.02792v1](http://arxiv.org/abs/2208.02792v1)
+- 2022-08-04, **Developing a New Generation of Integrated Micro-Spec Far Infrared Spectrometers for the EXperiment for Cryogenic Large-Aperture Intensity Mapping (EXCLAIM)**, Carolyn G. Volpert et.al., Paper: [http://arxiv.org/abs/2208.02786v1](http://arxiv.org/abs/2208.02786v1)
+- 2022-08-04, **On False Data Injection Attack against Building Automation Systems**, Michael Cash et.al., Paper: [http://arxiv.org/abs/2208.02733v1](http://arxiv.org/abs/2208.02733v1)
+- 2022-08-04, **Finite-size criticality in fully connected spin models on superconducting quantum hardware**, Michele Grossi et.al., Paper: [http://arxiv.org/abs/2208.02731v1](http://arxiv.org/abs/2208.02731v1)
+- 2022-08-04, **Wave-Front Reconstruction via Single-Pixel Homodyne Imaging**, Savannah L. Cuozzo et.al., Paper: [http://arxiv.org/abs/2208.02718v1](http://arxiv.org/abs/2208.02718v1)
+- 2022-08-04, **Unsupervised Graph Spectral Feature Denoising for Crop Yield Prediction**, Saghar Bagheri et.al., Paper: [http://arxiv.org/abs/2208.02714v1](http://arxiv.org/abs/2208.02714v1)
+- 2022-08-04, **Artificial Image Tampering Distorts Spatial Distribution of Texture Landmarks and Quality Characteristics**, Tahir Hassan et.al., Paper: [http://arxiv.org/abs/2208.02710v1](http://arxiv.org/abs/2208.02710v1)
+- 2022-08-04, **Ellipsis: Towards Efficient System Auditing for Real-Time Systems**, Ayoosh Bansal et.al., Paper: [http://arxiv.org/abs/2208.02699v1](http://arxiv.org/abs/2208.02699v1), Code: **[https://bitbucket.org/sts-lab/ellipsis](https://bitbucket.org/sts-lab/ellipsis)**
 - 2022-08-03, **DAHiTrA: Damage Assessment Using a Novel Hierarchical Transformer Architecture**, Navjot Kaur et.al., Paper: [http://arxiv.org/abs/2208.02205v1](http://arxiv.org/abs/2208.02205v1), Code: **[https://github.com/nka77/dahitra](https://github.com/nka77/dahitra)**
 - 2022-08-03, **HirFuzz: Detecting High-Level Optimization Bugs in DL Compilers via Computational Graph Generation**, Haoyang Ma et.al., Paper: [http://arxiv.org/abs/2208.02193v1](http://arxiv.org/abs/2208.02193v1)
 - 2022-08-03, **KD-SCFNet: Towards More Accurate and Efficient Salient Object Detection via Knowledge Distillation**, Jin Zhang et.al., Paper: [http://arxiv.org/abs/2208.02178v1](http://arxiv.org/abs/2208.02178v1), Code: **[https://github.com/zhangjincv/kd-scfnet](https://github.com/zhangjincv/kd-scfnet)**
