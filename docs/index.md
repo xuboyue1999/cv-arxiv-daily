@@ -24,6 +24,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-05**|**Phase-quadrature quantum imaging with undetected photons**|Björn Erik Haase et.al.|[2208.03005v1](http://arxiv.org/abs/2208.03005v1)|null|
+|**2022-08-05**|**Development of digital sideband separating down-conversion for Yuan-Tseh Lee Array**|Chao-Te Li et.al.|[2208.02970v1](http://arxiv.org/abs/2208.02970v1)|null|
+|**2022-08-05**|**Memory-Guided Collaborative Attention for Nighttime Thermal Infrared Image Colorization**|Fu-Ya Luo et.al.|[2208.02960v1](http://arxiv.org/abs/2208.02960v1)|null|
+|**2022-08-04**|**High-resolution near-infrared spectroscopy of globular cluster and field stars toward the Galactic bulge**|Dongwook Lim et.al.|[2208.02887v1](http://arxiv.org/abs/2208.02887v1)|null|
+|**2022-08-04**|**In-orbit Commissioning of the Near-Infrared Spectrograph on the James Webb Space Telescope**|Torsten Böker et.al.|[2208.02860v1](http://arxiv.org/abs/2208.02860v1)|null|
+|**2022-08-04**|**Phase Drift Monitoring for Tone Tracking Readout of Superconducting Microwave Resonators**|Max Silva-Feaver et.al.|[2208.02854v1](http://arxiv.org/abs/2208.02854v1)|null|
+|**2022-08-04**|**The Lockman-SpReSO survey I. Description, target selection, observations and preliminary results**|M. González-Otero et.al.|[2208.02828v1](http://arxiv.org/abs/2208.02828v1)|null|
 |**2022-08-04**|**Developing a New Generation of Integrated Micro-Spec Far Infrared Spectrometers for the EXperiment for Cryogenic Large-Aperture Intensity Mapping (EXCLAIM)**|Carolyn G. Volpert et.al.|[2208.02786v1](http://arxiv.org/abs/2208.02786v1)|null|
 |**2022-08-04**|**Interacting Tsallis holographic dark energy in $q$-modified DGP braneworld**|Naouel Boulkaboul et.al.|[2208.02754v1](http://arxiv.org/abs/2208.02754v1)|null|
 |**2022-08-04**|**Angular momentum of the asymptotic electromagnetic field in the classical scattering of charged particles**|Luke Lippstreu et.al.|[2208.02727v1](http://arxiv.org/abs/2208.02727v1)|null|
@@ -405,6 +412,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-05**|**Floer homology and non-fibered knot detection**|John A. Baldwin et.al.|[2208.03307v1](http://arxiv.org/abs/2208.03307v1)|null|
+|**2022-08-05**|**Convolutional Ensembling based Few-Shot Defect Detection Technique**|Soumyajit Karmakar et.al.|[2208.03288v1](http://arxiv.org/abs/2208.03288v1)|null|
+|**2022-08-05**|**A Holistic Approach to Undesired Content Detection in the Real World**|Todor Markov et.al.|[2208.03274v1](http://arxiv.org/abs/2208.03274v1)|null|
+|**2022-08-05**|**An adaptive algorithm for detecting double stars in astrometric surveys**|Mikhail V. Sazhin et.al.|[2208.03269v1](http://arxiv.org/abs/2208.03269v1)|null|
+|**2022-08-05**|**QUSUM: quickest quantum change-point detection**|Marco Fanizza et.al.|[2208.03265v1](http://arxiv.org/abs/2208.03265v1)|null|
+|**2022-08-05**|**Detection of companion galaxies around hot dust-obscured hyper-luminous galaxy W0410-0913**|M. Ginolfi et.al.|[2208.03248v1](http://arxiv.org/abs/2208.03248v1)|null|
+|**2022-08-05**|**Defining Cases and Variants for Object-Centric Event Data**|Jan Niklas Adams et.al.|[2208.03235v1](http://arxiv.org/abs/2208.03235v1)|null|
+|**2022-08-05**|**Distance-based detection of out-of-distribution silent failures for Covid-19 lung lesion segmentation**|Camila Gonzalez et.al.|[2208.03217v1](http://arxiv.org/abs/2208.03217v1)|null|
+|**2022-08-05**|**Task-agnostic Continual Hippocampus Segmentation for Smooth Population Shifts**|Camila Gonzalez et.al.|[2208.03206v1](http://arxiv.org/abs/2208.03206v1)|null|
+|**2022-08-05**|**Deepest Sensitivity to Wavelike Dark Photon Dark Matter with SRF Cavities**|Raphael Cervantes et.al.|[2208.03183v1](http://arxiv.org/abs/2208.03183v1)|null|
 |**2022-08-04**|**On-the-Fly Syntax Highlighting using Neural Networks**|Marco Edoardo Palma et.al.|[2208.02815v1](http://arxiv.org/abs/2208.02815v1)|null|
 |**2022-08-04**|**Schrodinger's Galaxy Candidate: Puzzlingly Luminous at $z\approx17$, or Dusty/Quenched at $z\approx5$?**|Rohan P. Naidu et.al.|[2208.02794v1](http://arxiv.org/abs/2208.02794v1)|null|
 |**2022-08-04**|**A Cooperative Perception Environment for Traffic Operations and Control**|Hanlin Chen et.al.|[2208.02792v1](http://arxiv.org/abs/2208.02792v1)|null|
