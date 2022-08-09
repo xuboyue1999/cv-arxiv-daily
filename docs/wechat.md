@@ -16,6 +16,16 @@
 
 ## Infrared
 
+- 2022-08-08, **Characterization of aerogel scattering filters for astronomical telescopes**, Alyssa Barlis et.al., Paper: [http://arxiv.org/abs/2208.04257v1](http://arxiv.org/abs/2208.04257v1)
+- 2022-08-08, **Hydrothermal synthesis of ordered corkite, PbFe3(PO4)(SO4)(OH)6, a S = 5/2 kagomé antiferromagnet**, Austin M. Ferrenti et.al., Paper: [http://arxiv.org/abs/2208.04209v1](http://arxiv.org/abs/2208.04209v1)
+- 2022-08-08, **Van der Waals engineering of ultrafast carrier dynamics in magnetic heterostructures**, Paulina Majchrzak et.al., Paper: [http://arxiv.org/abs/2208.04098v1](http://arxiv.org/abs/2208.04098v1)
+- 2022-08-08, **Galaxy source counts at 7.7 $μ$m, 10 $μ$m and 15 $μ$m with the James Webb Space Telescope**, Chih-Teng Ling et.al., Paper: [http://arxiv.org/abs/2208.03954v1](http://arxiv.org/abs/2208.03954v1)
+- 2022-08-08, **Metal Mesh IR Filter for wSMA**, Chao-Te Li et.al., Paper: [http://arxiv.org/abs/2208.03902v1](http://arxiv.org/abs/2208.03902v1)
+- 2022-08-07, **Integrated Metasurface-based Wavelengths Division Demultiplexers**, Amged Alquliah et.al., Paper: [http://arxiv.org/abs/2208.03825v1](http://arxiv.org/abs/2208.03825v1)
+- 2022-08-07, **Novel infrared-blocking aerogel scattering filters and their applications in astrophysical and planetary science**, Kyle R. Helson et.al., Paper: [http://arxiv.org/abs/2208.03755v1](http://arxiv.org/abs/2208.03755v1)
+- 2022-08-06, **Two-loop mixed QCD-EW corrections to neutral current Drell-Yan**, Simone Devoto et.al., Paper: [http://arxiv.org/abs/2208.03510v1](http://arxiv.org/abs/2208.03510v1)
+- 2022-08-06, **Constraints on primordial black holes with CMB spectral distortions**, Yupeng Yang et.al., Paper: [http://arxiv.org/abs/2208.03458v1](http://arxiv.org/abs/2208.03458v1)
+- 2022-08-05, **Zwicky Transient Facility and Globular Clusters: The Period-Luminosity and Period-Wesenheit Relations for Type II Cepheids**, Chow-Choong Ngeow et.al., Paper: [http://arxiv.org/abs/2208.03404v1](http://arxiv.org/abs/2208.03404v1)
 - 2022-08-05, **Phase-quadrature quantum imaging with undetected photons**, Björn Erik Haase et.al., Paper: [http://arxiv.org/abs/2208.03005v1](http://arxiv.org/abs/2208.03005v1)
 - 2022-08-05, **Development of digital sideband separating down-conversion for Yuan-Tseh Lee Array**, Chao-Te Li et.al., Paper: [http://arxiv.org/abs/2208.02970v1](http://arxiv.org/abs/2208.02970v1)
 - 2022-08-05, **Memory-Guided Collaborative Attention for Nighttime Thermal Infrared Image Colorization**, Fu-Ya Luo et.al., Paper: [http://arxiv.org/abs/2208.02960v1](http://arxiv.org/abs/2208.02960v1), Code: **[https://github.com/fuyaluo/morngan](https://github.com/fuyaluo/morngan)**
@@ -376,6 +386,8 @@
 
 ## RGBD
 
+- 2022-08-08, **MetaGraspNet: A Large-Scale Benchmark Dataset for Scene-Aware Ambidextrous Bin Picking via Physics-based Metaverse Synthesis**, Maximilian Gilles et.al., Paper: [http://arxiv.org/abs/2208.03963v1](http://arxiv.org/abs/2208.03963v1)
+- 2022-08-07, **Domain Randomization-Enhanced Depth Simulation and Restoration for Perceiving and Grasping Specular and Transparent Objects**, Qiyu Dai et.al., Paper: [http://arxiv.org/abs/2208.03792v1](http://arxiv.org/abs/2208.03792v1), Code: **[https://github.com/pku-epic/dreds](https://github.com/pku-epic/dreds)**
 - 2022-07-17, **Detecting Humans in RGB-D Data with CNNs**, Kaiyang Zhou et.al., Paper: [http://arxiv.org/abs/2207.08064v1](http://arxiv.org/abs/2207.08064v1), Code: **[https://github.com/kaiyangzhou/roi-selection](https://github.com/kaiyangzhou/roi-selection)**
 - 2022-07-31, **Autonomously Untangling Long Cables**, Vainavi Viswanath et.al., Paper: [http://arxiv.org/abs/2207.07813v2](http://arxiv.org/abs/2207.07813v2)
 - 2022-07-14, **Egocentric Scene Understanding via Multimodal Spatial Rectifier**, Tien Do et.al., Paper: [http://arxiv.org/abs/2207.07077v1](http://arxiv.org/abs/2207.07077v1), Code: **[https://github.com/tien-d/EgoDepthNormal](https://github.com/tien-d/EgoDepthNormal)**
@@ -400,6 +412,16 @@
 
 ## Saliency Detection
 
+- 2022-08-08, **3D Vision with Transformers: A Survey**, Jean Lahoud et.al., Paper: [http://arxiv.org/abs/2208.04309v1](http://arxiv.org/abs/2208.04309v1)
+- 2022-08-08, **Tidal Deformability Doppelgangers: I. Differentiability of gravitational waveforms for neutron stars with a low-density phase transition**, Carolyn A. Raithel et.al., Paper: [http://arxiv.org/abs/2208.04294v1](http://arxiv.org/abs/2208.04294v1)
+- 2022-08-08, **Late-time accretion in neutron star mergers: implications for short gamma-ray bursts and kilonovae**, Wenbin Lu et.al., Paper: [http://arxiv.org/abs/2208.04293v1](http://arxiv.org/abs/2208.04293v1)
+- 2022-08-08, **Label-Free Synthetic Pretraining of Object Detectors**, Hei Law et.al., Paper: [http://arxiv.org/abs/2208.04268v1](http://arxiv.org/abs/2208.04268v1), Code: **[https://github.com/princeton-vl/solid](https://github.com/princeton-vl/solid)**
+- 2022-08-08, **First Come First Served: The Impact of File Position on Code Review**, Enrico Fregnan et.al., Paper: [http://arxiv.org/abs/2208.04259v1](http://arxiv.org/abs/2208.04259v1)
+- 2022-08-08, **Exact Learning of Multitrees and Almost-Trees Using Path Queries**, Ramtin Afshar et.al., Paper: [http://arxiv.org/abs/2208.04216v1](http://arxiv.org/abs/2208.04216v1)
+- 2022-08-08, **Vision-Based Activity Recognition in Children with Autism-Related Behaviors**, Pengbo Wei et.al., Paper: [http://arxiv.org/abs/2208.04206v1](http://arxiv.org/abs/2208.04206v1)
+- 2022-08-08, **Toward automated detection of light echoes in synoptic surveys: considerations on the application of the Deep Convolutional Neural Networks**, Xiaolong Li et.al., Paper: [http://arxiv.org/abs/2208.04198v1](http://arxiv.org/abs/2208.04198v1)
+- 2022-08-08, **DarkMix: Mixture Models for the Detection and Characterization of Dark Matter Halos**, Lluís Hurtado-Gil et.al., Paper: [http://arxiv.org/abs/2208.04194v1](http://arxiv.org/abs/2208.04194v1)
+- 2022-08-08, **Object Detection Using Sim2Real Domain Randomization for Robotic Applications**, Dániel Horváth et.al., Paper: [http://arxiv.org/abs/2208.04171v1](http://arxiv.org/abs/2208.04171v1)
 - 2022-08-05, **Floer homology and non-fibered knot detection**, John A. Baldwin et.al., Paper: [http://arxiv.org/abs/2208.03307v1](http://arxiv.org/abs/2208.03307v1)
 - 2022-08-05, **Convolutional Ensembling based Few-Shot Defect Detection Technique**, Soumyajit Karmakar et.al., Paper: [http://arxiv.org/abs/2208.03288v1](http://arxiv.org/abs/2208.03288v1)
 - 2022-08-05, **A Holistic Approach to Undesired Content Detection in the Real World**, Todor Markov et.al., Paper: [http://arxiv.org/abs/2208.03274v1](http://arxiv.org/abs/2208.03274v1)
