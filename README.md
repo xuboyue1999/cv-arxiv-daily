@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-09**|**The ultraviolet continuum slopes ($\mathbfβ$) of galaxies at $\mathbf{z\simeq8-15}$ from JWST and ground-based near-infrared**|F. Cullen et.al.|[2208.04914v1](http://arxiv.org/abs/2208.04914v1)|null|
+|**2022-08-09**|**Imaging below the camera noise floor with a homodyne microscope**|Osian Wolley et.al.|[2208.04898v1](http://arxiv.org/abs/2208.04898v1)|null|
+|**2022-08-09**|**Optical throughput and sensitivity of JWST NIRSpec**|G. Giardino et.al.|[2208.04876v1](http://arxiv.org/abs/2208.04876v1)|null|
+|**2022-08-09**|**Automated Calculation of Beam Functions at NNLO**|Guido Bell et.al.|[2208.04847v1](http://arxiv.org/abs/2208.04847v1)|null|
+|**2022-08-09**|**Low power jet-ISM interaction in NGC 7319 revealed by JWST/MIRI MRS**|M. Pereira-Santaella et.al.|[2208.04835v1](http://arxiv.org/abs/2208.04835v1)|null|
+|**2022-08-09**|**A Swift X-ray view of the SMS4 sample -- X-ray properties of 31 quasars and radio galaxies**|Alessandro Maselli et.al.|[2208.04763v1](http://arxiv.org/abs/2208.04763v1)|null|
+|**2022-08-09**|**Nonlinear focusing of supercontinuum driven by intense mid-infrared pulses in gas-filled capillaries**|Xiaohui Gao et.al.|[2208.04748v1](http://arxiv.org/abs/2208.04748v1)|null|
+|**2022-08-09**|**In-flight performance of the NIRSpec Micro Shutter Array**|Timothy D. Rawle et.al.|[2208.04673v1](http://arxiv.org/abs/2208.04673v1)|null|
+|**2022-08-09**|**Sub-cycle multidimensional spectroscopy of strongly correlated materials**|V. Valmispild et.al.|[2208.04647v1](http://arxiv.org/abs/2208.04647v1)|null|
+|**2022-08-09**|**Statistical tests with multi-wavelength Kernel-phase analysis for the detection and characterization of planetary companions**|Mamadou N'Diaye et.al.|[2208.04594v1](http://arxiv.org/abs/2208.04594v1)|null|
 |**2022-08-08**|**Characterization of aerogel scattering filters for astronomical telescopes**|Alyssa Barlis et.al.|[2208.04257v1](http://arxiv.org/abs/2208.04257v1)|null|
 |**2022-08-08**|**Hydrothermal synthesis of ordered corkite, PbFe3(PO4)(SO4)(OH)6, a S = 5/2 kagomé antiferromagnet**|Austin M. Ferrenti et.al.|[2208.04209v1](http://arxiv.org/abs/2208.04209v1)|null|
 |**2022-08-08**|**Van der Waals engineering of ultrafast carrier dynamics in magnetic heterostructures**|Paulina Majchrzak et.al.|[2208.04098v1](http://arxiv.org/abs/2208.04098v1)|null|
@@ -420,6 +430,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-09**|**A lensed protocluster candidate at $z=7.66$ identified in JWST observations of the galaxy cluster SMACS0723-7327**|N. Laporte et.al.|[2208.04930v1](http://arxiv.org/abs/2208.04930v1)|null|
+|**2022-08-09**|**Bounding entanglement dimensionality from the covariance matrix**|Shuheng Liu et.al.|[2208.04909v1](http://arxiv.org/abs/2208.04909v1)|null|
+|**2022-08-09**|**Moving sum procedure for change point detection under piecewise linearity**|Joonpyo Kim et.al.|[2208.04900v1](http://arxiv.org/abs/2208.04900v1)|null|
+|**2022-08-09**|**Pulsar Emission Beam Geometry of Radio Broadband Arecibo Sources**|Timothy Olszanski et.al.|[2208.04889v1](http://arxiv.org/abs/2208.04889v1)|null|
+|**2022-08-09**|**AGN feedback duty cycle in Planck SZ selected clusters using Chandra observations**|V. Olivares et.al.|[2208.04888v1](http://arxiv.org/abs/2208.04888v1)|null|
+|**2022-08-09**|**Direct Discovery of the Inner Exoplanet in the HD206893 System**|S. Hinkley et.al.|[2208.04867v1](http://arxiv.org/abs/2208.04867v1)|null|
+|**2022-08-09**|**Robust Machine Learning for Malware Detection over Time**|Daniele Angioni et.al.|[2208.04838v1](http://arxiv.org/abs/2208.04838v1)|null|
+|**2022-08-09**|**Mapping the Complex Kinematic Substructure in the TW Hya Disk**|Richard Teague et.al.|[2208.04837v1](http://arxiv.org/abs/2208.04837v1)|null|
+|**2022-08-09**|**Kepler and TESS Observations of PG 1159-035**|Gabriela Oliveira da Rosa et.al.|[2208.04791v1](http://arxiv.org/abs/2208.04791v1)|null|
+|**2022-08-09**|**Separability criteria based on the Weyl operators**|Xiaofen Huang et.al.|[2208.04789v1](http://arxiv.org/abs/2208.04789v1)|null|
 |**2022-08-08**|**3D Vision with Transformers: A Survey**|Jean Lahoud et.al.|[2208.04309v1](http://arxiv.org/abs/2208.04309v1)|**[link](https://github.com/lahoud/3d-vision-transformers)**|
 |**2022-08-08**|**Tidal Deformability Doppelgangers: I. Differentiability of gravitational waveforms for neutron stars with a low-density phase transition**|Carolyn A. Raithel et.al.|[2208.04294v1](http://arxiv.org/abs/2208.04294v1)|null|
 |**2022-08-08**|**Late-time accretion in neutron star mergers: implications for short gamma-ray bursts and kilonovae**|Wenbin Lu et.al.|[2208.04293v1](http://arxiv.org/abs/2208.04293v1)|null|
