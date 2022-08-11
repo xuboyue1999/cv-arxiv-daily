@@ -1,4 +1,4 @@
-> Updated on 2022.08.10
+> Updated on 2022.08.11
 
 ## RGBT
 
@@ -16,7 +16,7 @@
 
 ## Infrared
 
-- 2022-08-09, **The ultraviolet continuum slopes ($\mathbfβ$) of galaxies at $\mathbf{z\simeq8-15}$ from JWST and ground-based near-infrared**, F. Cullen et.al., Paper: [http://arxiv.org/abs/2208.04914v1](http://arxiv.org/abs/2208.04914v1)
+- 2022-08-10, **The ultraviolet continuum slopes ($\mathbfβ$) of galaxies at $\mathbf{z\simeq8-15}$ from JWST and ground-based near-infrared imaging**, F. Cullen et.al., Paper: [http://arxiv.org/abs/2208.04914v2](http://arxiv.org/abs/2208.04914v2)
 - 2022-08-09, **Imaging below the camera noise floor with a homodyne microscope**, Osian Wolley et.al., Paper: [http://arxiv.org/abs/2208.04898v1](http://arxiv.org/abs/2208.04898v1)
 - 2022-08-09, **Optical throughput and sensitivity of JWST NIRSpec**, G. Giardino et.al., Paper: [http://arxiv.org/abs/2208.04876v1](http://arxiv.org/abs/2208.04876v1)
 - 2022-08-09, **Automated Calculation of Beam Functions at NNLO**, Guido Bell et.al., Paper: [http://arxiv.org/abs/2208.04847v1](http://arxiv.org/abs/2208.04847v1)
