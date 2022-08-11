@@ -24,6 +24,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-10**|**CCAT-prime: Design of the Mod-Cam receiver and 280 GHz MKID instrument module**|Eve M. Vavagiakis et.al.|[2208.05468v1](http://arxiv.org/abs/2208.05468v1)|null|
+|**2022-08-10**|**Astrometric and Wavelength Calibration of the NIRSpec Instrument during Commissioning using a model-based approach**|Nora Lützgendorf et.al.|[2208.05355v1](http://arxiv.org/abs/2208.05355v1)|null|
+|**2022-08-10**|**In-flight performance and calibration of the Grating Wheel Assembly sensors (NIRSpec/JWST)**|Catarina Alves de Oliveira et.al.|[2208.05354v1](http://arxiv.org/abs/2208.05354v1)|null|
+|**2022-08-10**|**Fabrication and transfer print based integration of free-standing GaN membrane micro-lenses onto semiconductor chips**|Nils Kolja Wessling et.al.|[2208.05275v1](http://arxiv.org/abs/2208.05275v1)|null|
+|**2022-08-09**|**Soft Scalars don't decouple**|Shovon Biswas et.al.|[2208.05023v1](http://arxiv.org/abs/2208.05023v1)|null|
+|**2022-08-09**|**Near-infrared Accretion Signatures from the Circumbinary Planetary Mass Companion Delorme 1 (AB)b**|S. K. Betti et.al.|[2208.05016v1](http://arxiv.org/abs/2208.05016v1)|null|
+|**2022-08-09**|**Mira variables in the Milky Way's nuclear stellar disc: discovery and classification**|Jason L. Sanders et.al.|[2208.04966v1](http://arxiv.org/abs/2208.04966v1)|null|
 |**2022-08-10**|**The ultraviolet continuum slopes ($\mathbfβ$) of galaxies at $\mathbf{z\simeq8-15}$ from JWST and ground-based near-infrared imaging**|F. Cullen et.al.|[2208.04914v2](http://arxiv.org/abs/2208.04914v2)|null|
 |**2022-08-09**|**Imaging below the camera noise floor with a homodyne microscope**|Osian Wolley et.al.|[2208.04898v1](http://arxiv.org/abs/2208.04898v1)|null|
 |**2022-08-09**|**Optical throughput and sensitivity of JWST NIRSpec**|G. Giardino et.al.|[2208.04876v1](http://arxiv.org/abs/2208.04876v1)|null|
@@ -434,6 +441,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-10**|**Constraining the physical properties of the first lensed $z\sim10-16$ galaxy candidates with JWST**|Lukas J. Furtak et.al.|[2208.05473v1](http://arxiv.org/abs/2208.05473v1)|null|
+|**2022-08-10**|**Erasure qubits: Overcoming the $T_1$ limit in superconducting circuits**|Aleksander Kubica et.al.|[2208.05461v1](http://arxiv.org/abs/2208.05461v1)|null|
+|**2022-08-10**|**Evidence for PeV Proton Acceleration from Fermi-LAT Observations of SNR G106.3+2.7**|Ke Fang et.al.|[2208.05457v1](http://arxiv.org/abs/2208.05457v1)|null|
+|**2022-08-10**|**Coupling of Plasmonic Hot Spots with Shurikens for Superchiral SERS-based Enantiomer Recognition**|Olga Guselnikova et.al.|[2208.05454v1](http://arxiv.org/abs/2208.05454v1)|null|
+|**2022-08-10**|**Non-Contrastive Self-supervised Learning for Utterance-Level Information Extraction from Speech**|Jaejin Cho et.al.|[2208.05445v1](http://arxiv.org/abs/2208.05445v1)|null|
+|**2022-08-10**|**Gravitational radiation at infinity with non-negative cosmological constant**|José M. M. Senovilla et.al.|[2208.05436v1](http://arxiv.org/abs/2208.05436v1)|null|
+|**2022-08-10**|**Detecting COVID-19 from digitized ECG printouts using 1D convolutional neural networks**|Thao Nguyen et.al.|[2208.05433v1](http://arxiv.org/abs/2208.05433v1)|null|
+|**2022-08-10**|**Block Double-Submission Attack: Block Withholding Can Be Self-Destructive**|Suhyeon Lee et.al.|[2208.05425v1](http://arxiv.org/abs/2208.05425v1)|null|
+|**2022-08-10**|**Benchmarking Joint Face Spoofing and Forgery Detection with Visual and Physiological Cues**|Zitong Yu et.al.|[2208.05401v1](http://arxiv.org/abs/2208.05401v1)|null|
+|**2022-08-10**|**Exploring Anchor-based Detection for Ego4D Natural Language Query**|Sipeng Zheng et.al.|[2208.05375v1](http://arxiv.org/abs/2208.05375v1)|null|
 |**2022-08-09**|**A lensed protocluster candidate at $z=7.66$ identified in JWST observations of the galaxy cluster SMACS0723-7327**|N. Laporte et.al.|[2208.04930v1](http://arxiv.org/abs/2208.04930v1)|null|
 |**2022-08-09**|**Bounding entanglement dimensionality from the covariance matrix**|Shuheng Liu et.al.|[2208.04909v1](http://arxiv.org/abs/2208.04909v1)|null|
 |**2022-08-09**|**Moving sum procedure for change point detection under piecewise linearity**|Joonpyo Kim et.al.|[2208.04900v1](http://arxiv.org/abs/2208.04900v1)|null|
