@@ -24,6 +24,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-11**|**Spectral imaging at high-definition and high speed in the mid-infrared**|David Knez et.al.|[2208.05941v1](http://arxiv.org/abs/2208.05941v1)|null|
+|**2022-08-11**|**Photoemission "experiments" on holographic lattices**|Filip Herček et.al.|[2208.05920v1](http://arxiv.org/abs/2208.05920v1)|null|
+|**2022-08-11**|**Collinear functions for QCD resummations**|Stefano Catani et.al.|[2208.05840v1](http://arxiv.org/abs/2208.05840v1)|null|
+|**2022-08-11**|**Seeing your sleep stage: cross-modal distillation from EEG to infrared video**|Jianan Han et.al.|[2208.05814v1](http://arxiv.org/abs/2208.05814v1)|**[link](https://github.com/spiresearch/sacd)**|
+|**2022-08-11**|**Electron magnetic moment of chiral phonons**|R. Matthias Geilhufe et.al.|[2208.05746v1](http://arxiv.org/abs/2208.05746v1)|null|
+|**2022-08-10**|**Jupiter and Saturn as Spectral Analogs for Extrasolar Gas Giants and Brown Dwarfs**|Daniel J. Coulter et.al.|[2208.05541v1](http://arxiv.org/abs/2208.05541v1)|null|
 |**2022-08-10**|**CCAT-prime: Design of the Mod-Cam receiver and 280 GHz MKID instrument module**|Eve M. Vavagiakis et.al.|[2208.05468v1](http://arxiv.org/abs/2208.05468v1)|null|
 |**2022-08-10**|**Astrometric and Wavelength Calibration of the NIRSpec Instrument during Commissioning using a model-based approach**|Nora Lützgendorf et.al.|[2208.05355v1](http://arxiv.org/abs/2208.05355v1)|null|
 |**2022-08-10**|**In-flight performance and calibration of the Grating Wheel Assembly sensors (NIRSpec/JWST)**|Catarina Alves de Oliveira et.al.|[2208.05354v1](http://arxiv.org/abs/2208.05354v1)|null|
@@ -441,6 +447,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-11**|**Revealing Dark Matter Dress of Primordial Black Holes by Cosmological Lensing**|Masamune Oguri et.al.|[2208.05957v1](http://arxiv.org/abs/2208.05957v1)|null|
+|**2022-08-11**|**Spatially quasi-periodic bifurcations from periodic traveling water waves and a method for detecting bifurcations using signed singular values**|Jon Wilkening et.al.|[2208.05954v1](http://arxiv.org/abs/2208.05954v1)|null|
+|**2022-08-11**|**Barrier Certificate based Safe Control for LiDAR-based Systems under Sensor Faults and Attacks**|Hongchao Zhang et.al.|[2208.05944v1](http://arxiv.org/abs/2208.05944v1)|null|
+|**2022-08-11**|**Heatmap Regression for Lesion Detection using Pointwise Annotations**|Chelsea Myers-Colet et.al.|[2208.05939v1](http://arxiv.org/abs/2208.05939v1)|**[link](https://github.com/chelseam-c/miccai2022-heatmap-lesion-detection)**|
+|**2022-08-11**|**Muon puzzle in inclined muon bundles detected by NEVOD-DECOR**|A. G. Bogdanov et.al.|[2208.05926v1](http://arxiv.org/abs/2208.05926v1)|null|
+|**2022-08-11**|**Low-rank Matrix Estimation with Inhomogeneous Noise**|Alice Guionnet et.al.|[2208.05918v1](http://arxiv.org/abs/2208.05918v1)|null|
+|**2022-08-11**|**Signatures of Feedback in the Spectacular Extended Emission Region of NGC 5972**|Thomas Harvey et.al.|[2208.05915v1](http://arxiv.org/abs/2208.05915v1)|null|
+|**2022-08-11**|**Family based HLA imputation and optimization of haplo-identical transplants**|Zuriya Ansbacher-Feldman et.al.|[2208.05882v1](http://arxiv.org/abs/2208.05882v1)|null|
+|**2022-08-11**|**Uncertainty-Aware Blob Detection with an Application to Integrated-Light Stellar Population Recoveries**|Prashin Jethwa et.al.|[2208.05881v1](http://arxiv.org/abs/2208.05881v1)|null|
+|**2022-08-11**|**Covert Beamforming Design for Integrated Radar Sensing and Communication Systems**|Shuai Ma et.al.|[2208.05878v1](http://arxiv.org/abs/2208.05878v1)|null|
 |**2022-08-10**|**Constraining the physical properties of the first lensed $z\sim10-16$ galaxy candidates with JWST**|Lukas J. Furtak et.al.|[2208.05473v1](http://arxiv.org/abs/2208.05473v1)|null|
 |**2022-08-10**|**Erasure qubits: Overcoming the $T_1$ limit in superconducting circuits**|Aleksander Kubica et.al.|[2208.05461v1](http://arxiv.org/abs/2208.05461v1)|null|
 |**2022-08-10**|**Evidence for PeV Proton Acceleration from Fermi-LAT Observations of SNR G106.3+2.7**|Ke Fang et.al.|[2208.05457v1](http://arxiv.org/abs/2208.05457v1)|null|
