@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.14
+## Updated on 2022.08.15
 
 ## RGBT
 
@@ -24,6 +24,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-12**|**Optical Characterization & Testbed Development for μ-Spec Integrated Spectrometers**|Maryam Rahmani et.al.|[2208.06401v1](http://arxiv.org/abs/2208.06401v1)|null|
+|**2022-08-12**|**A First Look into the Nature of JWST/MIRI 7.7 micron Sources from SMACS 0723**|Edoardo Iani et.al.|[2208.06364v1](http://arxiv.org/abs/2208.06364v1)|null|
+|**2022-08-12**|**TOI-1452 b: SPIRou and TESS reveal a super-Earth in a temperate orbit transiting an M4 dwarf**|Charles Cadieux et.al.|[2208.06333v1](http://arxiv.org/abs/2208.06333v1)|null|
+|**2022-08-12**|**Multi-mode Dynamics of Terahertz Quantum Cascade Lasers: spontaneous and actively induced generation of dense and harmonic coherent regimes**|Carlo Silvestri et.al.|[2208.06156v1](http://arxiv.org/abs/2208.06156v1)|null|
+|**2022-08-11**|**Indirect Detection of eV Dark Matter via Infrared Spectroscopy**|Taiki Bessho et.al.|[2208.05975v1](http://arxiv.org/abs/2208.05975v1)|null|
 |**2022-08-11**|**Spectral imaging at high-definition and high speed in the mid-infrared**|David Knez et.al.|[2208.05941v1](http://arxiv.org/abs/2208.05941v1)|null|
 |**2022-08-11**|**Photoemission "experiments" on holographic lattices**|Filip Herček et.al.|[2208.05920v1](http://arxiv.org/abs/2208.05920v1)|null|
 |**2022-08-11**|**Collinear functions for QCD resummations**|Stefano Catani et.al.|[2208.05840v1](http://arxiv.org/abs/2208.05840v1)|null|
@@ -447,6 +452,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-12**|**Quantum metrology with ultracold chemical reactions**|Seong-Ho Shinn et.al.|[2208.06380v1](http://arxiv.org/abs/2208.06380v1)|null|
+|**2022-08-12**|**TOI-1452 b: SPIRou and TESS reveal a super-Earth in a temperate orbit transiting an M4 dwarf**|Charles Cadieux et.al.|[2208.06333v1](http://arxiv.org/abs/2208.06333v1)|null|
+|**2022-08-12**|**Sparse change detection in high-dimensional linear regression**|Fengnan Gao et.al.|[2208.06326v1](http://arxiv.org/abs/2208.06326v1)|null|
+|**2022-08-12**|**Asynchronous Multiuser Detection for SCMA with Unknown Delays: A Compressed Sensing Approach**|Dylan Wheeler et.al.|[2208.06307v1](http://arxiv.org/abs/2208.06307v1)|null|
+|**2022-08-12**|**Triple-View Feature Learning for Medical Image Segmentation**|Ziyang Wang et.al.|[2208.06303v1](http://arxiv.org/abs/2208.06303v1)|null|
+|**2022-08-12**|**dual unet:a novel siamese network for change detection with cascade differential fusion**|Kaixuan Jiang et.al.|[2208.06293v1](http://arxiv.org/abs/2208.06293v1)|null|
+|**2022-08-12**|**Signatures of cooperative emission in photon coincidence: Superradiance versus measurement-induced cooperativity**|Moritz Cygorek et.al.|[2208.06258v1](http://arxiv.org/abs/2208.06258v1)|null|
+|**2022-08-12**|**Dynamic Sensor Matching based on Geomagnetic Inertial Navigation**|Simone Müller et.al.|[2208.06233v1](http://arxiv.org/abs/2208.06233v1)|null|
+|**2022-08-12**|**Discovery Prospects for Heavy Dark Matter in KAGRA**|Chun-Hao Lee et.al.|[2208.06232v1](http://arxiv.org/abs/2208.06232v1)|null|
+|**2022-08-12**|**Mutual authentication in self-organized VANETs**|Cándido Caballero-Gil et.al.|[2208.06231v1](http://arxiv.org/abs/2208.06231v1)|null|
 |**2022-08-11**|**Revealing Dark Matter Dress of Primordial Black Holes by Cosmological Lensing**|Masamune Oguri et.al.|[2208.05957v1](http://arxiv.org/abs/2208.05957v1)|null|
 |**2022-08-11**|**Spatially quasi-periodic bifurcations from periodic traveling water waves and a method for detecting bifurcations using signed singular values**|Jon Wilkening et.al.|[2208.05954v1](http://arxiv.org/abs/2208.05954v1)|null|
 |**2022-08-11**|**Barrier Certificate based Safe Control for LiDAR-based Systems under Sensor Faults and Attacks**|Hongchao Zhang et.al.|[2208.05944v1](http://arxiv.org/abs/2208.05944v1)|null|
