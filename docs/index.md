@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.15
+## Updated on 2022.08.16
 
 ## RGBT
 
@@ -456,7 +456,7 @@ layout: default
 |**2022-08-12**|**TOI-1452 b: SPIRou and TESS reveal a super-Earth in a temperate orbit transiting an M4 dwarf**|Charles Cadieux et.al.|[2208.06333v1](http://arxiv.org/abs/2208.06333v1)|null|
 |**2022-08-12**|**Sparse change detection in high-dimensional linear regression**|Fengnan Gao et.al.|[2208.06326v1](http://arxiv.org/abs/2208.06326v1)|**[link](https://github.com/gaofengnan/charcoal)**|
 |**2022-08-12**|**Asynchronous Multiuser Detection for SCMA with Unknown Delays: A Compressed Sensing Approach**|Dylan Wheeler et.al.|[2208.06307v1](http://arxiv.org/abs/2208.06307v1)|null|
-|**2022-08-12**|**Triple-View Feature Learning for Medical Image Segmentation**|Ziyang Wang et.al.|[2208.06303v1](http://arxiv.org/abs/2208.06303v1)|null|
+|**2022-08-12**|**Triple-View Feature Learning for Medical Image Segmentation**|Ziyang Wang et.al.|[2208.06303v1](http://arxiv.org/abs/2208.06303v1)|**[link](https://github.com/HiLab-git/SSL4MIS)**|
 |**2022-08-12**|**dual unet:a novel siamese network for change detection with cascade differential fusion**|Kaixuan Jiang et.al.|[2208.06293v1](http://arxiv.org/abs/2208.06293v1)|null|
 |**2022-08-12**|**Signatures of cooperative emission in photon coincidence: Superradiance versus measurement-induced cooperativity**|Moritz Cygorek et.al.|[2208.06258v1](http://arxiv.org/abs/2208.06258v1)|null|
 |**2022-08-12**|**Dynamic Sensor Matching based on Geomagnetic Inertial Navigation**|Simone Müller et.al.|[2208.06233v1](http://arxiv.org/abs/2208.06233v1)|null|
