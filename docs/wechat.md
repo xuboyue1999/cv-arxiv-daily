@@ -16,6 +16,12 @@
 
 ## Infrared
 
+- 2022-08-15, **InfraRed On-Detector Guide-Windows in the era of Extremely Large Telescopes**, Edward L. Chapin et.al., Paper: [http://arxiv.org/abs/2208.07332v1](http://arxiv.org/abs/2208.07332v1)
+- 2022-08-14, **Realizing Giant Spin-Selective Reflection based on a Chiral Meta-structure Operating in the Visible-Infrared Regime**, Asif Ali et.al., Paper: [http://arxiv.org/abs/2208.06864v1](http://arxiv.org/abs/2208.06864v1)
+- 2022-08-14, **Triply-Resonant Sum Frequency Conversion with Gallium Phosphide Ring Resonators**, Alan D. Logan et.al., Paper: [http://arxiv.org/abs/2208.06764v1](http://arxiv.org/abs/2208.06764v1)
+- 2022-08-13, **A Census of the 32 Ori Association with Gaia**, K. L. Luhman et.al., Paper: [http://arxiv.org/abs/2208.06715v1](http://arxiv.org/abs/2208.06715v1)
+- 2022-08-13, **Terahertz lasing conditions of radiative and nonradiative propagating plasmon modes in graphene-coated cylinders**, Leila Prelat et.al., Paper: [http://arxiv.org/abs/2208.06694v1](http://arxiv.org/abs/2208.06694v1)
+- 2022-08-12, **The Conformal-Symmetry--Color-Neutrality Connection in Strong Interaction**, M. Kirchbach et.al., Paper: [http://arxiv.org/abs/2208.06484v1](http://arxiv.org/abs/2208.06484v1)
 - 2022-08-12, **Optical Characterization & Testbed Development for μ-Spec Integrated Spectrometers**, Maryam Rahmani et.al., Paper: [http://arxiv.org/abs/2208.06401v1](http://arxiv.org/abs/2208.06401v1)
 - 2022-08-12, **A First Look into the Nature of JWST/MIRI 7.7 micron Sources from SMACS 0723**, Edoardo Iani et.al., Paper: [http://arxiv.org/abs/2208.06364v1](http://arxiv.org/abs/2208.06364v1)
 - 2022-08-12, **TOI-1452 b: SPIRou and TESS reveal a super-Earth in a temperate orbit transiting an M4 dwarf**, Charles Cadieux et.al., Paper: [http://arxiv.org/abs/2208.06333v1](http://arxiv.org/abs/2208.06333v1)
@@ -414,6 +420,7 @@
 
 ## RGBD
 
+- 2022-08-15, **Global Consistent Point Cloud Registration Based on Lie-algebraic Cohomology**, Yuxue Ren et.al., Paper: [http://arxiv.org/abs/2208.07103v1](http://arxiv.org/abs/2208.07103v1)
 - 2022-08-08, **MetaGraspNet: A Large-Scale Benchmark Dataset for Scene-Aware Ambidextrous Bin Picking via Physics-based Metaverse Synthesis**, Maximilian Gilles et.al., Paper: [http://arxiv.org/abs/2208.03963v1](http://arxiv.org/abs/2208.03963v1)
 - 2022-08-07, **Domain Randomization-Enhanced Depth Simulation and Restoration for Perceiving and Grasping Specular and Transparent Objects**, Qiyu Dai et.al., Paper: [http://arxiv.org/abs/2208.03792v1](http://arxiv.org/abs/2208.03792v1), Code: **[https://github.com/pku-epic/dreds](https://github.com/pku-epic/dreds)**
 - 2022-07-17, **Detecting Humans in RGB-D Data with CNNs**, Kaiyang Zhou et.al., Paper: [http://arxiv.org/abs/2207.08064v1](http://arxiv.org/abs/2207.08064v1), Code: **[https://github.com/kaiyangzhou/roi-selection](https://github.com/kaiyangzhou/roi-selection)**
@@ -440,6 +447,16 @@
 
 ## Saliency Detection
 
+- 2022-08-15, **Look Both Ways: Bidirectional Visual Sensing for Automatic Multi-Camera Registration**, Subodh Mishra et.al., Paper: [http://arxiv.org/abs/2208.07362v1](http://arxiv.org/abs/2208.07362v1)
+- 2022-08-15, **SYN-MAD 2022: Competition on Face Morphing Attack Detection Based on Privacy-aware Synthetic Training Data**, Marco Huber et.al., Paper: [http://arxiv.org/abs/2208.07337v1](http://arxiv.org/abs/2208.07337v1), Code: **[https://github.com/marcohuber/syn-mad-2022](https://github.com/marcohuber/syn-mad-2022)**
+- 2022-08-15, **TOI-836: A super-Earth and mini-Neptune transiting a nearby K-dwarf**, Faith Hawthorn et.al., Paper: [http://arxiv.org/abs/2208.07328v1](http://arxiv.org/abs/2208.07328v1)
+- 2022-08-15, **Placement Laundering and the Complexities of Attribution in Online Advertising**, Jeffery Kline et.al., Paper: [http://arxiv.org/abs/2208.07310v1](http://arxiv.org/abs/2208.07310v1)
+- 2022-08-15, **MagAO-X: current status and plans for Phase II**, Jared R. Males et.al., Paper: [http://arxiv.org/abs/2208.07299v1](http://arxiv.org/abs/2208.07299v1)
+- 2022-08-15, **Elderly Fall Detection Using CCTV Cameras under Partial Occlusion of the Subjects Body**, Sara Khalili et.al., Paper: [http://arxiv.org/abs/2208.07291v1](http://arxiv.org/abs/2208.07291v1)
+- 2022-08-15, **Retrieval-efficiency trade-off of Unsupervised Keyword Extraction**, Blaž Škrlj et.al., Paper: [http://arxiv.org/abs/2208.07262v1](http://arxiv.org/abs/2208.07262v1)
+- 2022-08-15, **A Package for the Automated Classification of Images Containing Supernova Light Echoes**, A. Bhullar et.al., Paper: [http://arxiv.org/abs/2208.07260v1](http://arxiv.org/abs/2208.07260v1)
+- 2022-08-15, **Real-Time Quadrotor Trajectory Optimization with Time-Triggered Corridor Constraints**, Yue Yu et.al., Paper: [http://arxiv.org/abs/2208.07259v1](http://arxiv.org/abs/2208.07259v1)
+- 2022-08-15, **The discovery and characterization of a kilometre sized asteroid inside the orbit of Venus**, Bryce T. Bolin et.al., Paper: [http://arxiv.org/abs/2208.07253v1](http://arxiv.org/abs/2208.07253v1)
 - 2022-08-12, **Quantum metrology with ultracold chemical reactions**, Seong-Ho Shinn et.al., Paper: [http://arxiv.org/abs/2208.06380v1](http://arxiv.org/abs/2208.06380v1)
 - 2022-08-12, **TOI-1452 b: SPIRou and TESS reveal a super-Earth in a temperate orbit transiting an M4 dwarf**, Charles Cadieux et.al., Paper: [http://arxiv.org/abs/2208.06333v1](http://arxiv.org/abs/2208.06333v1)
 - 2022-08-12, **Sparse change detection in high-dimensional linear regression**, Fengnan Gao et.al., Paper: [http://arxiv.org/abs/2208.06326v1](http://arxiv.org/abs/2208.06326v1), Code: **[https://github.com/gaofengnan/charcoal](https://github.com/gaofengnan/charcoal)**
