@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.16
+## Updated on 2022.08.17
 
 ## RGBT
 
@@ -24,6 +24,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-16**|**The JCMT Transient Survey: Single Epoch Transients and Variability of Faint Sources**|Doug Johnstone et.al.|[2208.07815v1](http://arxiv.org/abs/2208.07815v1)|null|
+|**2022-08-16**|**Laboratory spectroscopy of theoretical ices: Predictions for JWST and test for astrochemical models**|B. Müller et.al.|[2208.07672v1](http://arxiv.org/abs/2208.07672v1)|null|
+|**2022-08-16**|**XMM-Newton and SRG/eROSITA observations of the isolated neutron star candidate 4XMM J022141.5-735632**|Adriana M. Pires et.al.|[2208.07637v1](http://arxiv.org/abs/2208.07637v1)|null|
+|**2022-08-16**|**High-sensitivity quantum sensing with pump-enhanced spontaneous parametric down-conversion**|Chiara Lindner et.al.|[2208.07595v1](http://arxiv.org/abs/2208.07595v1)|null|
+|**2022-08-16**|**Design of an IR Imaging Channel for the Keck Observatory SCALES Instrument**|Ravinder K. Banyal et.al.|[2208.07523v1](http://arxiv.org/abs/2208.07523v1)|null|
+|**2022-08-15**|**Revising Properties of Planet-host Binary Systems II: Apparent Near-Earth Analog Planets in Binaries Are Often Sub-Neptunes**|Kendall Sullivan et.al.|[2208.07428v1](http://arxiv.org/abs/2208.07428v1)|null|
+|**2022-08-15**|**Alternative Methylated Biosignatures I: Methyl Bromide, A Capstone Biosignature**|Michaela Leung et.al.|[2208.07393v1](http://arxiv.org/abs/2208.07393v1)|null|
+|**2022-08-15**|**Bjorken sum rule with hyperasymptotic precision**|Cesar Ayala et.al.|[2208.07389v1](http://arxiv.org/abs/2208.07389v1)|null|
+|**2022-08-15**|**Infrared finite semi-inclusive cross section in two dimensional type 0B string theory**|Ashoke Sen et.al.|[2208.07385v1](http://arxiv.org/abs/2208.07385v1)|null|
 |**2022-08-15**|**InfraRed On-Detector Guide-Windows in the era of Extremely Large Telescopes**|Edward L. Chapin et.al.|[2208.07332v1](http://arxiv.org/abs/2208.07332v1)|null|
 |**2022-08-14**|**Realizing Giant Spin-Selective Reflection based on a Chiral Meta-structure Operating in the Visible-Infrared Regime**|Asif Ali et.al.|[2208.06864v1](http://arxiv.org/abs/2208.06864v1)|null|
 |**2022-08-14**|**Triply-Resonant Sum Frequency Conversion with Gallium Phosphide Ring Resonators**|Alan D. Logan et.al.|[2208.06764v1](http://arxiv.org/abs/2208.06764v1)|null|
@@ -459,6 +468,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-16**|**NICMOS Kernel-Phase Interferometry I: Catalogue of Brown Dwarfs Observed in F110W and F170M**|Samuel M. Factor et.al.|[2208.07872v1](http://arxiv.org/abs/2208.07872v1)|null|
+|**2022-08-16**|**The hot circumgalactic medium of the Milky-Way: new insights from XMM-Newton observations**|Souradip Bhattacharyya et.al.|[2208.07863v1](http://arxiv.org/abs/2208.07863v1)|null|
+|**2022-08-16**|**Projected-Field Kinetic Sunyaev-Zel'dovich Cross-Correlations: Halo Model and Forecasts**|Boris Bolliet et.al.|[2208.07847v1](http://arxiv.org/abs/2208.07847v1)|null|
+|**2022-08-16**|**OrthoMAD: Morphing Attack Detection Through Orthogonal Identity Disentanglement**|Pedro C. Neto et.al.|[2208.07841v1](http://arxiv.org/abs/2208.07841v1)|null|
+|**2022-08-16**|**BERT(s) to Detect Multiword Expressions**|Damith Premasiri et.al.|[2208.07832v1](http://arxiv.org/abs/2208.07832v1)|null|
+|**2022-08-16**|**Signal detection with dynamic programming**|Mordechai Roth et.al.|[2208.07830v1](http://arxiv.org/abs/2208.07830v1)|null|
+|**2022-08-16**|**Non-Gaussian entanglement via splitting of a few thermal quanta**|Pradip Laha et.al.|[2208.07816v1](http://arxiv.org/abs/2208.07816v1)|null|
+|**2022-08-16**|**The JCMT Transient Survey: Single Epoch Transients and Variability of Faint Sources**|Doug Johnstone et.al.|[2208.07815v1](http://arxiv.org/abs/2208.07815v1)|null|
+|**2022-08-16**|**Axion-plasmon-polariton hybridization in a graphene periodic structure**|Liu Daqing et.al.|[2208.07802v1](http://arxiv.org/abs/2208.07802v1)|null|
+|**2022-08-16**|**Designing an Artificial Immune System inspired Intrusion Detection System**|William Anderson et.al.|[2208.07801v1](http://arxiv.org/abs/2208.07801v1)|null|
 |**2022-08-15**|**Look Both Ways: Bidirectional Visual Sensing for Automatic Multi-Camera Registration**|Subodh Mishra et.al.|[2208.07362v1](http://arxiv.org/abs/2208.07362v1)|null|
 |**2022-08-15**|**SYN-MAD 2022: Competition on Face Morphing Attack Detection Based on Privacy-aware Synthetic Training Data**|Marco Huber et.al.|[2208.07337v1](http://arxiv.org/abs/2208.07337v1)|**[link](https://github.com/marcohuber/syn-mad-2022)**|
 |**2022-08-15**|**TOI-836: A super-Earth and mini-Neptune transiting a nearby K-dwarf**|Faith Hawthorn et.al.|[2208.07328v1](http://arxiv.org/abs/2208.07328v1)|null|
