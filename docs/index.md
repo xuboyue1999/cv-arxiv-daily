@@ -29,7 +29,7 @@ layout: default
 |**2022-08-16**|**XMM-Newton and SRG/eROSITA observations of the isolated neutron star candidate 4XMM J022141.5-735632**|Adriana M. Pires et.al.|[2208.07637v1](http://arxiv.org/abs/2208.07637v1)|null|
 |**2022-08-16**|**High-sensitivity quantum sensing with pump-enhanced spontaneous parametric down-conversion**|Chiara Lindner et.al.|[2208.07595v1](http://arxiv.org/abs/2208.07595v1)|null|
 |**2022-08-16**|**Design of an IR Imaging Channel for the Keck Observatory SCALES Instrument**|Ravinder K. Banyal et.al.|[2208.07523v1](http://arxiv.org/abs/2208.07523v1)|null|
-|**2022-08-15**|**Revising Properties of Planet-host Binary Systems II: Apparent Near-Earth Analog Planets in Binaries Are Often Sub-Neptunes**|Kendall Sullivan et.al.|[2208.07428v1](http://arxiv.org/abs/2208.07428v1)|null|
+|**2022-08-15**|**Revising Properties of Planet-host Binary Systems II: Apparent Near-Earth Analog Planets in Binaries Are Often Sub-Neptunes**|Kendall Sullivan et.al.|[2208.07428v1](http://arxiv.org/abs/2208.07428v1)|**[link](https://github.com/kendallsullivan/mcmc_spec)**|
 |**2022-08-15**|**Alternative Methylated Biosignatures I: Methyl Bromide, A Capstone Biosignature**|Michaela Leung et.al.|[2208.07393v1](http://arxiv.org/abs/2208.07393v1)|null|
 |**2022-08-15**|**Bjorken sum rule with hyperasymptotic precision**|Cesar Ayala et.al.|[2208.07389v1](http://arxiv.org/abs/2208.07389v1)|null|
 |**2022-08-15**|**Infrared finite semi-inclusive cross section in two dimensional type 0B string theory**|Ashoke Sen et.al.|[2208.07385v1](http://arxiv.org/abs/2208.07385v1)|null|
