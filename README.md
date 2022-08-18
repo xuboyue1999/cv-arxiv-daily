@@ -1,4 +1,4 @@
-## Updated on 2022.08.17
+## Updated on 2022.08.18
 
 ## RGBT
 
@@ -20,6 +20,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-17**|**Transient radio emission from low-redshift galaxies at z<0.3 revealed by VLASS and FIRST surveys**|Fabao Zhang et.al.|[2208.08308v1](http://arxiv.org/abs/2208.08308v1)|null|
+|**2022-08-17**|**Precursors of Supernovae from Mass Eruption: Prospects for Early Warning of Nearby Core-collapse Supernovae**|Daichi Tsuna et.al.|[2208.08256v1](http://arxiv.org/abs/2208.08256v1)|null|
+|**2022-08-17**|**Three-Loop Four-Point Scattering Amplitudes in Massless Gauge Theories**|Amlan Chakraborty et.al.|[2208.08139v1](http://arxiv.org/abs/2208.08139v1)|null|
+|**2022-08-17**|**A Mid-infrared Flare in the Seyfert Galaxy NGC 3786: A Changing-look Event Triggered by an Obscured Tidal Disruption Event?**|Suyeon Son et.al.|[2208.08062v1](http://arxiv.org/abs/2208.08062v1)|null|
+|**2022-08-17**|**Nucleon Transversity Distribution in the Continuum and Physical Mass Limit from Lattice QCD**|Fei Yao et.al.|[2208.08008v1](http://arxiv.org/abs/2208.08008v1)|null|
+|**2022-08-16**|**Liger at Keck Observatory: Imager Detector and IFS Pick-off Mirror Assembly**|Maren Cosens et.al.|[2208.07938v1](http://arxiv.org/abs/2208.07938v1)|null|
+|**2022-08-16**|**Liger at Keck Observatory: Design of the Data Reduction System and Software Interfaces**|Nils Rundquist et.al.|[2208.07937v1](http://arxiv.org/abs/2208.07937v1)|null|
 |**2022-08-16**|**The JCMT Transient Survey: Single Epoch Transients and Variability of Faint Sources**|Doug Johnstone et.al.|[2208.07815v1](http://arxiv.org/abs/2208.07815v1)|null|
 |**2022-08-16**|**Laboratory spectroscopy of theoretical ices: Predictions for JWST and test for astrochemical models**|B. Müller et.al.|[2208.07672v1](http://arxiv.org/abs/2208.07672v1)|null|
 |**2022-08-16**|**XMM-Newton and SRG/eROSITA observations of the isolated neutron star candidate 4XMM J022141.5-735632**|Adriana M. Pires et.al.|[2208.07637v1](http://arxiv.org/abs/2208.07637v1)|null|
@@ -464,6 +471,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-17**|**Sequential detection of genuine multipartite entanglement is unbounded for entire hierarchy of number of qubits recycled**|Chirag Srivastava et.al.|[2208.08435v1](http://arxiv.org/abs/2208.08435v1)|null|
+|**2022-08-17**|**Metamaterial-based octave-wide terahertz bandpass filters**|Ali Maleki et.al.|[2208.08434v1](http://arxiv.org/abs/2208.08434v1)|null|
+|**2022-08-17**|**Galactic contribution to the high-energy neutrino flux found in track-like IceCube events**|Yu. Kovalev et.al.|[2208.08423v1](http://arxiv.org/abs/2208.08423v1)|null|
+|**2022-08-17**|**Single Mesoscopic Phononic Mode Thermodynamics**|Ilya Golokolenov et.al.|[2208.08395v1](http://arxiv.org/abs/2208.08395v1)|null|
+|**2022-08-17**|**General Schemes for Quantum Entanglement and Steering Detection**|Ma-Cheng Yang et.al.|[2208.08392v1](http://arxiv.org/abs/2208.08392v1)|null|
+|**2022-08-17**|**Searching for axion-like particles through CMB birefringence from string-wall networks**|Mudit Jain et.al.|[2208.08391v1](http://arxiv.org/abs/2208.08391v1)|null|
+|**2022-08-17**|**Image Varifolds on Meshes for Mapping Spatial Transcriptomics**|Michael I Miller et.al.|[2208.08376v1](http://arxiv.org/abs/2208.08376v1)|null|
+|**2022-08-17**|**Extract fundamental frequency based on CNN combined with PYIN**|Ruowei Xing et.al.|[2208.08354v1](http://arxiv.org/abs/2208.08354v1)|null|
+|**2022-08-17**|**FCN-Transformer Feature Fusion for Polyp Segmentation**|Edward Sanderson et.al.|[2208.08352v1](http://arxiv.org/abs/2208.08352v1)|null|
+|**2022-08-17**|**SO(3)-Pose: SO(3)-Equivariance Learning for 6D Object Pose Estimation**|Haoran Pan et.al.|[2208.08338v1](http://arxiv.org/abs/2208.08338v1)|null|
 |**2022-08-16**|**NICMOS Kernel-Phase Interferometry I: Catalogue of Brown Dwarfs Observed in F110W and F170M**|Samuel M. Factor et.al.|[2208.07872v1](http://arxiv.org/abs/2208.07872v1)|null|
 |**2022-08-16**|**The hot circumgalactic medium of the Milky-Way: new insights from XMM-Newton observations**|Souradip Bhattacharyya et.al.|[2208.07863v1](http://arxiv.org/abs/2208.07863v1)|null|
 |**2022-08-16**|**Projected-Field Kinetic Sunyaev-Zel'dovich Cross-Correlations: Halo Model and Forecasts**|Boris Bolliet et.al.|[2208.07847v1](http://arxiv.org/abs/2208.07847v1)|null|
