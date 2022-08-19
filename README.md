@@ -1,4 +1,4 @@
-## Updated on 2022.08.18
+## Updated on 2022.08.19
 
 ## RGBT
 
@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-18**|**Quasi-epitaxial growth of BaTiS$_3$ films**|M. Surendran et.al.|[2208.08958v1](http://arxiv.org/abs/2208.08958v1)|null|
+|**2022-08-18**|**Irida-Graphene: A New 2D Carbon Allotrope**|M. L. Pereira Junior et.al.|[2208.08898v1](http://arxiv.org/abs/2208.08898v1)|null|
+|**2022-08-18**|**A Multi-modal Registration and Visualization Software Tool for Artworks using CraquelureNet**|Aline Sindel et.al.|[2208.08836v1](http://arxiv.org/abs/2208.08836v1)|null|
+|**2022-08-18**|**The structure of jets launched from post-AGB binary systems**|Dylan Bollen et.al.|[2208.08752v1](http://arxiv.org/abs/2208.08752v1)|null|
+|**2022-08-18**|**Dust Temperature and Emission of FirstLight Simulated Galaxies at Cosmic Dawn**|Muzammil Mushtaqa et.al.|[2208.08658v1](http://arxiv.org/abs/2208.08658v1)|null|
+|**2022-08-18**|**A Novel Survey for Young Substellar Objects with the W band Filter.V. IC 348 and Barnard 5 in the Perseus Cloud**|Bhavana Lalchand et.al.|[2208.08637v1](http://arxiv.org/abs/2208.08637v1)|null|
+|**2022-08-17**|**Contrast performance of an 8m off-axis, segmented space telescope equipped with an adaptive optics system**|Axel Potier et.al.|[2208.08553v1](http://arxiv.org/abs/2208.08553v1)|null|
+|**2022-08-17**|**Target Selection and Validation of DESI Quasars**|Edmond Chaussidon et.al.|[2208.08511v1](http://arxiv.org/abs/2208.08511v1)|null|
+|**2022-08-17**|**Bayesian Latent Variable Co-kriging Model in Remote Sensing for Observations with Quality Flagged**|Bledar A. Konomi et.al.|[2208.08494v1](http://arxiv.org/abs/2208.08494v1)|null|
+|**2022-08-17**|**Combining Photometry and Astrometry to Improve Orbit Retrieval of Directly Imaged Exoplanets**|Margaret Bruna et.al.|[2208.08447v1](http://arxiv.org/abs/2208.08447v1)|null|
 |**2022-08-17**|**Transient radio emission from low-redshift galaxies at z<0.3 revealed by VLASS and FIRST surveys**|Fabao Zhang et.al.|[2208.08308v1](http://arxiv.org/abs/2208.08308v1)|null|
 |**2022-08-17**|**Precursors of Supernovae from Mass Eruption: Prospects for Early Warning of Nearby Core-collapse Supernovae**|Daichi Tsuna et.al.|[2208.08256v1](http://arxiv.org/abs/2208.08256v1)|null|
 |**2022-08-17**|**Three-Loop Four-Point Scattering Amplitudes in Massless Gauge Theories**|Amlan Chakraborty et.al.|[2208.08139v1](http://arxiv.org/abs/2208.08139v1)|null|
@@ -471,6 +481,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-18**|**GSRFormer: Grounded Situation Recognition Transformer with Alternate Semantic Attention Refinement**|Zhi-Qi Cheng et.al.|[2208.08965v1](http://arxiv.org/abs/2208.08965v1)|null|
+|**2022-08-18**|**Physical interpretation of non-normalizable harmonic oscillator states and relaxation to pilot-wave equilibrium**|Indrajit Sen et.al.|[2208.08945v1](http://arxiv.org/abs/2208.08945v1)|null|
+|**2022-08-18**|**Detecting Environmental Violations with Satellite Imagery in Near Real Time: Land Application under the Clean Water Act**|Ben Chugg et.al.|[2208.08919v1](http://arxiv.org/abs/2208.08919v1)|null|
+|**2022-08-18**|**L-band nulling interferometry at the VLTI with Asgard/Hi-5: status and plans**|Denis Defrère et.al.|[2208.08908v1](http://arxiv.org/abs/2208.08908v1)|null|
+|**2022-08-18**|**Atomic-scale mapping and quantification of local Ruddlesden-Popper phase variations**|Erin E. Fleck et.al.|[2208.08851v1](http://arxiv.org/abs/2208.08851v1)|null|
+|**2022-08-18**|**Unsupervised Interpretable Learning of Phases From Many-Qubit Systems**|Nicolas Sadoune et.al.|[2208.08850v1](http://arxiv.org/abs/2208.08850v1)|null|
+|**2022-08-18**|**Bridging the gap between Monte Carlo simulations and measurements of the LISA Pathfinder test-mass charging for LISA**|Catia Grimani et.al.|[2208.08849v1](http://arxiv.org/abs/2208.08849v1)|null|
+|**2022-08-18**|**Detection of new pulsars at the frequency 111 MHz**|S. A. Tyul'bashev et.al.|[2208.08839v1](http://arxiv.org/abs/2208.08839v1)|null|
+|**2022-08-18**|**Outlier Detection using Self-Organizing Maps for Automated Blood Cell Analysis**|Stefan Röhrl et.al.|[2208.08834v1](http://arxiv.org/abs/2208.08834v1)|null|
+|**2022-08-18**|**COPE: End-to-end trainable Constant Runtime Object Pose Estimation**|Stefan Thalhammer et.al.|[2208.08807v1](http://arxiv.org/abs/2208.08807v1)|null|
 |**2022-08-17**|**Sequential detection of genuine multipartite entanglement is unbounded for entire hierarchy of number of qubits recycled**|Chirag Srivastava et.al.|[2208.08435v1](http://arxiv.org/abs/2208.08435v1)|null|
 |**2022-08-17**|**Metamaterial-based octave-wide terahertz bandpass filters**|Ali Maleki et.al.|[2208.08434v1](http://arxiv.org/abs/2208.08434v1)|null|
 |**2022-08-17**|**Galactic contribution to the high-energy neutrino flux found in track-like IceCube events**|Yu. Kovalev et.al.|[2208.08423v1](http://arxiv.org/abs/2208.08423v1)|null|
