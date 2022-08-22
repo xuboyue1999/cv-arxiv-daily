@@ -1,4 +1,4 @@
-## Updated on 2022.08.21
+## Updated on 2022.08.22
 
 ## RGBT
 
@@ -27,7 +27,7 @@
 |**2022-08-18**|**Dust Temperature and Emission of FirstLight Simulated Galaxies at Cosmic Dawn**|Muzammil Mushtaqa et.al.|[2208.08658v1](http://arxiv.org/abs/2208.08658v1)|null|
 |**2022-08-18**|**A Novel Survey for Young Substellar Objects with the W band Filter.V. IC 348 and Barnard 5 in the Perseus Cloud**|Bhavana Lalchand et.al.|[2208.08637v1](http://arxiv.org/abs/2208.08637v1)|null|
 |**2022-08-17**|**Contrast performance of an 8m off-axis, segmented space telescope equipped with an adaptive optics system**|Axel Potier et.al.|[2208.08553v1](http://arxiv.org/abs/2208.08553v1)|null|
-|**2022-08-17**|**Target Selection and Validation of DESI Quasars**|Edmond Chaussidon et.al.|[2208.08511v1](http://arxiv.org/abs/2208.08511v1)|null|
+|**2022-08-19**|**Target Selection and Validation of DESI Quasars**|Edmond Chaussidon et.al.|[2208.08511v2](http://arxiv.org/abs/2208.08511v2)|null|
 |**2022-08-17**|**Bayesian Latent Variable Co-kriging Model in Remote Sensing for Observations with Quality Flagged**|Bledar A. Konomi et.al.|[2208.08494v1](http://arxiv.org/abs/2208.08494v1)|null|
 |**2022-08-17**|**Combining Photometry and Astrometry to Improve Orbit Retrieval of Directly Imaged Exoplanets**|Margaret Bruna et.al.|[2208.08447v1](http://arxiv.org/abs/2208.08447v1)|null|
 |**2022-08-17**|**Transient radio emission from low-redshift galaxies at z<0.3 revealed by VLASS and FIRST surveys**|Fabao Zhang et.al.|[2208.08308v1](http://arxiv.org/abs/2208.08308v1)|null|
