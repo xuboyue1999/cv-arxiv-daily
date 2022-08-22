@@ -24,6 +24,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-19**|**Room temperature growth of h-BN nanosheets by pulsed laser deposition**|Abhijit Biswas et.al.|[2208.09468v1](http://arxiv.org/abs/2208.09468v1)|null|
+|**2022-08-19**|**Anomalous electrochemical capacitance in Mott insulator titanium sesquioxide**|Sumana Kumar et.al.|[2208.09436v1](http://arxiv.org/abs/2208.09436v1)|null|
+|**2022-08-19**|**A 0.9% Calibration of the Galactic Cepheid luminosity scale based on Gaia DR3 data of open clusters and Cepheids**|Mauricio Cruz Reyes et.al.|[2208.09403v1](http://arxiv.org/abs/2208.09403v1)|null|
+|**2022-08-19**|**Infrared spectroscopy of the 2019 eruption of the recurrent nova V3890 Sgr: separation into equatorial and polar winds revealed**|A. Evans et.al.|[2208.09356v1](http://arxiv.org/abs/2208.09356v1)|null|
+|**2022-08-19**|**3D scattering microphantom sample to assess quantitative accuracy in tomographic phase microscopy techniques**|Wojciech Krauze et.al.|[2208.09311v1](http://arxiv.org/abs/2208.09311v1)|null|
+|**2022-08-19**|**On the possibility for measuring the Hubble constant from optical-to-NIR variability time delay in AGNs**|Victor Oknyanskij et.al.|[2208.09295v1](http://arxiv.org/abs/2208.09295v1)|null|
+|**2022-08-19**|**Broadband multi-layer anti-reflection coatings with mullite and duroid for half-wave plates and alumina filters for CMB polarimetry**|Kana Sakaguri et.al.|[2208.09209v1](http://arxiv.org/abs/2208.09209v1)|null|
+|**2022-08-19**|**Searching for nascent planetary nebulae: OHPNe candidates in the SPLASH survey**|Roldán A. Cala et.al.|[2208.09199v1](http://arxiv.org/abs/2208.09199v1)|null|
+|**2022-08-18**|**Tracing PAH Emission in $λ$-Orionis Using COBE/DIRBE Data**|David T. Chuss et.al.|[2208.09049v1](http://arxiv.org/abs/2208.09049v1)|null|
+|**2022-08-18**|**JWST Imaging of Earendel, the Extremely Magnified Star at Redshift $z=6.2$**|Brian Welch et.al.|[2208.09007v1](http://arxiv.org/abs/2208.09007v1)|null|
 |**2022-08-18**|**Quasi-epitaxial growth of BaTiS$_3$ films**|M. Surendran et.al.|[2208.08958v1](http://arxiv.org/abs/2208.08958v1)|null|
 |**2022-08-18**|**Irida-Graphene: A New 2D Carbon Allotrope**|M. L. Pereira Junior et.al.|[2208.08898v1](http://arxiv.org/abs/2208.08898v1)|null|
 |**2022-08-18**|**A Multi-modal Registration and Visualization Software Tool for Artworks using CraquelureNet**|Aline Sindel et.al.|[2208.08836v1](http://arxiv.org/abs/2208.08836v1)|null|
@@ -485,6 +495,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-19**|**GJ 1252b: A Hot Terrestrial Super-Earth With No Atmosphere**|Ian J. M. Crossfield et.al.|[2208.09479v1](http://arxiv.org/abs/2208.09479v1)|null|
+|**2022-08-19**|**Symmetry-resolved Rényi fidelities and quantum phase transitions**|Gilles Parez et.al.|[2208.09457v1](http://arxiv.org/abs/2208.09457v1)|null|
+|**2022-08-19**|**MonoPCNS: Monocular 3D Object Detection via Point Cloud Network Simulation**|Han Sun et.al.|[2208.09446v1](http://arxiv.org/abs/2208.09446v1)|null|
+|**2022-08-19**|**Feature Selection for Fault Detection and Prediction based on Event Log Analysis**|Zhong Li et.al.|[2208.09440v1](http://arxiv.org/abs/2208.09440v1)|null|
+|**2022-08-19**|**Adapting Task-Oriented Dialogue Models for Email Conversations**|Soham Deshmukh et.al.|[2208.09439v1](http://arxiv.org/abs/2208.09439v1)|null|
+|**2022-08-19**|**Is ozone a reliable proxy for molecular oxygen? I. The O2-O3 relationship for Earth-like atmospheres**|Thea Kozakis et.al.|[2208.09415v1](http://arxiv.org/abs/2208.09415v1)|null|
+|**2022-08-19**|**Boosting through the Darkness**|Debjyoti Bardhan et.al.|[2208.09405v1](http://arxiv.org/abs/2208.09405v1)|null|
+|**2022-08-19**|**A 0.9% Calibration of the Galactic Cepheid luminosity scale based on Gaia DR3 data of open clusters and Cepheids**|Mauricio Cruz Reyes et.al.|[2208.09403v1](http://arxiv.org/abs/2208.09403v1)|null|
+|**2022-08-19**|**PersDet: Monocular 3D Detection in Perspective Bird's-Eye-View**|Hongyu Zhou et.al.|[2208.09394v1](http://arxiv.org/abs/2208.09394v1)|null|
+|**2022-08-19**|**Studying the variation of fundamental constants at the Cosmic Ray Extremely Distributed Observatory**|D. Alvarez-Castillo et.al.|[2208.09391v1](http://arxiv.org/abs/2208.09391v1)|null|
 |**2022-08-18**|**GSRFormer: Grounded Situation Recognition Transformer with Alternate Semantic Attention Refinement**|Zhi-Qi Cheng et.al.|[2208.08965v1](http://arxiv.org/abs/2208.08965v1)|null|
 |**2022-08-18**|**Physical interpretation of non-normalizable harmonic oscillator states and relaxation to pilot-wave equilibrium**|Indrajit Sen et.al.|[2208.08945v1](http://arxiv.org/abs/2208.08945v1)|null|
 |**2022-08-18**|**Detecting Environmental Violations with Satellite Imagery in Near Real Time: Land Application under the Clean Water Act**|Ben Chugg et.al.|[2208.08919v1](http://arxiv.org/abs/2208.08919v1)|null|
