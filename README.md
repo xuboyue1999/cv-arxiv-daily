@@ -1,4 +1,4 @@
-## Updated on 2022.08.22
+## Updated on 2022.08.23
 
 ## RGBT
 
@@ -25,7 +25,7 @@
 |**2022-08-19**|**A 0.9% Calibration of the Galactic Cepheid luminosity scale based on Gaia DR3 data of open clusters and Cepheids**|Mauricio Cruz Reyes et.al.|[2208.09403v1](http://arxiv.org/abs/2208.09403v1)|null|
 |**2022-08-19**|**Infrared spectroscopy of the 2019 eruption of the recurrent nova V3890 Sgr: separation into equatorial and polar winds revealed**|A. Evans et.al.|[2208.09356v1](http://arxiv.org/abs/2208.09356v1)|null|
 |**2022-08-19**|**3D scattering microphantom sample to assess quantitative accuracy in tomographic phase microscopy techniques**|Wojciech Krauze et.al.|[2208.09311v1](http://arxiv.org/abs/2208.09311v1)|null|
-|**2022-08-19**|**On the possibility for measuring the Hubble constant from optical-to-NIR variability time delay in AGNs**|Victor Oknyanskij et.al.|[2208.09295v1](http://arxiv.org/abs/2208.09295v1)|null|
+|**2022-08-22**|**On the possibility for measuring the Hubble constant from optical-to-NIR variability time delay in AGNs**|Victor Oknyansky et.al.|[2208.09295v2](http://arxiv.org/abs/2208.09295v2)|null|
 |**2022-08-19**|**Broadband multi-layer anti-reflection coatings with mullite and duroid for half-wave plates and alumina filters for CMB polarimetry**|Kana Sakaguri et.al.|[2208.09209v1](http://arxiv.org/abs/2208.09209v1)|null|
 |**2022-08-19**|**Searching for nascent planetary nebulae: OHPNe candidates in the SPLASH survey**|Roldán A. Cala et.al.|[2208.09199v1](http://arxiv.org/abs/2208.09199v1)|null|
 |**2022-08-18**|**Tracing PAH Emission in $λ$-Orionis Using COBE/DIRBE Data**|David T. Chuss et.al.|[2208.09049v1](http://arxiv.org/abs/2208.09049v1)|null|
