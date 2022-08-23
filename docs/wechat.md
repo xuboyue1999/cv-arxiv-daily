@@ -16,6 +16,16 @@
 
 ## Infrared
 
+- 2022-08-22, **Emergent $U(1)$ Symmetries and $τ$-$σ$ Duality in Gapless Superfluids or Superconductors**, Fei Zhou et.al., Paper: [http://arxiv.org/abs/2208.10486v1](http://arxiv.org/abs/2208.10486v1)
+- 2022-08-22, **Electrically Driven Thermal Infrared Metasurface with Narrowband Emission**, Xiu Liu et.al., Paper: [http://arxiv.org/abs/2208.10484v1](http://arxiv.org/abs/2208.10484v1)
+- 2022-08-22, **An unusual reservoir of water emission in the VV CrA A protoplanetary disk**, Colette Salyk et.al., Paper: [http://arxiv.org/abs/2208.10402v1](http://arxiv.org/abs/2208.10402v1)
+- 2022-08-22, **Role of high nitrogen-vacancy concentration on the photoluminescence and Raman spectra of diamond**, M. Jani et.al., Paper: [http://arxiv.org/abs/2208.10067v1](http://arxiv.org/abs/2208.10067v1)
+- 2022-08-22, **Excitonic Bloch-Siegert shift in CsPbI3 perovskite quantum dots**, Yuxuan Li et.al., Paper: [http://arxiv.org/abs/2208.10045v1](http://arxiv.org/abs/2208.10045v1)
+- 2022-08-21, **Infrared-active phonons in one-dimensional materials and their spectroscopic signatures**, Norma Rivano et.al., Paper: [http://arxiv.org/abs/2208.09887v1](http://arxiv.org/abs/2208.09887v1)
+- 2022-08-21, **Search for sub-eV axion-like particles in a stimulated resonant photon-photon collider with two laser beams based on a novel method to discriminate pressure-independent components**, Yuri Kirita et.al., Paper: [http://arxiv.org/abs/2208.09880v1](http://arxiv.org/abs/2208.09880v1)
+- 2022-08-21, **CycleTrans: Learning Neutral yet Discriminative Features for Visible-Infrared Person Re-Identification**, Qiong Wu et.al., Paper: [http://arxiv.org/abs/2208.09844v1](http://arxiv.org/abs/2208.09844v1)
+- 2022-08-19, **CCAT-prime: The Optical Design for the Epoch of Reionization Spectrometer**, Zachary B. Huber et.al., Paper: [http://arxiv.org/abs/2208.09521v1](http://arxiv.org/abs/2208.09521v1)
+- 2022-08-19, **The Effect of Element Composition on the Structural and Electronic Properties of Carbon, Silicon, Silicon Carbide, and Boron Nitride Gyroid Schwarzites**, Raphael M. Tromer et.al., Paper: [http://arxiv.org/abs/2208.09514v1](http://arxiv.org/abs/2208.09514v1)
 - 2022-08-19, **Room temperature growth of h-BN nanosheets by pulsed laser deposition**, Abhijit Biswas et.al., Paper: [http://arxiv.org/abs/2208.09468v1](http://arxiv.org/abs/2208.09468v1)
 - 2022-08-19, **Anomalous electrochemical capacitance in Mott insulator titanium sesquioxide**, Sumana Kumar et.al., Paper: [http://arxiv.org/abs/2208.09436v1](http://arxiv.org/abs/2208.09436v1)
 - 2022-08-19, **A 0.9% Calibration of the Galactic Cepheid luminosity scale based on Gaia DR3 data of open clusters and Cepheids**, Mauricio Cruz Reyes et.al., Paper: [http://arxiv.org/abs/2208.09403v1](http://arxiv.org/abs/2208.09403v1)
@@ -483,6 +493,16 @@
 
 ## Saliency Detection
 
+- 2022-08-22, **Automated Pruning of Polyculture Plants**, Mark Presten et.al., Paper: [http://arxiv.org/abs/2208.10472v1](http://arxiv.org/abs/2208.10472v1)
+- 2022-08-22, **Towards Clause Learning à la Carte through VarMonads**, Arved Friedemann et.al., Paper: [http://arxiv.org/abs/2208.10460v1](http://arxiv.org/abs/2208.10460v1)
+- 2022-08-22, **Verification-Preserving Inlining in Automatic Separation Logic Verifiers (extended version)**, Thibault Dardinier et.al., Paper: [http://arxiv.org/abs/2208.10456v1](http://arxiv.org/abs/2208.10456v1)
+- 2022-08-22, **Star formation at the smallest scales; A JWST study of the clump populations in SMACS0723**, Adélaïde Claeyssens et.al., Paper: [http://arxiv.org/abs/2208.10450v1](http://arxiv.org/abs/2208.10450v1)
+- 2022-08-22, **Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**, Wenhui Wang et.al., Paper: [http://arxiv.org/abs/2208.10442v1](http://arxiv.org/abs/2208.10442v1), Code: **[https://github.com/microsoft/unilm/tree/master/beit](https://github.com/microsoft/unilm/tree/master/beit)**
+- 2022-08-22, **LAEs at Cosmic Dawn: Implications and Predictions**, Eduard Salvador-Solé et.al., Paper: [http://arxiv.org/abs/2208.10426v1](http://arxiv.org/abs/2208.10426v1)
+- 2022-08-22, **Towards a Non-Local S-Matrix Theory**, Dimitrios Karamitros et.al., Paper: [http://arxiv.org/abs/2208.10425v1](http://arxiv.org/abs/2208.10425v1)
+- 2022-08-22, **Probing compressed higgsinos with forward protons at the LHC**, Hang Zhou et.al., Paper: [http://arxiv.org/abs/2208.10406v1](http://arxiv.org/abs/2208.10406v1)
+- 2022-08-22, **DP-Rewrite: Towards Reproducibility and Transparency in Differentially Private Text Rewriting**, Timour Igamberdiev et.al., Paper: [http://arxiv.org/abs/2208.10400v1](http://arxiv.org/abs/2208.10400v1), Code: **[https://github.com/trusthlt/dp-rewrite](https://github.com/trusthlt/dp-rewrite)**
+- 2022-08-22, **The radiation emitted from axion dark matter in a homogeneous magnetic field, and possibilities for detection**, Shuo Xu et.al., Paper: [http://arxiv.org/abs/2208.10398v1](http://arxiv.org/abs/2208.10398v1)
 - 2022-08-19, **GJ 1252b: A Hot Terrestrial Super-Earth With No Atmosphere**, Ian J. M. Crossfield et.al., Paper: [http://arxiv.org/abs/2208.09479v1](http://arxiv.org/abs/2208.09479v1)
 - 2022-08-19, **Symmetry-resolved Rényi fidelities and quantum phase transitions**, Gilles Parez et.al., Paper: [http://arxiv.org/abs/2208.09457v1](http://arxiv.org/abs/2208.09457v1)
 - 2022-08-19, **MonoPCNS: Monocular 3D Object Detection via Point Cloud Network Simulation**, Han Sun et.al., Paper: [http://arxiv.org/abs/2208.09446v1](http://arxiv.org/abs/2208.09446v1)
