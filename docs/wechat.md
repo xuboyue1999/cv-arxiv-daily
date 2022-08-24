@@ -16,6 +16,16 @@
 
 ## Infrared
 
+- 2022-08-23, **ATLASGAL - Star forming efficiencies and the Galactic star formation rate**, M. R. A. Wells et.al., Paper: [http://arxiv.org/abs/2208.11121v1](http://arxiv.org/abs/2208.11121v1)
+- 2022-08-23, **A Two Martian Years Survey of Water Ice Clouds on Mars with ACS onboard TGO**, Aurélien Stcherbinine et.al., Paper: [http://arxiv.org/abs/2208.11100v1](http://arxiv.org/abs/2208.11100v1)
+- 2022-08-23, **Still at Odds with Conventional Galaxy Evolution: The Star Formation History of Ultra-Diffuse Galaxy Dragonfly 44**, Kristi A. Webb et.al., Paper: [http://arxiv.org/abs/2208.11038v1](http://arxiv.org/abs/2208.11038v1)
+- 2022-08-23, **Explosion Imminent: the appearance of Red Supergiants at the point of core-collapse**, Ben Davies et.al., Paper: [http://arxiv.org/abs/2208.10883v1](http://arxiv.org/abs/2208.10883v1)
+- 2022-08-23, **Spatially resolved gas and stellar kinematics in compact starburst galaxies**, Arjan Bik et.al., Paper: [http://arxiv.org/abs/2208.10876v1](http://arxiv.org/abs/2208.10876v1)
+- 2022-08-23, **Automatic Calibration of a Six-Degrees-of-Freedom Pose Estimation System**, Wouter Jansen et.al., Paper: [http://arxiv.org/abs/2208.10837v1](http://arxiv.org/abs/2208.10837v1)
+- 2022-08-23, **Design of SCALES: A 2-5 Micron Coronagraphic Integral Field Spectrograph for Keck Observatory**, Andrew Skemer et.al., Paper: [http://arxiv.org/abs/2208.10721v1](http://arxiv.org/abs/2208.10721v1)
+- 2022-08-23, **CORINOS I: JWST/MIRI Spectroscopy and Imaging of a Class 0 protostar IRAS 15398-3359**, Yao-Lun Yang et.al., Paper: [http://arxiv.org/abs/2208.10673v1](http://arxiv.org/abs/2208.10673v1)
+- 2022-08-22, **GOALS-JWST: Unveiling the Heavily Dust Obscured Compact Sources in the Merging Galaxy IIZw096**, Hanae Inami et.al., Paper: [http://arxiv.org/abs/2208.10647v1](http://arxiv.org/abs/2208.10647v1)
+- 2022-08-22, **CLASS: Coronal Line Activity Spectroscopic Survey**, Michael Reefe et.al., Paper: [http://arxiv.org/abs/2208.10532v1](http://arxiv.org/abs/2208.10532v1)
 - 2022-08-22, **Emergent $U(1)$ Symmetries and $τ$-$σ$ Duality in Gapless Superfluids or Superconductors**, Fei Zhou et.al., Paper: [http://arxiv.org/abs/2208.10486v1](http://arxiv.org/abs/2208.10486v1)
 - 2022-08-22, **Electrically Driven Thermal Infrared Metasurface with Narrowband Emission**, Xiu Liu et.al., Paper: [http://arxiv.org/abs/2208.10484v1](http://arxiv.org/abs/2208.10484v1)
 - 2022-08-22, **An unusual reservoir of water emission in the VV CrA A protoplanetary disk**, Colette Salyk et.al., Paper: [http://arxiv.org/abs/2208.10402v1](http://arxiv.org/abs/2208.10402v1)
@@ -466,6 +476,8 @@
 
 ## RGBD
 
+- 2022-08-23, **Robot Active Neural Sensing and Planning in Unknown Cluttered Environments**, Hanwen Ren et.al., Paper: [http://arxiv.org/abs/2208.11079v1](http://arxiv.org/abs/2208.11079v1)
+- 2022-08-23, **DepthFake: a depth-based strategy for detecting Deepfake videos**, Luca Maiano et.al., Paper: [http://arxiv.org/abs/2208.11074v1](http://arxiv.org/abs/2208.11074v1)
 - 2022-08-15, **Global Consistent Point Cloud Registration Based on Lie-algebraic Cohomology**, Yuxue Ren et.al., Paper: [http://arxiv.org/abs/2208.07103v1](http://arxiv.org/abs/2208.07103v1)
 - 2022-08-08, **MetaGraspNet: A Large-Scale Benchmark Dataset for Scene-Aware Ambidextrous Bin Picking via Physics-based Metaverse Synthesis**, Maximilian Gilles et.al., Paper: [http://arxiv.org/abs/2208.03963v1](http://arxiv.org/abs/2208.03963v1)
 - 2022-08-07, **Domain Randomization-Enhanced Depth Simulation and Restoration for Perceiving and Grasping Specular and Transparent Objects**, Qiyu Dai et.al., Paper: [http://arxiv.org/abs/2208.03792v1](http://arxiv.org/abs/2208.03792v1), Code: **[https://github.com/pku-epic/dreds](https://github.com/pku-epic/dreds)**
@@ -493,6 +505,16 @@
 
 ## Saliency Detection
 
+- 2022-08-23, **Distance-Aware Occlusion Detection with Focused Attention**, Yang Li et.al., Paper: [http://arxiv.org/abs/2208.11122v1](http://arxiv.org/abs/2208.11122v1), Code: **[https://github.com/yang-li-2000/distance-aware-occlusion-detection-with-focused-attention](https://github.com/yang-li-2000/distance-aware-occlusion-detection-with-focused-attention)**
+- 2022-08-23, **Towards Open Set Video Anomaly Detection**, Yuansheng Zhu et.al., Paper: [http://arxiv.org/abs/2208.11113v1](http://arxiv.org/abs/2208.11113v1)
+- 2022-08-23, **DeepInteraction: 3D Object Detection via Modality Interaction**, Zeyu Yang et.al., Paper: [http://arxiv.org/abs/2208.11112v1](http://arxiv.org/abs/2208.11112v1), Code: **[https://github.com/fudan-zvg/deepinteraction](https://github.com/fudan-zvg/deepinteraction)**
+- 2022-08-23, **Quantum gravitational signatures in next-generation gravitational wave detectors**, Saurya Das et.al., Paper: [http://arxiv.org/abs/2208.11095v1](http://arxiv.org/abs/2208.11095v1)
+- 2022-08-23, **Formation of hydrogen chains in $AB$O$_2$ nickelate superconductors**, Liang Si et.al., Paper: [http://arxiv.org/abs/2208.11085v1](http://arxiv.org/abs/2208.11085v1)
+- 2022-08-23, **Theory of solar oscillations in the inertial frequency range: Amplitudes of equatorial modes from a nonlinear rotating convection simulation**, Yuto Bekki et.al., Paper: [http://arxiv.org/abs/2208.11081v1](http://arxiv.org/abs/2208.11081v1)
+- 2022-08-23, **SurvSHAP(t): Time-dependent explanations of machine learning survival models**, Mateusz Krzyziński et.al., Paper: [http://arxiv.org/abs/2208.11080v1](http://arxiv.org/abs/2208.11080v1), Code: **[https://github.com/mi2datalab/survshap](https://github.com/mi2datalab/survshap)**
+- 2022-08-23, **DepthFake: a depth-based strategy for detecting Deepfake videos**, Luca Maiano et.al., Paper: [http://arxiv.org/abs/2208.11074v1](http://arxiv.org/abs/2208.11074v1)
+- 2022-08-23, **Evaluation of the potential of a gamma-ray observatory to detect astrophysical neutrinos through inclined showers**, Jaime Alvarez-Muñiz et.al., Paper: [http://arxiv.org/abs/2208.11072v1](http://arxiv.org/abs/2208.11072v1)
+- 2022-08-23, **Towards a Formal Approach for Detection of Vulnerabilities in the Android Permissions System**, Amirhosein Sayyadabdi et.al., Paper: [http://arxiv.org/abs/2208.11062v1](http://arxiv.org/abs/2208.11062v1)
 - 2022-08-22, **Automated Pruning of Polyculture Plants**, Mark Presten et.al., Paper: [http://arxiv.org/abs/2208.10472v1](http://arxiv.org/abs/2208.10472v1)
 - 2022-08-22, **Towards Clause Learning à la Carte through VarMonads**, Arved Friedemann et.al., Paper: [http://arxiv.org/abs/2208.10460v1](http://arxiv.org/abs/2208.10460v1)
 - 2022-08-22, **Verification-Preserving Inlining in Automatic Separation Logic Verifiers (extended version)**, Thibault Dardinier et.al., Paper: [http://arxiv.org/abs/2208.10456v1](http://arxiv.org/abs/2208.10456v1)
