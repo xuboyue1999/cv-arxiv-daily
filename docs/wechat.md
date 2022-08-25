@@ -1,4 +1,4 @@
-> Updated on 2022.08.24
+> Updated on 2022.08.25
 
 ## RGBT
 
@@ -16,6 +16,9 @@
 
 ## Infrared
 
+- 2022-08-24, **A Theorem on Extensive Spectral Degeneracy for Systems with Higher Symmetries in General Dimensions**, Zohar Nussinov et.al., Paper: [http://arxiv.org/abs/2208.11690v1](http://arxiv.org/abs/2208.11690v1)
+- 2022-08-23, **A dress of flavour to suit any jet**, Rhorry Gauld et.al., Paper: [http://arxiv.org/abs/2208.11138v1](http://arxiv.org/abs/2208.11138v1)
+- 2022-08-23, **Properties of shocked dust grains in supernova remnants**, F. D. Priestley et.al., Paper: [http://arxiv.org/abs/2208.11137v1](http://arxiv.org/abs/2208.11137v1)
 - 2022-08-23, **ATLASGAL - Star forming efficiencies and the Galactic star formation rate**, M. R. A. Wells et.al., Paper: [http://arxiv.org/abs/2208.11121v1](http://arxiv.org/abs/2208.11121v1)
 - 2022-08-23, **A Two Martian Years Survey of Water Ice Clouds on Mars with ACS onboard TGO**, Aurélien Stcherbinine et.al., Paper: [http://arxiv.org/abs/2208.11100v1](http://arxiv.org/abs/2208.11100v1)
 - 2022-08-23, **Still at Odds with Conventional Galaxy Evolution: The Star Formation History of Ultra-Diffuse Galaxy Dragonfly 44**, Kristi A. Webb et.al., Paper: [http://arxiv.org/abs/2208.11038v1](http://arxiv.org/abs/2208.11038v1)
@@ -476,7 +479,7 @@
 
 ## RGBD
 
-- 2022-08-23, **Robot Active Neural Sensing and Planning in Unknown Cluttered Environments**, Hanwen Ren et.al., Paper: [http://arxiv.org/abs/2208.11079v1](http://arxiv.org/abs/2208.11079v1)
+- 2022-08-24, **Robot Active Neural Sensing and Planning in Unknown Cluttered Environments**, Hanwen Ren et.al., Paper: [http://arxiv.org/abs/2208.11079v2](http://arxiv.org/abs/2208.11079v2)
 - 2022-08-23, **DepthFake: a depth-based strategy for detecting Deepfake videos**, Luca Maiano et.al., Paper: [http://arxiv.org/abs/2208.11074v1](http://arxiv.org/abs/2208.11074v1)
 - 2022-08-15, **Global Consistent Point Cloud Registration Based on Lie-algebraic Cohomology**, Yuxue Ren et.al., Paper: [http://arxiv.org/abs/2208.07103v1](http://arxiv.org/abs/2208.07103v1)
 - 2022-08-08, **MetaGraspNet: A Large-Scale Benchmark Dataset for Scene-Aware Ambidextrous Bin Picking via Physics-based Metaverse Synthesis**, Maximilian Gilles et.al., Paper: [http://arxiv.org/abs/2208.03963v1](http://arxiv.org/abs/2208.03963v1)
@@ -505,6 +508,16 @@
 
 ## Saliency Detection
 
+- 2022-08-24, **Bugs in the Data: How ImageNet Misrepresents Biodiversity**, Alexandra Sasha Luccioni et.al., Paper: [http://arxiv.org/abs/2208.11695v1](http://arxiv.org/abs/2208.11695v1)
+- 2022-08-24, **Identification of carbon dioxide in an exoplanet atmosphere**, The JWST Transiting Exoplanet Community Early Release Science Team et.al., Paper: [http://arxiv.org/abs/2208.11692v1](http://arxiv.org/abs/2208.11692v1)
+- 2022-08-24, **Limits on the nuclearite flux using the ANTARES neutrino telescope**, ANTARES Collaboration et.al., Paper: [http://arxiv.org/abs/2208.11689v1](http://arxiv.org/abs/2208.11689v1)
+- 2022-08-24, **VisFCAC: An Interactive Family Clinical Attribute Comparison**, Jake Gonzalez et.al., Paper: [http://arxiv.org/abs/2208.11688v1](http://arxiv.org/abs/2208.11688v1)
+- 2022-08-24, **ForestEyes Project: Conception, Enhancements, and Challenges**, Fernanda B. J. R. Dallaqua et.al., Paper: [http://arxiv.org/abs/2208.11687v1](http://arxiv.org/abs/2208.11687v1)
+- 2022-08-24, **DESI Observations of the Andromeda Galaxy: Revealing the Immigration History of our Nearest Neighbor**, Arjun Dey et.al., Paper: [http://arxiv.org/abs/2208.11683v1](http://arxiv.org/abs/2208.11683v1)
+- 2022-08-24, **Attacking Neural Binary Function Detection**, Joshua Bundt et.al., Paper: [http://arxiv.org/abs/2208.11667v1](http://arxiv.org/abs/2208.11667v1)
+- 2022-08-24, **AGO-Net: Association-Guided 3D Point Cloud Object Detection Network**, Liang Du et.al., Paper: [http://arxiv.org/abs/2208.11658v1](http://arxiv.org/abs/2208.11658v1)
+- 2022-08-24, **Detecting the unknown in Object Detection**, Dario Fontanel et.al., Paper: [http://arxiv.org/abs/2208.11641v1](http://arxiv.org/abs/2208.11641v1)
+- 2022-08-24, **\texttt{TQSGWB}: Detecting stochastic gravitational wave background with the TianQin null channel**, Jun Cheng et.al., Paper: [http://arxiv.org/abs/2208.11615v1](http://arxiv.org/abs/2208.11615v1)
 - 2022-08-23, **Distance-Aware Occlusion Detection with Focused Attention**, Yang Li et.al., Paper: [http://arxiv.org/abs/2208.11122v1](http://arxiv.org/abs/2208.11122v1), Code: **[https://github.com/yang-li-2000/distance-aware-occlusion-detection-with-focused-attention](https://github.com/yang-li-2000/distance-aware-occlusion-detection-with-focused-attention)**
 - 2022-08-23, **Towards Open Set Video Anomaly Detection**, Yuansheng Zhu et.al., Paper: [http://arxiv.org/abs/2208.11113v1](http://arxiv.org/abs/2208.11113v1)
 - 2022-08-23, **DeepInteraction: 3D Object Detection via Modality Interaction**, Zeyu Yang et.al., Paper: [http://arxiv.org/abs/2208.11112v1](http://arxiv.org/abs/2208.11112v1), Code: **[https://github.com/fudan-zvg/deepinteraction](https://github.com/fudan-zvg/deepinteraction)**
