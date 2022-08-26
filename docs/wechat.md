@@ -1,4 +1,4 @@
-> Updated on 2022.08.25
+> Updated on 2022.08.26
 
 ## RGBT
 
@@ -16,6 +16,15 @@
 
 ## Infrared
 
+- 2022-08-25, **LIDA - The Leiden Ice Database for Astrochemistry**, W. R. M. Rocha et.al., Paper: [http://arxiv.org/abs/2208.12211v1](http://arxiv.org/abs/2208.12211v1)
+- 2022-08-25, **WISE/NEOWISE Multi-Epoch Imaging of the Potentially Geminid-related Asteroids: (3200) Phaethon, 2005 UD and 1999 YC**, Toshihiro Kasuga et.al., Paper: [http://arxiv.org/abs/2208.12089v1](http://arxiv.org/abs/2208.12089v1)
+- 2022-08-25, **Photoelectron angular distributions for photoionization of argon by two-color fields**, Soumia Chqondi et.al., Paper: [http://arxiv.org/abs/2208.12034v1](http://arxiv.org/abs/2208.12034v1)
+- 2022-08-25, **Mid-infrared photothermal single-live-cell imaging beyond video rate**, Genki Ishigane et.al., Paper: [http://arxiv.org/abs/2208.11969v1](http://arxiv.org/abs/2208.11969v1)
+- 2022-08-25, **First tests of a 1 megapixel near-infrared avalanche photodiode array for ultra-low background space astronomy**, Charles-Antoine Claveau et.al., Paper: [http://arxiv.org/abs/2208.11834v1](http://arxiv.org/abs/2208.11834v1)
+- 2022-08-25, **Optical IFU Observations of GOALS Sample with KOOLS-IFU on Seimei Telescope: Initial results of 9 U/LIRGs at $z <$ 0.04**, Yoshiki Toba et.al., Paper: [http://arxiv.org/abs/2208.11824v1](http://arxiv.org/abs/2208.11824v1)
+- 2022-08-25, **The stellar populations of quiescent ultra-diffuse galaxies from optical to mid-infrared spectral energy distribution fitting**, Maria Luisa Buzzo et.al., Paper: [http://arxiv.org/abs/2208.11819v1](http://arxiv.org/abs/2208.11819v1)
+- 2022-08-24, **SCALES for Keck: Optical Design**, Renate Kupke et.al., Paper: [http://arxiv.org/abs/2208.11736v1](http://arxiv.org/abs/2208.11736v1)
+- 2022-08-24, **Probing neutrino interactions and dark radiation with gravitational waves**, Marilena Loverde et.al., Paper: [http://arxiv.org/abs/2208.11714v1](http://arxiv.org/abs/2208.11714v1)
 - 2022-08-24, **A Theorem on Extensive Spectral Degeneracy for Systems with Higher Symmetries in General Dimensions**, Zohar Nussinov et.al., Paper: [http://arxiv.org/abs/2208.11690v1](http://arxiv.org/abs/2208.11690v1)
 - 2022-08-23, **A dress of flavour to suit any jet**, Rhorry Gauld et.al., Paper: [http://arxiv.org/abs/2208.11138v1](http://arxiv.org/abs/2208.11138v1)
 - 2022-08-23, **Properties of shocked dust grains in supernova remnants**, F. D. Priestley et.al., Paper: [http://arxiv.org/abs/2208.11137v1](http://arxiv.org/abs/2208.11137v1)
@@ -508,6 +517,16 @@
 
 ## Saliency Detection
 
+- 2022-08-25, **Precise predictions and new insights for atomic ionisation from the Migdal effect**, Peter Cox et.al., Paper: [http://arxiv.org/abs/2208.12222v1](http://arxiv.org/abs/2208.12222v1)
+- 2022-08-25, **Design, Implementation, and Performance Evaluation of a Fiber Bragg Gratings(FBG) based Smart Insole to Measure Plantar Pressure and Temperature**, Sakib Mahmud et.al., Paper: [http://arxiv.org/abs/2208.12201v1](http://arxiv.org/abs/2208.12201v1)
+- 2022-08-25, **Dropouts of Fully Stripped Ions in the Solar Wind: A Diagnostic for Wave Heating versus Reconnection**, John C. Raymond et.al., Paper: [http://arxiv.org/abs/2208.12193v1](http://arxiv.org/abs/2208.12193v1)
+- 2022-08-25, **Anytime-Lidar: Deadline-aware 3D Object Detection**, Ahmet Soyyigit et.al., Paper: [http://arxiv.org/abs/2208.12181v1](http://arxiv.org/abs/2208.12181v1)
+- 2022-08-25, **Bichromatic Imaging of Single Molecules in an Optical Tweezer Array**, Connor M. Holland et.al., Paper: [http://arxiv.org/abs/2208.12159v1](http://arxiv.org/abs/2208.12159v1)
+- 2022-08-25, **Constraints on the detection of topological charge of optical vortices using self-reference interferometry**, Siyao Wu et.al., Paper: [http://arxiv.org/abs/2208.12158v1](http://arxiv.org/abs/2208.12158v1)
+- 2022-08-25, **A Comparison of Reinforcement Learning Frameworks for Software Testing Tasks**, Paulina Stevia Nouwou Mindom et.al., Paper: [http://arxiv.org/abs/2208.12136v1](http://arxiv.org/abs/2208.12136v1)
+- 2022-08-25, **Scalable on-chip multiplexing of low-noise silicon electron and hole quantum dots**, Heorhii Bohuslavskyi et.al., Paper: [http://arxiv.org/abs/2208.12131v1](http://arxiv.org/abs/2208.12131v1)
+- 2022-08-25, **The prolific thermonuclear X-ray bursts from the outburst of the newly discovered millisecond pulsar MAXI~J1816--195 observed by Insight-HXMT and NICER**, Chen Yu-Peng et.al., Paper: [http://arxiv.org/abs/2208.12124v1](http://arxiv.org/abs/2208.12124v1)
+- 2022-08-25, **The Sustainable Response Strategy to COVID-19: Pandemic Urban Zoning Based on Multimodal Transport Data**, Yufei Wang et.al., Paper: [http://arxiv.org/abs/2208.12119v1](http://arxiv.org/abs/2208.12119v1)
 - 2022-08-24, **Bugs in the Data: How ImageNet Misrepresents Biodiversity**, Alexandra Sasha Luccioni et.al., Paper: [http://arxiv.org/abs/2208.11695v1](http://arxiv.org/abs/2208.11695v1), Code: **[https://github.com/rolnicklab/imagenetbiodiversity](https://github.com/rolnicklab/imagenetbiodiversity)**
 - 2022-08-24, **Identification of carbon dioxide in an exoplanet atmosphere**, The JWST Transiting Exoplanet Community Early Release Science Team et.al., Paper: [http://arxiv.org/abs/2208.11692v1](http://arxiv.org/abs/2208.11692v1)
 - 2022-08-24, **Limits on the nuclearite flux using the ANTARES neutrino telescope**, ANTARES Collaboration et.al., Paper: [http://arxiv.org/abs/2208.11689v1](http://arxiv.org/abs/2208.11689v1)
