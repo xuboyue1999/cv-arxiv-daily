@@ -1,4 +1,4 @@
-> Updated on 2022.08.28
+> Updated on 2022.08.29
 
 ## RGBT
 
@@ -16,6 +16,11 @@
 
 ## Infrared
 
+- 2022-08-26, **The In-Flight Noise Performance of the JWST/NIRSpec Detector System**, Stephan M. Birkmann et.al., Paper: [http://arxiv.org/abs/2208.12686v1](http://arxiv.org/abs/2208.12686v1)
+- 2022-08-26, **Extreme Gradient Boosting for Yield Estimation compared with Deep Learning Approaches**, Florian Huber et.al., Paper: [http://arxiv.org/abs/2208.12633v1](http://arxiv.org/abs/2208.12633v1)
+- 2022-08-25, **The Astrodust+PAH Model: A Unified Description of the Extinction, Emission, and Polarization from Dust in the Diffuse Interstellar Medium**, Brandon S. Hensley et.al., Paper: [http://arxiv.org/abs/2208.12365v1](http://arxiv.org/abs/2208.12365v1)
+- 2022-08-25, **Finding of a population of active galactic nuclei showing a significant luminosity decline in the past $\sim 10^{3-4}$ yrs**, J. Pflugradt et.al., Paper: [http://arxiv.org/abs/2208.12286v1](http://arxiv.org/abs/2208.12286v1)
+- 2022-08-25, **Biases to primordial non-Gaussianity measurements from CMB secondary anisotropies**, William Coulton et.al., Paper: [http://arxiv.org/abs/2208.12270v1](http://arxiv.org/abs/2208.12270v1)
 - 2022-08-25, **LIDA - The Leiden Ice Database for Astrochemistry**, W. R. M. Rocha et.al., Paper: [http://arxiv.org/abs/2208.12211v1](http://arxiv.org/abs/2208.12211v1)
 - 2022-08-25, **WISE/NEOWISE Multi-Epoch Imaging of the Potentially Geminid-related Asteroids: (3200) Phaethon, 2005 UD and 1999 YC**, Toshihiro Kasuga et.al., Paper: [http://arxiv.org/abs/2208.12089v1](http://arxiv.org/abs/2208.12089v1)
 - 2022-08-25, **Photoelectron angular distributions for photoionization of argon by two-color fields**, Soumia Chqondi et.al., Paper: [http://arxiv.org/abs/2208.12034v1](http://arxiv.org/abs/2208.12034v1)
@@ -517,6 +522,16 @@
 
 ## Saliency Detection
 
+- 2022-08-26, **LUCID: Exposing Algorithmic Bias through Inverse Design**, Carmen Mazijn et.al., Paper: [http://arxiv.org/abs/2208.12786v1](http://arxiv.org/abs/2208.12786v1)
+- 2022-08-26, **A scattering transform for graphs based on heat semigroups, with an application for the detection of anomalies in positive time series with underlying periodicities**, Bernhard G. Bodmann et.al., Paper: [http://arxiv.org/abs/2208.12773v1](http://arxiv.org/abs/2208.12773v1)
+- 2022-08-26, **The SVOM/ECLAIRs image trigger with wavelet-based background correction optimised with a one-year simulation of observations**, N. Dagoneau et.al., Paper: [http://arxiv.org/abs/2208.12767v1](http://arxiv.org/abs/2208.12767v1)
+- 2022-08-26, **White-box Fuzzing RPC-based APIs with EvoMaster: An Industrial Case Study**, Man Zhang et.al., Paper: [http://arxiv.org/abs/2208.12743v1](http://arxiv.org/abs/2208.12743v1)
+- 2022-08-26, **Automated False Positive Filtering for esNetwork Alerts**, Guangyi Zhu et.al., Paper: [http://arxiv.org/abs/2208.12729v1](http://arxiv.org/abs/2208.12729v1)
+- 2022-08-26, **3-D selection of 167 sub-stellar companions to nearby stars**, Fabo Feng et.al., Paper: [http://arxiv.org/abs/2208.12720v1](http://arxiv.org/abs/2208.12720v1)
+- 2022-08-26, **Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**, Marco Schreyer et.al., Paper: [http://arxiv.org/abs/2208.12708v1](http://arxiv.org/abs/2208.12708v1)
+- 2022-08-26, **Disentangle and Remerge: Interventional Knowledge Distillation for Few-Shot Object Detection from A Conditional Causal Perspective**, Jiangmeng Li et.al., Paper: [http://arxiv.org/abs/2208.12681v1](http://arxiv.org/abs/2208.12681v1)
+- 2022-08-26, **Evidence for an interaction between the Galactic Center clouds M0.10-0.08 and M0.11-0.11**, Natalie O. Butterfield et.al., Paper: [http://arxiv.org/abs/2208.12679v1](http://arxiv.org/abs/2208.12679v1)
+- 2022-08-26, **Thin current sheet behind the dipolarization front**, Nakamura et.al., Paper: [http://arxiv.org/abs/2208.12671v1](http://arxiv.org/abs/2208.12671v1)
 - 2022-08-25, **Precise predictions and new insights for atomic ionisation from the Migdal effect**, Peter Cox et.al., Paper: [http://arxiv.org/abs/2208.12222v1](http://arxiv.org/abs/2208.12222v1)
 - 2022-08-25, **Design, Implementation, and Performance Evaluation of a Fiber Bragg Gratings(FBG) based Smart Insole to Measure Plantar Pressure and Temperature**, Sakib Mahmud et.al., Paper: [http://arxiv.org/abs/2208.12201v1](http://arxiv.org/abs/2208.12201v1)
 - 2022-08-25, **Dropouts of Fully Stripped Ions in the Solar Wind: A Diagnostic for Wave Heating versus Reconnection**, John C. Raymond et.al., Paper: [http://arxiv.org/abs/2208.12193v1](http://arxiv.org/abs/2208.12193v1)
