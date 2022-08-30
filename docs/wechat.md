@@ -1,4 +1,4 @@
-> Updated on 2022.08.29
+> Updated on 2022.08.30
 
 ## RGBT
 
@@ -527,7 +527,7 @@
 - 2022-08-26, **The SVOM/ECLAIRs image trigger with wavelet-based background correction optimised with a one-year simulation of observations**, N. Dagoneau et.al., Paper: [http://arxiv.org/abs/2208.12767v1](http://arxiv.org/abs/2208.12767v1)
 - 2022-08-26, **White-box Fuzzing RPC-based APIs with EvoMaster: An Industrial Case Study**, Man Zhang et.al., Paper: [http://arxiv.org/abs/2208.12743v1](http://arxiv.org/abs/2208.12743v1)
 - 2022-08-26, **Automated False Positive Filtering for esNetwork Alerts**, Guangyi Zhu et.al., Paper: [http://arxiv.org/abs/2208.12729v1](http://arxiv.org/abs/2208.12729v1)
-- 2022-08-26, **3-D selection of 167 sub-stellar companions to nearby stars**, Fabo Feng et.al., Paper: [http://arxiv.org/abs/2208.12720v1](http://arxiv.org/abs/2208.12720v1)
+- 2022-08-29, **3-D selection of 167 sub-stellar companions to nearby stars**, Fabo Feng et.al., Paper: [http://arxiv.org/abs/2208.12720v2](http://arxiv.org/abs/2208.12720v2)
 - 2022-08-26, **Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**, Marco Schreyer et.al., Paper: [http://arxiv.org/abs/2208.12708v1](http://arxiv.org/abs/2208.12708v1)
 - 2022-08-26, **Disentangle and Remerge: Interventional Knowledge Distillation for Few-Shot Object Detection from A Conditional Causal Perspective**, Jiangmeng Li et.al., Paper: [http://arxiv.org/abs/2208.12681v1](http://arxiv.org/abs/2208.12681v1)
 - 2022-08-26, **Evidence for an interaction between the Galactic Center clouds M0.10-0.08 and M0.11-0.11**, Natalie O. Butterfield et.al., Paper: [http://arxiv.org/abs/2208.12679v1](http://arxiv.org/abs/2208.12679v1)
