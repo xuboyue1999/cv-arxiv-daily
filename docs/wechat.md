@@ -16,6 +16,15 @@
 
 ## Infrared
 
+- 2022-08-29, **Pixel centroid characterization with laser speckle and application to the Nancy Grace Roman Space Telescope detector arrays**, Christopher M. Hirata et.al., Paper: [http://arxiv.org/abs/2208.13665v1](http://arxiv.org/abs/2208.13665v1)
+- 2022-08-29, **OH mid-infrared emission as a diagnostic of H$_2$O UV photodissociation. II. Application to interstellar PDRs**, Marion Zannese et.al., Paper: [http://arxiv.org/abs/2208.13619v1](http://arxiv.org/abs/2208.13619v1)
+- 2022-08-29, **Linking star formation thresholds and truncations in the thin and thick disks of the low-mass galaxy UGC 7321**, Simón Díaz-García et.al., Paper: [http://arxiv.org/abs/2208.13527v1](http://arxiv.org/abs/2208.13527v1)
+- 2022-08-29, **Nulling interferometry in space does not require a rotating telescope array**, Francois Henault et.al., Paper: [http://arxiv.org/abs/2208.13470v1](http://arxiv.org/abs/2208.13470v1)
+- 2022-08-29, **Multi Spectral Switchable Infra-Red Reflectance Resonances in Highly Subwavelength Partially Oxidized Vanadium Thin Films**, Ashok P et.al., Paper: [http://arxiv.org/abs/2208.13458v1](http://arxiv.org/abs/2208.13458v1)
+- 2022-08-28, **Ultrathin Broadband Metasurface Superabsorbers from a van der Waals Semimetal**, Adam D. Alfieri et.al., Paper: [http://arxiv.org/abs/2208.13269v1](http://arxiv.org/abs/2208.13269v1)
+- 2022-08-27, **Impact of the free-streaming neutrinos to the second order induced gravitational waves**, Xukun Zhang et.al., Paper: [http://arxiv.org/abs/2208.12948v1](http://arxiv.org/abs/2208.12948v1)
+- 2022-08-26, **Spectropolarimetry of the Thermonuclear Supernova 2021rhu: High Calcium Polarization 79 Days After Peak Luminosity**, Yi Yang et.al., Paper: [http://arxiv.org/abs/2208.12862v1](http://arxiv.org/abs/2208.12862v1)
+- 2022-08-26, **Multiple locations of near-infrared coronal lines in NGC 5548**, Daniel Kynoch et.al., Paper: [http://arxiv.org/abs/2208.12821v1](http://arxiv.org/abs/2208.12821v1)
 - 2022-08-26, **The In-Flight Noise Performance of the JWST/NIRSpec Detector System**, Stephan M. Birkmann et.al., Paper: [http://arxiv.org/abs/2208.12686v1](http://arxiv.org/abs/2208.12686v1)
 - 2022-08-26, **Extreme Gradient Boosting for Yield Estimation compared with Deep Learning Approaches**, Florian Huber et.al., Paper: [http://arxiv.org/abs/2208.12633v1](http://arxiv.org/abs/2208.12633v1)
 - 2022-08-25, **The Astrodust+PAH Model: A Unified Description of the Extinction, Emission, and Polarization from Dust in the Diffuse Interstellar Medium**, Brandon S. Hensley et.al., Paper: [http://arxiv.org/abs/2208.12365v1](http://arxiv.org/abs/2208.12365v1)
@@ -522,6 +531,16 @@
 
 ## Saliency Detection
 
+- 2022-08-29, **Open-Set Semi-Supervised Object Detection**, Yen-Cheng Liu et.al., Paper: [http://arxiv.org/abs/2208.13722v1](http://arxiv.org/abs/2208.13722v1)
+- 2022-08-29, **Light dark matter around 100 GeV from the inert doublet model**, Shehu AbdusSalam et.al., Paper: [http://arxiv.org/abs/2208.13705v1](http://arxiv.org/abs/2208.13705v1)
+- 2022-08-29, **Comprehensive study of good model training for prostate segmentation in volumetric MRI**, Carlos Nácher Collado et.al., Paper: [http://arxiv.org/abs/2208.13671v1](http://arxiv.org/abs/2208.13671v1)
+- 2022-08-29, **Deep ALMA redshift search of a z~12 GLASS-JWST galaxy candidate**, Tom J. L. C. Bakx et.al., Paper: [http://arxiv.org/abs/2208.13642v1](http://arxiv.org/abs/2208.13642v1)
+- 2022-08-29, **OH mid-infrared emission as a diagnostic of H$_2$O UV photodissociation. II. Application to interstellar PDRs**, Marion Zannese et.al., Paper: [http://arxiv.org/abs/2208.13619v1](http://arxiv.org/abs/2208.13619v1)
+- 2022-08-29, **Confirmation of the outflow in L1451-mm: SiO line and CH$_3$OH maser detections**, V. Wakelam et.al., Paper: [http://arxiv.org/abs/2208.13606v1](http://arxiv.org/abs/2208.13606v1)
+- 2022-08-29, **Combating high variance in Data-Scarce Implicit Hate Speech Classification**, Debaditya Pal et.al., Paper: [http://arxiv.org/abs/2208.13595v1](http://arxiv.org/abs/2208.13595v1)
+- 2022-08-29, **Weinberg's 3HDM potential with spontaneous CP violation**, R. Plantey et.al., Paper: [http://arxiv.org/abs/2208.13594v1](http://arxiv.org/abs/2208.13594v1)
+- 2022-08-29, **Chosen methods of improving object recognition of small objects with weak recognizable features**, Magdalena Stachoń et.al., Paper: [http://arxiv.org/abs/2208.13591v1](http://arxiv.org/abs/2208.13591v1)
+- 2022-08-29, **Microwave fluorescence detection of spin echoes**, Eric Billaud et.al., Paper: [http://arxiv.org/abs/2208.13586v1](http://arxiv.org/abs/2208.13586v1)
 - 2022-08-26, **LUCID: Exposing Algorithmic Bias through Inverse Design**, Carmen Mazijn et.al., Paper: [http://arxiv.org/abs/2208.12786v1](http://arxiv.org/abs/2208.12786v1)
 - 2022-08-26, **A scattering transform for graphs based on heat semigroups, with an application for the detection of anomalies in positive time series with underlying periodicities**, Bernhard G. Bodmann et.al., Paper: [http://arxiv.org/abs/2208.12773v1](http://arxiv.org/abs/2208.12773v1)
 - 2022-08-26, **The SVOM/ECLAIRs image trigger with wavelet-based background correction optimised with a one-year simulation of observations**, N. Dagoneau et.al., Paper: [http://arxiv.org/abs/2208.12767v1](http://arxiv.org/abs/2208.12767v1)
