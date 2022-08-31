@@ -1,4 +1,4 @@
-## Updated on 2022.08.30
+## Updated on 2022.08.31
 
 ## RGBT
 
@@ -20,6 +20,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-30**|**Comparing Results of Thermographic Images Based Diagnosis for Breast Diseases**|E. O. Rodrigues et.al.|[2208.14410v1](http://arxiv.org/abs/2208.14410v1)|null|
+|**2022-08-30**|**Probing the Extent of Vertical Mixing in Brown Dwarf Atmospheres with Disequilibrium Chemistry**|Sagnick Mukherjee et.al.|[2208.14317v1](http://arxiv.org/abs/2208.14317v1)|null|
+|**2022-08-30**|**A multifrequency characterization of the extragalactic hard X-ray sky**|Matej Kosiba et.al.|[2208.14181v1](http://arxiv.org/abs/2208.14181v1)|null|
+|**2022-08-30**|**Discovery of Peculiar Radio Morphologies with ASKAP using Unsupervised Machine Learning}**|Nikhel Gupta et.al.|[2208.13997v1](http://arxiv.org/abs/2208.13997v1)|null|
+|**2022-08-29**|**GPI 2.0: Characterizing Self-Luminous Exoplanets Through Low-Resolution Infrared Spectroscopy**|Arlene Aleman et.al.|[2208.13863v1](http://arxiv.org/abs/2208.13863v1)|null|
+|**2022-08-29**|**The formation of CO$_2$ through consumption of gas-phase CO on vacuum-UV irradiated water ice**|J. Terwisscha van Scheltinga et.al.|[2208.13789v1](http://arxiv.org/abs/2208.13789v1)|null|
 |**2022-08-29**|**Pixel centroid characterization with laser speckle and application to the Nancy Grace Roman Space Telescope detector arrays**|Christopher M. Hirata et.al.|[2208.13665v1](http://arxiv.org/abs/2208.13665v1)|null|
 |**2022-08-29**|**OH mid-infrared emission as a diagnostic of H$_2$O UV photodissociation. II. Application to interstellar PDRs**|Marion Zannese et.al.|[2208.13619v1](http://arxiv.org/abs/2208.13619v1)|null|
 |**2022-08-29**|**Linking star formation thresholds and truncations in the thin and thick disks of the low-mass galaxy UGC 7321**|Simón Díaz-García et.al.|[2208.13527v1](http://arxiv.org/abs/2208.13527v1)|null|
@@ -508,6 +514,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-30**|**Learning 6D Pose Estimation from Synthetic RGBD Images for Robotic Applications**|Hongpeng Cao et.al.|[2208.14288v1](http://arxiv.org/abs/2208.14288v1)|null|
 |**2022-08-24**|**Robot Active Neural Sensing and Planning in Unknown Cluttered Environments**|Hanwen Ren et.al.|[2208.11079v2](http://arxiv.org/abs/2208.11079v2)|null|
 |**2022-08-23**|**DepthFake: a depth-based strategy for detecting Deepfake videos**|Luca Maiano et.al.|[2208.11074v1](http://arxiv.org/abs/2208.11074v1)|null|
 |**2022-08-15**|**Global Consistent Point Cloud Registration Based on Lie-algebraic Cohomology**|Yuxue Ren et.al.|[2208.07103v1](http://arxiv.org/abs/2208.07103v1)|null|
@@ -539,6 +546,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-30**|**Self-Supervised Pyramid Representation Learning for Multi-Label Visual Analysis and Beyond**|Cheng-Yen Hsieh et.al.|[2208.14439v1](http://arxiv.org/abs/2208.14439v1)|null|
+|**2022-08-30**|**FDB: Fraud Dataset Benchmark**|Prince Grover et.al.|[2208.14417v1](http://arxiv.org/abs/2208.14417v1)|**[link](https://github.com/amazon-research/fraud-dataset-benchmark)**|
+|**2022-08-30**|**Comparing Results of Thermographic Images Based Diagnosis for Breast Diseases**|E. O. Rodrigues et.al.|[2208.14410v1](http://arxiv.org/abs/2208.14410v1)|null|
+|**2022-08-30**|**Verifiable Obstacle Detection**|Ayoosh Bansal et.al.|[2208.14403v1](http://arxiv.org/abs/2208.14403v1)|null|
+|**2022-08-30**|**Automated recognition of the pericardium contour on processed CT images using genetic algorithms**|E. O. Rodrigues et.al.|[2208.14375v1](http://arxiv.org/abs/2208.14375v1)|null|
+|**2022-08-30**|**Compound Figure Separation of Biomedical Images: Mining Large Datasets for Self-supervised Learning**|Tianyuan Yao et.al.|[2208.14357v1](http://arxiv.org/abs/2208.14357v1)|null|
+|**2022-08-30**|**Optimal phase sensitivity of an unbalanced Mach-Zehnder interferometer**|Karunesh K. Mishra et.al.|[2208.14353v1](http://arxiv.org/abs/2208.14353v1)|null|
+|**2022-08-30**|**Denoising Architecture for Unsupervised Anomaly Detection in Time-Series**|Wadie Skaf et.al.|[2208.14337v1](http://arxiv.org/abs/2208.14337v1)|null|
+|**2022-08-30**|**Detection of GeV emission from an ultra-long gamma-ray burst with the Fermi Large Area Telescope**|Yi-Yun Huang et.al.|[2208.14333v1](http://arxiv.org/abs/2208.14333v1)|null|
+|**2022-08-30**|**GaitFi: Robust Device-Free Human Identification via WiFi and Vision Multimodal Learning**|Lang Deng et.al.|[2208.14326v1](http://arxiv.org/abs/2208.14326v1)|null|
 |**2022-08-29**|**Open-Set Semi-Supervised Object Detection**|Yen-Cheng Liu et.al.|[2208.13722v1](http://arxiv.org/abs/2208.13722v1)|null|
 |**2022-08-29**|**Light dark matter around 100 GeV from the inert doublet model**|Shehu AbdusSalam et.al.|[2208.13705v1](http://arxiv.org/abs/2208.13705v1)|null|
 |**2022-08-29**|**Comprehensive study of good model training for prostate segmentation in volumetric MRI**|Carlos Nácher Collado et.al.|[2208.13671v1](http://arxiv.org/abs/2208.13671v1)|null|
