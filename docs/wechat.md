@@ -538,12 +538,12 @@
 
 ## Saliency Detection
 
-- 2022-08-30, **Self-Supervised Pyramid Representation Learning for Multi-Label Visual Analysis and Beyond**, Cheng-Yen Hsieh et.al., Paper: [http://arxiv.org/abs/2208.14439v1](http://arxiv.org/abs/2208.14439v1)
+- 2022-08-30, **Self-Supervised Pyramid Representation Learning for Multi-Label Visual Analysis and Beyond**, Cheng-Yen Hsieh et.al., Paper: [http://arxiv.org/abs/2208.14439v1](http://arxiv.org/abs/2208.14439v1), Code: **[https://github.com/wesleyhsieh0806/ss-prl](https://github.com/wesleyhsieh0806/ss-prl)**
 - 2022-08-30, **FDB: Fraud Dataset Benchmark**, Prince Grover et.al., Paper: [http://arxiv.org/abs/2208.14417v1](http://arxiv.org/abs/2208.14417v1), Code: **[https://github.com/amazon-research/fraud-dataset-benchmark](https://github.com/amazon-research/fraud-dataset-benchmark)**
 - 2022-08-30, **Comparing Results of Thermographic Images Based Diagnosis for Breast Diseases**, E. O. Rodrigues et.al., Paper: [http://arxiv.org/abs/2208.14410v1](http://arxiv.org/abs/2208.14410v1)
 - 2022-08-30, **Verifiable Obstacle Detection**, Ayoosh Bansal et.al., Paper: [http://arxiv.org/abs/2208.14403v1](http://arxiv.org/abs/2208.14403v1)
 - 2022-08-30, **Automated recognition of the pericardium contour on processed CT images using genetic algorithms**, E. O. Rodrigues et.al., Paper: [http://arxiv.org/abs/2208.14375v1](http://arxiv.org/abs/2208.14375v1)
-- 2022-08-30, **Compound Figure Separation of Biomedical Images: Mining Large Datasets for Self-supervised Learning**, Tianyuan Yao et.al., Paper: [http://arxiv.org/abs/2208.14357v1](http://arxiv.org/abs/2208.14357v1)
+- 2022-08-30, **Compound Figure Separation of Biomedical Images: Mining Large Datasets for Self-supervised Learning**, Tianyuan Yao et.al., Paper: [http://arxiv.org/abs/2208.14357v1](http://arxiv.org/abs/2208.14357v1), Code: **[https://github.com/hrlblab/ImageSeperation](https://github.com/hrlblab/ImageSeperation)**
 - 2022-08-30, **Optimal phase sensitivity of an unbalanced Mach-Zehnder interferometer**, Karunesh K. Mishra et.al., Paper: [http://arxiv.org/abs/2208.14353v1](http://arxiv.org/abs/2208.14353v1)
 - 2022-08-30, **Denoising Architecture for Unsupervised Anomaly Detection in Time-Series**, Wadie Skaf et.al., Paper: [http://arxiv.org/abs/2208.14337v1](http://arxiv.org/abs/2208.14337v1)
 - 2022-08-30, **Detection of GeV emission from an ultra-long gamma-ray burst with the Fermi Large Area Telescope**, Yi-Yun Huang et.al., Paper: [http://arxiv.org/abs/2208.14333v1](http://arxiv.org/abs/2208.14333v1)
