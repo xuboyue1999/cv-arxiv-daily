@@ -1,4 +1,4 @@
-## Updated on 2022.08.31
+## Updated on 2022.09.01
 
 ## RGBT
 
@@ -23,7 +23,7 @@
 |**2022-08-30**|**Comparing Results of Thermographic Images Based Diagnosis for Breast Diseases**|E. O. Rodrigues et.al.|[2208.14410v1](http://arxiv.org/abs/2208.14410v1)|null|
 |**2022-08-30**|**Probing the Extent of Vertical Mixing in Brown Dwarf Atmospheres with Disequilibrium Chemistry**|Sagnick Mukherjee et.al.|[2208.14317v1](http://arxiv.org/abs/2208.14317v1)|null|
 |**2022-08-30**|**A multifrequency characterization of the extragalactic hard X-ray sky**|Matej Kosiba et.al.|[2208.14181v1](http://arxiv.org/abs/2208.14181v1)|null|
-|**2022-08-30**|**Discovery of Peculiar Radio Morphologies with ASKAP using Unsupervised Machine Learning}**|Nikhel Gupta et.al.|[2208.13997v1](http://arxiv.org/abs/2208.13997v1)|null|
+|**2022-08-31**|**Discovery of Peculiar Radio Morphologies with ASKAP using Unsupervised Machine Learning**|Nikhel Gupta et.al.|[2208.13997v2](http://arxiv.org/abs/2208.13997v2)|null|
 |**2022-08-29**|**GPI 2.0: Characterizing Self-Luminous Exoplanets Through Low-Resolution Infrared Spectroscopy**|Arlene Aleman et.al.|[2208.13863v1](http://arxiv.org/abs/2208.13863v1)|null|
 |**2022-08-29**|**The formation of CO$_2$ through consumption of gas-phase CO on vacuum-UV irradiated water ice**|J. Terwisscha van Scheltinga et.al.|[2208.13789v1](http://arxiv.org/abs/2208.13789v1)|null|
 |**2022-08-29**|**Pixel centroid characterization with laser speckle and application to the Nancy Grace Roman Space Telescope detector arrays**|Christopher M. Hirata et.al.|[2208.13665v1](http://arxiv.org/abs/2208.13665v1)|null|
