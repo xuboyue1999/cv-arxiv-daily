@@ -16,6 +16,16 @@
 
 ## Infrared
 
+- 2022-08-31, **The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 $μ$m**, Aarynn L. Carter et.al., Paper: [http://arxiv.org/abs/2208.14990v1](http://arxiv.org/abs/2208.14990v1)
+- 2022-08-31, **GIARPS High-resolution Observations of T Tauri stars (GHOsT). IV. Accretion properties of the Taurus-Auriga young association**, M. Gangi et.al., Paper: [http://arxiv.org/abs/2208.14895v1](http://arxiv.org/abs/2208.14895v1)
+- 2022-08-31, **Optical phonons and magneto-elastic coupling in the ionic conductor AgCrSe$_2$**, Jim Groefsema et.al., Paper: [http://arxiv.org/abs/2208.14872v1](http://arxiv.org/abs/2208.14872v1)
+- 2022-08-31, **Hot electron dynamics and relaxation in hyperbolic meta-antennas**, Rakesh Dhama et.al., Paper: [http://arxiv.org/abs/2208.14771v1](http://arxiv.org/abs/2208.14771v1)
+- 2022-08-31, **On the Lorentz symmetry in conformally reduced Quantum Gravity**, F. Gégény et.al., Paper: [http://arxiv.org/abs/2208.14710v1](http://arxiv.org/abs/2208.14710v1)
+- 2022-08-31, **Few-shot Adaptive Object Detection with Cross-Domain CutMix**, Yuzuru Nakamura et.al., Paper: [http://arxiv.org/abs/2208.14586v1](http://arxiv.org/abs/2208.14586v1)
+- 2022-08-31, **Holonomy Saddles and 5d BPS Quivers**, Qiang Jia et.al., Paper: [http://arxiv.org/abs/2208.14579v1](http://arxiv.org/abs/2208.14579v1)
+- 2022-08-30, **3D orbital architecture of a dwarf binary system and its planetary companion**, Salvador Curiel et.al., Paper: [http://arxiv.org/abs/2208.14553v1](http://arxiv.org/abs/2208.14553v1)
+- 2022-08-30, **Gemini North Adaptive Optics (GNAO) facility overview and status updates**, Gaetano Sivo et.al., Paper: [http://arxiv.org/abs/2208.14519v1](http://arxiv.org/abs/2208.14519v1)
+- 2022-08-30, **GOALS-JWST: Hidden Star Formation and Extended PAH Emission in the Luminous Infrared Galaxy VV 114**, Aaron S. Evans et.al., Paper: [http://arxiv.org/abs/2208.14507v1](http://arxiv.org/abs/2208.14507v1)
 - 2022-08-30, **Comparing Results of Thermographic Images Based Diagnosis for Breast Diseases**, E. O. Rodrigues et.al., Paper: [http://arxiv.org/abs/2208.14410v1](http://arxiv.org/abs/2208.14410v1)
 - 2022-08-30, **Probing the Extent of Vertical Mixing in Brown Dwarf Atmospheres with Disequilibrium Chemistry**, Sagnick Mukherjee et.al., Paper: [http://arxiv.org/abs/2208.14317v1](http://arxiv.org/abs/2208.14317v1)
 - 2022-08-30, **A multifrequency characterization of the extragalactic hard X-ray sky**, Matej Kosiba et.al., Paper: [http://arxiv.org/abs/2208.14181v1](http://arxiv.org/abs/2208.14181v1)
@@ -538,6 +548,16 @@
 
 ## Saliency Detection
 
+- 2022-08-31, **Insights on the origin of ORCs from cosmological simulations**, Klaus Dolag et.al., Paper: [http://arxiv.org/abs/2208.15003v1](http://arxiv.org/abs/2208.15003v1)
+- 2022-08-31, **The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 $μ$m**, Aarynn L. Carter et.al., Paper: [http://arxiv.org/abs/2208.14990v1](http://arxiv.org/abs/2208.14990v1)
+- 2022-08-31, **Membrane-based Optomechanical Accelerometry**, Mitul Dey Chowdhury et.al., Paper: [http://arxiv.org/abs/2208.14984v1](http://arxiv.org/abs/2208.14984v1)
+- 2022-08-31, **Primordial black holes and gravitational waves from dissipation during inflation**, Guillermo Ballesteros et.al., Paper: [http://arxiv.org/abs/2208.14978v1](http://arxiv.org/abs/2208.14978v1)
+- 2022-08-31, **Zero-day DDoS Attack Detection**, Cameron Boeder et.al., Paper: [http://arxiv.org/abs/2208.14971v1](http://arxiv.org/abs/2208.14971v1)
+- 2022-08-31, **Inference of Mixed Graphical Models for Dichotomous Phenotypes using Markov Random Field Model**, Jaehyun Park et.al., Paper: [http://arxiv.org/abs/2208.14959v1](http://arxiv.org/abs/2208.14959v1)
+- 2022-08-31, **Magnetic signatures on mixed-mode frequencies. II. Period spacings as a probe of the internal magnetism of red giants**, L. Bugnet et.al., Paper: [http://arxiv.org/abs/2208.14954v1](http://arxiv.org/abs/2208.14954v1)
+- 2022-08-31, **Report on Progress in Physics: Observation of the Breit-Wheeler Process and Vacuum Birefringence in Heavy-Ion Collisions**, James Daniel Brandenburg et.al., Paper: [http://arxiv.org/abs/2208.14943v1](http://arxiv.org/abs/2208.14943v1)
+- 2022-08-31, **Microwalk-CI: Practical Side-Channel Analysis for JavaScript Applications**, Jan Wichelmann et.al., Paper: [http://arxiv.org/abs/2208.14942v1](http://arxiv.org/abs/2208.14942v1)
+- 2022-08-31, **Explainable Artificial Intelligence Applications in Cyber Security: State-of-the-Art in Research**, Zhibo Zhang et.al., Paper: [http://arxiv.org/abs/2208.14937v1](http://arxiv.org/abs/2208.14937v1)
 - 2022-08-30, **Self-Supervised Pyramid Representation Learning for Multi-Label Visual Analysis and Beyond**, Cheng-Yen Hsieh et.al., Paper: [http://arxiv.org/abs/2208.14439v1](http://arxiv.org/abs/2208.14439v1), Code: **[https://github.com/wesleyhsieh0806/ss-prl](https://github.com/wesleyhsieh0806/ss-prl)**
 - 2022-08-30, **FDB: Fraud Dataset Benchmark**, Prince Grover et.al., Paper: [http://arxiv.org/abs/2208.14417v1](http://arxiv.org/abs/2208.14417v1), Code: **[https://github.com/amazon-research/fraud-dataset-benchmark](https://github.com/amazon-research/fraud-dataset-benchmark)**
 - 2022-08-30, **Comparing Results of Thermographic Images Based Diagnosis for Breast Diseases**, E. O. Rodrigues et.al., Paper: [http://arxiv.org/abs/2208.14410v1](http://arxiv.org/abs/2208.14410v1)
