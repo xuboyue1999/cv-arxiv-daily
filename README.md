@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-01**|**Cross-Spectral Neural Radiance Fields**|Matteo Poggi et.al.|[2209.00648v1](http://arxiv.org/abs/2209.00648v1)|null|
+|**2022-09-01**|**Dress code for infrared safe scattering in QED**|Hayato Hirai et.al.|[2209.00608v1](http://arxiv.org/abs/2209.00608v1)|null|
+|**2022-09-01**|**A gap at 1 au in the disk of DI Cha A revealed by infrared interferometry**|Tímea Juhász et.al.|[2209.00553v1](http://arxiv.org/abs/2209.00553v1)|null|
+|**2022-09-01**|**Towards Morphologically Induced Anisotropy in Thermally Hysteretic Dielectric Properties of Vanadium Dioxide**|Tom G. Mackay et.al.|[2209.00492v1](http://arxiv.org/abs/2209.00492v1)|null|
+|**2022-09-01**|**Flux reconstruction for the NIR camera CAGIRE at the focus of the Colibrí telescope**|Alix Nouvel de la Flèche et.al.|[2209.00386v1](http://arxiv.org/abs/2209.00386v1)|null|
+|**2022-09-01**|**Second Harmonic Generation from Grating-Coupled Hybrid Plasmon-Phonon Polaritons**|Marcel Kohlmann et.al.|[2209.00375v1](http://arxiv.org/abs/2209.00375v1)|null|
+|**2022-09-01**|**WISDOM Project -- XIII. Feeding molecular gas to the supermassive black hole in the starburst AGN-host galaxy Fairall 49**|Federico Lelli et.al.|[2209.00363v1](http://arxiv.org/abs/2209.00363v1)|null|
+|**2022-09-01**|**Barrow holographic dark energy models in $f\left( Q\right)$ symmetric teleparallel gravity with Lambert function distribution**|M. Koussour et.al.|[2209.00341v1](http://arxiv.org/abs/2209.00341v1)|null|
+|**2022-09-01**|**Observation and dynamic control of a new pathway of H$_3^+$ formation**|Yonghao Mi et.al.|[2209.00203v1](http://arxiv.org/abs/2209.00203v1)|null|
+|**2022-08-31**|**Spatial and spectral characterization of photon pairs at telecommunication-wavelength from type-0 spontaneous parametric down-conversion**|Evelyn A. Ortega et.al.|[2209.00061v1](http://arxiv.org/abs/2209.00061v1)|null|
 |**2022-09-01**|**The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 $μ$m**|Aarynn L. Carter et.al.|[2208.14990v2](http://arxiv.org/abs/2208.14990v2)|null|
 |**2022-08-31**|**GIARPS High-resolution Observations of T Tauri stars (GHOsT). IV. Accretion properties of the Taurus-Auriga young association**|M. Gangi et.al.|[2208.14895v1](http://arxiv.org/abs/2208.14895v1)|null|
 |**2022-08-31**|**Optical phonons and magneto-elastic coupling in the ionic conductor AgCrSe$_2$**|Jim Groefsema et.al.|[2208.14872v1](http://arxiv.org/abs/2208.14872v1)|null|
@@ -556,6 +566,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-01**|**Visual Prompting via Image Inpainting**|Amir Bar et.al.|[2209.00647v1](http://arxiv.org/abs/2209.00647v1)|null|
+|**2022-09-01**|**Statistical validation of the detection of a sub-dominant quasi-normal mode in GW190521**|Collin D. Capano et.al.|[2209.00640v1](http://arxiv.org/abs/2209.00640v1)|null|
+|**2022-09-01**|**ACCESS: Tentative detection of H$_2$O in the ground-based optical transmission spectrum of the low-density hot Saturn HATS-5b**|Natalie H. Allen et.al.|[2209.00637v1](http://arxiv.org/abs/2209.00637v1)|null|
+|**2022-09-01**|**The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems II: A 1 to 20 Micron Spectrum of the Planetary-Mass Companion VHS 1256-1257 b**|Brittany E. Miles et.al.|[2209.00620v1](http://arxiv.org/abs/2209.00620v1)|null|
+|**2022-09-01**|**Anderson localisation of emergent quasiparticles: Spinon and vison interplay at finite temperature in a $\mathbb{Z}_2$ gauge theory in three dimensions**|Minho Kim et.al.|[2209.00601v1](http://arxiv.org/abs/2209.00601v1)|null|
+|**2022-09-01**|**Hot Exoplanet Atmospheres Resolved with Transit Spectroscopy (HEARTS) VII. Detection of sodium on the long-transiting inflated sub-Saturn KELT-11 b**|Dany Mounzer et.al.|[2209.00597v1](http://arxiv.org/abs/2209.00597v1)|null|
+|**2022-09-01**|**Radio Detection**|A. Connolly et.al.|[2209.00590v1](http://arxiv.org/abs/2209.00590v1)|null|
+|**2022-09-01**|**On Almost-Sure Intention Deception Planning that Exploits Imperfect Observers**|Jie Fu et.al.|[2209.00573v1](http://arxiv.org/abs/2209.00573v1)|null|
+|**2022-09-01**|**Unsupervised Simplification of Legal Texts**|Mert Cemri et.al.|[2209.00557v1](http://arxiv.org/abs/2209.00557v1)|null|
+|**2022-09-01**|**A gap at 1 au in the disk of DI Cha A revealed by infrared interferometry**|Tímea Juhász et.al.|[2209.00553v1](http://arxiv.org/abs/2209.00553v1)|null|
 |**2022-08-31**|**Insights on the origin of ORCs from cosmological simulations**|Klaus Dolag et.al.|[2208.15003v1](http://arxiv.org/abs/2208.15003v1)|null|
 |**2022-09-01**|**The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 $μ$m**|Aarynn L. Carter et.al.|[2208.14990v2](http://arxiv.org/abs/2208.14990v2)|null|
 |**2022-08-31**|**Membrane-based Optomechanical Accelerometry**|Mitul Dey Chowdhury et.al.|[2208.14984v1](http://arxiv.org/abs/2208.14984v1)|null|
