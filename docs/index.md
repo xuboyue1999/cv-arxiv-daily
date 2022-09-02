@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.01
+## Updated on 2022.09.02
 
 ## RGBT
 
@@ -24,7 +24,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-08-31**|**The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 $μ$m**|Aarynn L. Carter et.al.|[2208.14990v1](http://arxiv.org/abs/2208.14990v1)|null|
+|**2022-09-01**|**The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 $μ$m**|Aarynn L. Carter et.al.|[2208.14990v2](http://arxiv.org/abs/2208.14990v2)|null|
 |**2022-08-31**|**GIARPS High-resolution Observations of T Tauri stars (GHOsT). IV. Accretion properties of the Taurus-Auriga young association**|M. Gangi et.al.|[2208.14895v1](http://arxiv.org/abs/2208.14895v1)|null|
 |**2022-08-31**|**Optical phonons and magneto-elastic coupling in the ionic conductor AgCrSe$_2$**|Jim Groefsema et.al.|[2208.14872v1](http://arxiv.org/abs/2208.14872v1)|null|
 |**2022-08-31**|**Hot electron dynamics and relaxation in hyperbolic meta-antennas**|Rakesh Dhama et.al.|[2208.14771v1](http://arxiv.org/abs/2208.14771v1)|null|
@@ -561,7 +561,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-08-31**|**Insights on the origin of ORCs from cosmological simulations**|Klaus Dolag et.al.|[2208.15003v1](http://arxiv.org/abs/2208.15003v1)|null|
-|**2022-08-31**|**The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 $μ$m**|Aarynn L. Carter et.al.|[2208.14990v1](http://arxiv.org/abs/2208.14990v1)|null|
+|**2022-09-01**|**The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 $μ$m**|Aarynn L. Carter et.al.|[2208.14990v2](http://arxiv.org/abs/2208.14990v2)|null|
 |**2022-08-31**|**Membrane-based Optomechanical Accelerometry**|Mitul Dey Chowdhury et.al.|[2208.14984v1](http://arxiv.org/abs/2208.14984v1)|null|
 |**2022-08-31**|**Primordial black holes and gravitational waves from dissipation during inflation**|Guillermo Ballesteros et.al.|[2208.14978v1](http://arxiv.org/abs/2208.14978v1)|null|
 |**2022-08-31**|**Zero-day DDoS Attack Detection**|Cameron Boeder et.al.|[2208.14971v1](http://arxiv.org/abs/2208.14971v1)|null|
