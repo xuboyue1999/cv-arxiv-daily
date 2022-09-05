@@ -20,6 +20,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-02**|**GOALS-JWST: Resolving the Circumnuclear Gas Dynamics in NGC 7469 in the Mid-Infrared**|Vivian U et.al.|[2209.01210v1](http://arxiv.org/abs/2209.01210v1)|null|
+|**2022-09-02**|**Tip-tilt anisoplanatism in MCAO-assisted astrometric observations**|Giulia Carlà et.al.|[2209.00912v1](http://arxiv.org/abs/2209.00912v1)|null|
+|**2022-09-02**|**Dual-Band Metal-Insulator-Metasurface Absorber**|Ibrahim Issah et.al.|[2209.00867v1](http://arxiv.org/abs/2209.00867v1)|null|
+|**2022-09-02**|**Characterization of the MASCOT landing area by Hayabusa2**|Stefan Schröder et.al.|[2209.00856v1](http://arxiv.org/abs/2209.00856v1)|null|
+|**2022-09-01**|**Spritz is sparkling: simulated CO and [CII] luminosities**|L. Bisigello et.al.|[2209.00662v1](http://arxiv.org/abs/2209.00662v1)|null|
 |**2022-09-01**|**Cross-Spectral Neural Radiance Fields**|Matteo Poggi et.al.|[2209.00648v1](http://arxiv.org/abs/2209.00648v1)|null|
 |**2022-09-01**|**Dress code for infrared safe scattering in QED**|Hayato Hirai et.al.|[2209.00608v1](http://arxiv.org/abs/2209.00608v1)|null|
 |**2022-09-01**|**A gap at 1 au in the disk of DI Cha A revealed by infrared interferometry**|Tímea Juhász et.al.|[2209.00553v1](http://arxiv.org/abs/2209.00553v1)|null|
@@ -566,6 +571,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-02**|**Early detection of knee osteoarthritis using deep learning on knee magnetic resonance images**|Anastasis Alexopoulos et.al.|[2209.01192v1](http://arxiv.org/abs/2209.01192v1)|null|
+|**2022-09-02**|**Automatic Detection of Speculative Execution Combinations**|Xaver Fabian et.al.|[2209.01179v1](http://arxiv.org/abs/2209.01179v1)|null|
+|**2022-09-02**|**In Situ 3D Spatiotemporal Measurement of Soluble Biomarkers in Organoid Culture**|Alexander J McGhee et.al.|[2209.01164v1](http://arxiv.org/abs/2209.01164v1)|null|
+|**2022-09-02**|**Optical Rectification and Electro-Optic Sampling in Quartz**|Vasileios Balos et.al.|[2209.01153v1](http://arxiv.org/abs/2209.01153v1)|null|
+|**2022-09-02**|**RVSPY -- Radial Velocity Survey for Planets around Young Stars. Target characterization and high-cadence survey**|O. Zakhozhay et.al.|[2209.01125v1](http://arxiv.org/abs/2209.01125v1)|null|
+|**2022-09-02**|**nnOOD: A Framework for Benchmarking Self-supervised Anomaly Localisation Methods**|Matthew Baugh et.al.|[2209.01124v1](http://arxiv.org/abs/2209.01124v1)|**[link](https://github.com/matt-baugh/nnood)**|
+|**2022-09-02**|**Recognizing the constitution of small bodies in extreme-mass-ratio inspirals by gravitational waves**|Shu-Cheng Yang et.al.|[2209.01110v1](http://arxiv.org/abs/2209.01110v1)|null|
+|**2022-09-02**|**Early dark energy by dark Higgs, and axion-induced non-thermal trapping**|Shota Nakagawa et.al.|[2209.01107v1](http://arxiv.org/abs/2209.01107v1)|null|
+|**2022-09-02**|**Fiducial Marker Detection in Multi-Viewpoint Point Cloud**|Yibo Liu et.al.|[2209.01072v1](http://arxiv.org/abs/2209.01072v1)|**[link](https://github.com/York-SDCNLab/Marker-Detection-General)**|
+|**2022-09-02**|**Well balanced finite volume schemes for shallow water equations on manifolds**|Michele Giuliano Carlino et.al.|[2209.01036v1](http://arxiv.org/abs/2209.01036v1)|null|
 |**2022-09-01**|**Visual Prompting via Image Inpainting**|Amir Bar et.al.|[2209.00647v1](http://arxiv.org/abs/2209.00647v1)|null|
 |**2022-09-01**|**Statistical validation of the detection of a sub-dominant quasi-normal mode in GW190521**|Collin D. Capano et.al.|[2209.00640v1](http://arxiv.org/abs/2209.00640v1)|null|
 |**2022-09-01**|**ACCESS: Tentative detection of H$_2$O in the ground-based optical transmission spectrum of the low-density hot Saturn HATS-5b**|Natalie H. Allen et.al.|[2209.00637v1](http://arxiv.org/abs/2209.00637v1)|null|
