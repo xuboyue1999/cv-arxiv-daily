@@ -583,7 +583,7 @@ layout: default
 |**2022-09-02**|**nnOOD: A Framework for Benchmarking Self-supervised Anomaly Localisation Methods**|Matthew Baugh et.al.|[2209.01124v1](http://arxiv.org/abs/2209.01124v1)|**[link](https://github.com/matt-baugh/nnood)**|
 |**2022-09-02**|**Recognizing the constitution of small bodies in extreme-mass-ratio inspirals by gravitational waves**|Shu-Cheng Yang et.al.|[2209.01110v1](http://arxiv.org/abs/2209.01110v1)|null|
 |**2022-09-02**|**Early dark energy by dark Higgs, and axion-induced non-thermal trapping**|Shota Nakagawa et.al.|[2209.01107v1](http://arxiv.org/abs/2209.01107v1)|null|
-|**2022-09-02**|**Fiducial Marker Detection in Multi-Viewpoint Point Cloud**|Yibo Liu et.al.|[2209.01072v1](http://arxiv.org/abs/2209.01072v1)|**[link](https://github.com/York-SDCNLab/Marker-Detection-General)**|
+|**2022-09-02**|**Fiducial Marker Detection in Multi-Viewpoint Point Cloud**|Yibo Liu et.al.|[2209.01072v1](http://arxiv.org/abs/2209.01072v1)|**[link](https://github.com/york-sdcnlab/m_livox_mapping)**|
 |**2022-09-02**|**Well balanced finite volume schemes for shallow water equations on manifolds**|Michele Giuliano Carlino et.al.|[2209.01036v1](http://arxiv.org/abs/2209.01036v1)|null|
 |**2022-09-01**|**Visual Prompting via Image Inpainting**|Amir Bar et.al.|[2209.00647v1](http://arxiv.org/abs/2209.00647v1)|null|
 |**2022-09-01**|**Statistical validation of the detection of a sub-dominant quasi-normal mode in GW190521**|Collin D. Capano et.al.|[2209.00640v1](http://arxiv.org/abs/2209.00640v1)|null|
