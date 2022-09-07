@@ -24,6 +24,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-06**|**An updated measurement of the Hubble constant from near-infrared observations of Type Ia supernovae**|Lluís Galbany et.al.|[2209.02546v1](http://arxiv.org/abs/2209.02546v1)|null|
+|**2022-09-06**|**Second-order stochastic theory for self-interacting scalar fields in de Sitter spacetime**|Archie Cable et.al.|[2209.02545v1](http://arxiv.org/abs/2209.02545v1)|null|
+|**2022-09-06**|**Neutrino transport in general relativistic neutron star merger simulations**|Francois Foucart et.al.|[2209.02538v1](http://arxiv.org/abs/2209.02538v1)|null|
+|**2022-09-06**|**Multiwavelength modeling the SED of Luminous Supersoft X-ray Sources in Large Magellanic Cloud and Small Magellanic Cloud**|Augustin Skopal et.al.|[2209.02524v1](http://arxiv.org/abs/2209.02524v1)|null|
+|**2022-09-06**|**Intensity Interferometry at Calern and beyond: progress report**|Nolan Matthews et.al.|[2209.02477v1](http://arxiv.org/abs/2209.02477v1)|null|
+|**2022-09-06**|**Multiwavelength Survey of Dark Globule DC 314.8-5.1: Point Source Identification and Diffuse Emission Characterization**|E. Kosmaczewski et.al.|[2209.02372v1](http://arxiv.org/abs/2209.02372v1)|null|
+|**2022-09-06**|**A pilot ASKAP survey for radio transients towards the Galactic Centre**|Ziteng Wang et.al.|[2209.02352v1](http://arxiv.org/abs/2209.02352v1)|null|
+|**2022-09-06**|**Discovery of an Ultra Lithium-rich Metal-Poor Red Giant star**|Jeremy Kowkabany et.al.|[2209.02184v1](http://arxiv.org/abs/2209.02184v1)|null|
+|**2022-09-05**|**Forward light-by-light scattering and electromagnetic correction to hadronic vacuum polarization**|Volodymyr Biloshytskyi et.al.|[2209.02149v1](http://arxiv.org/abs/2209.02149v1)|null|
+|**2022-09-05**|**Upgrading the high contrast imaging facility SPHERE: science drivers and instrument choices**|A. Boccaletti et.al.|[2209.02092v1](http://arxiv.org/abs/2209.02092v1)|null|
 |**2022-09-02**|**GOALS-JWST: Resolving the Circumnuclear Gas Dynamics in NGC 7469 in the Mid-Infrared**|Vivian U et.al.|[2209.01210v1](http://arxiv.org/abs/2209.01210v1)|null|
 |**2022-09-02**|**Tip-tilt anisoplanatism in MCAO-assisted astrometric observations**|Giulia Carlà et.al.|[2209.00912v1](http://arxiv.org/abs/2209.00912v1)|null|
 |**2022-09-02**|**Dual-Band Metal-Insulator-Metasurface Absorber**|Ibrahim Issah et.al.|[2209.00867v1](http://arxiv.org/abs/2209.00867v1)|null|
@@ -575,6 +585,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-06**|**Deep Learning Assisted Optimization for 3D Reconstruction from Single 2D Line Drawings**|Zheng Jia et.al.|[2209.02692v1](http://arxiv.org/abs/2209.02692v1)|null|
+|**2022-09-06**|**Design and upgrade of the prototype Schwarzschild-Couder Telescope**|Leslie Taylor et.al.|[2209.02680v1](http://arxiv.org/abs/2209.02680v1)|null|
+|**2022-09-06**|**A Complex Window-Based Joint Chirp Rate Time Frequency Transform for BBH Merger Gravitational Wave Signal Detection**|Xiyuan Li et.al.|[2209.02673v1](http://arxiv.org/abs/2209.02673v1)|null|
+|**2022-09-06**|**Group-$k$ Consistent Measurement Set Maximization for Robust Outlier Detection**|Brendon Forsgren et.al.|[2209.02658v1](http://arxiv.org/abs/2209.02658v1)|null|
+|**2022-09-06**|**On Modelling Sputtering of Interstellar Grain Ices**|Alec Paulive et.al.|[2209.02648v1](http://arxiv.org/abs/2209.02648v1)|null|
+|**2022-09-06**|**AstroPix: Novel monolithic active pixel silicon sensors for future gamma-ray telescopes**|Amanda L. Steinhebel et.al.|[2209.02631v1](http://arxiv.org/abs/2209.02631v1)|null|
+|**2022-09-06**|**Multiscale major factor selections for complex system data with structural dependency and heterogeneity**|Hsieh Fushing et.al.|[2209.02623v1](http://arxiv.org/abs/2209.02623v1)|null|
+|**2022-09-06**|**Automatic counting of mounds on UAV images: combining instance segmentation and patch-level correction**|Majid Nikougoftar Nategh et.al.|[2209.02608v1](http://arxiv.org/abs/2209.02608v1)|null|
+|**2022-09-06**|**Rydberg atom-based Electrometry Using a Self-Heterodyne Frequency Comb Readout and Preparation Scheme**|Katelyn Dixon et.al.|[2209.02583v1](http://arxiv.org/abs/2209.02583v1)|null|
+|**2022-09-06**|**Towards Understanding Third-party Library Dependency in C/C++ Ecosystem**|Wei Tang et.al.|[2209.02575v1](http://arxiv.org/abs/2209.02575v1)|null|
 |**2022-09-02**|**Early detection of knee osteoarthritis using deep learning on knee magnetic resonance images**|Anastasis Alexopoulos et.al.|[2209.01192v1](http://arxiv.org/abs/2209.01192v1)|null|
 |**2022-09-02**|**Automatic Detection of Speculative Execution Combinations**|Xaver Fabian et.al.|[2209.01179v1](http://arxiv.org/abs/2209.01179v1)|null|
 |**2022-09-06**|**In Situ 3D Spatiotemporal Measurement of Soluble Biomarkers in Organoid Culture**|Alexander J McGhee et.al.|[2209.01164v2](http://arxiv.org/abs/2209.01164v2)|null|
