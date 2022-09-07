@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.06
+## Updated on 2022.09.07
 
 ## RGBT
 
@@ -577,7 +577,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-09-02**|**Early detection of knee osteoarthritis using deep learning on knee magnetic resonance images**|Anastasis Alexopoulos et.al.|[2209.01192v1](http://arxiv.org/abs/2209.01192v1)|null|
 |**2022-09-02**|**Automatic Detection of Speculative Execution Combinations**|Xaver Fabian et.al.|[2209.01179v1](http://arxiv.org/abs/2209.01179v1)|null|
-|**2022-09-02**|**In Situ 3D Spatiotemporal Measurement of Soluble Biomarkers in Organoid Culture**|Alexander J McGhee et.al.|[2209.01164v1](http://arxiv.org/abs/2209.01164v1)|null|
+|**2022-09-06**|**In Situ 3D Spatiotemporal Measurement of Soluble Biomarkers in Organoid Culture**|Alexander J McGhee et.al.|[2209.01164v2](http://arxiv.org/abs/2209.01164v2)|null|
 |**2022-09-02**|**Optical Rectification and Electro-Optic Sampling in Quartz**|Vasileios Balos et.al.|[2209.01153v1](http://arxiv.org/abs/2209.01153v1)|null|
 |**2022-09-02**|**RVSPY -- Radial Velocity Survey for Planets around Young Stars. Target characterization and high-cadence survey**|O. Zakhozhay et.al.|[2209.01125v1](http://arxiv.org/abs/2209.01125v1)|null|
 |**2022-09-02**|**nnOOD: A Framework for Benchmarking Self-supervised Anomaly Localisation Methods**|Matthew Baugh et.al.|[2209.01124v1](http://arxiv.org/abs/2209.01124v1)|**[link](https://github.com/matt-baugh/nnood)**|
