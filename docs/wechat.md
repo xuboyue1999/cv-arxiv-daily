@@ -16,6 +16,14 @@
 
 ## Infrared
 
+- 2022-09-07, **Twinkle -- a small satellite spectroscopy mission for the next phase of exoplanet science**, Ian Stotesbury et.al., Paper: [http://arxiv.org/abs/2209.03337v1](http://arxiv.org/abs/2209.03337v1)
+- 2022-09-07, **Addendum: Timelike and spacelike kernel functions for the hadronic vacuum polarization contribution to the muon anomalous magnetic moment (2022 J. Phys. G: Nucl. Part. Phys. 49 055001)**, A. V. Nesterenko et.al., Paper: [http://arxiv.org/abs/2209.03217v1](http://arxiv.org/abs/2209.03217v1)
+- 2022-09-07, **Status of the PSF Reconstruction Work Package for MICADO ELT**, Andrea Grazian et.al., Paper: [http://arxiv.org/abs/2209.03161v1](http://arxiv.org/abs/2209.03161v1)
+- 2022-09-07, **Probing the Mpc-scale environment of hyperluminous infrared galaxies at 2<z<4**, F. Gao et.al., Paper: [http://arxiv.org/abs/2209.03088v1](http://arxiv.org/abs/2209.03088v1)
+- 2022-09-07, **Controlling petals using fringes: discontinuous wavefront sensing through sparse aperture interferometry at Subaru/SCExAO**, Vincent Deo et.al., Paper: [http://arxiv.org/abs/2209.02898v1](http://arxiv.org/abs/2209.02898v1)
+- 2022-09-06, **From Clusters to Proto-clusters: the Infrared Perspective on Environmental Galaxy Evolution**, Stacey Alberts et.al., Paper: [http://arxiv.org/abs/2209.02781v1](http://arxiv.org/abs/2209.02781v1)
+- 2022-09-06, **A Comparative L-dwarf Sample Exploring the Interplay Between Atmospheric Assumptions and Data Properties**, Eileen C. Gonzales et.al., Paper: [http://arxiv.org/abs/2209.02754v1](http://arxiv.org/abs/2209.02754v1)
+- 2022-09-06, **Tracing the Milky Way warp and spiral arms with classical Cepheids**, B. Lemasle et.al., Paper: [http://arxiv.org/abs/2209.02731v1](http://arxiv.org/abs/2209.02731v1)
 - 2022-09-06, **An updated measurement of the Hubble constant from near-infrared observations of Type Ia supernovae**, Lluís Galbany et.al., Paper: [http://arxiv.org/abs/2209.02546v1](http://arxiv.org/abs/2209.02546v1)
 - 2022-09-06, **Second-order stochastic theory for self-interacting scalar fields in de Sitter spacetime**, Archie Cable et.al., Paper: [http://arxiv.org/abs/2209.02545v1](http://arxiv.org/abs/2209.02545v1)
 - 2022-09-06, **Neutrino transport in general relativistic neutron star merger simulations**, Francois Foucart et.al., Paper: [http://arxiv.org/abs/2209.02538v1](http://arxiv.org/abs/2209.02538v1)
@@ -573,6 +581,16 @@
 
 ## Saliency Detection
 
+- 2022-09-07, **Data Leakage in Notebooks: Static Detection and Better Processes**, Chenyang Yang et.al., Paper: [http://arxiv.org/abs/2209.03345v1](http://arxiv.org/abs/2209.03345v1)
+- 2022-09-07, **The Branes Behind Generalized Symmetry Operators**, Jonathan J. Heckman et.al., Paper: [http://arxiv.org/abs/2209.03343v1](http://arxiv.org/abs/2209.03343v1)
+- 2022-09-07, **Detection and Mapping of Specular Surfaces Using Multibounce Lidar Returns**, Connor Henley et.al., Paper: [http://arxiv.org/abs/2209.03336v1](http://arxiv.org/abs/2209.03336v1)
+- 2022-09-07, **Minimum-entropy causal inference and its application in brain network analysis**, Lipeng Ning et.al., Paper: [http://arxiv.org/abs/2209.03329v1](http://arxiv.org/abs/2209.03329v1)
+- 2022-09-07, **Joint Learning of Deep Texture and High-Frequency Features for Computer-Generated Image Detection**, Qiang Xu et.al., Paper: [http://arxiv.org/abs/2209.03322v1](http://arxiv.org/abs/2209.03322v1)
+- 2022-09-07, **Measurement of the Usage of Web Clips in Underground Economy**, Qinyu Hu et.al., Paper: [http://arxiv.org/abs/2209.03319v1](http://arxiv.org/abs/2209.03319v1)
+- 2022-09-07, **SZZ in the time of Pull Requests**, Fernando Petrulio et.al., Paper: [http://arxiv.org/abs/2209.03311v1](http://arxiv.org/abs/2209.03311v1)
+- 2022-09-07, **Accurate Cooperative Sensor Fusion by Parameterized Covariance Generation for Sensing and Localization Pipelines in CAVs**, Edward Andert et.al., Paper: [http://arxiv.org/abs/2209.03306v1](http://arxiv.org/abs/2209.03306v1)
+- 2022-09-07, **MaNGA 8313-1901: gas accretion observed in a blue compact dwarf galaxy?**, Mengting Ju et.al., Paper: [http://arxiv.org/abs/2209.03298v1](http://arxiv.org/abs/2209.03298v1)
+- 2022-09-07, **Detectability of Rotational Modulation in Kepler Sun-like Stars as a Function of Age**, Kento Masuda et.al., Paper: [http://arxiv.org/abs/2209.03279v1](http://arxiv.org/abs/2209.03279v1)
 - 2022-09-07, **Deep Learning Assisted Optimization for 3D Reconstruction from Single 2D Line Drawings**, Jia Zheng et.al., Paper: [http://arxiv.org/abs/2209.02692v2](http://arxiv.org/abs/2209.02692v2)
 - 2022-09-06, **Design and upgrade of the prototype Schwarzschild-Couder Telescope**, Leslie Taylor et.al., Paper: [http://arxiv.org/abs/2209.02680v1](http://arxiv.org/abs/2209.02680v1)
 - 2022-09-06, **A Complex Window-Based Joint Chirp Rate Time Frequency Transform for BBH Merger Gravitational Wave Signal Detection**, Xiyuan Li et.al., Paper: [http://arxiv.org/abs/2209.02673v1](http://arxiv.org/abs/2209.02673v1)
