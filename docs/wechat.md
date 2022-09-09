@@ -1,4 +1,4 @@
-> Updated on 2022.09.08
+> Updated on 2022.09.09
 
 ## RGBT
 
@@ -16,6 +16,16 @@
 
 ## Infrared
 
+- 2022-09-08, **CHEOPS finds KELT-1b darker than expected in visible light: Discrepancy between the CHEOPS and TESS eclipse depths**, H. Parviainen et.al., Paper: [http://arxiv.org/abs/2209.03890v1](http://arxiv.org/abs/2209.03890v1)
+- 2022-09-08, **Green synthesis of eco-friendly silver nanoparticles using Coffee arabica leaf extract and development of a cost-effective biosensor for cysteine**, E. S. Harsha Haridas et.al., Paper: [http://arxiv.org/abs/2209.03823v1](http://arxiv.org/abs/2209.03823v1)
+- 2022-09-08, **Structure, magnetism, and spin dynamics of van der Waals ferromagnet VI3**, David Hovancik et.al., Paper: [http://arxiv.org/abs/2209.03725v1](http://arxiv.org/abs/2209.03725v1)
+- 2022-09-08, **Application of image-to-image translation in improving pedestrian detection**, Devarsh Patel et.al., Paper: [http://arxiv.org/abs/2209.03625v1](http://arxiv.org/abs/2209.03625v1)
+- 2022-09-07, **Evolution of Galaxy Types and HI Gas in Hickson Compact Groups**, Yao Liu et.al., Paper: [http://arxiv.org/abs/2209.03490v1](http://arxiv.org/abs/2209.03490v1)
+- 2022-09-07, **Performance of the upgraded VERITAS Stellar Intensity Interferometer (VSII)**, David B. Kieda et.al., Paper: [http://arxiv.org/abs/2209.03453v1](http://arxiv.org/abs/2209.03453v1)
+- 2022-09-07, **Near-infrared observations of RR Lyrae and Type II Cepheid variables in the metal-rich bulge globular cluster NGC 6441**, A. Bhardwaj et.al., Paper: [http://arxiv.org/abs/2209.03384v1](http://arxiv.org/abs/2209.03384v1)
+- 2022-09-07, **X-ray Absorption and Reprocessing in the $z \sim 2.5$ Lensed Quasar 2MASS J1042+1641**, D. J. Walton et.al., Paper: [http://arxiv.org/abs/2209.03381v1](http://arxiv.org/abs/2209.03381v1)
+- 2022-09-07, **A Population of Dipper Stars from the Transiting Exoplanet Survey Satellite Mission**, Benjamin K. Capistrant et.al., Paper: [http://arxiv.org/abs/2209.03379v1](http://arxiv.org/abs/2209.03379v1)
+- 2022-09-07, **A long gamma-ray burst from a merger of compact objects**, E. Troja et.al., Paper: [http://arxiv.org/abs/2209.03363v1](http://arxiv.org/abs/2209.03363v1)
 - 2022-09-07, **Twinkle -- a small satellite spectroscopy mission for the next phase of exoplanet science**, Ian Stotesbury et.al., Paper: [http://arxiv.org/abs/2209.03337v1](http://arxiv.org/abs/2209.03337v1)
 - 2022-09-07, **Addendum: Timelike and spacelike kernel functions for the hadronic vacuum polarization contribution to the muon anomalous magnetic moment (2022 J. Phys. G: Nucl. Part. Phys. 49 055001)**, A. V. Nesterenko et.al., Paper: [http://arxiv.org/abs/2209.03217v1](http://arxiv.org/abs/2209.03217v1)
 - 2022-09-07, **Status of the PSF Reconstruction Work Package for MICADO ELT**, Andrea Grazian et.al., Paper: [http://arxiv.org/abs/2209.03161v1](http://arxiv.org/abs/2209.03161v1)
@@ -581,6 +591,16 @@
 
 ## Saliency Detection
 
+- 2022-09-08, **W-Transformers : A Wavelet-based Transformer Framework for Univariate Time Series Forecasting**, Lena Sasal et.al., Paper: [http://arxiv.org/abs/2209.03945v1](http://arxiv.org/abs/2209.03945v1)
+- 2022-09-08, **Exploring Target Representations for Masked Autoencoders**, Xingbin Liu et.al., Paper: [http://arxiv.org/abs/2209.03917v1](http://arxiv.org/abs/2209.03917v1)
+- 2022-09-08, **Dyadic Interaction Assessment from Free-living Audio for Depression Severity Assessment**, Bishal Lamichhane et.al., Paper: [http://arxiv.org/abs/2209.03901v1](http://arxiv.org/abs/2209.03901v1)
+- 2022-09-08, **Heat capacity double transitions in time-reversal symmetry broken superconductors**, Henrik S. Røising et.al., Paper: [http://arxiv.org/abs/2209.03896v1](http://arxiv.org/abs/2209.03896v1)
+- 2022-09-08, **IDIAPers @ Causal News Corpus 2022: Extracting Cause-Effect-Signal Triplets via Pre-trained Autoregressive Language Model**, Martin Fajcik et.al., Paper: [http://arxiv.org/abs/2209.03891v1](http://arxiv.org/abs/2209.03891v1)
+- 2022-09-08, **CHEOPS finds KELT-1b darker than expected in visible light: Discrepancy between the CHEOPS and TESS eclipse depths**, H. Parviainen et.al., Paper: [http://arxiv.org/abs/2209.03890v1](http://arxiv.org/abs/2209.03890v1)
+- 2022-09-08, **Mass Production of 2021 KMTNet Microlensing Planets III: Analysis of Three Giant Planets**, In-Gu Shin et.al., Paper: [http://arxiv.org/abs/2209.03886v1](http://arxiv.org/abs/2209.03886v1)
+- 2022-09-08, **An Efficient Radar Receiver for OFDM-based Joint Radar and Communication Systems**, Mamady Delamou et.al., Paper: [http://arxiv.org/abs/2209.03883v1](http://arxiv.org/abs/2209.03883v1)
+- 2022-09-08, **Two decades of X-ray observations of the isolated neutron star RX J1856.5-3754: detection of thermal and non-thermal hard X-rays and refined spin-down measurement**, Davide De Grandis et.al., Paper: [http://arxiv.org/abs/2209.03874v1](http://arxiv.org/abs/2209.03874v1)
+- 2022-09-08, **Observation of photon-phonon correlations via dissipative filtering**, Mengdi Zhao et.al., Paper: [http://arxiv.org/abs/2209.03869v1](http://arxiv.org/abs/2209.03869v1)
 - 2022-09-07, **Data Leakage in Notebooks: Static Detection and Better Processes**, Chenyang Yang et.al., Paper: [http://arxiv.org/abs/2209.03345v1](http://arxiv.org/abs/2209.03345v1)
 - 2022-09-07, **The Branes Behind Generalized Symmetry Operators**, Jonathan J. Heckman et.al., Paper: [http://arxiv.org/abs/2209.03343v1](http://arxiv.org/abs/2209.03343v1)
 - 2022-09-07, **Detection and Mapping of Specular Surfaces Using Multibounce Lidar Returns**, Connor Henley et.al., Paper: [http://arxiv.org/abs/2209.03336v1](http://arxiv.org/abs/2209.03336v1)
