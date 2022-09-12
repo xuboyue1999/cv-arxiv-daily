@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.11
+## Updated on 2022.09.12
 
 ## RGBT
 
@@ -24,6 +24,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-09**|**SFR estimations from z=0 to z=0.9 -- A comparison of SFR calibrators for star-forming galaxies**|M. Figueira et.al.|[2209.04390v1](http://arxiv.org/abs/2209.04390v1)|null|
+|**2022-09-09**|**Unsupervised segmentation of biomedical hyperspectral image data: tackling high dimensionality with convolutional autoencoders**|Ciaran Bench et.al.|[2209.04375v1](http://arxiv.org/abs/2209.04375v1)|null|
+|**2022-09-09**|**Accretion and extinction variations in the low-mass pre-main sequence binary system WX Cha**|Eleonora Fiorellino et.al.|[2209.04304v1](http://arxiv.org/abs/2209.04304v1)|null|
+|**2022-09-09**|**Leakage of gravitational waves into an extra dimension in the DGP model**|M. Khlopunov et.al.|[2209.04262v1](http://arxiv.org/abs/2209.04262v1)|null|
+|**2022-09-09**|**ArTéMiS imaging of the filamentary infrared dark clouds G1.75-0.08 and G11.36+0.80: Dust-based physical properties of the clouds and their clumps**|Oskari Miettinen et.al.|[2209.04146v1](http://arxiv.org/abs/2209.04146v1)|null|
+|**2022-09-09**|**High quality entanglement distribution through telecommunication fiber using near-infrared non-degenerate photon pairs**|Rui Wang et.al.|[2209.04103v1](http://arxiv.org/abs/2209.04103v1)|null|
+|**2022-09-09**|**MassMIND: Massachusetts Maritime INfrared Dataset**|Shailesh Nirgudkar et.al.|[2209.04097v1](http://arxiv.org/abs/2209.04097v1)|null|
+|**2022-09-08**|**Platform-agnostic waveguide integration of high-speed photodetectors with evaporated tellurium thin films**|Geun Ho Ahn et.al.|[2209.04034v1](http://arxiv.org/abs/2209.04034v1)|null|
+|**2022-09-08**|**Cross-Modal Knowledge Transfer Without Task-Relevant Source Data**|Sk Miraj Ahmed et.al.|[2209.04027v1](http://arxiv.org/abs/2209.04027v1)|null|
+|**2022-09-08**|**Characterizing Compact 15-33 GHz Radio Continuum Sources in Local U/LIRGs**|Y. Song et.al.|[2209.04002v1](http://arxiv.org/abs/2209.04002v1)|null|
 |**2022-09-08**|**CHEOPS finds KELT-1b darker than expected in visible light: Discrepancy between the CHEOPS and TESS eclipse depths**|H. Parviainen et.al.|[2209.03890v1](http://arxiv.org/abs/2209.03890v1)|null|
 |**2022-09-08**|**Green synthesis of eco-friendly silver nanoparticles using Coffee arabica leaf extract and development of a cost-effective biosensor for cysteine**|E. S. Harsha Haridas et.al.|[2209.03823v1](http://arxiv.org/abs/2209.03823v1)|null|
 |**2022-09-08**|**Structure, magnetism, and spin dynamics of van der Waals ferromagnet VI3**|David Hovancik et.al.|[2209.03725v1](http://arxiv.org/abs/2209.03725v1)|null|
@@ -603,6 +613,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-09**|**Investigation of a Machine learning methodology for the SKA pulsar search pipeline**|Shashank Sanjay Bhat et.al.|[2209.04430v1](http://arxiv.org/abs/2209.04430v1)|null|
+|**2022-09-09**|**Multifractal charactarization as a function of timescale in the light curves with planetary signal observed by the kepler mission**|F. J. S. Lima Filho et.al.|[2209.04408v1](http://arxiv.org/abs/2209.04408v1)|null|
+|**2022-09-09**|**XQC and CSR constraints on strongly interacting dark matter with spin and velocity dependent cross sections**|Yonglin Li et.al.|[2209.04387v1](http://arxiv.org/abs/2209.04387v1)|null|
+|**2022-09-09**|**Unsupervised segmentation of biomedical hyperspectral image data: tackling high dimensionality with convolutional autoencoders**|Ciaran Bench et.al.|[2209.04375v1](http://arxiv.org/abs/2209.04375v1)|null|
+|**2022-09-09**|**The Laser Interferometer Space Antenna mission in Greece White Paper**|Nikolaos Karnesis et.al.|[2209.04358v1](http://arxiv.org/abs/2209.04358v1)|null|
+|**2022-09-09**|**On Specification-based Cyber-Attack Detection in Smart Grids**|Ömer Sen Dennis van der Velde et.al.|[2209.04354v1](http://arxiv.org/abs/2209.04354v1)|null|
+|**2022-09-09**|**Detecting critical points from Lee-Yang edge singularities in lattice QCD**|Christian Schmidt et.al.|[2209.04345v1](http://arxiv.org/abs/2209.04345v1)|null|
+|**2022-09-09**|**Non-Adiabatic Electronic and Vibrational Ring-Opening Dynamics resolved with Attosecond Core-Level Spectroscopy**|S. Severino et.al.|[2209.04330v1](http://arxiv.org/abs/2209.04330v1)|null|
+|**2022-09-09**|**Teleconnections among Tipping Elements in the Earth System**|Teng Liu et.al.|[2209.04327v1](http://arxiv.org/abs/2209.04327v1)|null|
+|**2022-09-09**|**Saliency Guided Adversarial Training for Learning Generalizable Features with Applications to Medical Imaging Classification System**|Xin Li et.al.|[2209.04326v1](http://arxiv.org/abs/2209.04326v1)|null|
 |**2022-09-08**|**W-Transformers : A Wavelet-based Transformer Framework for Univariate Time Series Forecasting**|Lena Sasal et.al.|[2209.03945v1](http://arxiv.org/abs/2209.03945v1)|null|
 |**2022-09-08**|**Exploring Target Representations for Masked Autoencoders**|Xingbin Liu et.al.|[2209.03917v1](http://arxiv.org/abs/2209.03917v1)|null|
 |**2022-09-08**|**Dyadic Interaction Assessment from Free-living Audio for Depression Severity Assessment**|Bishal Lamichhane et.al.|[2209.03901v1](http://arxiv.org/abs/2209.03901v1)|null|
