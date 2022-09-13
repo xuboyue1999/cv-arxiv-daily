@@ -16,7 +16,7 @@ layout: default
 |**2021-09-16**|**Dynamic Fusion Network for RGBT Tracking**|Jingchao Peng et.al.|[2109.07662v1](http://arxiv.org/abs/2109.07662v1)|null|
 |**2021-11-26**|**LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking**|Chenglong Li et.al.|[2104.13202v2](http://arxiv.org/abs/2104.13202v2)|**[link](https://github.com/BUGPLEASEOUT/LasHeR)**|
 |**2021-04-06**|**Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting**|Lingbo Liu et.al.|[2012.04529v2](http://arxiv.org/abs/2012.04529v2)|null|
-|**2020-12-08**|**Multi-modal Visual Tracking: Review and Experimental Comparison**|Pengyu Zhang et.al.|[2012.04176v1](http://arxiv.org/abs/2012.04176v1)|**[link](https://github.com/zhang-pengyu/Multimodal-Tracking-Survey)**|
+|**2020-12-08**|**Multi-modal Visual Tracking: Review and Experimental Comparison**|Pengyu Zhang et.al.|[2012.04176v1](http://arxiv.org/abs/2012.04176v1)|**[link](https://github.com/zhang-pengyu/Multimodal_tracking_survey)**|
 |**2021-06-04**|**RGBT Tracking via Multi-Adapter Network with Hierarchical Divergence Loss**|Andong Lu et.al.|[2011.07189v3](http://arxiv.org/abs/2011.07189v3)|null|
 |**2022-04-29**|**Duality-Gated Mutual Condition Network for RGBT Tracking**|Andong Lu et.al.|[2011.07188v3](http://arxiv.org/abs/2011.07188v3)|null|
 
@@ -24,6 +24,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-12**|**Constraining the physics of star formation from CIB-cosmic shear cross-correlations**|Baptiste Jego et.al.|[2209.05472v1](http://arxiv.org/abs/2209.05472v1)|null|
+|**2022-09-12**|**SIPGI: an interactive pipeline for spectroscopic data reduction**|A. Gargiulo et.al.|[2209.05441v1](http://arxiv.org/abs/2209.05441v1)|null|
+|**2022-09-12**|**Astrometry of variable compact radio sources: A search for Galactic black hole X-ray binaries**|P. Atri et.al.|[2209.05437v1](http://arxiv.org/abs/2209.05437v1)|null|
+|**2022-09-12**|**The phase curve and the geometric albedo of WASP-43b measured with CHEOPS, TESS and HST WFC3/UVIS**|G. Scandariato et.al.|[2209.05303v1](http://arxiv.org/abs/2209.05303v1)|null|
+|**2022-09-12**|**What could KIDSpec, a new MKID spectrograph, do on the ELT?**|V. Benedict Hofmann et.al.|[2209.05144v1](http://arxiv.org/abs/2209.05144v1)|null|
+|**2022-09-11**|**Polarization-Shaped Strong Field Control over Valley Polarization with Mid-IR Light**|Igor Tyulnev et.al.|[2209.04928v1](http://arxiv.org/abs/2209.04928v1)|null|
+|**2022-09-10**|**Local Hydration Control and Functional Implications Through S-Nitrosylation of Proteins: Kirsten rat sarcoma virus (KRAS) and Hemoglobin (Hb)**|Haydar Taylan Turan et.al.|[2209.04688v1](http://arxiv.org/abs/2209.04688v1)|null|
+|**2022-09-10**|**Colloidal Titanium Nitride Nanobars for Broadband Inexpensive Plasmonics and Photochemistry from Visible to Mid-IR Wavelengths**|Sourav Rej et.al.|[2209.04678v1](http://arxiv.org/abs/2209.04678v1)|null|
+|**2022-09-09**|**GOALS-JWST: NIRCam and MIRI Imaging of the Circumnuclear Starburst Ring in NGC 7469**|Thomas Bohn et.al.|[2209.04466v1](http://arxiv.org/abs/2209.04466v1)|null|
+|**2022-09-09**|**SN 2020jgb: A Peculiar Type Ia Supernova Triggered by a Massive Helium-Shell Detonation in a Star-Forming Galaxy**|Chang Liu et.al.|[2209.04463v1](http://arxiv.org/abs/2209.04463v1)|null|
 |**2022-09-09**|**SFR estimations from z=0 to z=0.9 -- A comparison of SFR calibrators for star-forming galaxies**|M. Figueira et.al.|[2209.04390v1](http://arxiv.org/abs/2209.04390v1)|null|
 |**2022-09-09**|**Unsupervised segmentation of biomedical hyperspectral image data: tackling high dimensionality with convolutional autoencoders**|Ciaran Bench et.al.|[2209.04375v1](http://arxiv.org/abs/2209.04375v1)|**[link](https://github.com/ciaranbench/unsupervised-hsi-seg)**|
 |**2022-09-09**|**Accretion and extinction variations in the low-mass pre-main sequence binary system WX Cha**|Eleonora Fiorellino et.al.|[2209.04304v1](http://arxiv.org/abs/2209.04304v1)|null|
@@ -581,6 +591,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-12**|**Learning Dense Visual Descriptors using Image Augmentations for Robot Manipulation Tasks**|Christian Graf et.al.|[2209.05213v1](http://arxiv.org/abs/2209.05213v1)|null|
 |**2022-08-30**|**Learning 6D Pose Estimation from Synthetic RGBD Images for Robotic Applications**|Hongpeng Cao et.al.|[2208.14288v1](http://arxiv.org/abs/2208.14288v1)|null|
 |**2022-08-24**|**Robot Active Neural Sensing and Planning in Unknown Cluttered Environments**|Hanwen Ren et.al.|[2208.11079v2](http://arxiv.org/abs/2208.11079v2)|null|
 |**2022-08-23**|**DepthFake: a depth-based strategy for detecting Deepfake videos**|Luca Maiano et.al.|[2208.11074v1](http://arxiv.org/abs/2208.11074v1)|null|
@@ -613,6 +624,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-12**|**Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation**|Mohit Shridhar et.al.|[2209.05451v1](http://arxiv.org/abs/2209.05451v1)|null|
+|**2022-09-12**|**Astrometry of variable compact radio sources: A search for Galactic black hole X-ray binaries**|P. Atri et.al.|[2209.05437v1](http://arxiv.org/abs/2209.05437v1)|null|
+|**2022-09-12**|**Thermodynamic Stability of Xenon-Doped Liquid Argon Detectors**|Ethan P. Bernard et.al.|[2209.05435v1](http://arxiv.org/abs/2209.05435v1)|null|
+|**2022-09-12**|**Landmark Enhanced Multimodal Graph Learning for Deepfake Video Detection**|Zhiyuan Yan et.al.|[2209.05419v1](http://arxiv.org/abs/2209.05419v1)|null|
+|**2022-09-12**|**Chromosome Segmentation Analysis Using Image Processing Techniques and Autoencoders**|Amritha S Pallavoor et.al.|[2209.05414v1](http://arxiv.org/abs/2209.05414v1)|null|
+|**2022-09-12**|**On Nonparametric Estimation in Online Problems**|Man Fung Leung et.al.|[2209.05399v1](http://arxiv.org/abs/2209.05399v1)|null|
+|**2022-09-12**|**Direct measurement of electrocaloric effect based on multi-harmonic lock-in thermography**|Ryo Iguchi et.al.|[2209.05385v1](http://arxiv.org/abs/2209.05385v1)|null|
+|**2022-09-12**|**Generating Functions and Automatic Differentiation for Photon-Number-Resolved Simulations with Multimode Gaussian States**|Erik Fitzke et.al.|[2209.05330v1](http://arxiv.org/abs/2209.05330v1)|null|
+|**2022-09-12**|**An Analytical Study of the Primordial Gravitational-Wave-Induced Contribution to the Large-Scale Structure of the Universe**|Pritha Bari et.al.|[2209.05329v1](http://arxiv.org/abs/2209.05329v1)|null|
+|**2022-09-12**|**Delving into the Devils of Bird's-eye-view Perception: A Review, Evaluation and Recipe**|Hongyang Li et.al.|[2209.05324v1](http://arxiv.org/abs/2209.05324v1)|null|
 |**2022-09-09**|**Investigation of a Machine learning methodology for the SKA pulsar search pipeline**|Shashank Sanjay Bhat et.al.|[2209.04430v1](http://arxiv.org/abs/2209.04430v1)|null|
 |**2022-09-09**|**Multifractal charactarization as a function of timescale in the light curves with planetary signal observed by the kepler mission**|F. J. S. Lima Filho et.al.|[2209.04408v1](http://arxiv.org/abs/2209.04408v1)|null|
 |**2022-09-09**|**XQC and CSR constraints on strongly interacting dark matter with spin and velocity dependent cross sections**|Yonglin Li et.al.|[2209.04387v1](http://arxiv.org/abs/2209.04387v1)|null|
