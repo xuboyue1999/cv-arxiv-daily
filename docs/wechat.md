@@ -16,6 +16,16 @@
 
 ## Infrared
 
+- 2022-09-13, **Strongly-ordered infrared limits for subtraction counterterms from factorisation**, Lorenzo Magnea et.al., Paper: [http://arxiv.org/abs/2209.06102v1](http://arxiv.org/abs/2209.06102v1)
+- 2022-09-13, **Indefinite and Bidirectional Near Infrared Nanocrystal Photoswitching**, Changhwan Lee et.al., Paper: [http://arxiv.org/abs/2209.06098v1](http://arxiv.org/abs/2209.06098v1)
+- 2022-09-13, **The dust sublimation region of the Type 1 AGN NGC4151 at a hundred micro-arcsecond scale as resolved by the CHARA Array interferometer**, Makoto Kishimoto et.al., Paper: [http://arxiv.org/abs/2209.06061v1](http://arxiv.org/abs/2209.06061v1)
+- 2022-09-13, **Spontaneous mass generation and chiral symmetry breaking in a lattice Nambu-Jona-Lasino model**, Yukimi Goto et.al., Paper: [http://arxiv.org/abs/2209.06031v1](http://arxiv.org/abs/2209.06031v1)
+- 2022-09-13, **The Active Chromospheres of Lithium-Rich Red Giant Stars**, Christopher Sneden et.al., Paper: [http://arxiv.org/abs/2209.05941v1](http://arxiv.org/abs/2209.05941v1)
+- 2022-09-13, **Color Dependence of the Transit Detectability for Young Active M-dwarfs**, Kohei Miyakawa et.al., Paper: [http://arxiv.org/abs/2209.05765v1](http://arxiv.org/abs/2209.05765v1)
+- 2022-09-13, **Barrow Holographic Dark Energy in Brane World Cosmology**, Anirban Chanda et.al., Paper: [http://arxiv.org/abs/2209.05749v1](http://arxiv.org/abs/2209.05749v1)
+- 2022-09-13, **Simulating the performance of aperture mask designs for SCALES**, Mackenzie R. Lach et.al., Paper: [http://arxiv.org/abs/2209.05664v1](http://arxiv.org/abs/2209.05664v1)
+- 2022-09-12, **BFS 10: A nascent bipolar H II region in a filamentary molecular cloud**, Nicholas Larose et.al., Paper: [http://arxiv.org/abs/2209.05628v1](http://arxiv.org/abs/2209.05628v1)
+- 2022-09-12, **SALT3-NIR: Taking the Open-Source Type Ia Supernova Model to Longer Wavelengths for Next-Generation Cosmological Measurements**, J. D. R. Pierel et.al., Paper: [http://arxiv.org/abs/2209.05594v1](http://arxiv.org/abs/2209.05594v1)
 - 2022-09-12, **Constraining the physics of star formation from CIB-cosmic shear cross-correlations**, Baptiste Jego et.al., Paper: [http://arxiv.org/abs/2209.05472v1](http://arxiv.org/abs/2209.05472v1)
 - 2022-09-12, **SIPGI: an interactive pipeline for spectroscopic data reduction**, A. Gargiulo et.al., Paper: [http://arxiv.org/abs/2209.05441v1](http://arxiv.org/abs/2209.05441v1)
 - 2022-09-12, **Astrometry of variable compact radio sources: A search for Galactic black hole X-ray binaries**, P. Atri et.al., Paper: [http://arxiv.org/abs/2209.05437v1](http://arxiv.org/abs/2209.05437v1)
@@ -612,6 +622,16 @@
 
 ## Saliency Detection
 
+- 2022-09-13, **Computational Sarcasm Analysis on Social Media: A Systematic Review**, Faria Binte Kader et.al., Paper: [http://arxiv.org/abs/2209.06170v1](http://arxiv.org/abs/2209.06170v1)
+- 2022-09-13, **Entity Tagging: Extracting Entities in Text Without Mention Supervision**, Christina Du et.al., Paper: [http://arxiv.org/abs/2209.06148v1](http://arxiv.org/abs/2209.06148v1), Code: **[https://github.com/facebookresearch/groov](https://github.com/facebookresearch/groov)**
+- 2022-09-13, **Suitability of magnetic microbolometers based on paramagnetic temperature sensors for CMB polarization measurements**, Juan Manuel Geria et.al., Paper: [http://arxiv.org/abs/2209.06088v1](http://arxiv.org/abs/2209.06088v1)
+- 2022-09-13, **Acoustic-Linguistic Features for Modeling Neurological Task Score in Alzheimer's**, Saurav K. Aryal et.al., Paper: [http://arxiv.org/abs/2209.06085v1](http://arxiv.org/abs/2209.06085v1)
+- 2022-09-13, **Stability and Observability of Magnetic Primordial Black Hole-Neutron Star Collisions**, John Estes et.al., Paper: [http://arxiv.org/abs/2209.06060v1](http://arxiv.org/abs/2209.06060v1)
+- 2022-09-13, **Virtual Underwater Datasets for Autonomous Inspections**, oannis Polymenis et.al., Paper: [http://arxiv.org/abs/2209.06013v1](http://arxiv.org/abs/2209.06013v1)
+- 2022-09-13, **M^2-3DLaneNet: Multi-Modal 3D Lane Detection**, Yueru Luo et.al., Paper: [http://arxiv.org/abs/2209.05996v1](http://arxiv.org/abs/2209.05996v1)
+- 2022-09-13, **Design of Negative Sampling Strategies for Distantly Supervised Skill Extraction**, Jens-Joris Decorte et.al., Paper: [http://arxiv.org/abs/2209.05987v1](http://arxiv.org/abs/2209.05987v1), Code: **[https://github.com/jensjorisdecorte/skill-extraction-benchmark](https://github.com/jensjorisdecorte/skill-extraction-benchmark)**
+- 2022-09-13, **Certified Defences Against Adversarial Patch Attacks on Semantic Segmentation**, Maksym Yatsura et.al., Paper: [http://arxiv.org/abs/2209.05980v1](http://arxiv.org/abs/2209.05980v1)
+- 2022-09-13, **A Distributed Acoustic Sensor System for Intelligent Transportation using Deep Learning**, Chia-Yen Chiang et.al., Paper: [http://arxiv.org/abs/2209.05978v1](http://arxiv.org/abs/2209.05978v1)
 - 2022-09-12, **Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation**, Mohit Shridhar et.al., Paper: [http://arxiv.org/abs/2209.05451v1](http://arxiv.org/abs/2209.05451v1)
 - 2022-09-12, **Astrometry of variable compact radio sources: A search for Galactic black hole X-ray binaries**, P. Atri et.al., Paper: [http://arxiv.org/abs/2209.05437v1](http://arxiv.org/abs/2209.05437v1)
 - 2022-09-12, **Thermodynamic Stability of Xenon-Doped Liquid Argon Detectors**, Ethan P. Bernard et.al., Paper: [http://arxiv.org/abs/2209.05435v1](http://arxiv.org/abs/2209.05435v1)
