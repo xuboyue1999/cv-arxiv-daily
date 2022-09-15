@@ -1,4 +1,4 @@
-> Updated on 2022.09.14
+> Updated on 2022.09.15
 
 ## RGBT
 
@@ -16,6 +16,14 @@
 
 ## Infrared
 
+- 2022-09-14, **Analytic Four-Point Lightlike Form Factors and OPE of Null-Wrapped Polygons**, Yuanhong Guo et.al., Paper: [http://arxiv.org/abs/2209.06816v1](http://arxiv.org/abs/2209.06816v1)
+- 2022-09-14, **GOALS-JWST: Tracing AGN Feedback on the Star-Forming ISM in NGC 7469**, Thomas S. -Y. Lai et.al., Paper: [http://arxiv.org/abs/2209.06741v1](http://arxiv.org/abs/2209.06741v1)
+- 2022-09-14, **Frequency stabilisation and SI tracing of mid-infrared quantum-cascade lasers for precision molecular spectroscopy**, Mudit Sinhal et.al., Paper: [http://arxiv.org/abs/2209.06471v1](http://arxiv.org/abs/2209.06471v1)
+- 2022-09-14, **The importance of radiative pumping on the emission of the H_2O submillimeter lines in galaxies**, Eduardo González-Alfonso et.al., Paper: [http://arxiv.org/abs/2209.06444v1](http://arxiv.org/abs/2209.06444v1)
+- 2022-09-14, **High-speed full-field entire bandwidth mid-infrared chemical imaging**, Yue Zhao et.al., Paper: [http://arxiv.org/abs/2209.06372v1](http://arxiv.org/abs/2209.06372v1)
+- 2022-09-13, **CLEAR: High-Ionization [Ne V] $λ$3426 Å Emission-line Galaxies at $1.4 <z< 2.3$**, Nikko J. Cleri et.al., Paper: [http://arxiv.org/abs/2209.06247v1](http://arxiv.org/abs/2209.06247v1)
+- 2022-09-13, **Polarized Blazar X-rays imply particle acceleration in shocks**, Ioannis Liodakis et.al., Paper: [http://arxiv.org/abs/2209.06227v1](http://arxiv.org/abs/2209.06227v1)
+- 2022-09-13, **Multiple stellar populations in the high-temperature regime: Potassium abundances in the globular cluster M 54 (NGC 6715)**, Eugenio Carretta et.al., Paper: [http://arxiv.org/abs/2209.06220v1](http://arxiv.org/abs/2209.06220v1)
 - 2022-09-13, **Strongly-ordered infrared limits for subtraction counterterms from factorisation**, Lorenzo Magnea et.al., Paper: [http://arxiv.org/abs/2209.06102v1](http://arxiv.org/abs/2209.06102v1)
 - 2022-09-13, **Indefinite and Bidirectional Near Infrared Nanocrystal Photoswitching**, Changhwan Lee et.al., Paper: [http://arxiv.org/abs/2209.06098v1](http://arxiv.org/abs/2209.06098v1)
 - 2022-09-13, **The dust sublimation region of the Type 1 AGN NGC4151 at a hundred micro-arcsecond scale as resolved by the CHARA Array interferometer**, Makoto Kishimoto et.al., Paper: [http://arxiv.org/abs/2209.06061v1](http://arxiv.org/abs/2209.06061v1)
@@ -622,6 +630,16 @@
 
 ## Saliency Detection
 
+- 2022-09-14, **Towards Automated Survey Variable Search and Summarization in Social Science Publications**, Yavuz Selim Kartal et.al., Paper: [http://arxiv.org/abs/2209.06804v1](http://arxiv.org/abs/2209.06804v1)
+- 2022-09-14, **Efficient Planar Pose Estimation via UWB Measurements**, Haodong Jiang et.al., Paper: [http://arxiv.org/abs/2209.06779v1](http://arxiv.org/abs/2209.06779v1)
+- 2022-09-14, **A Kinematical Study of the Dwarf Irregular Galaxy NGC 1569 and its Supernova Remnants**, M. Sanchez-Cruces et.al., Paper: [http://arxiv.org/abs/2209.06766v1](http://arxiv.org/abs/2209.06766v1)
+- 2022-09-14, **Segment-level thermal sensitivity analysis for exo-Earth imaging**, Ananya Sahoo et.al., Paper: [http://arxiv.org/abs/2209.06762v1](http://arxiv.org/abs/2209.06762v1)
+- 2022-09-14, **Optimal Active Fault Detection in Inverter-Based Grids**, Mohammad Pirani et.al., Paper: [http://arxiv.org/abs/2209.06760v1](http://arxiv.org/abs/2209.06760v1)
+- 2022-09-14, **GOALS-JWST: Tracing AGN Feedback on the Star-Forming ISM in NGC 7469**, Thomas S. -Y. Lai et.al., Paper: [http://arxiv.org/abs/2209.06741v1](http://arxiv.org/abs/2209.06741v1)
+- 2022-09-14, **Automated Fidelity Assessment for Strategy Training in Inpatient Rehabilitation using Natural Language Processing**, Hunter Osterhoudt et.al., Paper: [http://arxiv.org/abs/2209.06727v1](http://arxiv.org/abs/2209.06727v1)
+- 2022-09-14, **Detection of Smart Grid Integrity Attacks Using Signal Temporal Logic**, José Ignacio Requeno et.al., Paper: [http://arxiv.org/abs/2209.06722v1](http://arxiv.org/abs/2209.06722v1)
+- 2022-09-14, **On Language Clustering: A Non-parametric Statistical Approach**, Anagh Chattopadhyay et.al., Paper: [http://arxiv.org/abs/2209.06720v1](http://arxiv.org/abs/2209.06720v1)
+- 2022-09-14, **Generalised hardness of approximation and the SCI hierarchy -- On determining the boundaries of training algorithms in AI**, Luca Eva Gazdag et.al., Paper: [http://arxiv.org/abs/2209.06715v1](http://arxiv.org/abs/2209.06715v1)
 - 2022-09-13, **Computational Sarcasm Analysis on Social Media: A Systematic Review**, Faria Binte Kader et.al., Paper: [http://arxiv.org/abs/2209.06170v1](http://arxiv.org/abs/2209.06170v1)
 - 2022-09-13, **Entity Tagging: Extracting Entities in Text Without Mention Supervision**, Christina Du et.al., Paper: [http://arxiv.org/abs/2209.06148v1](http://arxiv.org/abs/2209.06148v1), Code: **[https://github.com/facebookresearch/groov](https://github.com/facebookresearch/groov)**
 - 2022-09-13, **Suitability of magnetic microbolometers based on paramagnetic temperature sensors for CMB polarization measurements**, Juan Manuel Geria et.al., Paper: [http://arxiv.org/abs/2209.06088v1](http://arxiv.org/abs/2209.06088v1)
