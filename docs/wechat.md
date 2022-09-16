@@ -1,4 +1,4 @@
-> Updated on 2022.09.15
+> Updated on 2022.09.16
 
 ## RGBT
 
@@ -16,6 +16,14 @@
 
 ## Infrared
 
+- 2022-09-15, **A Candidate of a Least-Massive Black Hole at the First 1.1 Billion Years of the Universe**, Masafusa Onoue et.al., Paper: [http://arxiv.org/abs/2209.07325v1](http://arxiv.org/abs/2209.07325v1)
+- 2022-09-15, **Progress on the SOXS NIR Spectrograph AIT**, Fabrizio Vitali et.al., Paper: [http://arxiv.org/abs/2209.07201v1](http://arxiv.org/abs/2209.07201v1)
+- 2022-09-15, **The X-ray Polarization View of Mrk~421 in an Average Flux State as Observed by the Imaging X-ray Polarimetry Explorer**, Laura Di Gesu et.al., Paper: [http://arxiv.org/abs/2209.07184v1](http://arxiv.org/abs/2209.07184v1)
+- 2022-09-15, **Dynamic scheduling for SOXS instrument: environment, algorithms and development**, Laura Asquini et.al., Paper: [http://arxiv.org/abs/2209.07181v1](http://arxiv.org/abs/2209.07181v1)
+- 2022-09-15, **Strong-Field Molecular Ionization Beyond The Single Active Electron Approximation**, Jean-Nicolas Vigneau et.al., Paper: [http://arxiv.org/abs/2209.07174v1](http://arxiv.org/abs/2209.07174v1)
+- 2022-09-15, **On the Origin of the Strong Optical Variability of Emission-line Galaxie**, Ruqiu Lin et.al., Paper: [http://arxiv.org/abs/2209.07087v1](http://arxiv.org/abs/2209.07087v1)
+- 2022-09-14, **Resolving Charged Hadrons in QED -- Gauge Invariant Interpolating Operators**, Saad Nabeebaccus et.al., Paper: [http://arxiv.org/abs/2209.06925v1](http://arxiv.org/abs/2209.06925v1)
+- 2022-09-14, **Method for measuring absolute optical properties of turbid samples in a standard cuvette**, Giles Blaney et.al., Paper: [http://arxiv.org/abs/2209.06919v1](http://arxiv.org/abs/2209.06919v1)
 - 2022-09-14, **Analytic Four-Point Lightlike Form Factors and OPE of Null-Wrapped Polygons**, Yuanhong Guo et.al., Paper: [http://arxiv.org/abs/2209.06816v1](http://arxiv.org/abs/2209.06816v1)
 - 2022-09-14, **GOALS-JWST: Tracing AGN Feedback on the Star-Forming ISM in NGC 7469**, Thomas S. -Y. Lai et.al., Paper: [http://arxiv.org/abs/2209.06741v1](http://arxiv.org/abs/2209.06741v1)
 - 2022-09-14, **Frequency stabilisation and SI tracing of mid-infrared quantum-cascade lasers for precision molecular spectroscopy**, Mudit Sinhal et.al., Paper: [http://arxiv.org/abs/2209.06471v1](http://arxiv.org/abs/2209.06471v1)
@@ -599,6 +607,7 @@
 
 ## RGBD
 
+- 2022-09-15, **PROB-SLAM: Real-time Visual SLAM Based on Probabilistic Graph Optimization**, Xianwei Meng et.al., Paper: [http://arxiv.org/abs/2209.07061v1](http://arxiv.org/abs/2209.07061v1)
 - 2022-09-12, **Learning Dense Visual Descriptors using Image Augmentations for Robot Manipulation Tasks**, Christian Graf et.al., Paper: [http://arxiv.org/abs/2209.05213v1](http://arxiv.org/abs/2209.05213v1)
 - 2022-08-30, **Learning 6D Pose Estimation from Synthetic RGBD Images for Robotic Applications**, Hongpeng Cao et.al., Paper: [http://arxiv.org/abs/2208.14288v1](http://arxiv.org/abs/2208.14288v1)
 - 2022-08-24, **Robot Active Neural Sensing and Planning in Unknown Cluttered Environments**, Hanwen Ren et.al., Paper: [http://arxiv.org/abs/2208.11079v2](http://arxiv.org/abs/2208.11079v2)
@@ -630,6 +639,16 @@
 
 ## Saliency Detection
 
+- 2022-09-15, **A Brezis-Nirenberg type result for mixed local and nonlocal operators**, Stefano Biagi et.al., Paper: [http://arxiv.org/abs/2209.07502v1](http://arxiv.org/abs/2209.07502v1)
+- 2022-09-15, **Leveraging cross-correlations and linear covariance-based filtering for line-intensity map reconstructions at linear scales**, Dongwoo T Chung et.al., Paper: [http://arxiv.org/abs/2209.07500v1](http://arxiv.org/abs/2209.07500v1)
+- 2022-09-15, **Detecting Synthetic Speech Manipulation in Real Audio Recordings**, Md Hafizur Rahman et.al., Paper: [http://arxiv.org/abs/2209.07498v1](http://arxiv.org/abs/2209.07498v1)
+- 2022-09-15, **Hierarchical Attention Network for Explainable Depression Detection on Twitter Aided by Metaphor Concept Mappings**, Sooji Han et.al., Paper: [http://arxiv.org/abs/2209.07494v1](http://arxiv.org/abs/2209.07494v1)
+- 2022-09-15, **Machine Reading, Fast and Slow: When Do Models "Understand" Language?**, Sagnik Ray Choudhury et.al., Paper: [http://arxiv.org/abs/2209.07430v1](http://arxiv.org/abs/2209.07430v1)
+- 2022-09-15, **Report of the Topical Group on Particle Dark Matter for Snowmass 2021**, Jodi Cooley et.al., Paper: [http://arxiv.org/abs/2209.07426v1](http://arxiv.org/abs/2209.07426v1)
+- 2022-09-15, **FFPA-Net: Efficient Feature Fusion with Projection Awareness for 3D Object Detection**, Chaokang Jiang et.al., Paper: [http://arxiv.org/abs/2209.07419v1](http://arxiv.org/abs/2209.07419v1)
+- 2022-09-15, **Online Marker-free Extrinsic Camera Calibration using Person Keypoint Detections**, Bastian Pätzold et.al., Paper: [http://arxiv.org/abs/2209.07393v1](http://arxiv.org/abs/2209.07393v1)
+- 2022-09-15, **Measuring Geographic Performance Disparities of Offensive Language Classifiers**, Brandon Lwowski et.al., Paper: [http://arxiv.org/abs/2209.07353v1](http://arxiv.org/abs/2209.07353v1)
+- 2022-09-15, **Overhead-Free Blockage Detection and Precoding Through Physics-Based Graph Neural Networks: LIDAR Data Meets Ray Tracing**, Matteo Nerini et.al., Paper: [http://arxiv.org/abs/2209.07350v1](http://arxiv.org/abs/2209.07350v1)
 - 2022-09-14, **Towards Automated Survey Variable Search and Summarization in Social Science Publications**, Yavuz Selim Kartal et.al., Paper: [http://arxiv.org/abs/2209.06804v1](http://arxiv.org/abs/2209.06804v1)
 - 2022-09-14, **Efficient Planar Pose Estimation via UWB Measurements**, Haodong Jiang et.al., Paper: [http://arxiv.org/abs/2209.06779v1](http://arxiv.org/abs/2209.06779v1)
 - 2022-09-14, **A Kinematical Study of the Dwarf Irregular Galaxy NGC 1569 and its Supernova Remnants**, M. Sanchez-Cruces et.al., Paper: [http://arxiv.org/abs/2209.06766v1](http://arxiv.org/abs/2209.06766v1)
