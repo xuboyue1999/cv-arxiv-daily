@@ -1,4 +1,4 @@
-> Updated on 2022.09.18
+> Updated on 2022.09.19
 
 ## RGBT
 
@@ -16,6 +16,16 @@
 
 ## Infrared
 
+- 2022-09-16, **The Absolute Magnitudes of 1991T-like Supernovae**, M. M. Phillips et.al., Paper: [http://arxiv.org/abs/2209.08031v1](http://arxiv.org/abs/2209.08031v1)
+- 2022-09-16, **Measurement of AGN dust extinction based on the near-infrared flux variability of WISE data**, Shoichiro Mizukoshi et.al., Paper: [http://arxiv.org/abs/2209.07933v1](http://arxiv.org/abs/2209.07933v1)
+- 2022-09-16, **Spatio-spectral Image Reconstruction Using Non-local Filtering**, Frank Sippel et.al., Paper: [http://arxiv.org/abs/2209.07890v1](http://arxiv.org/abs/2209.07890v1)
+- 2022-09-16, **The electronic system $(2)^2Σ^+$ and $(1)^2Π$ of LiCa**, J. Gerschmann et.al., Paper: [http://arxiv.org/abs/2209.07853v1](http://arxiv.org/abs/2209.07853v1)
+- 2022-09-16, **IMAGE-OI: an OIFITS extension and its application in OImaging to compare image reconstruction algorithms**, Ferréol Soulez et.al., Paper: [http://arxiv.org/abs/2209.07846v1](http://arxiv.org/abs/2209.07846v1)
+- 2022-09-16, **Characterization of Mid-Infrared Intersubband Detectors for Astronomical Heterodyne Interferometry**, Tituan Allain et.al., Paper: [http://arxiv.org/abs/2209.07789v1](http://arxiv.org/abs/2209.07789v1)
+- 2022-09-16, **Radiation Hardness of a Wide Spectral Range SiPM with Quasi-Spherical Junction**, Julius Römer et.al., Paper: [http://arxiv.org/abs/2209.07785v1](http://arxiv.org/abs/2209.07785v1)
+- 2022-09-16, **Droplet impact and Leidenfrost dynamics on a heated post**, Junhui Li et.al., Paper: [http://arxiv.org/abs/2209.07784v1](http://arxiv.org/abs/2209.07784v1)
+- 2022-09-15, **Galaxy mergers can rapidly shut down star formation**, Sara L. Ellison et.al., Paper: [http://arxiv.org/abs/2209.07613v1](http://arxiv.org/abs/2209.07613v1)
+- 2022-09-15, **3D-Patterned Inverse-Designed Mid-Infrared Metaoptics**, Gregory Roberts et.al., Paper: [http://arxiv.org/abs/2209.07553v1](http://arxiv.org/abs/2209.07553v1)
 - 2022-09-15, **A Candidate of a Least-Massive Black Hole at the First 1.1 Billion Years of the Universe**, Masafusa Onoue et.al., Paper: [http://arxiv.org/abs/2209.07325v1](http://arxiv.org/abs/2209.07325v1)
 - 2022-09-15, **Progress on the SOXS NIR Spectrograph AIT**, Fabrizio Vitali et.al., Paper: [http://arxiv.org/abs/2209.07201v1](http://arxiv.org/abs/2209.07201v1)
 - 2022-09-15, **The X-ray Polarization View of Mrk~421 in an Average Flux State as Observed by the Imaging X-ray Polarimetry Explorer**, Laura Di Gesu et.al., Paper: [http://arxiv.org/abs/2209.07184v1](http://arxiv.org/abs/2209.07184v1)
@@ -639,6 +649,16 @@
 
 ## Saliency Detection
 
+- 2022-09-16, **ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**, Aditya Arun et.al., Paper: [http://arxiv.org/abs/2209.08091v1](http://arxiv.org/abs/2209.08091v1)
+- 2022-09-16, **Motion Detection in Diffraction Tomography by Common Circle Methods**, Michael Quellmalz et.al., Paper: [http://arxiv.org/abs/2209.08086v1](http://arxiv.org/abs/2209.08086v1)
+- 2022-09-16, **Detecting Majorana modes by readout of poisoning-induced parity flips**, Jens Schulenborg et.al., Paper: [http://arxiv.org/abs/2209.08082v1](http://arxiv.org/abs/2209.08082v1)
+- 2022-09-16, **Self-Optimizing Feature Transformation**, Meng Xiao et.al., Paper: [http://arxiv.org/abs/2209.08044v1](http://arxiv.org/abs/2209.08044v1)
+- 2022-09-16, **DAGMA: Learning DAGs via M-matrices and a Log-Determinant Acyclicity Characterization**, Kevin Bello et.al., Paper: [http://arxiv.org/abs/2209.08037v1](http://arxiv.org/abs/2209.08037v1)
+- 2022-09-16, **Detection of Interacting Variables for Generalized Linear Models via Neural Networks**, Yevhen Havrylenko et.al., Paper: [http://arxiv.org/abs/2209.08030v1](http://arxiv.org/abs/2209.08030v1)
+- 2022-09-16, **IoT Data Analytics in Dynamic Environments: From An Automated Machine Learning Perspective**, Li Yang et.al., Paper: [http://arxiv.org/abs/2209.08018v1](http://arxiv.org/abs/2209.08018v1)
+- 2022-09-16, **Transformer-based Detection of Multiword Expressions in Flower and Plant Names**, Damith Premasiri et.al., Paper: [http://arxiv.org/abs/2209.08016v1](http://arxiv.org/abs/2209.08016v1)
+- 2022-09-16, **Characterization of XIA UltraLo-1800 Response to Measuring Charged Samples**, Joshua Ange et.al., Paper: [http://arxiv.org/abs/2209.08002v1](http://arxiv.org/abs/2209.08002v1)
+- 2022-09-16, **TIMIT-TTS: a Text-to-Speech Dataset for Multimodal Synthetic Media Detection**, Davide Salvi et.al., Paper: [http://arxiv.org/abs/2209.08000v1](http://arxiv.org/abs/2209.08000v1)
 - 2022-09-15, **A Brezis-Nirenberg type result for mixed local and nonlocal operators**, Stefano Biagi et.al., Paper: [http://arxiv.org/abs/2209.07502v1](http://arxiv.org/abs/2209.07502v1)
 - 2022-09-15, **Leveraging cross-correlations and linear covariance-based filtering for line-intensity map reconstructions at linear scales**, Dongwoo T Chung et.al., Paper: [http://arxiv.org/abs/2209.07500v1](http://arxiv.org/abs/2209.07500v1)
 - 2022-09-15, **Detecting Synthetic Speech Manipulation in Real Audio Recordings**, Md Hafizur Rahman et.al., Paper: [http://arxiv.org/abs/2209.07498v1](http://arxiv.org/abs/2209.07498v1)
