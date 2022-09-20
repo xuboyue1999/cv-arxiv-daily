@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-19**|**A First Look at Cepheids in a SN Ia Host with JWST**|Wenlong Yuan et.al.|[2209.09101v1](http://arxiv.org/abs/2209.09101v1)|null|
+|**2022-09-19**|**The shape of dark matter haloes: results from weak lensing in the Ultraviolet Near-Infrared Optical Northern Survey (UNIONS)**|Bailey Robison et.al.|[2209.09088v1](http://arxiv.org/abs/2209.09088v1)|null|
+|**2022-09-19**|**T2V-DDPM: Thermal to Visible Face Translation using Denoising Diffusion Probabilistic Models**|Nithin Gopalakrishnan Nair et.al.|[2209.08814v1](http://arxiv.org/abs/2209.08814v1)|null|
+|**2022-09-19**|**Local and Covariant Flow Relations for OPE Coefficients in Lorentzian Spacetimes**|Mark G. Klehfoth et.al.|[2209.08748v1](http://arxiv.org/abs/2209.08748v1)|null|
+|**2022-09-18**|**Efficient photocatalytic nitrogen fixation from air under sunlight via iron-doped WO$_3$**|Yuanfang Shen et.al.|[2209.08547v1](http://arxiv.org/abs/2209.08547v1)|null|
+|**2022-09-18**|**Chiral Separation Effect vs. Chiral Anomaly**|Z. V. Khaidukov et.al.|[2209.08545v1](http://arxiv.org/abs/2209.08545v1)|null|
+|**2022-09-18**|**The Chocolate Chip Cookie Model: Dust Geometry of Milky-Way like Disk Galaxies**|Jiafeng Lu et.al.|[2209.08515v1](http://arxiv.org/abs/2209.08515v1)|null|
+|**2022-09-18**|**Infrared: A Meta Bug Detector**|Chi Zhang et.al.|[2209.08510v1](http://arxiv.org/abs/2209.08510v1)|null|
+|**2022-09-17**|**Topological insulator-based Dirac hyperbolic metamaterial with large mode indices**|Zhengtianye Wang et.al.|[2209.08398v1](http://arxiv.org/abs/2209.08398v1)|null|
+|**2022-09-17**|**The kinematics and excitation of infrared water vapor emission from planet-forming disks: results from spectrally-resolved surveys and guidelines for JWST spectra**|Andrea Banzatti et.al.|[2209.08216v1](http://arxiv.org/abs/2209.08216v1)|null|
 |**2022-09-16**|**The Absolute Magnitudes of 1991T-like Supernovae**|M. M. Phillips et.al.|[2209.08031v1](http://arxiv.org/abs/2209.08031v1)|null|
 |**2022-09-16**|**Measurement of AGN dust extinction based on the near-infrared flux variability of WISE data**|Shoichiro Mizukoshi et.al.|[2209.07933v1](http://arxiv.org/abs/2209.07933v1)|null|
 |**2022-09-16**|**Spatio-spectral Image Reconstruction Using Non-local Filtering**|Frank Sippel et.al.|[2209.07890v1](http://arxiv.org/abs/2209.07890v1)|null|
@@ -623,6 +633,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-19**|**Zero-shot Active Visual Search (ZAVIS): Intelligent Object Search for Robotic Assistants**|Jeongeun Park et.al.|[2209.08803v1](http://arxiv.org/abs/2209.08803v1)|null|
 |**2022-09-15**|**PROB-SLAM: Real-time Visual SLAM Based on Probabilistic Graph Optimization**|Xianwei Meng et.al.|[2209.07061v1](http://arxiv.org/abs/2209.07061v1)|null|
 |**2022-09-12**|**Learning Dense Visual Descriptors using Image Augmentations for Robot Manipulation Tasks**|Christian Graf et.al.|[2209.05213v1](http://arxiv.org/abs/2209.05213v1)|null|
 |**2022-08-30**|**Learning 6D Pose Estimation from Synthetic RGBD Images for Robotic Applications**|Hongpeng Cao et.al.|[2208.14288v1](http://arxiv.org/abs/2208.14288v1)|null|
@@ -657,6 +668,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-19**|**Real-time Online Video Detection with Temporal Smoothing Transformers**|Yue Zhao et.al.|[2209.09236v1](http://arxiv.org/abs/2209.09236v1)|**[link](https://github.com/zhaoyue-zephyrus/testra)**|
+|**2022-09-19**|**Challenges for dark matter direct search with SiPMs**|Alessandro Razeto et.al.|[2209.09224v1](http://arxiv.org/abs/2209.09224v1)|null|
+|**2022-09-19**|**WiForceSticker: Batteryless, Thin Sticker-like Flexible Force Sensor**|Agrim Gupta et.al.|[2209.09217v1](http://arxiv.org/abs/2209.09217v1)|null|
+|**2022-09-19**|**Limitations of time-delayed case isolation in heterogeneous SIR models**|Jonas Hansson et.al.|[2209.09186v1](http://arxiv.org/abs/2209.09186v1)|null|
+|**2022-09-19**|**Multi-Task Vision Transformer for Semi-Supervised Driver Distraction Detection**|Yunsheng Ma et.al.|[2209.09178v1](http://arxiv.org/abs/2209.09178v1)|**[link](https://github.com/purduedigitaltwin/vit-dd)**|
+|**2022-09-19**|**Use of Non-concurrent Common Control in Master Protocols in Oncology Trials: Report of an American Statistical Association Biopharmaceutical Section Open Forum Discussion**|Rajeshwari Sridhara et.al.|[2209.09173v1](http://arxiv.org/abs/2209.09173v1)|null|
+|**2022-09-19**|**Spherical and Rod-shaped Gold Nanoparticles for Surface Enhanced Raman Spectroscopy**|Md. Shaha Alam et.al.|[2209.09164v1](http://arxiv.org/abs/2209.09164v1)|null|
+|**2022-09-19**|**RESHAPE: Explaining Accounting Anomalies in Financial Statement Audits by enhancing SHapley Additive exPlanations**|Ricardo Müller et.al.|[2209.09157v1](http://arxiv.org/abs/2209.09157v1)|null|
+|**2022-09-19**|**SPECULOOS Northern Observatory: searching for red worlds in the northern skies**|Artem Y. Burdanov et.al.|[2209.09112v1](http://arxiv.org/abs/2209.09112v1)|null|
+|**2022-09-19**|**DeePhy: On Deepfake Phylogeny**|Kartik Narayan et.al.|[2209.09111v1](http://arxiv.org/abs/2209.09111v1)|null|
 |**2022-09-16**|**ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**|Aditya Arun et.al.|[2209.08091v1](http://arxiv.org/abs/2209.08091v1)|null|
 |**2022-09-16**|**Motion Detection in Diffraction Tomography by Common Circle Methods**|Michael Quellmalz et.al.|[2209.08086v1](http://arxiv.org/abs/2209.08086v1)|null|
 |**2022-09-16**|**Detecting Majorana modes by readout of poisoning-induced parity flips**|Jens Schulenborg et.al.|[2209.08082v1](http://arxiv.org/abs/2209.08082v1)|null|
