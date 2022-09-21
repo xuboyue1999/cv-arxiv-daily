@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.20
+## Updated on 2022.09.21
 
 ## RGBT
 
@@ -637,7 +637,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-09-19**|**Zero-shot Active Visual Search (ZAVIS): Intelligent Object Search for Robotic Assistants**|Jeongeun Park et.al.|[2209.08803v1](http://arxiv.org/abs/2209.08803v1)|null|
+|**2022-09-20**|**Active Visual Search in the Wild**|Jeongeun Park et.al.|[2209.08803v2](http://arxiv.org/abs/2209.08803v2)|null|
 |**2022-09-15**|**PROB-SLAM: Real-time Visual SLAM Based on Probabilistic Graph Optimization**|Xianwei Meng et.al.|[2209.07061v1](http://arxiv.org/abs/2209.07061v1)|null|
 |**2022-09-12**|**Learning Dense Visual Descriptors using Image Augmentations for Robot Manipulation Tasks**|Christian Graf et.al.|[2209.05213v1](http://arxiv.org/abs/2209.05213v1)|null|
 |**2022-08-30**|**Learning 6D Pose Estimation from Synthetic RGBD Images for Robotic Applications**|Hongpeng Cao et.al.|[2208.14288v1](http://arxiv.org/abs/2208.14288v1)|null|
@@ -678,7 +678,7 @@ layout: default
 |**2022-09-19**|**Limitations of time-delayed case isolation in heterogeneous SIR models**|Jonas Hansson et.al.|[2209.09186v1](http://arxiv.org/abs/2209.09186v1)|null|
 |**2022-09-19**|**Multi-Task Vision Transformer for Semi-Supervised Driver Distraction Detection**|Yunsheng Ma et.al.|[2209.09178v1](http://arxiv.org/abs/2209.09178v1)|**[link](https://github.com/purduedigitaltwin/vit-dd)**|
 |**2022-09-19**|**Use of Non-concurrent Common Control in Master Protocols in Oncology Trials: Report of an American Statistical Association Biopharmaceutical Section Open Forum Discussion**|Rajeshwari Sridhara et.al.|[2209.09173v1](http://arxiv.org/abs/2209.09173v1)|null|
-|**2022-09-19**|**Spherical and Rod-shaped Gold Nanoparticles for Surface Enhanced Raman Spectroscopy**|Md. Shaha Alam et.al.|[2209.09164v1](http://arxiv.org/abs/2209.09164v1)|null|
+|**2022-09-20**|**Spherical and Rod-shaped Gold Nanoparticles for Surface Enhanced Raman Spectroscopy**|Md. Shaha Alam et.al.|[2209.09164v2](http://arxiv.org/abs/2209.09164v2)|null|
 |**2022-09-19**|**RESHAPE: Explaining Accounting Anomalies in Financial Statement Audits by enhancing SHapley Additive exPlanations**|Ricardo Müller et.al.|[2209.09157v1](http://arxiv.org/abs/2209.09157v1)|null|
 |**2022-09-19**|**SPECULOOS Northern Observatory: searching for red worlds in the northern skies**|Artem Y. Burdanov et.al.|[2209.09112v1](http://arxiv.org/abs/2209.09112v1)|null|
 |**2022-09-19**|**DeePhy: On Deepfake Phylogeny**|Kartik Narayan et.al.|[2209.09111v1](http://arxiv.org/abs/2209.09111v1)|null|
