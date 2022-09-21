@@ -16,6 +16,16 @@
 
 ## Infrared
 
+- 2022-09-20, **Development of the Low Frequency Telescope Focal Plane Detector Modules for LiteBIRD**, Benjamin Westbrook et.al., Paper: [http://arxiv.org/abs/2209.09864v1](http://arxiv.org/abs/2209.09864v1)
+- 2022-09-20, **Enhancing vehicle detection accuracy in thermal infrared images using multiple GANs**, Shivom Bhargava et.al., Paper: [http://arxiv.org/abs/2209.09808v1](http://arxiv.org/abs/2209.09808v1)
+- 2022-09-20, **Enhanced Dirac node separation in strained Cd3As2 topological semimetal**, Gauthier Krizman et.al., Paper: [http://arxiv.org/abs/2209.09779v1](http://arxiv.org/abs/2209.09779v1)
+- 2022-09-20, **The JCMT BISTRO Survey: Multi-wavelength polarimetry of bright regions in NGC 2071 in the far-infrared/submillimetre range, with POL-2 and HAWC+**, L. Fanciullo et.al., Paper: [http://arxiv.org/abs/2209.09604v1](http://arxiv.org/abs/2209.09604v1)
+- 2022-09-20, **Design of microstrip-line coupled kinetic inductance detectors for near infrared astronomy**, Shiling Yu et.al., Paper: [http://arxiv.org/abs/2209.09544v1](http://arxiv.org/abs/2209.09544v1)
+- 2022-09-20, **Spectral evolution of dark asteroid surfaces induced by space weathering over a decade**, Sunao Hasegawa et.al., Paper: [http://arxiv.org/abs/2209.09415v1](http://arxiv.org/abs/2209.09415v1)
+- 2022-09-19, **Visible-Infrared Person Re-Identification Using Privileged Intermediate Information**, Mahdi Alehdaghi et.al., Paper: [http://arxiv.org/abs/2209.09348v1](http://arxiv.org/abs/2209.09348v1), Code: **[https://github.com/alehdaghi/cross-modal-re-id-via-lupi](https://github.com/alehdaghi/cross-modal-re-id-via-lupi)**
+- 2022-09-19, **Ammonia in the interstellar medium of a starbursting disc at z=2.6**, M. J. Doherty et.al., Paper: [http://arxiv.org/abs/2209.09268v1](http://arxiv.org/abs/2209.09268v1)
+- 2022-09-19, **Exact off-shell Sudakov form factor in N=4 SYM**, A. V. Belitsky et.al., Paper: [http://arxiv.org/abs/2209.09263v1](http://arxiv.org/abs/2209.09263v1)
+- 2022-09-19, **H1821+643: The most X-ray and infrared luminous AGN in the Swift/BAT survey in the process of rapid stellar and supermassive black hole mass assembly**, Hikaru Fukuchi et.al., Paper: [http://arxiv.org/abs/2209.09255v1](http://arxiv.org/abs/2209.09255v1)
 - 2022-09-19, **A First Look at Cepheids in a SN Ia Host with JWST**, Wenlong Yuan et.al., Paper: [http://arxiv.org/abs/2209.09101v1](http://arxiv.org/abs/2209.09101v1)
 - 2022-09-19, **The shape of dark matter haloes: results from weak lensing in the Ultraviolet Near-Infrared Optical Northern Survey (UNIONS)**, Bailey Robison et.al., Paper: [http://arxiv.org/abs/2209.09088v1](http://arxiv.org/abs/2209.09088v1)
 - 2022-09-19, **T2V-DDPM: Thermal to Visible Face Translation using Denoising Diffusion Probabilistic Models**, Nithin Gopalakrishnan Nair et.al., Paper: [http://arxiv.org/abs/2209.08814v1](http://arxiv.org/abs/2209.08814v1)
@@ -660,6 +670,16 @@
 
 ## Saliency Detection
 
+- 2022-09-20, **Intermediate-mass black holes and the fundamental plane of black hole accretion**, Kayhan Gültekin et.al., Paper: [http://arxiv.org/abs/2209.09890v1](http://arxiv.org/abs/2209.09890v1)
+- 2022-09-20, **Extremely Simple Activation Shaping for Out-of-Distribution Detection**, Andrija Djurisic et.al., Paper: [http://arxiv.org/abs/2209.09858v1](http://arxiv.org/abs/2209.09858v1), Code: **[https://github.com/andrijazz/ash](https://github.com/andrijazz/ash)**
+- 2022-09-20, **Fine-grained Classification of Solder Joints with α-skew Jensen-Shannon Divergence**, Furkan Ulger et.al., Paper: [http://arxiv.org/abs/2209.09857v1](http://arxiv.org/abs/2209.09857v1)
+- 2022-09-20, **Detecting symmetry fractionalization in gapped quantum spin liquids by magnetic impurities**, Shuangyuan Lu et.al., Paper: [http://arxiv.org/abs/2209.09853v1](http://arxiv.org/abs/2209.09853v1)
+- 2022-09-20, **Maximum Likelihood Systematic Effect Modeling and Matched Filtering to Detect Trans-Neptunian Objects with TESS**, Varun Ganapathi et.al., Paper: [http://arxiv.org/abs/2209.09848v1](http://arxiv.org/abs/2209.09848v1)
+- 2022-09-20, **Rethinking Data Augmentation in Knowledge Distillation for Object Detection**, Jiawei Liang et.al., Paper: [http://arxiv.org/abs/2209.09841v1](http://arxiv.org/abs/2209.09841v1)
+- 2022-09-20, **Disorder Unleashes Panic in Bitcoin Dynamics**, Marco Alberto Javarone et.al., Paper: [http://arxiv.org/abs/2209.09832v1](http://arxiv.org/abs/2209.09832v1)
+- 2022-09-20, **Can we detect deep axisymmetric toroidal magnetic fields in stars?**, Hachem Dhouib et.al., Paper: [http://arxiv.org/abs/2209.09823v1](http://arxiv.org/abs/2209.09823v1)
+- 2022-09-20, **Efficient Model Based Diagnosis**, Nico Roos et.al., Paper: [http://arxiv.org/abs/2209.09819v1](http://arxiv.org/abs/2209.09819v1)
+- 2022-09-20, **The boosted HP filter is more general than you might think**, Ziwei Mei et.al., Paper: [http://arxiv.org/abs/2209.09810v1](http://arxiv.org/abs/2209.09810v1)
 - 2022-09-19, **Real-time Online Video Detection with Temporal Smoothing Transformers**, Yue Zhao et.al., Paper: [http://arxiv.org/abs/2209.09236v1](http://arxiv.org/abs/2209.09236v1), Code: **[https://github.com/zhaoyue-zephyrus/testra](https://github.com/zhaoyue-zephyrus/testra)**
 - 2022-09-19, **Challenges for dark matter direct search with SiPMs**, Alessandro Razeto et.al., Paper: [http://arxiv.org/abs/2209.09224v1](http://arxiv.org/abs/2209.09224v1)
 - 2022-09-19, **WiForceSticker: Batteryless, Thin Sticker-like Flexible Force Sensor**, Agrim Gupta et.al., Paper: [http://arxiv.org/abs/2209.09217v1](http://arxiv.org/abs/2209.09217v1)
