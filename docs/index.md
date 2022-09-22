@@ -24,6 +24,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-21**|**Surface termination dependence of electronic and optical properties in Ti$_2$CO$_2$ MXene monolayers**|Zafer Kandemir et.al.|[2209.10487v1](http://arxiv.org/abs/2209.10487v1)|null|
+|**2022-09-20**|**Perfecting our set of spectrophotometric standard DA white dwarfs**|A. Calamida et.al.|[2209.09950v1](http://arxiv.org/abs/2209.09950v1)|null|
+|**2022-09-20**|**Polarimetric signatures of hot spots in black hole accretion flows**|Jesse Vos et.al.|[2209.09931v1](http://arxiv.org/abs/2209.09931v1)|null|
+|**2022-09-20**|**Probing cosmological singularities with quantum fields: Open and closed FLRW universes**|Abhay Ashtekar et.al.|[2209.09922v1](http://arxiv.org/abs/2209.09922v1)|null|
 |**2022-09-20**|**Development of the Low Frequency Telescope Focal Plane Detector Modules for LiteBIRD**|Benjamin Westbrook et.al.|[2209.09864v1](http://arxiv.org/abs/2209.09864v1)|null|
 |**2022-09-20**|**Enhancing vehicle detection accuracy in thermal infrared images using multiple GANs**|Shivom Bhargava et.al.|[2209.09808v1](http://arxiv.org/abs/2209.09808v1)|null|
 |**2022-09-20**|**Enhanced Dirac node separation in strained Cd3As2 topological semimetal**|Gauthier Krizman et.al.|[2209.09779v1](http://arxiv.org/abs/2209.09779v1)|null|
@@ -682,6 +686,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-21**|**Coevolution of Supermassive Black Holes and their Host Galaxies with Galaxy Mergers**|Chi-Hong Lin et.al.|[2209.10535v1](http://arxiv.org/abs/2209.10535v1)|null|
+|**2022-09-21**|**Benchmarking energy consumption and latency for neuromorphic computing in condensed matter and particle physics**|Dominique J. Kösters et.al.|[2209.10481v1](http://arxiv.org/abs/2209.10481v1)|null|
+|**2022-09-21**|**Transition to Adulthood for Young People with Intellectual or Developmental Disabilities: Emotion Detection and Topic Modeling**|Yan Liu et.al.|[2209.10477v1](http://arxiv.org/abs/2209.10477v1)|**[link](https://github.com/mlaricheva/emotion_topic_modeling)**|
+|**2022-09-21**|**Sample, Crop, Track: Self-Supervised Mobile 3D Object Detection for Urban Driving LiDAR**|Sangyun Shin et.al.|[2209.10471v1](http://arxiv.org/abs/2209.10471v1)|null|
+|**2022-09-21**|**Low frequency signal detection via correlated Ramsey measurements**|Santiago Oviedo-Casado et.al.|[2209.10466v1](http://arxiv.org/abs/2209.10466v1)|null|
+|**2022-09-21**|**Quantifying attention via dwell time and engagement in a social media browsing environment**|Ziv Epstein et.al.|[2209.10464v1](http://arxiv.org/abs/2209.10464v1)|null|
+|**2022-09-21**|**High energy Millihertz quasi-periodic oscillations in 1A 0535+262 with Insight-HXMT challenge current models**|Ruican Ma et.al.|[2209.10455v1](http://arxiv.org/abs/2209.10455v1)|null|
+|**2022-09-21**|**Coaxing the Eclipsing Binary V367 Cygni Out of Its Shell**|T. J. Davidge et.al.|[2209.10449v1](http://arxiv.org/abs/2209.10449v1)|null|
+|**2022-09-21**|**A Technical Note on (Labeled) RFS-AA Fusion: Derivation from PHD Consistency**|Tiancheng Li et.al.|[2209.10433v1](http://arxiv.org/abs/2209.10433v1)|null|
+|**2022-09-21**|**Complicated Background Suppression of ViSAR Image For Moving Target Shadow Detection**|Zhenyu Yang et.al.|[2209.10431v1](http://arxiv.org/abs/2209.10431v1)|null|
 |**2022-09-20**|**Intermediate-mass black holes and the fundamental plane of black hole accretion**|Kayhan Gültekin et.al.|[2209.09890v1](http://arxiv.org/abs/2209.09890v1)|null|
 |**2022-09-20**|**Extremely Simple Activation Shaping for Out-of-Distribution Detection**|Andrija Djurisic et.al.|[2209.09858v1](http://arxiv.org/abs/2209.09858v1)|**[link](https://github.com/andrijazz/ash)**|
 |**2022-09-20**|**Fine-grained Classification of Solder Joints with α-skew Jensen-Shannon Divergence**|Furkan Ulger et.al.|[2209.09857v1](http://arxiv.org/abs/2209.09857v1)|null|
