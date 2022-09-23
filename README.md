@@ -20,6 +20,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-22**|**Hot exozodis: cometary supply without trapping is unlikely to be the mechanism**|Tim D. Pearce et.al.|[2209.11219v1](http://arxiv.org/abs/2209.11219v1)|null|
+|**2022-09-22**|**Muon-Electron Scattering at NNLO**|Tim Engel et.al.|[2209.11110v1](http://arxiv.org/abs/2209.11110v1)|null|
+|**2022-09-22**|**Fingerprints of carbon defects in vibrational spectra of gallium nitride (GaN) consider-ing the isotope effect**|I. Gamov et.al.|[2209.10893v1](http://arxiv.org/abs/2209.10893v1)|null|
+|**2022-09-22**|**A nice two-loop next-to-next-to-MHV amplitude in ${\cal N}=4$ super-Yang-Mills**|Song He et.al.|[2209.10856v1](http://arxiv.org/abs/2209.10856v1)|null|
+|**2022-09-21**|**The quantum scale invariance in graphene-like quantum electrodynamics**|O. M. Del Cima et.al.|[2209.10611v1](http://arxiv.org/abs/2209.10611v1)|null|
+|**2022-09-21**|**Optical properties and carrier localization in the layered phosphide EuCd$_\mathbf{2}$P$_\mathbf{2}$**|C. C. Homes et.al.|[2209.10606v1](http://arxiv.org/abs/2209.10606v1)|null|
+|**2022-09-21**|**Dynamics of photo-induced ferromagnetism in oxides with orbital degeneracy**|Jonathan B. Curtis et.al.|[2209.10567v1](http://arxiv.org/abs/2209.10567v1)|null|
+|**2022-09-21**|**Constraining the SN Ia Host Galaxy Dust Law Distribution and Mass Step: Hierarchical BayeSN Analysis of Optical and Near-Infrared Light Curves**|Stephen Thorp et.al.|[2209.10552v1](http://arxiv.org/abs/2209.10552v1)|null|
 |**2022-09-21**|**Surface termination dependence of electronic and optical properties in Ti$_2$CO$_2$ MXene monolayers**|Zafer Kandemir et.al.|[2209.10487v1](http://arxiv.org/abs/2209.10487v1)|null|
 |**2022-09-20**|**Perfecting our set of spectrophotometric standard DA white dwarfs**|A. Calamida et.al.|[2209.09950v1](http://arxiv.org/abs/2209.09950v1)|null|
 |**2022-09-20**|**Polarimetric signatures of hot spots in black hole accretion flows**|Jesse Vos et.al.|[2209.09931v1](http://arxiv.org/abs/2209.09931v1)|null|
@@ -647,6 +655,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-22**|**Physical Interaction: Reconstructing Hand-object Interactions with Physics**|Haoyu Hu et.al.|[2209.10833v1](http://arxiv.org/abs/2209.10833v1)|null|
 |**2022-09-20**|**Active Visual Search in the Wild**|Jeongeun Park et.al.|[2209.08803v2](http://arxiv.org/abs/2209.08803v2)|null|
 |**2022-09-15**|**PROB-SLAM: Real-time Visual SLAM Based on Probabilistic Graph Optimization**|Xianwei Meng et.al.|[2209.07061v1](http://arxiv.org/abs/2209.07061v1)|null|
 |**2022-09-12**|**Learning Dense Visual Descriptors using Image Augmentations for Robot Manipulation Tasks**|Christian Graf et.al.|[2209.05213v1](http://arxiv.org/abs/2209.05213v1)|null|
@@ -682,6 +691,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-22**|**Hot exozodis: cometary supply without trapping is unlikely to be the mechanism**|Tim D. Pearce et.al.|[2209.11219v1](http://arxiv.org/abs/2209.11219v1)|null|
+|**2022-09-22**|**FRECKLL: Full and Reduced Exoplanet Chemical Kinetics distiLLed**|Ahmed Faris Al-Refaie et.al.|[2209.11203v1](http://arxiv.org/abs/2209.11203v1)|null|
+|**2022-09-22**|**Data on 824 fireballs observed by the digital cameras of the European Fireball Network in 2017-2018. I. Description of the network, data reduction procedures, and the catalog**|J. Borovicka et.al.|[2209.11186v1](http://arxiv.org/abs/2209.11186v1)|null|
+|**2022-09-22**|**Model-Assisted Labeling via Explainability for Visual Inspection of Civil Infrastructures**|Klara Janouskova et.al.|[2209.11159v1](http://arxiv.org/abs/2209.11159v1)|null|
+|**2022-09-22**|**MLGWSC-1: The first Machine Learning Gravitational-Wave Search Mock Data Challenge**|Marlin B. Schäfer et.al.|[2209.11146v1](http://arxiv.org/abs/2209.11146v1)|**[link](https://github.com/gwastro/ml-mock-data-challenge-1)**|
+|**2022-09-22**|**Quantum illumination with multiplexed photodetection**|Hao Yang et.al.|[2209.11117v1](http://arxiv.org/abs/2209.11117v1)|null|
+|**2022-09-22**|**Scope of Pre-trained Language Models for Detecting Conflicting Health Information**|Joseph Gatto et.al.|[2209.11102v1](http://arxiv.org/abs/2209.11102v1)|null|
+|**2022-09-22**|**Query-based Industrial Analytics over Knowledge Graphs with Ontology Reshaping**|Zhuoxun Zheng et.al.|[2209.11089v1](http://arxiv.org/abs/2209.11089v1)|null|
+|**2022-09-22**|**Blockage Prediction for Mobile UE in RIS-assisted Wireless Networks: A Deep Learning Approach**|Shakil Ahmed et.al.|[2209.11088v1](http://arxiv.org/abs/2209.11088v1)|null|
+|**2022-09-22**|**Harnessing Unresolved Lensed Quasars: The Mathematical Foundation of the Fluctuation Curves**|Satadru Bag et.al.|[2209.11078v1](http://arxiv.org/abs/2209.11078v1)|null|
 |**2022-09-21**|**Coevolution of Supermassive Black Holes and their Host Galaxies with Galaxy Mergers**|Chi-Hong Lin et.al.|[2209.10535v1](http://arxiv.org/abs/2209.10535v1)|null|
 |**2022-09-21**|**Benchmarking energy consumption and latency for neuromorphic computing in condensed matter and particle physics**|Dominique J. Kösters et.al.|[2209.10481v1](http://arxiv.org/abs/2209.10481v1)|null|
 |**2022-09-21**|**Transition to Adulthood for Young People with Intellectual or Developmental Disabilities: Emotion Detection and Topic Modeling**|Yan Liu et.al.|[2209.10477v1](http://arxiv.org/abs/2209.10477v1)|**[link](https://github.com/mlaricheva/emotion_topic_modeling)**|
