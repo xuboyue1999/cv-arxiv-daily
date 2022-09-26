@@ -1,4 +1,4 @@
-## Updated on 2022.09.25
+## Updated on 2022.09.26
 
 ## RGBT
 
@@ -20,6 +20,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-23**|**Spectrally Selective Thermal Emission from Graphene Decorated with Metallic Nanoparticles**|Jayden Craft et.al.|[2209.11751v1](http://arxiv.org/abs/2209.11751v1)|null|
+|**2022-09-23**|**UAV-miniUGV Hybrid System for Hidden Area Exploration and Manipulation**|Durgakant Pushp et.al.|[2209.11704v1](http://arxiv.org/abs/2209.11704v1)|null|
+|**2022-09-23**|**Interaction Between an Optically Levitated Nanoparticle and Its Thermal Image: Internal Thermometry via Displacement Sensing**|Thomas Agrenius et.al.|[2209.11642v1](http://arxiv.org/abs/2209.11642v1)|null|
+|**2022-09-23**|**GRAVITY+ Wide: Towards hundreds of z $\sim$ 2 AGN**|A. Drescher et.al.|[2209.11602v1](http://arxiv.org/abs/2209.11602v1)|null|
+|**2022-09-23**|**Detecting H$_2$O with CRIRES+: the case of WASP-20b**|M. C. Maimone et.al.|[2209.11506v1](http://arxiv.org/abs/2209.11506v1)|null|
+|**2022-09-22**|**Privacy-Preserving Person Detection Using Low-Resolution Infrared Cameras**|Thomas Dubail et.al.|[2209.11335v1](http://arxiv.org/abs/2209.11335v1)|null|
+|**2022-09-22**|**GALFIT-ing AGN Host Galaxies in COSMOS: HST vs. Subaru**|Callum Dewsnap et.al.|[2209.11325v1](http://arxiv.org/abs/2209.11325v1)|null|
 |**2022-09-22**|**Hot exozodis: cometary supply without trapping is unlikely to be the mechanism**|Tim D. Pearce et.al.|[2209.11219v1](http://arxiv.org/abs/2209.11219v1)|null|
 |**2022-09-22**|**Muon-Electron Scattering at NNLO**|Tim Engel et.al.|[2209.11110v1](http://arxiv.org/abs/2209.11110v1)|null|
 |**2022-09-22**|**Fingerprints of carbon defects in vibrational spectra of gallium nitride (GaN) consider-ing the isotope effect**|I. Gamov et.al.|[2209.10893v1](http://arxiv.org/abs/2209.10893v1)|null|
@@ -691,6 +698,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-23**|**The GAPS Programme at TNG. XLI. The climate of KELT-9b revealed with a new approach to high spectral resolution phase curves**|L. Pino et.al.|[2209.11735v1](http://arxiv.org/abs/2209.11735v1)|null|
+|**2022-09-23**|**Report of the Topical Group on Cosmic Probes of Fundamental Physics for for Snowmass 2021**|Rana X. Adhikari et.al.|[2209.11726v1](http://arxiv.org/abs/2209.11726v1)|null|
+|**2022-09-23**|**(sub)GeV Dark Matter in the $U(1)_X$ Higgs Portal Model**|Amir Amiri et.al.|[2209.11723v1](http://arxiv.org/abs/2209.11723v1)|null|
+|**2022-09-23**|**Temporal Analysis on Topics Using Word2Vec**|Angad Sandhu et.al.|[2209.11717v1](http://arxiv.org/abs/2209.11717v1)|null|
+|**2022-09-23**|**The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices**|Wanlun Ma et.al.|[2209.11715v1](http://arxiv.org/abs/2209.11715v1)|null|
+|**2022-09-23**|**UAV-miniUGV Hybrid System for Hidden Area Exploration and Manipulation**|Durgakant Pushp et.al.|[2209.11704v1](http://arxiv.org/abs/2209.11704v1)|null|
+|**2022-09-23**|**A plano-convex thick-lens velocity map imaging apparatus for direct, high resolution 3D momentum measurements of photoelectrons with ion time-of-flight coincidence**|Michael Davino et.al.|[2209.11690v1](http://arxiv.org/abs/2209.11690v1)|null|
+|**2022-09-23**|**Amplification of cascaded downconversion by reusing photons with a switchable cavity**|Alexandre Z. Leger et.al.|[2209.11668v1](http://arxiv.org/abs/2209.11668v1)|null|
+|**2022-09-23**|**Excess of lensing amplitude in the Planck CMB power spectrum**|Rahima Mokeddem et.al.|[2209.11660v1](http://arxiv.org/abs/2209.11660v1)|null|
+|**2022-09-23**|**Detection and estimation of the cosmic dipole with the Einstein Telescope and Cosmic Explorer**|S. Mastrogiovanni et.al.|[2209.11658v1](http://arxiv.org/abs/2209.11658v1)|null|
 |**2022-09-22**|**Hot exozodis: cometary supply without trapping is unlikely to be the mechanism**|Tim D. Pearce et.al.|[2209.11219v1](http://arxiv.org/abs/2209.11219v1)|null|
 |**2022-09-22**|**FRECKLL: Full and Reduced Exoplanet Chemical Kinetics distiLLed**|Ahmed Faris Al-Refaie et.al.|[2209.11203v1](http://arxiv.org/abs/2209.11203v1)|null|
 |**2022-09-22**|**Data on 824 fireballs observed by the digital cameras of the European Fireball Network in 2017-2018. I. Description of the network, data reduction procedures, and the catalog**|J. Borovicka et.al.|[2209.11186v1](http://arxiv.org/abs/2209.11186v1)|null|
