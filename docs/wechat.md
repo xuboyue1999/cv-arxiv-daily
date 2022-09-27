@@ -16,6 +16,16 @@
 
 ## Infrared
 
+- 2022-09-26, **SIT 45: An interacting, compact, and star-forming isolated galaxy triplet**, D. Grajales-Medina et.al., Paper: [http://arxiv.org/abs/2209.12850v1](http://arxiv.org/abs/2209.12850v1)
+- 2022-09-26, **Multi-wavelength Observations of MWC 297: Constraints on Disk Inclination and Mass Outflow**, William D. Vacca et.al., Paper: [http://arxiv.org/abs/2209.12795v1](http://arxiv.org/abs/2209.12795v1)
+- 2022-09-26, **Actinide opacities for modeling the spectra and light curves of kilonovae**, C. J. Fontes et.al., Paper: [http://arxiv.org/abs/2209.12759v1](http://arxiv.org/abs/2209.12759v1)
+- 2022-09-26, **Lattice regularizations of $θ$ vacua: Anomalies and qubit models**, Mendel Nguyen et.al., Paper: [http://arxiv.org/abs/2209.12630v1](http://arxiv.org/abs/2209.12630v1)
+- 2022-09-26, **Rise and fall of silicate dust in RS Ophiuchi following the 2006 eruption**, M. T. Rushton et.al., Paper: [http://arxiv.org/abs/2209.12626v1](http://arxiv.org/abs/2209.12626v1)
+- 2022-09-26, **A practical guide to Terahertz imaging using thermal atomic vapour**, Lucy Downes et.al., Paper: [http://arxiv.org/abs/2209.12609v1](http://arxiv.org/abs/2209.12609v1)
+- 2022-09-26, **Neutron Star Heating in Dark Matter Models for Muon g-2 with Scalar Lepton Partners up to the TeV Scale**, Jan Tristram Acuña et.al., Paper: [http://arxiv.org/abs/2209.12552v1](http://arxiv.org/abs/2209.12552v1)
+- 2022-09-26, **Upconversion time-stretch infrared spectroscopy**, Kazuki Hashimoto et.al., Paper: [http://arxiv.org/abs/2209.12371v1](http://arxiv.org/abs/2209.12371v1)
+- 2022-09-26, **Isolating the mechanisms for asteroid surface refreshing**, F. E. DeMeo et.al., Paper: [http://arxiv.org/abs/2209.12366v1](http://arxiv.org/abs/2209.12366v1)
+- 2022-09-23, **A Selective Benzene, Acetylene, and Carbon Dioxide Sensor in the Fingerprint Region**, Mhanna Mhanna et.al., Paper: [http://arxiv.org/abs/2209.11832v1](http://arxiv.org/abs/2209.11832v1)
 - 2022-09-23, **Spectrally Selective Thermal Emission from Graphene Decorated with Metallic Nanoparticles**, Jayden Craft et.al., Paper: [http://arxiv.org/abs/2209.11751v1](http://arxiv.org/abs/2209.11751v1)
 - 2022-09-23, **UAV-miniUGV Hybrid System for Hidden Area Exploration and Manipulation**, Durgakant Pushp et.al., Paper: [http://arxiv.org/abs/2209.11704v1](http://arxiv.org/abs/2209.11704v1)
 - 2022-09-23, **Interaction Between an Optically Levitated Nanoparticle and Its Thermal Image: Internal Thermometry via Displacement Sensing**, Thomas Agrenius et.al., Paper: [http://arxiv.org/abs/2209.11642v1](http://arxiv.org/abs/2209.11642v1)
@@ -690,6 +700,16 @@
 
 ## Saliency Detection
 
+- 2022-09-26, **Center Feature Fusion: Selective Multi-Sensor Fusion of Center-based Objects**, Philip Jacobson et.al., Paper: [http://arxiv.org/abs/2209.12880v1](http://arxiv.org/abs/2209.12880v1)
+- 2022-09-26, **New gaps on the Lagrange and Markov spectra**, Luke Jeffreys et.al., Paper: [http://arxiv.org/abs/2209.12876v1](http://arxiv.org/abs/2209.12876v1)
+- 2022-09-26, **SAPA: Similarity-Aware Point Affiliation for Feature Upsampling**, Hao Lu et.al., Paper: [http://arxiv.org/abs/2209.12866v1](http://arxiv.org/abs/2209.12866v1), Code: **[https://github.com/poppinace/sapa](https://github.com/poppinace/sapa)**
+- 2022-09-26, **Automatic Identification and Classification of Share Buybacks and their Effect on Short-, Mid- and Long-Term Returns**, Thilo Reintjes et.al., Paper: [http://arxiv.org/abs/2209.12863v1](http://arxiv.org/abs/2209.12863v1)
+- 2022-09-26, **AirTrack: Onboard Deep Learning Framework for Long-Range Aircraft Detection and Tracking**, Sourish Ghosh et.al., Paper: [http://arxiv.org/abs/2209.12849v1](http://arxiv.org/abs/2209.12849v1)
+- 2022-09-26, **Impact of temporal resolution on convolutional recurrent networks\\ for audio tagging and sound event detection**, Wim Boes et.al., Paper: [http://arxiv.org/abs/2209.12843v1](http://arxiv.org/abs/2209.12843v1)
+- 2022-09-26, **Towards Direct Comparison of Community Structures in Social Networks**, Soumita Das et.al., Paper: [http://arxiv.org/abs/2209.12841v1](http://arxiv.org/abs/2209.12841v1)
+- 2022-09-26, **The Radius of PSR J0740+6620 from NICER with NICER background estimates**, Tuomo Salmi et.al., Paper: [http://arxiv.org/abs/2209.12840v1](http://arxiv.org/abs/2209.12840v1)
+- 2022-09-26, **Where2comm: Communication-Efficient Collaborative Perception via Spatial Confidence Maps**, Yue Hu et.al., Paper: [http://arxiv.org/abs/2209.12836v1](http://arxiv.org/abs/2209.12836v1), Code: **[https://github.com/mediabrain-sjtu/where2comm](https://github.com/mediabrain-sjtu/where2comm)**
+- 2022-09-26, **Adaptation of Autoencoder for Sparsity Reduction From Clinical Notes Representation Learning**, Thanh-Dung Le et.al., Paper: [http://arxiv.org/abs/2209.12831v1](http://arxiv.org/abs/2209.12831v1)
 - 2022-09-23, **The GAPS Programme at TNG. XLI. The climate of KELT-9b revealed with a new approach to high spectral resolution phase curves**, L. Pino et.al., Paper: [http://arxiv.org/abs/2209.11735v1](http://arxiv.org/abs/2209.11735v1)
 - 2022-09-23, **Report of the Topical Group on Cosmic Probes of Fundamental Physics for for Snowmass 2021**, Rana X. Adhikari et.al., Paper: [http://arxiv.org/abs/2209.11726v1](http://arxiv.org/abs/2209.11726v1)
 - 2022-09-23, **(sub)GeV Dark Matter in the $U(1)_X$ Higgs Portal Model**, Amir Amiri et.al., Paper: [http://arxiv.org/abs/2209.11723v1](http://arxiv.org/abs/2209.11723v1)
