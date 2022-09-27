@@ -1,4 +1,4 @@
-> Updated on 2022.09.26
+> Updated on 2022.09.27
 
 ## RGBT
 
@@ -22,7 +22,7 @@
 - 2022-09-23, **GRAVITY+ Wide: Towards hundreds of z $\sim$ 2 AGN**, A. Drescher et.al., Paper: [http://arxiv.org/abs/2209.11602v1](http://arxiv.org/abs/2209.11602v1)
 - 2022-09-23, **Detecting H$_2$O with CRIRES+: the case of WASP-20b**, M. C. Maimone et.al., Paper: [http://arxiv.org/abs/2209.11506v1](http://arxiv.org/abs/2209.11506v1)
 - 2022-09-22, **Privacy-Preserving Person Detection Using Low-Resolution Infrared Cameras**, Thomas Dubail et.al., Paper: [http://arxiv.org/abs/2209.11335v1](http://arxiv.org/abs/2209.11335v1)
-- 2022-09-22, **GALFIT-ing AGN Host Galaxies in COSMOS: HST vs. Subaru**, Callum Dewsnap et.al., Paper: [http://arxiv.org/abs/2209.11325v1](http://arxiv.org/abs/2209.11325v1)
+- 2022-09-26, **GALFIT-ing AGN Host Galaxies in COSMOS: HST vs. Subaru**, Callum Dewsnap et.al., Paper: [http://arxiv.org/abs/2209.11325v2](http://arxiv.org/abs/2209.11325v2)
 - 2022-09-22, **Hot exozodis: cometary supply without trapping is unlikely to be the mechanism**, Tim D. Pearce et.al., Paper: [http://arxiv.org/abs/2209.11219v1](http://arxiv.org/abs/2209.11219v1)
 - 2022-09-22, **Muon-Electron Scattering at NNLO**, Tim Engel et.al., Paper: [http://arxiv.org/abs/2209.11110v1](http://arxiv.org/abs/2209.11110v1)
 - 2022-09-22, **Fingerprints of carbon defects in vibrational spectra of gallium nitride (GaN) consider-ing the isotope effect**, I. Gamov et.al., Paper: [http://arxiv.org/abs/2209.10893v1](http://arxiv.org/abs/2209.10893v1)
@@ -694,7 +694,7 @@
 - 2022-09-23, **Report of the Topical Group on Cosmic Probes of Fundamental Physics for for Snowmass 2021**, Rana X. Adhikari et.al., Paper: [http://arxiv.org/abs/2209.11726v1](http://arxiv.org/abs/2209.11726v1)
 - 2022-09-23, **(sub)GeV Dark Matter in the $U(1)_X$ Higgs Portal Model**, Amir Amiri et.al., Paper: [http://arxiv.org/abs/2209.11723v1](http://arxiv.org/abs/2209.11723v1)
 - 2022-09-23, **Temporal Analysis on Topics Using Word2Vec**, Angad Sandhu et.al., Paper: [http://arxiv.org/abs/2209.11717v1](http://arxiv.org/abs/2209.11717v1)
-- 2022-09-23, **The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices**, Wanlun Ma et.al., Paper: [http://arxiv.org/abs/2209.11715v1](http://arxiv.org/abs/2209.11715v1)
+- 2022-09-26, **The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices**, Wanlun Ma et.al., Paper: [http://arxiv.org/abs/2209.11715v2](http://arxiv.org/abs/2209.11715v2), Code: **[https://github.com/wanlunsec/beatrix](https://github.com/wanlunsec/beatrix)**
 - 2022-09-23, **UAV-miniUGV Hybrid System for Hidden Area Exploration and Manipulation**, Durgakant Pushp et.al., Paper: [http://arxiv.org/abs/2209.11704v1](http://arxiv.org/abs/2209.11704v1)
 - 2022-09-23, **A plano-convex thick-lens velocity map imaging apparatus for direct, high resolution 3D momentum measurements of photoelectrons with ion time-of-flight coincidence**, Michael Davino et.al., Paper: [http://arxiv.org/abs/2209.11690v1](http://arxiv.org/abs/2209.11690v1)
 - 2022-09-23, **Amplification of cascaded downconversion by reusing photons with a switchable cavity**, Alexandre Z. Leger et.al., Paper: [http://arxiv.org/abs/2209.11668v1](http://arxiv.org/abs/2209.11668v1)
