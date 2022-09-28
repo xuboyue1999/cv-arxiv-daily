@@ -1,4 +1,4 @@
-## Updated on 2022.09.27
+## Updated on 2022.09.28
 
 ## RGBT
 
@@ -713,7 +713,7 @@
 |**2022-09-26**|**SAPA: Similarity-Aware Point Affiliation for Feature Upsampling**|Hao Lu et.al.|[2209.12866v1](http://arxiv.org/abs/2209.12866v1)|**[link](https://github.com/poppinace/sapa)**|
 |**2022-09-26**|**Automatic Identification and Classification of Share Buybacks and their Effect on Short-, Mid- and Long-Term Returns**|Thilo Reintjes et.al.|[2209.12863v1](http://arxiv.org/abs/2209.12863v1)|null|
 |**2022-09-26**|**AirTrack: Onboard Deep Learning Framework for Long-Range Aircraft Detection and Tracking**|Sourish Ghosh et.al.|[2209.12849v1](http://arxiv.org/abs/2209.12849v1)|null|
-|**2022-09-26**|**Impact of temporal resolution on convolutional recurrent networks\\ for audio tagging and sound event detection**|Wim Boes et.al.|[2209.12843v1](http://arxiv.org/abs/2209.12843v1)|null|
+|**2022-09-27**|**Impact of temporal resolution on convolutional recurrent networks for audio tagging and sound event detection**|Wim Boes et.al.|[2209.12843v2](http://arxiv.org/abs/2209.12843v2)|null|
 |**2022-09-26**|**Towards Direct Comparison of Community Structures in Social Networks**|Soumita Das et.al.|[2209.12841v1](http://arxiv.org/abs/2209.12841v1)|null|
 |**2022-09-26**|**The Radius of PSR J0740+6620 from NICER with NICER background estimates**|Tuomo Salmi et.al.|[2209.12840v1](http://arxiv.org/abs/2209.12840v1)|null|
 |**2022-09-26**|**Where2comm: Communication-Efficient Collaborative Perception via Spatial Confidence Maps**|Yue Hu et.al.|[2209.12836v1](http://arxiv.org/abs/2209.12836v1)|**[link](https://github.com/mediabrain-sjtu/where2comm)**|
