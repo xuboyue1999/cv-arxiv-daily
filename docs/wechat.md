@@ -16,6 +16,16 @@
 
 ## Infrared
 
+- 2022-09-27, **Machine learning-accelerated chemistry modeling of protoplanetary disks**, Grigorii V. Smirnov-Pinchukov et.al., Paper: [http://arxiv.org/abs/2209.13336v1](http://arxiv.org/abs/2209.13336v1)
+- 2022-09-27, **A panchromatic view of infrared quasars: excess star formation and radio emission in the most heavily obscured systems**, Carolina Andonie et.al., Paper: [http://arxiv.org/abs/2209.13321v1](http://arxiv.org/abs/2209.13321v1)
+- 2022-09-27, **Stellar population of the Rosette Nebula and NGC 2244: application of the probabilistic random forest**, Koraljka Muzic et.al., Paper: [http://arxiv.org/abs/2209.13302v1](http://arxiv.org/abs/2209.13302v1)
+- 2022-09-27, **GOALS-JWST: Mid-Infrared Spectroscopy of the Nucleus of NGC 7469**, L. Armus et.al., Paper: [http://arxiv.org/abs/2209.13125v1](http://arxiv.org/abs/2209.13125v1)
+- 2022-09-27, **Four-quark scatterings in QCD I**, Wei-jie Fu et.al., Paper: [http://arxiv.org/abs/2209.13120v1](http://arxiv.org/abs/2209.13120v1)
+- 2022-09-26, **Euclid preparation: XXII. Selection of Quiescent Galaxies from Mock Photometry using Machine Learning**, A. Humphrey et.al., Paper: [http://arxiv.org/abs/2209.13074v1](http://arxiv.org/abs/2209.13074v1)
+- 2022-09-26, **Signs of environmental effects on star-forming galaxies in the Spiderweb protocluster at z=2.16**, Jose Manuel Pérez-Martínez et.al., Paper: [http://arxiv.org/abs/2209.13069v1](http://arxiv.org/abs/2209.13069v1)
+- 2022-09-26, **Abundances and Transients from Neutron Star-White Dwarf Mergers**, Mark Alexander Kaltenborn et.al., Paper: [http://arxiv.org/abs/2209.13061v1](http://arxiv.org/abs/2209.13061v1)
+- 2022-09-26, **Tunable Directional Filter for Mid-Infrared Optical Transmission Switching**, Andrew Butler et.al., Paper: [http://arxiv.org/abs/2209.13035v1](http://arxiv.org/abs/2209.13035v1)
+- 2022-09-26, **AO3000 at Subaru: Combining for the first time a NIR WFS using First Light's C-RED ONE and ALPAO's 64x64 DM**, Julien Lozi et.al., Paper: [http://arxiv.org/abs/2209.12981v1](http://arxiv.org/abs/2209.12981v1)
 - 2022-09-26, **SIT 45: An interacting, compact, and star-forming isolated galaxy triplet**, D. Grajales-Medina et.al., Paper: [http://arxiv.org/abs/2209.12850v1](http://arxiv.org/abs/2209.12850v1)
 - 2022-09-26, **Multi-wavelength Observations of MWC 297: Constraints on Disk Inclination and Mass Outflow**, William D. Vacca et.al., Paper: [http://arxiv.org/abs/2209.12795v1](http://arxiv.org/abs/2209.12795v1)
 - 2022-09-26, **Actinide opacities for modeling the spectra and light curves of kilonovae**, C. J. Fontes et.al., Paper: [http://arxiv.org/abs/2209.12759v1](http://arxiv.org/abs/2209.12759v1)
@@ -700,6 +710,16 @@
 
 ## Saliency Detection
 
+- 2022-09-27, **Detection and Hypothesis Testing of Features in Extremely Noisy Image Series using Topological Data Analysis, with Applications to Nanoparticle Videos**, Andrew M. Thomas et.al., Paper: [http://arxiv.org/abs/2209.13584v1](http://arxiv.org/abs/2209.13584v1)
+- 2022-09-27, **Efficient Non-Parametric Optimizer Search for Diverse Tasks**, Ruochen Wang et.al., Paper: [http://arxiv.org/abs/2209.13575v1](http://arxiv.org/abs/2209.13575v1)
+- 2022-09-27, **Source detection via multi-label classification**, Jayakrishnan Vijayamohanan et.al., Paper: [http://arxiv.org/abs/2209.13553v1](http://arxiv.org/abs/2209.13553v1)
+- 2022-09-27, **Characterising small objects in the regime between the eddy current model and wave propagation**, P. D. Ledger et.al., Paper: [http://arxiv.org/abs/2209.13550v1](http://arxiv.org/abs/2209.13550v1)
+- 2022-09-27, **Multi-spacecraft observations of shocklets at an interplanetary shock**, Domenico Trotta et.al., Paper: [http://arxiv.org/abs/2209.13544v1](http://arxiv.org/abs/2209.13544v1)
+- 2022-09-27, **Hypothesis Testing for Detecting Outlier Evaluators**, Li Xu et.al., Paper: [http://arxiv.org/abs/2209.13526v1](http://arxiv.org/abs/2209.13526v1)
+- 2022-09-27, **CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection**, Ching-Yu Tseng et.al., Paper: [http://arxiv.org/abs/2209.13507v1](http://arxiv.org/abs/2209.13507v1), Code: **[https://github.com/sty61010/crossdtr](https://github.com/sty61010/crossdtr)**
+- 2022-09-27, **Critical Evaluation of LOCO dataset with Machine Learning**, Recep Savas et.al., Paper: [http://arxiv.org/abs/2209.13499v1](http://arxiv.org/abs/2209.13499v1)
+- 2022-09-27, **Investigation of a likely orbital periodicity of Nova Hercules 2021 in X-rays and gamma-rays**, Lupin Chun-Che Lin et.al., Paper: [http://arxiv.org/abs/2209.13493v1](http://arxiv.org/abs/2209.13493v1)
+- 2022-09-27, **Rotating Solar Models in Agreement with Helioseismic Results and Updated Neutrino Fluxes**, Wuming Yang et.al., Paper: [http://arxiv.org/abs/2209.13483v1](http://arxiv.org/abs/2209.13483v1)
 - 2022-09-26, **Center Feature Fusion: Selective Multi-Sensor Fusion of Center-based Objects**, Philip Jacobson et.al., Paper: [http://arxiv.org/abs/2209.12880v1](http://arxiv.org/abs/2209.12880v1)
 - 2022-09-26, **New gaps on the Lagrange and Markov spectra**, Luke Jeffreys et.al., Paper: [http://arxiv.org/abs/2209.12876v1](http://arxiv.org/abs/2209.12876v1)
 - 2022-09-26, **SAPA: Similarity-Aware Point Affiliation for Feature Upsampling**, Hao Lu et.al., Paper: [http://arxiv.org/abs/2209.12866v1](http://arxiv.org/abs/2209.12866v1), Code: **[https://github.com/poppinace/sapa](https://github.com/poppinace/sapa)**
