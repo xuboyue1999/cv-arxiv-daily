@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.28
+## Updated on 2022.09.29
 
 ## RGBT
 
@@ -24,6 +24,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-28**|**Measurement of the evolving galaxy luminosity and mass function using clustering-based redshift inference**|Geray S. Karademir et.al.|[2209.13825v1](http://arxiv.org/abs/2209.13825v1)|null|
+|**2022-09-28**|**Translation, Scale and Rotation: Cross-Modal Alignment Meets RGB-Infrared Vehicle Detection**|Maoxun Yuan et.al.|[2209.13801v1](http://arxiv.org/abs/2209.13801v1)|null|
+|**2022-09-28**|**CourtNet for Infrared Small-Target Detection**|Jingchao Peng et.al.|[2209.13780v1](http://arxiv.org/abs/2209.13780v1)|null|
+|**2022-09-28**|**MTU-Net: Multi-level TransUNet for Space-based Infrared Tiny Ship Detection**|Tianhao Wu et.al.|[2209.13756v1](http://arxiv.org/abs/2209.13756v1)|null|
+|**2022-09-27**|**Tying Spitzer's IRS Calibration to IRAC: Observations of IRS Standard Stars**|Kathleen E. Kraemer et.al.|[2209.13681v1](http://arxiv.org/abs/2209.13681v1)|null|
+|**2022-09-27**|**Leak-out Spectroscopy, a universal method of action spectroscopy in cold ion traps**|Philipp C. Schmid et.al.|[2209.13660v1](http://arxiv.org/abs/2209.13660v1)|null|
 |**2022-09-27**|**Machine learning-accelerated chemistry modeling of protoplanetary disks**|Grigorii V. Smirnov-Pinchukov et.al.|[2209.13336v1](http://arxiv.org/abs/2209.13336v1)|null|
 |**2022-09-27**|**A panchromatic view of infrared quasars: excess star formation and radio emission in the most heavily obscured systems**|Carolina Andonie et.al.|[2209.13321v1](http://arxiv.org/abs/2209.13321v1)|null|
 |**2022-09-27**|**Stellar population of the Rosette Nebula and NGC 2244: application of the probabilistic random forest**|Koraljka Muzic et.al.|[2209.13302v1](http://arxiv.org/abs/2209.13302v1)|null|
@@ -722,6 +728,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-28**|**Multimodal Prediction of Spontaneous Humour: A Novel Dataset and First Results**|Lukas Christ et.al.|[2209.14272v1](http://arxiv.org/abs/2209.14272v1)|null|
+|**2022-09-28**|**Asymptotically safe dark matter with gauged baryon number**|Jens Boos et.al.|[2209.14268v1](http://arxiv.org/abs/2209.14268v1)|null|
+|**2022-09-28**|**A Survey on Physical Adversarial Attack in Computer Vision**|Donghua Wang et.al.|[2209.14262v1](http://arxiv.org/abs/2209.14262v1)|null|
+|**2022-09-28**|**Are Am stars and hot-Jupiter planets related?**|C. Saffe et.al.|[2209.14257v1](http://arxiv.org/abs/2209.14257v1)|null|
+|**2022-09-28**|**Exact and efficient multivariate two-sample tests through generalized linear rank statistics**|Dan D. Erdmann-Pham et.al.|[2209.14235v1](http://arxiv.org/abs/2209.14235v1)|null|
+|**2022-09-28**|**Process-guidance improves predictive performance of neural networks for carbon turnover in ecosystems**|Marieke Wesselkamp et.al.|[2209.14229v1](http://arxiv.org/abs/2209.14229v1)|null|
+|**2022-09-28**|**Road Rutting Detection using Deep Learning on Images**|Poonam Kumari Saha et.al.|[2209.14225v1](http://arxiv.org/abs/2209.14225v1)|null|
+|**2022-09-28**|**New Constraints on Warm Dark Matter from the Lyman-$α$ Forest Power Spectrum**|Bruno Villasenor et.al.|[2209.14220v1](http://arxiv.org/abs/2209.14220v1)|null|
+|**2022-09-28**|**Strong-$CP$ with and without gravity**|Gia Dvali et.al.|[2209.14219v1](http://arxiv.org/abs/2209.14219v1)|null|
+|**2022-09-28**|**Optical circular polarization induced by axion-like particles in blazars**|Run-Min Yao et.al.|[2209.14214v1](http://arxiv.org/abs/2209.14214v1)|null|
 |**2022-09-27**|**Detection and Hypothesis Testing of Features in Extremely Noisy Image Series using Topological Data Analysis, with Applications to Nanoparticle Videos**|Andrew M. Thomas et.al.|[2209.13584v1](http://arxiv.org/abs/2209.13584v1)|null|
 |**2022-09-27**|**Efficient Non-Parametric Optimizer Search for Diverse Tasks**|Ruochen Wang et.al.|[2209.13575v1](http://arxiv.org/abs/2209.13575v1)|null|
 |**2022-09-27**|**Source detection via multi-label classification**|Jayakrishnan Vijayamohanan et.al.|[2209.13553v1](http://arxiv.org/abs/2209.13553v1)|null|
