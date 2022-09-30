@@ -1,4 +1,4 @@
-## Updated on 2022.09.29
+## Updated on 2022.09.30
 
 ## RGBT
 
@@ -20,6 +20,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-29**|**Investigating 2M1155-7919B: a Nearby, Young, Low-Mass Star Actively Accreting from a Nearly Edge-on, Dusty Disk**|D. Annie Dickson-Vandervelde et.al.|[2209.14917v1](http://arxiv.org/abs/2209.14917v1)|null|
+|**2022-09-29**|**Stable and unstable perturbations in universal scaling phenomena far from equilibrium**|Thimo Preis et.al.|[2209.14883v1](http://arxiv.org/abs/2209.14883v1)|null|
+|**2022-09-29**|**Dilaton Effective Field Theory**|Thomas Appelquist et.al.|[2209.14867v1](http://arxiv.org/abs/2209.14867v1)|null|
+|**2022-09-29**|**First measurements and upgrade plans of the MAGIC intensity interferometer**|Juan Cortina et.al.|[2209.14844v1](http://arxiv.org/abs/2209.14844v1)|null|
+|**2022-09-29**|**Analysis of the photoelectron momentum distribution in the strong-field ionization of atomic hydrogen by 800-nm few-cycle elliptically polarized pulses**|Nicolas Douguet et.al.|[2209.14807v1](http://arxiv.org/abs/2209.14807v1)|null|
+|**2022-09-29**|**Radio Emission of Nearby Early-type Galaxies at Low and Very-Low Radio Luministy Range**|Anna Wójtowicz et.al.|[2209.14638v1](http://arxiv.org/abs/2209.14638v1)|null|
+|**2022-09-29**|**The Spectroscopic Data Processing Pipeline for the Dark Energy Spectroscopic Instrument**|J. Guy et.al.|[2209.14482v1](http://arxiv.org/abs/2209.14482v1)|null|
+|**2022-09-28**|**Towards measuring supermassive black hole masses with interferometric observations of the dust continuum**|GRAVITY Collaboration et.al.|[2209.14410v1](http://arxiv.org/abs/2209.14410v1)|null|
+|**2022-09-28**|**unTimely: a Full-sky, Time-Domain unWISE Catalog**|A. M. Meisner et.al.|[2209.14327v1](http://arxiv.org/abs/2209.14327v1)|null|
 |**2022-09-28**|**Measurement of the evolving galaxy luminosity and mass function using clustering-based redshift inference**|Geray S. Karademir et.al.|[2209.13825v1](http://arxiv.org/abs/2209.13825v1)|null|
 |**2022-09-28**|**Translation, Scale and Rotation: Cross-Modal Alignment Meets RGB-Infrared Vehicle Detection**|Maoxun Yuan et.al.|[2209.13801v1](http://arxiv.org/abs/2209.13801v1)|null|
 |**2022-09-28**|**CourtNet for Infrared Small-Target Detection**|Jingchao Peng et.al.|[2209.13780v1](http://arxiv.org/abs/2209.13780v1)|null|
@@ -724,6 +733,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-29**|**Dilated Neighborhood Attention Transformer**|Ali Hassani et.al.|[2209.15001v1](http://arxiv.org/abs/2209.15001v1)|**[link](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)**|
+|**2022-09-29**|**The Circumgalactic H$α$ Spectrograph (CH$α$S) I. Design, Engineering, and Early Commissioning**|Nicole Melso et.al.|[2209.14999v1](http://arxiv.org/abs/2209.14999v1)|null|
+|**2022-09-29**|**Robust Bayesian Non-segmental Detection of Multiple Change-points**|Chong Zhong et.al.|[2209.14995v1](http://arxiv.org/abs/2209.14995v1)|null|
+|**2022-09-29**|**No Free Lunch in "Privacy for Free: How does Dataset Condensation Help Privacy"**|Nicholas Carlini et.al.|[2209.14987v1](http://arxiv.org/abs/2209.14987v1)|null|
+|**2022-09-29**|**DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**|Mariia Gladkova et.al.|[2209.14965v1](http://arxiv.org/abs/2209.14965v1)|null|
+|**2022-09-29**|**Graph Anomaly Detection with Graph Neural Networks: Current Status and Challenges**|Hwan Kim et.al.|[2209.14930v1](http://arxiv.org/abs/2209.14930v1)|null|
+|**2022-09-29**|**GDIP: Gated Differentiable Image Processing for Object-Detection in Adverse Conditions**|Sanket Kalwar et.al.|[2209.14922v1](http://arxiv.org/abs/2209.14922v1)|null|
+|**2022-09-29**|**The Nuclear Physics of Neutron Stars**|J. Piekarewicz et.al.|[2209.14877v1](http://arxiv.org/abs/2209.14877v1)|null|
+|**2022-09-29**|**Access Control with Encrypted Feature Maps for Object Detection Models**|Teru Nagamori et.al.|[2209.14831v1](http://arxiv.org/abs/2209.14831v1)|null|
+|**2022-09-29**|**An old warm Jupiter orbiting the metal-poor G-dwarf TOI-5542**|Nolan Grieves et.al.|[2209.14830v1](http://arxiv.org/abs/2209.14830v1)|null|
 |**2022-09-28**|**Multimodal Prediction of Spontaneous Humour: A Novel Dataset and First Results**|Lukas Christ et.al.|[2209.14272v1](http://arxiv.org/abs/2209.14272v1)|**[link](https://github.com/eihw/passau-sfch)**|
 |**2022-09-28**|**Asymptotically safe dark matter with gauged baryon number**|Jens Boos et.al.|[2209.14268v1](http://arxiv.org/abs/2209.14268v1)|null|
 |**2022-09-28**|**A Survey on Physical Adversarial Attack in Computer Vision**|Donghua Wang et.al.|[2209.14262v1](http://arxiv.org/abs/2209.14262v1)|null|
