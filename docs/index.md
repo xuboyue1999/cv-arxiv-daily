@@ -24,6 +24,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-30**|**The Roasting Marshmallows Program with IGRINS on Gemini South I: Composition and Climate of the Ultra Hot Jupiter WASP-18 b**|Matteo Brogi et.al.|[2209.15548v1](http://arxiv.org/abs/2209.15548v1)|null|
+|**2022-09-30**|**Two-headed eye-segmentation approach for biometric identification**|Wiktor Lazarski et.al.|[2209.15471v1](http://arxiv.org/abs/2209.15471v1)|null|
+|**2022-09-30**|**Atmospheric retrievals for LIFE and other future space missions: the importance of mitigating systematic effects**|Eleonora Alei et.al.|[2209.15403v1](http://arxiv.org/abs/2209.15403v1)|null|
+|**2022-09-30**|**EMIR, the near-infrared camera and multi-object spectrograph for the GTC**|F. Garzón et.al.|[2209.15395v1](http://arxiv.org/abs/2209.15395v1)|null|
+|**2022-09-30**|**Design of Partially Etched GaP-OI Microresonators for Two-Color Kerr Soliton Generation at NIR and MIR**|Houling Ji et.al.|[2209.15354v1](http://arxiv.org/abs/2209.15354v1)|null|
+|**2022-09-30**|**Negative refraction in hyperbolic hetero-bicrystals**|A. J. Sternbach et.al.|[2209.15155v1](http://arxiv.org/abs/2209.15155v1)|null|
+|**2022-09-29**|**Investigation of the effect of Au2O3 dopant on elastic properties of PbO-B2O3-SeO2: Er2O3 glass ceramics by ultrasonic techniques**|A. Siva Sesha Reddy et.al.|[2209.15088v1](http://arxiv.org/abs/2209.15088v1)|null|
 |**2022-09-29**|**Investigating 2M1155-7919B: a Nearby, Young, Low-Mass Star Actively Accreting from a Nearly Edge-on, Dusty Disk**|D. Annie Dickson-Vandervelde et.al.|[2209.14917v1](http://arxiv.org/abs/2209.14917v1)|null|
 |**2022-09-29**|**Stable and unstable perturbations in universal scaling phenomena far from equilibrium**|Thimo Preis et.al.|[2209.14883v1](http://arxiv.org/abs/2209.14883v1)|null|
 |**2022-09-29**|**Dilaton Effective Field Theory**|Thomas Appelquist et.al.|[2209.14867v1](http://arxiv.org/abs/2209.14867v1)|null|
@@ -737,6 +744,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-30**|**F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models**|Weicheng Kuo et.al.|[2209.15639v1](http://arxiv.org/abs/2209.15639v1)|null|
+|**2022-09-30**|**Quantum-enhanced absorption spectroscopy with bright squeezed frequency combs**|Alexandre Belsley et.al.|[2209.15628v1](http://arxiv.org/abs/2209.15628v1)|null|
+|**2022-09-30**|**Entanglement Meter: Estimation of entanglement with single copy in Interferometer**|Som Kanjilal et.al.|[2209.15592v1](http://arxiv.org/abs/2209.15592v1)|null|
+|**2022-09-30**|**Constraints on dark matter annihilation from the FAST observation of the Coma Berenices dwarf galaxy**|Wen-Qing Guo et.al.|[2209.15590v1](http://arxiv.org/abs/2209.15590v1)|null|
+|**2022-09-30**|**Automated Characterization of Catalytically Active Inclusion Body Production in Biotechnological Screening Systems**|Karina Ruzaeva et.al.|[2209.15584v1](http://arxiv.org/abs/2209.15584v1)|null|
+|**2022-09-30**|**Neutrino propagation in the Earth and emerging charged leptons with $\texttt{nuPyProp}$**|Diksha Garg et.al.|[2209.15581v1](http://arxiv.org/abs/2209.15581v1)|null|
+|**2022-09-30**|**Fault Prognosis in Particle Accelerator Power Electronics Using Ensemble Learning**|Majdi I. Radaideh et.al.|[2209.15570v1](http://arxiv.org/abs/2209.15570v1)|null|
+|**2022-09-30**|**A robust basis for multi-bit optical communication with vectorial light**|Keshaan Singh et.al.|[2209.15559v1](http://arxiv.org/abs/2209.15559v1)|null|
+|**2022-09-30**|**Out-of-Distribution Detection and Selective Generation for Conditional Language Models**|Jie Ren et.al.|[2209.15558v1](http://arxiv.org/abs/2209.15558v1)|null|
+|**2022-09-30**|**The Roasting Marshmallows Program with IGRINS on Gemini South I: Composition and Climate of the Ultra Hot Jupiter WASP-18 b**|Matteo Brogi et.al.|[2209.15548v1](http://arxiv.org/abs/2209.15548v1)|null|
 |**2022-09-29**|**Dilated Neighborhood Attention Transformer**|Ali Hassani et.al.|[2209.15001v1](http://arxiv.org/abs/2209.15001v1)|**[link](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)**|
 |**2022-09-29**|**The Circumgalactic H$α$ Spectrograph (CH$α$S) I. Design, Engineering, and Early Commissioning**|Nicole Melso et.al.|[2209.14999v1](http://arxiv.org/abs/2209.14999v1)|null|
 |**2022-09-29**|**Robust Bayesian Non-segmental Detection of Multiple Change-points**|Chong Zhong et.al.|[2209.14995v1](http://arxiv.org/abs/2209.14995v1)|null|
