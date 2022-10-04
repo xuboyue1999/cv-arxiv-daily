@@ -24,6 +24,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-03**|**Constraints on primordial non-Gaussianity from halo bias measured through CMB lensing cross-correlations**|Fiona McCarthy et.al.|[2210.01049v1](http://arxiv.org/abs/2210.01049v1)|null|
+|**2022-10-03**|**Neural network for determining an asteroid mineral composition from reflectance spectra**|David Korda et.al.|[2210.01006v1](http://arxiv.org/abs/2210.01006v1)|null|
+|**2022-10-03**|**Smart-Badge: A wearable badge with multi-modal sensors for kitchen activity recognition**|Mengxi Liu et.al.|[2210.00888v1](http://arxiv.org/abs/2210.00888v1)|null|
+|**2022-10-02**|**GLOSTAR -- Radio Source Catalog II: $28^\circ < \ell < 36^\circ$ and $|b| < 1^\circ$, VLA B-configuration**|S. A. Dzib et.al.|[2210.00560v1](http://arxiv.org/abs/2210.00560v1)|null|
+|**2022-10-01**|**Gate-tunable negative refraction of mid-infrared polaritons**|Hai Hu et.al.|[2210.00147v1](http://arxiv.org/abs/2210.00147v1)|null|
+|**2022-09-30**|**Ultrafast generation of hidden phases via energy-tuned electronic photoexcitation in magnetite**|B. Truc et.al.|[2210.00070v1](http://arxiv.org/abs/2210.00070v1)|null|
+|**2022-09-30**|**High Resolution HST Imaging Survey of Local Star-Forming Galaxies I: Spatially-Resolved Obscured Star Formation with H$α$ and Paschen-$β$ Recombination Lines**|Clara Giménez-Arteaga et.al.|[2210.00028v1](http://arxiv.org/abs/2210.00028v1)|null|
 |**2022-09-30**|**The Roasting Marshmallows Program with IGRINS on Gemini South I: Composition and Climate of the Ultra Hot Jupiter WASP-18 b**|Matteo Brogi et.al.|[2209.15548v1](http://arxiv.org/abs/2209.15548v1)|null|
 |**2022-09-30**|**Two-headed eye-segmentation approach for biometric identification**|Wiktor Lazarski et.al.|[2209.15471v1](http://arxiv.org/abs/2209.15471v1)|null|
 |**2022-09-30**|**Atmospheric retrievals for LIFE and other future space missions: the importance of mitigating systematic effects**|Eleonora Alei et.al.|[2209.15403v1](http://arxiv.org/abs/2209.15403v1)|null|
@@ -744,6 +751,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-03**|**Unsupervised Model Selection for Time-series Anomaly Detection**|Mononito Goswami et.al.|[2210.01078v1](http://arxiv.org/abs/2210.01078v1)|null|
+|**2022-10-03**|**Understanding Influence Functions and Datamodels via Harmonic Analysis**|Nikunj Saunshi et.al.|[2210.01072v1](http://arxiv.org/abs/2210.01072v1)|null|
+|**2022-10-03**|**Nodal statistics-based equivalence relation for graph collections**|Lucrezia Carboni et.al.|[2210.01053v1](http://arxiv.org/abs/2210.01053v1)|null|
+|**2022-10-03**|**Testing by Dualization**|Yishuai Li et.al.|[2210.01047v1](http://arxiv.org/abs/2210.01047v1)|null|
+|**2022-10-03**|**Achromatic design of a photonic tricoupler and phase shifter for broadband nulling interferometry**|Teresa Klinner-Teo et.al.|[2210.01040v1](http://arxiv.org/abs/2210.01040v1)|null|
+|**2022-10-03**|**Expediting Large-Scale Vision Transformer for Dense Prediction without Fine-tuning**|Weicong Liang et.al.|[2210.01035v1](http://arxiv.org/abs/2210.01035v1)|null|
+|**2022-10-03**|**Self-driven photo-polarized water molecule triggered graphene ultraviolet photodetector**|Shisheng Lin et.al.|[2210.00986v1](http://arxiv.org/abs/2210.00986v1)|null|
+|**2022-10-03**|**Entanglement generation and relativistic simulation with cQED parametric oscillators**|Andrés Agustí Casado et.al.|[2210.00981v1](http://arxiv.org/abs/2210.00981v1)|null|
+|**2022-10-03**|**Three-Electrode Cell Calorimeter for Electrical Double Layer Capacitors**|Joren E. Vos et.al.|[2210.00980v1](http://arxiv.org/abs/2210.00980v1)|null|
+|**2022-10-03**|**DOTIE -- Detecting Objects through Temporal Isolation of Events using a Spiking Architecture**|Manish Nagaraj et.al.|[2210.00975v1](http://arxiv.org/abs/2210.00975v1)|null|
 |**2022-09-30**|**F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models**|Weicheng Kuo et.al.|[2209.15639v1](http://arxiv.org/abs/2209.15639v1)|null|
 |**2022-09-30**|**Quantum-enhanced absorption spectroscopy with bright squeezed frequency combs**|Alexandre Belsley et.al.|[2209.15628v1](http://arxiv.org/abs/2209.15628v1)|null|
 |**2022-09-30**|**Entanglement Meter: Estimation of entanglement with single copy in Interferometer**|Som Kanjilal et.al.|[2209.15592v1](http://arxiv.org/abs/2209.15592v1)|null|
