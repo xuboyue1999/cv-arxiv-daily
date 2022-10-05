@@ -16,6 +16,15 @@
 
 ## Infrared
 
+- 2022-10-04, **Informed systematic method to identify variable mid and late-T dwarfs**, Natalia Oliveros-Gómez et.al., Paper: [http://arxiv.org/abs/2210.01789v1](http://arxiv.org/abs/2210.01789v1)
+- 2022-10-04, **Large Interferometer For Exoplanets (LIFE): VIII. Detecting rocky exoplanets in the habitable zones of Sun-like stars**, Jens Kammerer et.al., Paper: [http://arxiv.org/abs/2210.01782v1](http://arxiv.org/abs/2210.01782v1)
+- 2022-10-04, **Terahertz electric-field driven dynamical multiferroicity in SrTiO$_3$**, M. Basini et.al., Paper: [http://arxiv.org/abs/2210.01690v1](http://arxiv.org/abs/2210.01690v1)
+- 2022-10-04, **Evaluating the Plausible Range of N2O Biosignatures on Exo-Earths: An Integrated Biogeochemical, Photochemical, and Spectral Modeling Approach**, Edward W. Schwieterman et.al., Paper: [http://arxiv.org/abs/2210.01669v1](http://arxiv.org/abs/2210.01669v1)
+- 2022-10-04, **How Image Generation Helps Visible-to-Infrared Person Re-Identification?**, Honghu Pan et.al., Paper: [http://arxiv.org/abs/2210.01585v1](http://arxiv.org/abs/2210.01585v1)
+- 2022-10-03, **Time-walk and jitter correction in SNSPDs at high count rates**, Andrew Mueller et.al., Paper: [http://arxiv.org/abs/2210.01271v1](http://arxiv.org/abs/2210.01271v1)
+- 2022-10-03, **Modeling the Extragalactic Background Light and the Cosmic Star Formation History**, Justin D. Finke et.al., Paper: [http://arxiv.org/abs/2210.01157v1](http://arxiv.org/abs/2210.01157v1)
+- 2022-10-03, **Optimized Photometric Redshifts for the Cosmic Assembly Near-Infrared Deep Extragalactic Legacy Survey (CANDELS)**, Dritan Kodra et.al., Paper: [http://arxiv.org/abs/2210.01140v1](http://arxiv.org/abs/2210.01140v1)
+- 2022-10-03, **Formation and evaporation of quantum black holes from the decoupling mechanism in quantum gravity**, Johanna N. Borissova et.al., Paper: [http://arxiv.org/abs/2210.01138v1](http://arxiv.org/abs/2210.01138v1)
 - 2022-10-03, **Constraints on primordial non-Gaussianity from halo bias measured through CMB lensing cross-correlations**, Fiona McCarthy et.al., Paper: [http://arxiv.org/abs/2210.01049v1](http://arxiv.org/abs/2210.01049v1)
 - 2022-10-03, **Neural network for determining an asteroid mineral composition from reflectance spectra**, David Korda et.al., Paper: [http://arxiv.org/abs/2210.01006v1](http://arxiv.org/abs/2210.01006v1)
 - 2022-10-03, **Smart-Badge: A wearable badge with multi-modal sensors for kitchen activity recognition**, Mengxi Liu et.al., Paper: [http://arxiv.org/abs/2210.00888v1](http://arxiv.org/abs/2210.00888v1)
@@ -705,6 +714,7 @@
 
 ## RGBD
 
+- 2022-10-04, **COPILOT: Human Collision Prediction and Localization from Multi-view Egocentric Videos**, Boxiao Pan et.al., Paper: [http://arxiv.org/abs/2210.01781v1](http://arxiv.org/abs/2210.01781v1)
 - 2022-09-22, **Physical Interaction: Reconstructing Hand-object Interactions with Physics**, Haoyu Hu et.al., Paper: [http://arxiv.org/abs/2209.10833v1](http://arxiv.org/abs/2209.10833v1), Code: **[https://github.com/hu-hy17/PhysInteraction](https://github.com/hu-hy17/PhysInteraction)**
 - 2022-09-20, **Active Visual Search in the Wild**, Jeongeun Park et.al., Paper: [http://arxiv.org/abs/2209.08803v2](http://arxiv.org/abs/2209.08803v2)
 - 2022-09-15, **PROB-SLAM: Real-time Visual SLAM Based on Probabilistic Graph Optimization**, Xianwei Meng et.al., Paper: [http://arxiv.org/abs/2209.07061v1](http://arxiv.org/abs/2209.07061v1)
@@ -739,6 +749,16 @@
 
 ## Saliency Detection
 
+- 2022-10-04, **Robust self-healing prediction model for high dimensional data**, Anirudha Rayasam et.al., Paper: [http://arxiv.org/abs/2210.01788v1](http://arxiv.org/abs/2210.01788v1)
+- 2022-10-04, **Large Interferometer For Exoplanets (LIFE): VIII. Detecting rocky exoplanets in the habitable zones of Sun-like stars**, Jens Kammerer et.al., Paper: [http://arxiv.org/abs/2210.01782v1](http://arxiv.org/abs/2210.01782v1)
+- 2022-10-04, **Perspective Aware Road Obstacle Detection**, Krzysztof Lis et.al., Paper: [http://arxiv.org/abs/2210.01779v1](http://arxiv.org/abs/2210.01779v1)
+- 2022-10-04, **AnoML-IoT: An End to End Re-configurable Multi-protocol Anomaly Detection Pipeline for Internet of Things**, Hakan Kayan et.al., Paper: [http://arxiv.org/abs/2210.01771v1](http://arxiv.org/abs/2210.01771v1)
+- 2022-10-04, **All-sky search for gravitational-wave bursts in the third Advanced LIGO-Virgo run with coherent WaveBurst enhanced by Machine Learning**, Marek J. Szczepańczyk et.al., Paper: [http://arxiv.org/abs/2210.01754v1](http://arxiv.org/abs/2210.01754v1)
+- 2022-10-04, **CADet: Fully Self-Supervised Anomaly Detection With Contrastive Learning**, Charles Guille-Escuret et.al., Paper: [http://arxiv.org/abs/2210.01742v1](http://arxiv.org/abs/2210.01742v1)
+- 2022-10-04, **Detecting asset price bubbles using deep learning**, Francesca Biagini et.al., Paper: [http://arxiv.org/abs/2210.01726v1](http://arxiv.org/abs/2210.01726v1)
+- 2022-10-04, **MBW: Multi-view Bootstrapping in the Wild**, Mosam Dabhi et.al., Paper: [http://arxiv.org/abs/2210.01721v1](http://arxiv.org/abs/2210.01721v1), Code: **[https://github.com/mosamdabhi/mbw](https://github.com/mosamdabhi/mbw)**
+- 2022-10-04, **Detecting and Denoising Gravitational Wave Signals from Binary Black Holes using Deep Learning**, Chinthak Murali et.al., Paper: [http://arxiv.org/abs/2210.01718v1](http://arxiv.org/abs/2210.01718v1)
+- 2022-10-04, **Multiple Instance Learning for Detecting Anomalies over Sequential Real-World Datasets**, Parastoo Kamranfar et.al., Paper: [http://arxiv.org/abs/2210.01707v1](http://arxiv.org/abs/2210.01707v1)
 - 2022-10-03, **Unsupervised Model Selection for Time-series Anomaly Detection**, Mononito Goswami et.al., Paper: [http://arxiv.org/abs/2210.01078v1](http://arxiv.org/abs/2210.01078v1)
 - 2022-10-03, **Understanding Influence Functions and Datamodels via Harmonic Analysis**, Nikunj Saunshi et.al., Paper: [http://arxiv.org/abs/2210.01072v1](http://arxiv.org/abs/2210.01072v1)
 - 2022-10-03, **Nodal statistics-based equivalence relation for graph collections**, Lucrezia Carboni et.al., Paper: [http://arxiv.org/abs/2210.01053v1](http://arxiv.org/abs/2210.01053v1)
