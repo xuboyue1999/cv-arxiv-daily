@@ -24,6 +24,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-05**|**Bio-inspired polymers with polaritonic properties from visible to infrared: a material playground to mimic purple bacteria light-harvesting resonators**|Samuel Thomas Holder et.al.|[2210.02315v1](http://arxiv.org/abs/2210.02315v1)|null|
+|**2022-10-05**|**The Past and Future of Mid-Infrared Studies of AGN**|Anna Sajina et.al.|[2210.02307v1](http://arxiv.org/abs/2210.02307v1)|null|
+|**2022-10-05**|**Ca Triplet Metallicities and Velocities for twelve Globular Clusters towards the Galactic Bulge**|D. Geisler et.al.|[2210.02193v1](http://arxiv.org/abs/2210.02193v1)|null|
+|**2022-10-05**|**Active control of narrowband thermal emission with phase-change materials**|Maxime Giteau et.al.|[2210.02155v1](http://arxiv.org/abs/2210.02155v1)|null|
+|**2022-10-05**|**On the interaction between the island divertor heat fluxes, the scrape-off layer radial electric field and the edge turbulence in Wendelstein 7-X plasmas**|E. Maragkoudakis et.al.|[2210.02134v1](http://arxiv.org/abs/2210.02134v1)|null|
+|**2022-10-05**|**Mass function of a young cluster in a low-metallicity environment. Sh 2-209**|Chikako Yasui et.al.|[2210.02012v1](http://arxiv.org/abs/2210.02012v1)|null|
+|**2022-10-05**|**Selective coupling of coherent optical phonons in YBa$_2$Cu$_3$O$_{7-δ}$ with electronic transitions**|Kunie Ishioka et.al.|[2210.01983v1](http://arxiv.org/abs/2210.01983v1)|null|
+|**2022-10-05**|**The correlation between WISE 12 $μ$m emission and molecular gas tracers on sub-kpc scales in nearby star-forming galaxies**|Yang Gao et.al.|[2210.01982v1](http://arxiv.org/abs/2210.01982v1)|null|
+|**2022-10-04**|**A catalog of candidate double and lensed quasars from Gaia and WISE data**|Valeri V. Makarov et.al.|[2210.01937v1](http://arxiv.org/abs/2210.01937v1)|null|
+|**2022-10-04**|**Dual angular tunability of 2D infrared notch filters: Analysis, experiments, physics**|Y. H. Ko et.al.|[2210.01912v1](http://arxiv.org/abs/2210.01912v1)|null|
 |**2022-10-04**|**Informed systematic method to identify variable mid and late-T dwarfs**|Natalia Oliveros-Gómez et.al.|[2210.01789v1](http://arxiv.org/abs/2210.01789v1)|null|
 |**2022-10-04**|**Large Interferometer For Exoplanets (LIFE): VIII. Detecting rocky exoplanets in the habitable zones of Sun-like stars**|Jens Kammerer et.al.|[2210.01782v1](http://arxiv.org/abs/2210.01782v1)|null|
 |**2022-10-04**|**Terahertz electric-field driven dynamical multiferroicity in SrTiO$_3$**|M. Basini et.al.|[2210.01690v1](http://arxiv.org/abs/2210.01690v1)|null|
@@ -761,6 +771,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-05**|**Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection**|Jinhyung Park et.al.|[2210.02443v1](http://arxiv.org/abs/2210.02443v1)|null|
+|**2022-10-05**|**ASVspoof 2021: Towards Spoofed and Deepfake Speech Detection in the Wild**|Xuechen Liu et.al.|[2210.02437v1](http://arxiv.org/abs/2210.02437v1)|null|
+|**2022-10-05**|**The detection of magnetic chemically peculiar stars using Gaia BP/RP spectra**|E. Paunzen et.al.|[2210.02433v1](http://arxiv.org/abs/2210.02433v1)|null|
+|**2022-10-05**|**Halide Perovskite Light Emitting Photodetector**|A. A. Marunchenko et.al.|[2210.02424v1](http://arxiv.org/abs/2210.02424v1)|null|
+|**2022-10-05**|**An extreme blue nugget, UV-bright starburst at z=3.613 with ninety per cent of Lyman continuum photon escape**|R. Marques-Chaves et.al.|[2210.02392v1](http://arxiv.org/abs/2210.02392v1)|null|
+|**2022-10-05**|**Timing and spectral studies of Cen X-3 in multiple luminosity states using $\textit{AstroSat}$**|Ritesh Bachhar et.al.|[2210.02389v1](http://arxiv.org/abs/2210.02389v1)|null|
+|**2022-10-05**|**Axon: A Language for Dynamic Shapes in Deep Learning Graphs**|Alexander Collins et.al.|[2210.02374v1](http://arxiv.org/abs/2210.02374v1)|null|
+|**2022-10-05**|**Spatio-Temporal Learnable Proposals for End-to-End Video Object Detection**|Khurram Azeem Hashmi et.al.|[2210.02368v1](http://arxiv.org/abs/2210.02368v1)|null|
+|**2022-10-05**|**SoccerNet 2022 Challenges Results**|Silvio Giancola et.al.|[2210.02365v1](http://arxiv.org/abs/2210.02365v1)|null|
+|**2022-10-05**|**Lazarus Stars: Numerical investigations of stellar evolution with star-lifting**|Matthew Scoggins et.al.|[2210.02338v1](http://arxiv.org/abs/2210.02338v1)|null|
 |**2022-10-04**|**Robust self-healing prediction model for high dimensional data**|Anirudha Rayasam et.al.|[2210.01788v1](http://arxiv.org/abs/2210.01788v1)|null|
 |**2022-10-04**|**Large Interferometer For Exoplanets (LIFE): VIII. Detecting rocky exoplanets in the habitable zones of Sun-like stars**|Jens Kammerer et.al.|[2210.01782v1](http://arxiv.org/abs/2210.01782v1)|null|
 |**2022-10-04**|**Perspective Aware Road Obstacle Detection**|Krzysztof Lis et.al.|[2210.01779v1](http://arxiv.org/abs/2210.01779v1)|null|
