@@ -24,6 +24,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-06**|**KiDS-1000: Combined halo-model cosmology constraints from galaxy abundance, galaxy clustering and galaxy-galaxy lensing**|Andrej Dvornik et.al.|[2210.03110v1](http://arxiv.org/abs/2210.03110v1)|null|
+|**2022-10-06**|**Galaxy kinematics and mass estimates at z~1 from ionised gas and stars**|Hannah Übler et.al.|[2210.03106v1](http://arxiv.org/abs/2210.03106v1)|null|
+|**2022-10-06**|**Scalable photonic integrated circuits for programmable control of atomic systems**|Adrian J Menssen et.al.|[2210.03100v1](http://arxiv.org/abs/2210.03100v1)|null|
+|**2022-10-06**|**Lava World: Exoplanet Surfaces**|Marc-Antoine Fortin et.al.|[2210.03056v1](http://arxiv.org/abs/2210.03056v1)|null|
+|**2022-10-06**|**Physical Characterization of Near-Earth Asteroid (52768) 1998 OR2: Evidence of Shock 1 Darkening/Impact Melt**|Adam Battle et.al.|[2210.03049v1](http://arxiv.org/abs/2210.03049v1)|null|
+|**2022-10-06**|**EvilScreen Attack: Smart TV Hijacking via Multi-channel Remote Control Mimicry**|Yiwei Zhang et.al.|[2210.03014v1](http://arxiv.org/abs/2210.03014v1)|null|
+|**2022-10-06**|**Outflows Driven by Direct and Reprocessed Radiation Pressure in Massive Star Clusters**|Shyam H. Menon et.al.|[2210.02818v1](http://arxiv.org/abs/2210.02818v1)|null|
+|**2022-10-06**|**Quashing a suspected selection bias in galaxy samples having dynamically-measured supermassive black holes**|Nandini Sahu et.al.|[2210.02641v1](http://arxiv.org/abs/2210.02641v1)|null|
+|**2022-10-05**|**Iterative Angular Differential Imaging (IADI): An exploration of recovering disk structures in scattered light with an iterative ADI approach**|L. M. Stapper et.al.|[2210.02454v1](http://arxiv.org/abs/2210.02454v1)|null|
 |**2022-10-05**|**Bio-inspired polymers with polaritonic properties from visible to infrared: a material playground to mimic purple bacteria light-harvesting resonators**|Samuel Thomas Holder et.al.|[2210.02315v1](http://arxiv.org/abs/2210.02315v1)|null|
 |**2022-10-05**|**The Past and Future of Mid-Infrared Studies of AGN**|Anna Sajina et.al.|[2210.02307v1](http://arxiv.org/abs/2210.02307v1)|null|
 |**2022-10-05**|**Ca Triplet Metallicities and Velocities for twelve Globular Clusters towards the Galactic Bulge**|D. Geisler et.al.|[2210.02193v1](http://arxiv.org/abs/2210.02193v1)|null|
@@ -771,6 +780,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-06**|**Mask3D for 3D Semantic Instance Segmentation**|Jonas Schult et.al.|[2210.03105v1](http://arxiv.org/abs/2210.03105v1)|**[link](https://github.com/jonasschult/mask3d)**|
+|**2022-10-06**|**Env-Aware Anomaly Detection: Ignore Style Changes, Stay True to Content!**|Stefan Smeu et.al.|[2210.03103v1](http://arxiv.org/abs/2210.03103v1)|null|
+|**2022-10-06**|**Dynamical masses of the primary Be star and the secondary sdB star in the single-lined binary kappa Dra (B6 IIIe)**|R. Klement et.al.|[2210.03090v1](http://arxiv.org/abs/2210.03090v1)|null|
+|**2022-10-06**|**Explainable Verbal Deception Detection using Transformers**|Loukas Ilias et.al.|[2210.03080v1](http://arxiv.org/abs/2210.03080v1)|null|
+|**2022-10-06**|**Conversational Semantic Role Labeling with Predicate-Oriented Latent Graph**|Hao Fei et.al.|[2210.03037v1](http://arxiv.org/abs/2210.03037v1)|null|
+|**2022-10-06**|**Tangle contact homology**|Johan Asplund et.al.|[2210.03036v1](http://arxiv.org/abs/2210.03036v1)|null|
+|**2022-10-06**|**Detecting Narrative Elements in Informational Text**|Effi Levi et.al.|[2210.03028v1](http://arxiv.org/abs/2210.03028v1)|null|
+|**2022-10-06**|**AnimeTAB: A new guitar tablature dataset of anime and game music**|Yuecheng Zhou et.al.|[2210.03027v1](http://arxiv.org/abs/2210.03027v1)|null|
+|**2022-10-06**|**"A Special Operation": A Quantitative Approach to Dissecting and Comparing Different Media Ecosystems' Coverage of the Russo-Ukrainian War**|Hans W. A. Hanley et.al.|[2210.03016v1](http://arxiv.org/abs/2210.03016v1)|null|
+|**2022-10-06**|**Enhancing Code Classification by Mixup-Based Data Augmentation**|Zeming Dong et.al.|[2210.03003v1](http://arxiv.org/abs/2210.03003v1)|null|
 |**2022-10-05**|**Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection**|Jinhyung Park et.al.|[2210.02443v1](http://arxiv.org/abs/2210.02443v1)|null|
 |**2022-10-05**|**ASVspoof 2021: Towards Spoofed and Deepfake Speech Detection in the Wild**|Xuechen Liu et.al.|[2210.02437v1](http://arxiv.org/abs/2210.02437v1)|null|
 |**2022-10-05**|**The detection of magnetic chemically peculiar stars using Gaia BP/RP spectra**|E. Paunzen et.al.|[2210.02433v1](http://arxiv.org/abs/2210.02433v1)|null|
