@@ -774,7 +774,7 @@
 - 2022-10-06, **Explainable Verbal Deception Detection using Transformers**, Loukas Ilias et.al., Paper: [http://arxiv.org/abs/2210.03080v1](http://arxiv.org/abs/2210.03080v1)
 - 2022-10-06, **Conversational Semantic Role Labeling with Predicate-Oriented Latent Graph**, Hao Fei et.al., Paper: [http://arxiv.org/abs/2210.03037v1](http://arxiv.org/abs/2210.03037v1)
 - 2022-10-06, **Tangle contact homology**, Johan Asplund et.al., Paper: [http://arxiv.org/abs/2210.03036v1](http://arxiv.org/abs/2210.03036v1)
-- 2022-10-06, **Detecting Narrative Elements in Informational Text**, Effi Levi et.al., Paper: [http://arxiv.org/abs/2210.03028v1](http://arxiv.org/abs/2210.03028v1)
+- 2022-10-06, **Detecting Narrative Elements in Informational Text**, Effi Levi et.al., Paper: [http://arxiv.org/abs/2210.03028v1](http://arxiv.org/abs/2210.03028v1), Code: **[https://github.com/efle/neat](https://github.com/efle/neat)**
 - 2022-10-06, **AnimeTAB: A new guitar tablature dataset of anime and game music**, Yuecheng Zhou et.al., Paper: [http://arxiv.org/abs/2210.03027v1](http://arxiv.org/abs/2210.03027v1)
 - 2022-10-06, **"A Special Operation": A Quantitative Approach to Dissecting and Comparing Different Media Ecosystems' Coverage of the Russo-Ukrainian War**, Hans W. A. Hanley et.al., Paper: [http://arxiv.org/abs/2210.03016v1](http://arxiv.org/abs/2210.03016v1)
 - 2022-10-06, **Enhancing Code Classification by Mixup-Based Data Augmentation**, Zeming Dong et.al., Paper: [http://arxiv.org/abs/2210.03003v1](http://arxiv.org/abs/2210.03003v1)
