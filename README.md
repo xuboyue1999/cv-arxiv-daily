@@ -1,4 +1,4 @@
-## Updated on 2022.10.09
+## Updated on 2022.10.10
 
 ## RGBT
 
@@ -20,6 +20,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-07**|**Investigating the [C$\,{\rm \scriptsize II}$]-to-H$\,{\rm \scriptsize I}$ conversion factor and the H$\,{\rm \scriptsize I}$ gas budget of galaxies at $z\approx 6$ with hydrodynamical simulations**|David Vizgan et.al.|[2210.03584v1](http://arxiv.org/abs/2210.03584v1)|null|
+|**2022-10-07**|**Confinement in $QCD$: novelties**|Adriano Di Giacomo et.al.|[2210.03560v1](http://arxiv.org/abs/2210.03560v1)|null|
+|**2022-10-07**|**Torus and polar dust dependence on AGN properties**|I. García-Bernete et.al.|[2210.03508v1](http://arxiv.org/abs/2210.03508v1)|null|
+|**2022-10-07**|**Quasi-classical Ground States. II. Standard Model of Non-relativistic QED**|Sébastien Breteaux et.al.|[2210.03448v1](http://arxiv.org/abs/2210.03448v1)|null|
+|**2022-10-07**|**The dipole formalism for massive initial-state particles and its application to dark matter calculations**|Julia Harz et.al.|[2210.03409v1](http://arxiv.org/abs/2210.03409v1)|null|
+|**2022-10-07**|**Mid- and far-infrared localized surface plasmon resonances in chalcogen-hyperdoped silicon**|Mao Wang et.al.|[2210.03373v1](http://arxiv.org/abs/2210.03373v1)|null|
+|**2022-10-07**|**Air-sea interactions on Titan: effect of radiative transfer on the lake evaporation and atmospheric circulation**|Audrey Chatain et.al.|[2210.03278v1](http://arxiv.org/abs/2210.03278v1)|null|
+|**2022-10-06**|**The luminous Type IIN supernova SN 2017hcc: Infrared bright, X-ray and radio faint**|Poonam Chandra et.al.|[2210.03212v1](http://arxiv.org/abs/2210.03212v1)|null|
+|**2022-10-06**|**APLC-Optimization: an apodized pupil Lyot coronagraph design survey toolkit**|Bryony F. Nickson et.al.|[2210.03147v1](http://arxiv.org/abs/2210.03147v1)|null|
 |**2022-10-06**|**KiDS-1000: Combined halo-model cosmology constraints from galaxy abundance, galaxy clustering and galaxy-galaxy lensing**|Andrej Dvornik et.al.|[2210.03110v1](http://arxiv.org/abs/2210.03110v1)|null|
 |**2022-10-06**|**Galaxy kinematics and mass estimates at z~1 from ionised gas and stars**|Hannah Übler et.al.|[2210.03106v1](http://arxiv.org/abs/2210.03106v1)|null|
 |**2022-10-06**|**Scalable photonic integrated circuits for programmable control of atomic systems**|Adrian J Menssen et.al.|[2210.03100v1](http://arxiv.org/abs/2210.03100v1)|null|
@@ -776,6 +785,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-07**|**Stellar Flyby Analysis for Spiral Arm Hosts with Gaia DR3**|Linling Shuai et.al.|[2210.03725v1](http://arxiv.org/abs/2210.03725v1)|null|
+|**2022-10-07**|**Understanding Practices, Challenges, and Opportunities for User-Driven Algorithm Auditing in Industry Practice**|Wesley Hanwen Deng et.al.|[2210.03709v1](http://arxiv.org/abs/2210.03709v1)|null|
+|**2022-10-07**|**Compressing Video Calls using Synthetic Talking Heads**|Madhav Agarwal et.al.|[2210.03692v1](http://arxiv.org/abs/2210.03692v1)|null|
+|**2022-10-07**|**Humans need not label more humans: Occlusion Copy & Paste for Occluded Human Instance Segmentation**|Evan Ling et.al.|[2210.03686v1](http://arxiv.org/abs/2210.03686v1)|null|
+|**2022-10-07**|**Quantitative Metrics for Evaluating Explanations of Video DeepFake Detectors**|Federico Baldassarre et.al.|[2210.03683v1](http://arxiv.org/abs/2210.03683v1)|null|
+|**2022-10-07**|**How to Enable Uncertainty Estimation in Proximal Policy Optimization**|Eugene Bykovets et.al.|[2210.03649v1](http://arxiv.org/abs/2210.03649v1)|null|
+|**2022-10-07**|**Leveraging Structure from Motion to Localize Inaccessible Bus Stops**|Indu Panigrahi et.al.|[2210.03646v1](http://arxiv.org/abs/2210.03646v1)|**[link](https://github.com/ind1010/SfM_for_BusEdge)**|
+|**2022-10-07**|**FAST observations of an extremely active episode of FRB 20201124A: II. Energy Distribution**|Yong-Kun Zhang et.al.|[2210.03645v1](http://arxiv.org/abs/2210.03645v1)|null|
+|**2022-10-07**|**Two electrons interacting at a mesoscopic beam splitter**|Niels Ubbelohde et.al.|[2210.03632v1](http://arxiv.org/abs/2210.03632v1)|null|
+|**2022-10-07**|**FAST observations of an extremely active episode of FRB 20201124A: IV. Spin Period Search**|Jia-Rui Niu et.al.|[2210.03610v1](http://arxiv.org/abs/2210.03610v1)|null|
 |**2022-10-06**|**Mask3D for 3D Semantic Instance Segmentation**|Jonas Schult et.al.|[2210.03105v1](http://arxiv.org/abs/2210.03105v1)|**[link](https://github.com/jonasschult/mask3d)**|
 |**2022-10-06**|**Env-Aware Anomaly Detection: Ignore Style Changes, Stay True to Content!**|Stefan Smeu et.al.|[2210.03103v1](http://arxiv.org/abs/2210.03103v1)|null|
 |**2022-10-06**|**Dynamical masses of the primary Be star and the secondary sdB star in the single-lined binary kappa Dra (B6 IIIe)**|R. Klement et.al.|[2210.03090v1](http://arxiv.org/abs/2210.03090v1)|null|
