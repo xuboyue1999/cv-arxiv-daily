@@ -16,6 +16,16 @@
 
 ## Infrared
 
+- 2022-10-10, **Higgs boson origin from a gauge symmetric theory of massive composite particles and massless $W^\pm$ and $Z^0$ bosons at the TeV scale**, She-Sheng Xue et.al., Paper: [http://arxiv.org/abs/2210.04825v1](http://arxiv.org/abs/2210.04825v1)
+- 2022-10-10, **Infrared Remote Sensing Using Low Noise Avalanche Photodiode Detector**, Joice Mathew et.al., Paper: [http://arxiv.org/abs/2210.04770v1](http://arxiv.org/abs/2210.04770v1)
+- 2022-10-10, **Detection of infrared light through stimulated four-wave mixing process**, Wei-Hang Zhang et.al., Paper: [http://arxiv.org/abs/2210.04691v1](http://arxiv.org/abs/2210.04691v1)
+- 2022-10-10, **Star-forming site RAFGL 5085: Is a perfect candidate of hub-filament system ?**, L. K. Dewangan et.al., Paper: [http://arxiv.org/abs/2210.04658v1](http://arxiv.org/abs/2210.04658v1)
+- 2022-10-10, **The Obscured Nucleus and Shocked Environment of VV 114E Revealed by JWST/MIRI Spectroscopy**, F. R. Donnan et.al., Paper: [http://arxiv.org/abs/2210.04647v1](http://arxiv.org/abs/2210.04647v1)
+- 2022-10-10, **The Opaque Heart of the Galaxy IC~860: Analogous Protostellar, Kinematics, Morphology, and Chemistry**, M. D. Gorski et.al., Paper: [http://arxiv.org/abs/2210.04499v1](http://arxiv.org/abs/2210.04499v1)
+- 2022-10-10, **Auxilio: A Sensor-Based Wireless Head-Mounted Mouse for People with Upper Limb Disability**, Mohammad Ridwan Kabir et.al., Paper: [http://arxiv.org/abs/2210.04483v1](http://arxiv.org/abs/2210.04483v1)
+- 2022-10-10, **Classification of cow diet based on milk mid infrared spectra: a data analysis competition at the "International workshop of spectroscopy and chemometrics 2022"**, Maria Frizzarin et.al., Paper: [http://arxiv.org/abs/2210.04479v1](http://arxiv.org/abs/2210.04479v1)
+- 2022-10-10, **The Perkins INfrared Exosatellite Survey (PINES) II. Transit Candidates and Implications for Planet Occurrence around L and T Dwarfs**, Patrick Tamburo et.al., Paper: [http://arxiv.org/abs/2210.04462v1](http://arxiv.org/abs/2210.04462v1)
+- 2022-10-10, **The SCUBA-2 Cosmology Legacy Survey: The EGS deep field -- III. The evolution of faint submillimeter galaxies at $z<4$**, L. Cardona-Torres et.al., Paper: [http://arxiv.org/abs/2210.04437v1](http://arxiv.org/abs/2210.04437v1)
 - 2022-10-07, **Investigating the [C$\,{\rm \scriptsize II}$]-to-H$\,{\rm \scriptsize I}$ conversion factor and the H$\,{\rm \scriptsize I}$ gas budget of galaxies at $z\approx 6$ with hydrodynamical simulations**, David Vizgan et.al., Paper: [http://arxiv.org/abs/2210.03584v1](http://arxiv.org/abs/2210.03584v1)
 - 2022-10-07, **Confinement in $QCD$: novelties**, Adriano Di Giacomo et.al., Paper: [http://arxiv.org/abs/2210.03560v1](http://arxiv.org/abs/2210.03560v1)
 - 2022-10-07, **Torus and polar dust dependence on AGN properties**, I. García-Bernete et.al., Paper: [http://arxiv.org/abs/2210.03508v1](http://arxiv.org/abs/2210.03508v1)
@@ -777,6 +787,16 @@
 
 ## Saliency Detection
 
+- 2022-10-10, **Deep object detection for waterbird monitoring using aerial imagery**, Krish Kabra et.al., Paper: [http://arxiv.org/abs/2210.04868v1](http://arxiv.org/abs/2210.04868v1), Code: **[https://github.com/riced2klab/audubon_f21](https://github.com/riced2klab/audubon_f21)**
+- 2022-10-10, **Carbon nanotube substrates enhance SARS-CoV-2 spike protein ion yields in matrix assisted laser desorption-ionization mass spectrometry**, T. Schenkel et.al., Paper: [http://arxiv.org/abs/2210.04853v1](http://arxiv.org/abs/2210.04853v1)
+- 2022-10-10, **FS-DETR: Few-Shot DEtection TRansformer with prompting and without re-training**, Adrian Bulat et.al., Paper: [http://arxiv.org/abs/2210.04845v1](http://arxiv.org/abs/2210.04845v1)
+- 2022-10-10, **The full coverage approach to the detection of Extensive Air Showers**, G. Di Sciascio et.al., Paper: [http://arxiv.org/abs/2210.04832v1](http://arxiv.org/abs/2210.04832v1)
+- 2022-10-10, **4D Unsupervised Object Discovery**, Yuqi Wang et.al., Paper: [http://arxiv.org/abs/2210.04801v1](http://arxiv.org/abs/2210.04801v1), Code: **[https://github.com/robertwyq/lsmol](https://github.com/robertwyq/lsmol)**
+- 2022-10-10, **Intermodulation Distortion in a Josephson Traveling Wave Parametric Amplifier**, Ants Remm et.al., Paper: [http://arxiv.org/abs/2210.04799v1](http://arxiv.org/abs/2210.04799v1)
+- 2022-10-10, **TRAPUM upper limits on pulsed radio emission for SMC X-ray pulsar J0058-7218**, E. Carli et.al., Paper: [http://arxiv.org/abs/2210.04785v1](http://arxiv.org/abs/2210.04785v1)
+- 2022-10-10, **Accumulating errors in tests of general relativity with the Einstein Telescope: overlapping signals and inaccurate waveforms**, Qian Hu et.al., Paper: [http://arxiv.org/abs/2210.04769v1](http://arxiv.org/abs/2210.04769v1)
+- 2022-10-10, **Monoenergetic Neutrinos from WIMP Annihilation in Jupiter**, George M. French et.al., Paper: [http://arxiv.org/abs/2210.04761v1](http://arxiv.org/abs/2210.04761v1)
+- 2022-10-10, **Edge Device Deployment of Multi-Tasking Network for Self-Driving Operations**, Shokhrukh Miraliev et.al., Paper: [http://arxiv.org/abs/2210.04735v1](http://arxiv.org/abs/2210.04735v1)
 - 2022-10-07, **Stellar Flyby Analysis for Spiral Arm Hosts with Gaia DR3**, Linling Shuai et.al., Paper: [http://arxiv.org/abs/2210.03725v1](http://arxiv.org/abs/2210.03725v1)
 - 2022-10-07, **Understanding Practices, Challenges, and Opportunities for User-Driven Algorithm Auditing in Industry Practice**, Wesley Hanwen Deng et.al., Paper: [http://arxiv.org/abs/2210.03709v1](http://arxiv.org/abs/2210.03709v1)
 - 2022-10-07, **Compressing Video Calls using Synthetic Talking Heads**, Madhav Agarwal et.al., Paper: [http://arxiv.org/abs/2210.03692v1](http://arxiv.org/abs/2210.03692v1)
