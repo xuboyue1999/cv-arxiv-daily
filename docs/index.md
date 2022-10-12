@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.11
+## Updated on 2022.10.12
 
 ## RGBT
 
@@ -24,6 +24,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-11**|**Transition disks: the observational revolution from SEDs to imaging**|Nienke van der Marel et.al.|[2210.05539v1](http://arxiv.org/abs/2210.05539v1)|null|
+|**2022-10-11**|**Flow-oriented perturbation theory**|Michael Borinsky et.al.|[2210.05532v1](http://arxiv.org/abs/2210.05532v1)|null|
+|**2022-10-11**|**Quasar and galaxy classification using Gaia EDR3 and CatWise2020**|Arvind C. N. Hughes et.al.|[2210.05505v1](http://arxiv.org/abs/2210.05505v1)|null|
+|**2022-10-11**|**Revisiting the Cox and Munk wave-slope statistics using IASI observations of the sea surface**|Charles-Antoine Guérin et.al.|[2210.05456v1](http://arxiv.org/abs/2210.05456v1)|null|
+|**2022-10-11**|**Earth as an Exoplanet: II. Earth's Time-Variable Thermal Emission and its Atmospheric Seasonality of Bio-Indicators**|Jean-Noel Mettler et.al.|[2210.05414v1](http://arxiv.org/abs/2210.05414v1)|null|
+|**2022-10-11**|**Integrated Graphene Patch Antenna for Communications at THz Frequencies**|E. P. de Santana et.al.|[2210.05264v1](http://arxiv.org/abs/2210.05264v1)|null|
+|**2022-10-11**|**Radio Variability and Broad-Band Spectra of Infrared Galaxies with and without OH Megamaser Emission**|Yu. V. Sotnikova et.al.|[2210.05207v1](http://arxiv.org/abs/2210.05207v1)|null|
+|**2022-10-10**|**Understanding the Energy Gap Law under Vibrational Strong Coupling**|Yong Rui Poh et.al.|[2210.04986v1](http://arxiv.org/abs/2210.04986v1)|null|
+|**2022-10-10**|**SLURP! Spectroscopy of Liquids Using Robot Pre-Touch Sensing**|Nathaniel Hanson et.al.|[2210.04941v1](http://arxiv.org/abs/2210.04941v1)|null|
 |**2022-10-10**|**Higgs boson origin from a gauge symmetric theory of massive composite particles and massless $W^\pm$ and $Z^0$ bosons at the TeV scale**|She-Sheng Xue et.al.|[2210.04825v1](http://arxiv.org/abs/2210.04825v1)|null|
 |**2022-10-10**|**Infrared Remote Sensing Using Low Noise Avalanche Photodiode Detector**|Joice Mathew et.al.|[2210.04770v1](http://arxiv.org/abs/2210.04770v1)|null|
 |**2022-10-10**|**Detection of infrared light through stimulated four-wave mixing process**|Wei-Hang Zhang et.al.|[2210.04691v1](http://arxiv.org/abs/2210.04691v1)|null|
@@ -799,6 +808,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-11**|**Even Lighter Particle Dark Matter**|Alvaro E. Chavarria et.al.|[2210.05661v1](http://arxiv.org/abs/2210.05661v1)|null|
+|**2022-10-11**|**Axion-like particles explain the very-high energy emission from GRB221009A**|Giorgio Galanti et.al.|[2210.05659v1](http://arxiv.org/abs/2210.05659v1)|null|
+|**2022-10-11**|**Optimizing fermionic encodings for both Hamiltonian and hardware**|Riley W. Chien et.al.|[2210.05652v1](http://arxiv.org/abs/2210.05652v1)|null|
+|**2022-10-11**|**Decoding the double trouble: A mathematical modelling of co-infection dynamics of SARS-CoV-2 and influenza-like illness**|Suman Bhowmick et.al.|[2210.05649v1](http://arxiv.org/abs/2210.05649v1)|null|
+|**2022-10-11**|**A Formal Assisted Approach for Modeling and Testing Security Attacks in IoT Edge Devices**|A. Bhanpurawala et.al.|[2210.05623v1](http://arxiv.org/abs/2210.05623v1)|null|
+|**2022-10-11**|**Spectral characteristics of the black hole binary 4U 1957+115: A multi-mission perspective**|Sneha Prakash Mudambi et.al.|[2210.05606v1](http://arxiv.org/abs/2210.05606v1)|null|
+|**2022-10-11**|**Prototypical VoteNet for Few-Shot 3D Point Cloud Object Detection**|Shizhen Zhao et.al.|[2210.05593v1](http://arxiv.org/abs/2210.05593v1)|null|
+|**2022-10-11**|**Relativistic time-of-arrival measurements: predictions, post-selection and causality problem**|Charis Anastopoulos et.al.|[2210.05591v1](http://arxiv.org/abs/2210.05591v1)|null|
+|**2022-10-11**|**Digital Twin-Based Multiple Access Optimization and Monitoring via Model-Driven Bayesian Learning**|Clement Ruah et.al.|[2210.05582v1](http://arxiv.org/abs/2210.05582v1)|null|
+|**2022-10-11**|**Motion Aware Self-Supervision for Generic Event Boundary Detection**|Ayush K. Rai et.al.|[2210.05574v1](http://arxiv.org/abs/2210.05574v1)|null|
 |**2022-10-10**|**Deep object detection for waterbird monitoring using aerial imagery**|Krish Kabra et.al.|[2210.04868v1](http://arxiv.org/abs/2210.04868v1)|**[link](https://github.com/riced2klab/audubon_f21)**|
 |**2022-10-10**|**Carbon nanotube substrates enhance SARS-CoV-2 spike protein ion yields in matrix assisted laser desorption-ionization mass spectrometry**|T. Schenkel et.al.|[2210.04853v1](http://arxiv.org/abs/2210.04853v1)|null|
 |**2022-10-10**|**FS-DETR: Few-Shot DEtection TRansformer with prompting and without re-training**|Adrian Bulat et.al.|[2210.04845v1](http://arxiv.org/abs/2210.04845v1)|null|
