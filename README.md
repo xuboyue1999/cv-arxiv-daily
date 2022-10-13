@@ -1,4 +1,4 @@
-## Updated on 2022.10.12
+## Updated on 2022.10.13
 
 ## RGBT
 
@@ -20,6 +20,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-12**|**Nested Dust Shells around the Wolf-Rayet Binary WR 140 observed with JWST**|Ryan M. Lau et.al.|[2210.06452v1](http://arxiv.org/abs/2210.06452v1)|null|
+|**2022-10-12**|**Discovery of a probable very fast extragalactic nova in a symbiotic binary**|David Modiano et.al.|[2210.06057v1](http://arxiv.org/abs/2210.06057v1)|null|
+|**2022-10-12**|**A Note on the "Various Atmospheres over Water Oceans on Terrestrial Planets with a One-Dimensional Radiative-Convective Equilibrium Model**|Tetsuya Hara et.al.|[2210.05963v1](http://arxiv.org/abs/2210.05963v1)|null|
+|**2022-10-12**|**Galaxy Manifold: Characterizing and understanding galaxies with two parameters**|Suchetha Cooray et.al.|[2210.05862v1](http://arxiv.org/abs/2210.05862v1)|null|
+|**2022-10-11**|**GOALS-JWST: Revealing the Buried Star Clusters in the Luminous Infrared Galaxy VV 114**|Sean T. Linden et.al.|[2210.05763v1](http://arxiv.org/abs/2210.05763v1)|null|
 |**2022-10-11**|**Transition disks: the observational revolution from SEDs to imaging**|Nienke van der Marel et.al.|[2210.05539v1](http://arxiv.org/abs/2210.05539v1)|null|
 |**2022-10-11**|**Flow-oriented perturbation theory**|Michael Borinsky et.al.|[2210.05532v1](http://arxiv.org/abs/2210.05532v1)|null|
 |**2022-10-11**|**Quasar and galaxy classification using Gaia EDR3 and CatWise2020**|Arvind C. N. Hughes et.al.|[2210.05505v1](http://arxiv.org/abs/2210.05505v1)|null|
@@ -804,6 +809,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-12**|**Token-Label Alignment for Vision Transformers**|Han Xiao et.al.|[2210.06455v1](http://arxiv.org/abs/2210.06455v1)|null|
+|**2022-10-12**|**Nested Dust Shells around the Wolf-Rayet Binary WR 140 observed with JWST**|Ryan M. Lau et.al.|[2210.06452v1](http://arxiv.org/abs/2210.06452v1)|null|
+|**2022-10-12**|**Self-supervised video pretraining yields strong image representations**|Nikhil Parthasarathy et.al.|[2210.06433v1](http://arxiv.org/abs/2210.06433v1)|null|
+|**2022-10-12**|**On Synchronized Globular Cluster Formation over Supra-galactic Scales: A Virgo-Centaurus Group Connection**|Juan Carlos Forte et.al.|[2210.06426v1](http://arxiv.org/abs/2210.06426v1)|null|
+|**2022-10-12**|**BiaScope: Visual Unfairness Diagnosis for Graph Embeddings**|Agapi Rissaki et.al.|[2210.06417v1](http://arxiv.org/abs/2210.06417v1)|null|
+|**2022-10-12**|**A Unified Framework with Meta-dropout for Few-shot Learning**|Shaobo Lin et.al.|[2210.06409v1](http://arxiv.org/abs/2210.06409v1)|null|
+|**2022-10-12**|**DQLAP: Deep Q-Learning Recommender Algorithm with Update Policy for a Real Steam Turbine System**|M. H. Modirrousta et.al.|[2210.06399v1](http://arxiv.org/abs/2210.06399v1)|null|
+|**2022-10-12**|**Prospects of testing late-time cosmology with weak lensing of gravitational waves and galaxy surveys**|Anna Balaudo et.al.|[2210.06398v1](http://arxiv.org/abs/2210.06398v1)|null|
+|**2022-10-12**|**MFFN: Multi-view Feature Fusion Network for Camouflaged Object Detection**|Dehua Zheng et.al.|[2210.06361v1](http://arxiv.org/abs/2210.06361v1)|null|
+|**2022-10-12**|**Perturbed eigenvalues of polyharmonic operators in domains with small holes**|Veronica Felli et.al.|[2210.06360v1](http://arxiv.org/abs/2210.06360v1)|null|
 |**2022-10-11**|**Even Lighter Particle Dark Matter**|Alvaro E. Chavarria et.al.|[2210.05661v1](http://arxiv.org/abs/2210.05661v1)|null|
 |**2022-10-11**|**Axion-like particles explain the very-high energy emission from GRB221009A**|Giorgio Galanti et.al.|[2210.05659v1](http://arxiv.org/abs/2210.05659v1)|null|
 |**2022-10-11**|**Optimizing fermionic encodings for both Hamiltonian and hardware**|Riley W. Chien et.al.|[2210.05652v1](http://arxiv.org/abs/2210.05652v1)|null|
