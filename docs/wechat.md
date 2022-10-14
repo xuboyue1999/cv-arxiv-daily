@@ -811,9 +811,9 @@
 
 ## Saliency Detection
 
-- 2022-10-13, **OpenOOD: Benchmarking Generalized Out-of-Distribution Detection**, Jingkang Yang et.al., Paper: [http://arxiv.org/abs/2210.07242v1](http://arxiv.org/abs/2210.07242v1)
+- 2022-10-13, **OpenOOD: Benchmarking Generalized Out-of-Distribution Detection**, Jingkang Yang et.al., Paper: [http://arxiv.org/abs/2210.07242v1](http://arxiv.org/abs/2210.07242v1), Code: **[https://github.com/jingkang50/openood](https://github.com/jingkang50/openood)**
 - 2022-10-13, **Composite Learning for Robust and Effective Dense Predictions**, Menelaos Kanakis et.al., Paper: [http://arxiv.org/abs/2210.07239v1](http://arxiv.org/abs/2210.07239v1)
-- 2022-10-13, **Exploring Long-Sequence Masked Autoencoders**, Ronghang Hu et.al., Paper: [http://arxiv.org/abs/2210.07224v1](http://arxiv.org/abs/2210.07224v1)
+- 2022-10-13, **Exploring Long-Sequence Masked Autoencoders**, Ronghang Hu et.al., Paper: [http://arxiv.org/abs/2210.07224v1](http://arxiv.org/abs/2210.07224v1), Code: **[https://github.com/facebookresearch/long_seq_mae](https://github.com/facebookresearch/long_seq_mae)**
 - 2022-10-13, **Constructing Natural Language Explanations via Saliency Map Verbalization**, Nils Feldhus et.al., Paper: [http://arxiv.org/abs/2210.07222v1](http://arxiv.org/abs/2210.07222v1)
 - 2022-10-13, **What charged cosmic rays tell us on dark matter**, Pierre Salati et.al., Paper: [http://arxiv.org/abs/2210.07166v1](http://arxiv.org/abs/2210.07166v1)
 - 2022-10-13, **Solid grains ejected from terrestrial exoplanets as a probe of the abundance of life in the Milky Way**, Tomonori Totani et.al., Paper: [http://arxiv.org/abs/2210.07084v1](http://arxiv.org/abs/2210.07084v1)
