@@ -1,4 +1,4 @@
-> Updated on 2022.10.13
+> Updated on 2022.10.14
 
 ## RGBT
 
@@ -16,6 +16,15 @@
 
 ## Infrared
 
+- 2022-10-13, **Precision QCD corrections to gluon-initiated diphoton-plus-jet production at the LHC**, Ryan Moodie et.al., Paper: [http://arxiv.org/abs/2210.07115v1](http://arxiv.org/abs/2210.07115v1)
+- 2022-10-13, **Near-infrared Chemical Abundances of Stars in the Sculptor Dwarf Galaxy**, Baitian Tang et.al., Paper: [http://arxiv.org/abs/2210.06731v1](http://arxiv.org/abs/2210.06731v1)
+- 2022-10-12, **Electron Acceleration and Radiation Generation from Relativistic Laser-Plasma Interactions at High Repetition-Rate**, Jinpu Lin et.al., Paper: [http://arxiv.org/abs/2210.06572v1](http://arxiv.org/abs/2210.06572v1)
+- 2022-10-12, **Prepended Domain Transformer: Heterogeneous Face Recognition without Bells and Whistles**, Anjith George et.al., Paper: [http://arxiv.org/abs/2210.06529v1](http://arxiv.org/abs/2210.06529v1)
+- 2022-10-12, **Do Post-Starburst Galaxies Host Compact Molecular Gas Reservoirs?**, Fengwu Sun et.al., Paper: [http://arxiv.org/abs/2210.06522v1](http://arxiv.org/abs/2210.06522v1)
+- 2022-10-12, **Novae in M51: a New, Much Higher Rate from Multi-epoch HST Data**, Shifra Mandel et.al., Paper: [http://arxiv.org/abs/2210.06503v1](http://arxiv.org/abs/2210.06503v1)
+- 2022-10-12, **JWST Imaging of the Cartwheel Galaxy Reveals Dust Formation in SN 2021afdx**, Griffin Hosseinzadeh et.al., Paper: [http://arxiv.org/abs/2210.06499v1](http://arxiv.org/abs/2210.06499v1)
+- 2022-10-12, **Operator spectroscopy for 4d SCFTs with a=c**, Monica Jinwoo Kang et.al., Paper: [http://arxiv.org/abs/2210.06497v1](http://arxiv.org/abs/2210.06497v1)
+- 2022-10-12, **PAH emission from star-forming galaxies in JWST mid-infrared imaging of the lensing cluster SMACS J0723.3$-$7327**, Danial Langeroodi et.al., Paper: [http://arxiv.org/abs/2210.06482v1](http://arxiv.org/abs/2210.06482v1)
 - 2022-10-12, **Nested Dust Shells around the Wolf-Rayet Binary WR 140 observed with JWST**, Ryan M. Lau et.al., Paper: [http://arxiv.org/abs/2210.06452v1](http://arxiv.org/abs/2210.06452v1)
 - 2022-10-12, **Discovery of a probable very fast extragalactic nova in a symbiotic binary**, David Modiano et.al., Paper: [http://arxiv.org/abs/2210.06057v1](http://arxiv.org/abs/2210.06057v1)
 - 2022-10-12, **A Note on the "Various Atmospheres over Water Oceans on Terrestrial Planets with a One-Dimensional Radiative-Convective Equilibrium Model**, Tetsuya Hara et.al., Paper: [http://arxiv.org/abs/2210.05963v1](http://arxiv.org/abs/2210.05963v1)
@@ -766,6 +775,7 @@
 
 ## RGBD
 
+- 2022-10-13, **DCANet: Differential Convolution Attention Network for RGB-D Semantic Segmentation**, Lizhi Bai et.al., Paper: [http://arxiv.org/abs/2210.06747v1](http://arxiv.org/abs/2210.06747v1)
 - 2022-10-04, **COPILOT: Human Collision Prediction and Localization from Multi-view Egocentric Videos**, Boxiao Pan et.al., Paper: [http://arxiv.org/abs/2210.01781v1](http://arxiv.org/abs/2210.01781v1)
 - 2022-09-22, **Physical Interaction: Reconstructing Hand-object Interactions with Physics**, Haoyu Hu et.al., Paper: [http://arxiv.org/abs/2209.10833v1](http://arxiv.org/abs/2209.10833v1), Code: **[https://github.com/hu-hy17/PhysInteraction](https://github.com/hu-hy17/PhysInteraction)**
 - 2022-09-20, **Active Visual Search in the Wild**, Jeongeun Park et.al., Paper: [http://arxiv.org/abs/2209.08803v2](http://arxiv.org/abs/2209.08803v2)
@@ -801,6 +811,16 @@
 
 ## Saliency Detection
 
+- 2022-10-13, **OpenOOD: Benchmarking Generalized Out-of-Distribution Detection**, Jingkang Yang et.al., Paper: [http://arxiv.org/abs/2210.07242v1](http://arxiv.org/abs/2210.07242v1)
+- 2022-10-13, **Composite Learning for Robust and Effective Dense Predictions**, Menelaos Kanakis et.al., Paper: [http://arxiv.org/abs/2210.07239v1](http://arxiv.org/abs/2210.07239v1)
+- 2022-10-13, **Exploring Long-Sequence Masked Autoencoders**, Ronghang Hu et.al., Paper: [http://arxiv.org/abs/2210.07224v1](http://arxiv.org/abs/2210.07224v1)
+- 2022-10-13, **Constructing Natural Language Explanations via Saliency Map Verbalization**, Nils Feldhus et.al., Paper: [http://arxiv.org/abs/2210.07222v1](http://arxiv.org/abs/2210.07222v1)
+- 2022-10-13, **What charged cosmic rays tell us on dark matter**, Pierre Salati et.al., Paper: [http://arxiv.org/abs/2210.07166v1](http://arxiv.org/abs/2210.07166v1)
+- 2022-10-13, **Solid grains ejected from terrestrial exoplanets as a probe of the abundance of life in the Milky Way**, Tomonori Totani et.al., Paper: [http://arxiv.org/abs/2210.07084v1](http://arxiv.org/abs/2210.07084v1)
+- 2022-10-13, **Detecting A Single Change-point**, Paul Fearnhead et.al., Paper: [http://arxiv.org/abs/2210.07066v1](http://arxiv.org/abs/2210.07066v1)
+- 2022-10-13, **Dimensionality of datasets in object detection networks**, Ajay Chawda et.al., Paper: [http://arxiv.org/abs/2210.07049v1](http://arxiv.org/abs/2210.07049v1)
+- 2022-10-13, **Hard to Detect Factors of Univariate Integer Polynomials**, Alberto Dennunzio et.al., Paper: [http://arxiv.org/abs/2210.07030v1](http://arxiv.org/abs/2210.07030v1)
+- 2022-10-13, **Back to the features: assessing the discriminating power of future CMB missions on inflationary models**, Matteo Braglia et.al., Paper: [http://arxiv.org/abs/2210.07028v1](http://arxiv.org/abs/2210.07028v1)
 - 2022-10-12, **Token-Label Alignment for Vision Transformers**, Han Xiao et.al., Paper: [http://arxiv.org/abs/2210.06455v1](http://arxiv.org/abs/2210.06455v1), Code: **[https://github.com/euphoria16/tl-align](https://github.com/euphoria16/tl-align)**
 - 2022-10-12, **Nested Dust Shells around the Wolf-Rayet Binary WR 140 observed with JWST**, Ryan M. Lau et.al., Paper: [http://arxiv.org/abs/2210.06452v1](http://arxiv.org/abs/2210.06452v1)
 - 2022-10-12, **Self-supervised video pretraining yields strong image representations**, Nikhil Parthasarathy et.al., Paper: [http://arxiv.org/abs/2210.06433v1](http://arxiv.org/abs/2210.06433v1)
