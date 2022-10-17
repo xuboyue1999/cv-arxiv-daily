@@ -1,4 +1,4 @@
-> Updated on 2022.10.16
+> Updated on 2022.10.17
 
 ## RGBT
 
@@ -16,6 +16,16 @@
 
 ## Infrared
 
+- 2022-10-14, **A model for the infrared-radio correlation of main-sequence galaxies at GHz frequencies and its dependence on redshift and stellar mass**, J. Schober et.al., Paper: [http://arxiv.org/abs/2210.07919v1](http://arxiv.org/abs/2210.07919v1)
+- 2022-10-14, **Uncovering Extreme Nonlinear Dynamics in Solids Through Time-Domain Field Analysis**, Phillip D. Keathley et.al., Paper: [http://arxiv.org/abs/2210.07899v1](http://arxiv.org/abs/2210.07899v1)
+- 2022-10-14, **Convolutional Neural Networks: Basic Concepts and Applications in Manufacturing**, Shengli Jiang et.al., Paper: [http://arxiv.org/abs/2210.07848v1](http://arxiv.org/abs/2210.07848v1)
+- 2022-10-14, **Realizing Flame State Monitoring with Very Few Visual or Infrared Images via Few-Shot Learning**, Ruiyuan Kang et.al., Paper: [http://arxiv.org/abs/2210.07845v1](http://arxiv.org/abs/2210.07845v1)
+- 2022-10-14, **Ionization dynamics and damage conditions for transparent materials irradiated with Mid-Infrared femtosecond pulses**, George D Tsibidis et.al., Paper: [http://arxiv.org/abs/2210.07790v1](http://arxiv.org/abs/2210.07790v1)
+- 2022-10-14, **High-harmonic generation in liquids with few-cycle pulses: effect of laser-pulse duration on the cut-off energy**, Angana Mondal et.al., Paper: [http://arxiv.org/abs/2210.07736v1](http://arxiv.org/abs/2210.07736v1)
+- 2022-10-14, **The Triangle Condition for the Marked Random Connection Model**, Matthew Dickson et.al., Paper: [http://arxiv.org/abs/2210.07727v1](http://arxiv.org/abs/2210.07727v1)
+- 2022-10-14, **A radio-detected thermonuclear supernova from a single-degenerate progenitor with a helium star donor**, Erik C. Kool et.al., Paper: [http://arxiv.org/abs/2210.07725v1](http://arxiv.org/abs/2210.07725v1)
+- 2022-10-14, **CHANG-ES XXVI: Insights into cosmic-ray transport from radio halos in edge-on galaxies**, M. Stein et.al., Paper: [http://arxiv.org/abs/2210.07709v1](http://arxiv.org/abs/2210.07709v1)
+- 2022-10-14, **Towards Transformer-based Homogenization of Satellite Imagery for Landsat-8 and Sentinel-2**, Venkatesh Thirugnana Sambandham et.al., Paper: [http://arxiv.org/abs/2210.07654v1](http://arxiv.org/abs/2210.07654v1)
 - 2022-10-13, **Precision QCD corrections to gluon-initiated diphoton-plus-jet production at the LHC**, Ryan Moodie et.al., Paper: [http://arxiv.org/abs/2210.07115v1](http://arxiv.org/abs/2210.07115v1)
 - 2022-10-13, **Near-infrared Chemical Abundances of Stars in the Sculptor Dwarf Galaxy**, Baitian Tang et.al., Paper: [http://arxiv.org/abs/2210.06731v1](http://arxiv.org/abs/2210.06731v1)
 - 2022-10-12, **Electron Acceleration and Radiation Generation from Relativistic Laser-Plasma Interactions at High Repetition-Rate**, Jinpu Lin et.al., Paper: [http://arxiv.org/abs/2210.06572v1](http://arxiv.org/abs/2210.06572v1)
@@ -775,6 +785,7 @@
 
 ## RGBD
 
+- 2022-10-13, **Autoregressive Uncertainty Modeling for 3D Bounding Box Prediction**, YuXuan Liu et.al., Paper: [http://arxiv.org/abs/2210.07424v1](http://arxiv.org/abs/2210.07424v1)
 - 2022-10-13, **DCANet: Differential Convolution Attention Network for RGB-D Semantic Segmentation**, Lizhi Bai et.al., Paper: [http://arxiv.org/abs/2210.06747v1](http://arxiv.org/abs/2210.06747v1)
 - 2022-10-04, **COPILOT: Human Collision Prediction and Localization from Multi-view Egocentric Videos**, Boxiao Pan et.al., Paper: [http://arxiv.org/abs/2210.01781v1](http://arxiv.org/abs/2210.01781v1)
 - 2022-09-22, **Physical Interaction: Reconstructing Hand-object Interactions with Physics**, Haoyu Hu et.al., Paper: [http://arxiv.org/abs/2209.10833v1](http://arxiv.org/abs/2209.10833v1), Code: **[https://github.com/hu-hy17/PhysInteraction](https://github.com/hu-hy17/PhysInteraction)**
@@ -811,6 +822,16 @@
 
 ## Saliency Detection
 
+- 2022-10-14, **MiQA: A Benchmark for Inference on Metaphorical Questions**, Iulia-Maria Comsa et.al., Paper: [http://arxiv.org/abs/2210.07993v1](http://arxiv.org/abs/2210.07993v1)
+- 2022-10-14, **Novel 3D Scene Understanding Applications From Recurrence in a Single Image**, Shimian Zhang et.al., Paper: [http://arxiv.org/abs/2210.07991v1](http://arxiv.org/abs/2210.07991v1)
+- 2022-10-14, **Trailers12k: Evaluating Transfer Learning for Movie Trailer Genre Classification**, Ricardo Montalvo-Lezama et.al., Paper: [http://arxiv.org/abs/2210.07983v1](http://arxiv.org/abs/2210.07983v1)
+- 2022-10-14, **Representation Theory for Geometric Quantum Machine Learning**, Michael Ragone et.al., Paper: [http://arxiv.org/abs/2210.07980v1](http://arxiv.org/abs/2210.07980v1)
+- 2022-10-14, **Design and Testing of a 3U CubeSat to Test the In-situ Vetoing for the $ν$SOL Solar Neutrino Detector**, Jonathan Folkerts et.al., Paper: [http://arxiv.org/abs/2210.07975v1](http://arxiv.org/abs/2210.07975v1)
+- 2022-10-14, **Conformal anomaly in magnetic finite temperature response of strongly interacting one-dimensional spin systems**, Christian Northe et.al., Paper: [http://arxiv.org/abs/2210.07972v1](http://arxiv.org/abs/2210.07972v1)
+- 2022-10-14, **Rate and Detection-Error Exponent Tradeoff for Joint Communication and Sensing of Fixed Channel States**, Meng-Che Chang et.al., Paper: [http://arxiv.org/abs/2210.07963v1](http://arxiv.org/abs/2210.07963v1)
+- 2022-10-14, **A dense mini-Neptune orbiting the bright young star HD 18599**, Jose I. Vines et.al., Paper: [http://arxiv.org/abs/2210.07945v1](http://arxiv.org/abs/2210.07945v1)
+- 2022-10-14, **Neurobiology and Changing Ecosystems: toward understanding the impact of anthropogenic influences on neurons and circuits**, Angie Michaiel et.al., Paper: [http://arxiv.org/abs/2210.07935v1](http://arxiv.org/abs/2210.07935v1)
+- 2022-10-14, **TOI-179: a young system with a transiting compact Neptune-mass planet and a low-mass companion in outer orbit**, S. Desidera et.al., Paper: [http://arxiv.org/abs/2210.07933v1](http://arxiv.org/abs/2210.07933v1)
 - 2022-10-13, **OpenOOD: Benchmarking Generalized Out-of-Distribution Detection**, Jingkang Yang et.al., Paper: [http://arxiv.org/abs/2210.07242v1](http://arxiv.org/abs/2210.07242v1), Code: **[https://github.com/jingkang50/openood](https://github.com/jingkang50/openood)**
 - 2022-10-13, **Composite Learning for Robust and Effective Dense Predictions**, Menelaos Kanakis et.al., Paper: [http://arxiv.org/abs/2210.07239v1](http://arxiv.org/abs/2210.07239v1)
 - 2022-10-13, **Exploring Long-Sequence Masked Autoencoders**, Ronghang Hu et.al., Paper: [http://arxiv.org/abs/2210.07224v1](http://arxiv.org/abs/2210.07224v1), Code: **[https://github.com/facebookresearch/long_seq_mae](https://github.com/facebookresearch/long_seq_mae)**
