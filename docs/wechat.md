@@ -824,7 +824,7 @@
 
 - 2022-10-14, **MiQA: A Benchmark for Inference on Metaphorical Questions**, Iulia-Maria Comsa et.al., Paper: [http://arxiv.org/abs/2210.07993v1](http://arxiv.org/abs/2210.07993v1)
 - 2022-10-14, **Novel 3D Scene Understanding Applications From Recurrence in a Single Image**, Shimian Zhang et.al., Paper: [http://arxiv.org/abs/2210.07991v1](http://arxiv.org/abs/2210.07991v1)
-- 2022-10-14, **Trailers12k: Evaluating Transfer Learning for Movie Trailer Genre Classification**, Ricardo Montalvo-Lezama et.al., Paper: [http://arxiv.org/abs/2210.07983v1](http://arxiv.org/abs/2210.07983v1)
+- 2022-10-14, **Trailers12k: Evaluating Transfer Learning for Movie Trailer Genre Classification**, Ricardo Montalvo-Lezama et.al., Paper: [http://arxiv.org/abs/2210.07983v1](http://arxiv.org/abs/2210.07983v1), Code: **[https://github.com/richardtml/divita](https://github.com/richardtml/divita)**
 - 2022-10-14, **Representation Theory for Geometric Quantum Machine Learning**, Michael Ragone et.al., Paper: [http://arxiv.org/abs/2210.07980v1](http://arxiv.org/abs/2210.07980v1)
 - 2022-10-14, **Design and Testing of a 3U CubeSat to Test the In-situ Vetoing for the $ν$SOL Solar Neutrino Detector**, Jonathan Folkerts et.al., Paper: [http://arxiv.org/abs/2210.07975v1](http://arxiv.org/abs/2210.07975v1)
 - 2022-10-14, **Conformal anomaly in magnetic finite temperature response of strongly interacting one-dimensional spin systems**, Christian Northe et.al., Paper: [http://arxiv.org/abs/2210.07972v1](http://arxiv.org/abs/2210.07972v1)
