@@ -841,7 +841,7 @@
 - 2022-10-17, **Parameters of axion-like particles required to explain high-energy photons from GRB 221009A**, S. V. Troitsky et.al., Paper: [http://arxiv.org/abs/2210.09250v1](http://arxiv.org/abs/2210.09250v1)
 - 2022-10-17, **Amplitudes of Solar Gravity Modes: A Review**, Kévin Belkacem et.al., Paper: [http://arxiv.org/abs/2210.09229v1](http://arxiv.org/abs/2210.09229v1)
 - 2022-10-17, **Self-Supervised Learning Through Efference Copies**, Franz Scherr et.al., Paper: [http://arxiv.org/abs/2210.09224v1](http://arxiv.org/abs/2210.09224v1)
-- 2022-10-17, **ArtFacePoints: High-resolution Facial Landmark Detection in Paintings and Prints**, Aline Sindel et.al., Paper: [http://arxiv.org/abs/2210.09204v1](http://arxiv.org/abs/2210.09204v1)
+- 2022-10-17, **ArtFacePoints: High-resolution Facial Landmark Detection in Paintings and Prints**, Aline Sindel et.al., Paper: [http://arxiv.org/abs/2210.09204v1](http://arxiv.org/abs/2210.09204v1), Code: **[https://github.com/asindel/artfacepoints](https://github.com/asindel/artfacepoints)**
 - 2022-10-14, **MiQA: A Benchmark for Inference on Metaphorical Questions**, Iulia-Maria Comsa et.al., Paper: [http://arxiv.org/abs/2210.07993v1](http://arxiv.org/abs/2210.07993v1)
 - 2022-10-14, **Novel 3D Scene Understanding Applications From Recurrence in a Single Image**, Shimian Zhang et.al., Paper: [http://arxiv.org/abs/2210.07991v1](http://arxiv.org/abs/2210.07991v1)
 - 2022-10-14, **Trailers12k: Evaluating Transfer Learning for Movie Trailer Genre Classification**, Ricardo Montalvo-Lezama et.al., Paper: [http://arxiv.org/abs/2210.07983v1](http://arxiv.org/abs/2210.07983v1), Code: **[https://github.com/richardtml/divita](https://github.com/richardtml/divita)**
