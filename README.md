@@ -1,4 +1,4 @@
-## Updated on 2022.10.17
+## Updated on 2022.10.18
 
 ## RGBT
 
@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-17**|**Infrared variability of young solar analogs in the Lagoon Nebula**|C. Ordenes-Huanca et.al.|[2210.09242v1](http://arxiv.org/abs/2210.09242v1)|null|
+|**2022-10-17**|**Characterization of Population III Stars with Stellar Atmosphere and Evolutionary Modeling and Predictions of their Observability with the James Webb Space Telescope**|Mikaela M. Larkin et.al.|[2210.09185v1](http://arxiv.org/abs/2210.09185v1)|null|
+|**2022-10-17**|**CHARA/SPICA: a 6-telescope visible instrument for the CHARA Array**|Denis Mourard et.al.|[2210.09096v1](http://arxiv.org/abs/2210.09096v1)|null|
+|**2022-10-17**|**SPICA-FT: The new fringe tracker of the CHARA array**|Cyril Pannetier et.al.|[2210.09042v1](http://arxiv.org/abs/2210.09042v1)|null|
+|**2022-10-17**|**Broadband X-ray Spectral Analysis of the Dual AGN System Mrk 739**|Koki Inaba et.al.|[2210.08791v1](http://arxiv.org/abs/2210.08791v1)|null|
+|**2022-10-16**|**First Look at z > 1 Bars in the Rest-Frame Near-Infrared with JWST Early CEERS Imaging**|Yuchen Guo et.al.|[2210.08658v1](http://arxiv.org/abs/2210.08658v1)|null|
+|**2022-10-16**|**INTEGRAL study of MAXI J1535-571, MAXI J1820+070 and MAXI J1348-630 outbursts -- I. Detection and polarization properties of the high-energy emission**|F. Cangemi et.al.|[2210.08561v1](http://arxiv.org/abs/2210.08561v1)|null|
+|**2022-10-16**|**Two-fluid dynamics in driven YBa$_2$Cu$_3$O$_{6.48}$**|A. Ribak et.al.|[2210.08539v1](http://arxiv.org/abs/2210.08539v1)|null|
+|**2022-10-15**|**Resolving a merger in a hyper-luminous submillimeter galaxy at z=2.82**|R. W. Perry et.al.|[2210.08191v1](http://arxiv.org/abs/2210.08191v1)|null|
+|**2022-10-15**|**JWST's PEARLS: A JWST/NIRCam view of ALMA sources**|Cheng Cheng et.al.|[2210.08163v1](http://arxiv.org/abs/2210.08163v1)|null|
 |**2022-10-14**|**A model for the infrared-radio correlation of main-sequence galaxies at GHz frequencies and its dependence on redshift and stellar mass**|J. Schober et.al.|[2210.07919v1](http://arxiv.org/abs/2210.07919v1)|null|
 |**2022-10-14**|**Uncovering Extreme Nonlinear Dynamics in Solids Through Time-Domain Field Analysis**|Phillip D. Keathley et.al.|[2210.07899v1](http://arxiv.org/abs/2210.07899v1)|null|
 |**2022-10-14**|**Convolutional Neural Networks: Basic Concepts and Applications in Manufacturing**|Shengli Jiang et.al.|[2210.07848v1](http://arxiv.org/abs/2210.07848v1)|null|
@@ -830,6 +840,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-17**|**TOI-1136 is a Young, Coplanar, Aligned Planetary System in a Pristine Resonant Chain**|Fei Dai et.al.|[2210.09283v1](http://arxiv.org/abs/2210.09283v1)|null|
+|**2022-10-17**|**Inferring Synergistic and Antagonistic Interactions in Mixtures of Exposures**|Shounak Chattopadhyay et.al.|[2210.09279v1](http://arxiv.org/abs/2210.09279v1)|null|
+|**2022-10-17**|**CramNet: Camera-Radar Fusion with Ray-Constrained Cross-Attention for Robust 3D Object Detection**|Jyh-Jing Hwang et.al.|[2210.09267v1](http://arxiv.org/abs/2210.09267v1)|null|
+|**2022-10-17**|**Vision-Language Pre-training: Basics, Recent Advances, and Future Trends**|Zhe Gan et.al.|[2210.09263v1](http://arxiv.org/abs/2210.09263v1)|null|
+|**2022-10-17**|**Unraveling information about supranuclear-dense matter from the complete binary neutron star coalescence process using future gravitational-wave detector networks**|Anna Puecher et.al.|[2210.09259v1](http://arxiv.org/abs/2210.09259v1)|null|
+|**2022-10-17**|**A compiler for universal photonic quantum computers**|Felix Zilk et.al.|[2210.09251v1](http://arxiv.org/abs/2210.09251v1)|null|
+|**2022-10-17**|**Parameters of axion-like particles required to explain high-energy photons from GRB 221009A**|S. V. Troitsky et.al.|[2210.09250v1](http://arxiv.org/abs/2210.09250v1)|null|
+|**2022-10-17**|**Amplitudes of Solar Gravity Modes: A Review**|Kévin Belkacem et.al.|[2210.09229v1](http://arxiv.org/abs/2210.09229v1)|null|
+|**2022-10-17**|**Self-Supervised Learning Through Efference Copies**|Franz Scherr et.al.|[2210.09224v1](http://arxiv.org/abs/2210.09224v1)|null|
+|**2022-10-17**|**ArtFacePoints: High-resolution Facial Landmark Detection in Paintings and Prints**|Aline Sindel et.al.|[2210.09204v1](http://arxiv.org/abs/2210.09204v1)|null|
 |**2022-10-14**|**MiQA: A Benchmark for Inference on Metaphorical Questions**|Iulia-Maria Comsa et.al.|[2210.07993v1](http://arxiv.org/abs/2210.07993v1)|null|
 |**2022-10-14**|**Novel 3D Scene Understanding Applications From Recurrence in a Single Image**|Shimian Zhang et.al.|[2210.07991v1](http://arxiv.org/abs/2210.07991v1)|null|
 |**2022-10-14**|**Trailers12k: Evaluating Transfer Learning for Movie Trailer Genre Classification**|Ricardo Montalvo-Lezama et.al.|[2210.07983v1](http://arxiv.org/abs/2210.07983v1)|**[link](https://github.com/richardtml/divita)**|
