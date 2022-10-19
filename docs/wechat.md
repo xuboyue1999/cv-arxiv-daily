@@ -1,4 +1,4 @@
-> Updated on 2022.10.18
+> Updated on 2022.10.19
 
 ## RGBT
 
@@ -16,6 +16,16 @@
 
 ## Infrared
 
+- 2022-10-18, **Edge-based Monocular Thermal-Inertial Odometry in Visually Degraded Environments**, Yu Wang et.al., Paper: [http://arxiv.org/abs/2210.10033v1](http://arxiv.org/abs/2210.10033v1)
+- 2022-10-18, **Two-photon imaging of soliton dynamics**, Lukasz A. Sterczewski et.al., Paper: [http://arxiv.org/abs/2210.09966v1](http://arxiv.org/abs/2210.09966v1)
+- 2022-10-18, **SA-DNet: A on-demand semantic object registration network adapting to non-rigid deformation**, Housheng Xie et.al., Paper: [http://arxiv.org/abs/2210.09900v1](http://arxiv.org/abs/2210.09900v1)
+- 2022-10-18, **A survey for variable young stars with small telescopes: VII -- Spot Properties on YSOs in IC5070**, Carys Herbert et.al., Paper: [http://arxiv.org/abs/2210.09895v1](http://arxiv.org/abs/2210.09895v1)
+- 2022-10-18, **Very Low-Resolution Iris Recognition Via Eigen-Patch Super-Resolution and Matcher Fusion**, Fernando Alonso-Fernandez et.al., Paper: [http://arxiv.org/abs/2210.09765v1](http://arxiv.org/abs/2210.09765v1)
+- 2022-10-18, **Modeling of dual frequency combs and bistable solitons in third-harmonic generation**, T. Hansson et.al., Paper: [http://arxiv.org/abs/2210.09763v1](http://arxiv.org/abs/2210.09763v1)
+- 2022-10-18, **Generalized interacting Barrow Holographic Dark Energy: cosmological predictions and thermodynamic considerations**, Giuseppe Gaetano Luciano et.al., Paper: [http://arxiv.org/abs/2210.09755v1](http://arxiv.org/abs/2210.09755v1)
+- 2022-10-18, **Finding high-redshift gamma-ray bursts in tandem near-infrared and optical surveys**, S. Campana et.al., Paper: [http://arxiv.org/abs/2210.09749v1](http://arxiv.org/abs/2210.09749v1)
+- 2022-10-18, **Hydrogel stiffness determines particle self-assembly and suspension rheology across the lower consolute solution temperature**, Chandeshwar Misra et.al., Paper: [http://arxiv.org/abs/2210.09694v1](http://arxiv.org/abs/2210.09694v1)
+- 2022-10-18, **Observational constraints on accelerators of ultra-high energy cosmic rays**, Sullivan Marafico et.al., Paper: [http://arxiv.org/abs/2210.09633v1](http://arxiv.org/abs/2210.09633v1)
 - 2022-10-17, **Infrared variability of young solar analogs in the Lagoon Nebula**, C. Ordenes-Huanca et.al., Paper: [http://arxiv.org/abs/2210.09242v1](http://arxiv.org/abs/2210.09242v1)
 - 2022-10-17, **Characterization of Population III Stars with Stellar Atmosphere and Evolutionary Modeling and Predictions of their Observability with the James Webb Space Telescope**, Mikaela M. Larkin et.al., Paper: [http://arxiv.org/abs/2210.09185v1](http://arxiv.org/abs/2210.09185v1)
 - 2022-10-17, **CHARA/SPICA: a 6-telescope visible instrument for the CHARA Array**, Denis Mourard et.al., Paper: [http://arxiv.org/abs/2210.09096v1](http://arxiv.org/abs/2210.09096v1)
@@ -832,6 +842,16 @@
 
 ## Saliency Detection
 
+- 2022-10-18, **A Tri-Layer Plugin to Improve Occluded Detection**, Guanqi Zhan et.al., Paper: [http://arxiv.org/abs/2210.10046v1](http://arxiv.org/abs/2210.10046v1)
+- 2022-10-18, **Diverse Misinformation: Impacts of Human Biases on Detection of Deepfakes on Networks**, Juniper Lovato et.al., Paper: [http://arxiv.org/abs/2210.10026v1](http://arxiv.org/abs/2210.10026v1)
+- 2022-10-18, **An extended [CII] halo around a massive star-forming galaxy at z = 5.3**, T. S. Lambert et.al., Paper: [http://arxiv.org/abs/2210.10023v1](http://arxiv.org/abs/2210.10023v1)
+- 2022-10-18, **Flare Duty Cycle of Gamma-Ray Blazars and Implications for High-Energy Neutrino Emission**, Kenji Yoshida et.al., Paper: [http://arxiv.org/abs/2210.10011v1](http://arxiv.org/abs/2210.10011v1)
+- 2022-10-18, **Detecting quasiconvex splittings in hyperbolic groups**, Joseph P. MacManus et.al., Paper: [http://arxiv.org/abs/2210.09973v1](http://arxiv.org/abs/2210.09973v1)
+- 2022-10-18, **Two-photon imaging of soliton dynamics**, Lukasz A. Sterczewski et.al., Paper: [http://arxiv.org/abs/2210.09966v1](http://arxiv.org/abs/2210.09966v1)
+- 2022-10-18, **Out of Distribution Reasoning by Weakly-Supervised Disentangled Logic Variational Autoencoder**, Zahra Rahiminasab et.al., Paper: [http://arxiv.org/abs/2210.09959v1](http://arxiv.org/abs/2210.09959v1)
+- 2022-10-18, **Tidal Stripping of a White Dwarf by an Intermediate-Mass Black Hole**, Jin-Hong Chen et.al., Paper: [http://arxiv.org/abs/2210.09945v1](http://arxiv.org/abs/2210.09945v1)
+- 2022-10-18, **Measurement induced quantum walks on an IBM Quantum Computer**, Sabine Tornow et.al., Paper: [http://arxiv.org/abs/2210.09941v1](http://arxiv.org/abs/2210.09941v1)
+- 2022-10-18, **Automatic Detection of Fake Key Attacks in Secure Messaging**, Tarun Kumar Yadav et.al., Paper: [http://arxiv.org/abs/2210.09940v1](http://arxiv.org/abs/2210.09940v1)
 - 2022-10-17, **TOI-1136 is a Young, Coplanar, Aligned Planetary System in a Pristine Resonant Chain**, Fei Dai et.al., Paper: [http://arxiv.org/abs/2210.09283v1](http://arxiv.org/abs/2210.09283v1)
 - 2022-10-17, **Inferring Synergistic and Antagonistic Interactions in Mixtures of Exposures**, Shounak Chattopadhyay et.al., Paper: [http://arxiv.org/abs/2210.09279v1](http://arxiv.org/abs/2210.09279v1)
 - 2022-10-17, **CramNet: Camera-Radar Fusion with Ray-Constrained Cross-Attention for Robust 3D Object Detection**, Jyh-Jing Hwang et.al., Paper: [http://arxiv.org/abs/2210.09267v1](http://arxiv.org/abs/2210.09267v1)
