@@ -852,15 +852,15 @@
 
 ## Saliency Detection
 
-- 2022-10-19, **TOIST: Task Oriented Instance Segmentation Transformer with Noun-Pronoun Distillation**, Pengfei Li et.al., Paper: [http://arxiv.org/abs/2210.10775v1](http://arxiv.org/abs/2210.10775v1)
-- 2022-10-19, **Learning to Discover and Detect Objects**, Vladimir Fomenko et.al., Paper: [http://arxiv.org/abs/2210.10774v1](http://arxiv.org/abs/2210.10774v1)
+- 2022-10-19, **TOIST: Task Oriented Instance Segmentation Transformer with Noun-Pronoun Distillation**, Pengfei Li et.al., Paper: [http://arxiv.org/abs/2210.10775v1](http://arxiv.org/abs/2210.10775v1), Code: **[https://github.com/air-discover/toist](https://github.com/air-discover/toist)**
+- 2022-10-19, **Learning to Discover and Detect Objects**, Vladimir Fomenko et.al., Paper: [http://arxiv.org/abs/2210.10774v1](http://arxiv.org/abs/2210.10774v1), Code: **[https://github.com/vlfom/rncdl](https://github.com/vlfom/rncdl)**
 - 2022-10-19, **Anomaly Detection Requires Better Representations**, Tal Reiss et.al., Paper: [http://arxiv.org/abs/2210.10773v1](http://arxiv.org/abs/2210.10773v1)
-- 2022-10-19, **Multi-view Tracking Using Weakly Supervised Human Motion Prediction**, Martin Engilberge et.al., Paper: [http://arxiv.org/abs/2210.10771v1](http://arxiv.org/abs/2210.10771v1)
+- 2022-10-19, **Multi-view Tracking Using Weakly Supervised Human Motion Prediction**, Martin Engilberge et.al., Paper: [http://arxiv.org/abs/2210.10771v1](http://arxiv.org/abs/2210.10771v1), Code: **[https://github.com/cvlab-epfl/mvflow](https://github.com/cvlab-epfl/mvflow)**
 - 2022-10-19, **When to Ask for Help: Proactive Interventions in Autonomous Reinforcement Learning**, Annie Xie et.al., Paper: [http://arxiv.org/abs/2210.10765v1](http://arxiv.org/abs/2210.10765v1), Code: **[https://github.com/tajwarfahim/proactive_interventions](https://github.com/tajwarfahim/proactive_interventions)**
-- 2022-10-19, **Two-level Data Augmentation for Calibrated Multi-view Detection**, Martin Engilberge et.al., Paper: [http://arxiv.org/abs/2210.10756v1](http://arxiv.org/abs/2210.10756v1)
+- 2022-10-19, **Two-level Data Augmentation for Calibrated Multi-view Detection**, Martin Engilberge et.al., Paper: [http://arxiv.org/abs/2210.10756v1](http://arxiv.org/abs/2210.10756v1), Code: **[https://github.com/cvlab-epfl/mvaug](https://github.com/cvlab-epfl/mvaug)**
 - 2022-10-19, **Generative model for learning quantum ensemble via optimal transport loss**, Hiroyuki Tezuka et.al., Paper: [http://arxiv.org/abs/2210.10743v1](http://arxiv.org/abs/2210.10743v1)
 - 2022-10-19, **Optically heralded microwave photons**, Wentao Jiang et.al., Paper: [http://arxiv.org/abs/2210.10739v1](http://arxiv.org/abs/2210.10739v1)
-- 2022-10-19, **UniNL: Aligning Representation Learning with Scoring Function for OOD Detection via Unified Neighborhood Learning**, Yutao Mou et.al., Paper: [http://arxiv.org/abs/2210.10722v1](http://arxiv.org/abs/2210.10722v1)
+- 2022-10-19, **UniNL: Aligning Representation Learning with Scoring Function for OOD Detection via Unified Neighborhood Learning**, Yutao Mou et.al., Paper: [http://arxiv.org/abs/2210.10722v1](http://arxiv.org/abs/2210.10722v1), Code: **[https://github.com/yupei-wang/uninl](https://github.com/yupei-wang/uninl)**
 - 2022-10-19, **CroCo: Self-Supervised Pre-training for 3D Vision Tasks by Cross-View Completion**, Philippe Weinzaepfel et.al., Paper: [http://arxiv.org/abs/2210.10716v1](http://arxiv.org/abs/2210.10716v1)
 - 2022-10-18, **A Tri-Layer Plugin to Improve Occluded Detection**, Guanqi Zhan et.al., Paper: [http://arxiv.org/abs/2210.10046v1](http://arxiv.org/abs/2210.10046v1)
 - 2022-10-18, **Diverse Misinformation: Impacts of Human Biases on Detection of Deepfakes on Networks**, Juniper Lovato et.al., Paper: [http://arxiv.org/abs/2210.10026v1](http://arxiv.org/abs/2210.10026v1)
