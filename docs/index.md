@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.19
+## Updated on 2022.10.20
 
 ## RGBT
 
@@ -24,6 +24,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-19**|**Suppression of mid-infrared plasma resonance due to quantum confinement in delta-doped silicon**|Steve M. Young et.al.|[2210.10711v1](http://arxiv.org/abs/2210.10711v1)|null|
+|**2022-10-19**|**Optical conductivity of an anharmonic large polaron gas**|Matthew Houtput et.al.|[2210.10696v1](http://arxiv.org/abs/2210.10696v1)|null|
+|**2022-10-19**|**Fluorite-related iridate Pr$_3$IrO$_7$: Crystal growth, structure, magnetism, thermodynamic, and optical properties**|Harish Kumar et.al.|[2210.10496v1](http://arxiv.org/abs/2210.10496v1)|null|
+|**2022-10-19**|**Probing the singularities of the Landau-gauge gluon and ghost propagators with rational approximants**|Diogo Boito et.al.|[2210.10490v1](http://arxiv.org/abs/2210.10490v1)|null|
+|**2022-10-19**|**Mid-infrared imaging of Supernova 1987A**|Mikako Matsuura et.al.|[2210.10440v1](http://arxiv.org/abs/2210.10440v1)|null|
+|**2022-10-19**|**Classification of 3 accreting binaries with VLT/X-Shooter spectra**|Tristan Bouchet et.al.|[2210.10363v1](http://arxiv.org/abs/2210.10363v1)|null|
+|**2022-10-19**|**Time-Variable Jet Ejections from RW Aur A, RY Tau and DG Tau**|Michihiro Takami et.al.|[2210.10310v1](http://arxiv.org/abs/2210.10310v1)|null|
+|**2022-10-19**|**Comparing Spectroscopy Measurements in the Prediction of in Vitro Dissolution Profile using Artificial Neural Networks**|Mohamed Azouz Mrad et.al.|[2210.10292v1](http://arxiv.org/abs/2210.10292v1)|null|
+|**2022-10-18**|**Analytical Study of Hybrid Surface Phonon-Plasmon-Polaritons (HSP3) in Symmetric Nonlinear-Graphene-hBN Heterostructures**|Mohammad Bagher Heydari et.al.|[2210.10141v1](http://arxiv.org/abs/2210.10141v1)|null|
+|**2022-10-18**|**Isometry invariance of exact correlation functions in various charts of Minkowski and de Sitter spaces**|E. T. Akhmedov et.al.|[2210.10119v1](http://arxiv.org/abs/2210.10119v1)|null|
 |**2022-10-18**|**Edge-based Monocular Thermal-Inertial Odometry in Visually Degraded Environments**|Yu Wang et.al.|[2210.10033v1](http://arxiv.org/abs/2210.10033v1)|null|
 |**2022-10-18**|**Two-photon imaging of soliton dynamics**|Lukasz A. Sterczewski et.al.|[2210.09966v1](http://arxiv.org/abs/2210.09966v1)|null|
 |**2022-10-18**|**SA-DNet: A on-demand semantic object registration network adapting to non-rigid deformation**|Housheng Xie et.al.|[2210.09900v1](http://arxiv.org/abs/2210.09900v1)|null|
@@ -818,7 +828,7 @@ layout: default
 |**2022-10-13**|**Autoregressive Uncertainty Modeling for 3D Bounding Box Prediction**|YuXuan Liu et.al.|[2210.07424v1](http://arxiv.org/abs/2210.07424v1)|null|
 |**2022-10-13**|**DCANet: Differential Convolution Attention Network for RGB-D Semantic Segmentation**|Lizhi Bai et.al.|[2210.06747v1](http://arxiv.org/abs/2210.06747v1)|null|
 |**2022-10-04**|**COPILOT: Human Collision Prediction and Localization from Multi-view Egocentric Videos**|Boxiao Pan et.al.|[2210.01781v1](http://arxiv.org/abs/2210.01781v1)|null|
-|**2022-09-22**|**Physical Interaction: Reconstructing Hand-object Interactions with Physics**|Haoyu Hu et.al.|[2209.10833v1](http://arxiv.org/abs/2209.10833v1)|**[link](https://github.com/hu-hy17/PhysInteraction)**|
+|**2022-10-19**|**Physical Interaction: Reconstructing Hand-object Interactions with Physics**|Haoyu Hu et.al.|[2209.10833v2](http://arxiv.org/abs/2209.10833v2)|**[link](https://github.com/hu-hy17/PhysInteraction)**|
 |**2022-09-20**|**Active Visual Search in the Wild**|Jeongeun Park et.al.|[2209.08803v2](http://arxiv.org/abs/2209.08803v2)|null|
 |**2022-09-15**|**PROB-SLAM: Real-time Visual SLAM Based on Probabilistic Graph Optimization**|Xianwei Meng et.al.|[2209.07061v1](http://arxiv.org/abs/2209.07061v1)|null|
 |**2022-09-12**|**Learning Dense Visual Descriptors using Image Augmentations for Robot Manipulation Tasks**|Christian Graf et.al.|[2209.05213v1](http://arxiv.org/abs/2209.05213v1)|null|
@@ -854,6 +864,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-19**|**TOIST: Task Oriented Instance Segmentation Transformer with Noun-Pronoun Distillation**|Pengfei Li et.al.|[2210.10775v1](http://arxiv.org/abs/2210.10775v1)|null|
+|**2022-10-19**|**Learning to Discover and Detect Objects**|Vladimir Fomenko et.al.|[2210.10774v1](http://arxiv.org/abs/2210.10774v1)|null|
+|**2022-10-19**|**Anomaly Detection Requires Better Representations**|Tal Reiss et.al.|[2210.10773v1](http://arxiv.org/abs/2210.10773v1)|null|
+|**2022-10-19**|**Multi-view Tracking Using Weakly Supervised Human Motion Prediction**|Martin Engilberge et.al.|[2210.10771v1](http://arxiv.org/abs/2210.10771v1)|null|
+|**2022-10-19**|**When to Ask for Help: Proactive Interventions in Autonomous Reinforcement Learning**|Annie Xie et.al.|[2210.10765v1](http://arxiv.org/abs/2210.10765v1)|**[link](https://github.com/tajwarfahim/proactive_interventions)**|
+|**2022-10-19**|**Two-level Data Augmentation for Calibrated Multi-view Detection**|Martin Engilberge et.al.|[2210.10756v1](http://arxiv.org/abs/2210.10756v1)|null|
+|**2022-10-19**|**Generative model for learning quantum ensemble via optimal transport loss**|Hiroyuki Tezuka et.al.|[2210.10743v1](http://arxiv.org/abs/2210.10743v1)|null|
+|**2022-10-19**|**Optically heralded microwave photons**|Wentao Jiang et.al.|[2210.10739v1](http://arxiv.org/abs/2210.10739v1)|null|
+|**2022-10-19**|**UniNL: Aligning Representation Learning with Scoring Function for OOD Detection via Unified Neighborhood Learning**|Yutao Mou et.al.|[2210.10722v1](http://arxiv.org/abs/2210.10722v1)|null|
+|**2022-10-19**|**CroCo: Self-Supervised Pre-training for 3D Vision Tasks by Cross-View Completion**|Philippe Weinzaepfel et.al.|[2210.10716v1](http://arxiv.org/abs/2210.10716v1)|null|
 |**2022-10-18**|**A Tri-Layer Plugin to Improve Occluded Detection**|Guanqi Zhan et.al.|[2210.10046v1](http://arxiv.org/abs/2210.10046v1)|null|
 |**2022-10-18**|**Diverse Misinformation: Impacts of Human Biases on Detection of Deepfakes on Networks**|Juniper Lovato et.al.|[2210.10026v1](http://arxiv.org/abs/2210.10026v1)|null|
 |**2022-10-18**|**An extended [CII] halo around a massive star-forming galaxy at z = 5.3**|T. S. Lambert et.al.|[2210.10023v1](http://arxiv.org/abs/2210.10023v1)|null|
