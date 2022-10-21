@@ -1,4 +1,4 @@
-## Updated on 2022.10.20
+## Updated on 2022.10.21
 
 ## RGBT
 
@@ -25,7 +25,7 @@
 |**2022-10-19**|**Fluorite-related iridate Pr$_3$IrO$_7$: Crystal growth, structure, magnetism, thermodynamic, and optical properties**|Harish Kumar et.al.|[2210.10496v1](http://arxiv.org/abs/2210.10496v1)|null|
 |**2022-10-19**|**Probing the singularities of the Landau-gauge gluon and ghost propagators with rational approximants**|Diogo Boito et.al.|[2210.10490v1](http://arxiv.org/abs/2210.10490v1)|null|
 |**2022-10-19**|**Mid-infrared imaging of Supernova 1987A**|Mikako Matsuura et.al.|[2210.10440v1](http://arxiv.org/abs/2210.10440v1)|null|
-|**2022-10-19**|**Classification of 3 accreting binaries with VLT/X-Shooter spectra**|Tristan Bouchet et.al.|[2210.10363v1](http://arxiv.org/abs/2210.10363v1)|null|
+|**2022-10-20**|**Classification of 3 accreting binaries with VLT/X-Shooter spectra**|Tristan Bouchet et.al.|[2210.10363v2](http://arxiv.org/abs/2210.10363v2)|null|
 |**2022-10-19**|**Time-Variable Jet Ejections from RW Aur A, RY Tau and DG Tau**|Michihiro Takami et.al.|[2210.10310v1](http://arxiv.org/abs/2210.10310v1)|null|
 |**2022-10-19**|**Comparing Spectroscopy Measurements in the Prediction of in Vitro Dissolution Profile using Artificial Neural Networks**|Mohamed Azouz Mrad et.al.|[2210.10292v1](http://arxiv.org/abs/2210.10292v1)|null|
 |**2022-10-18**|**Analytical Study of Hybrid Surface Phonon-Plasmon-Polaritons (HSP3) in Symmetric Nonlinear-Graphene-hBN Heterostructures**|Mohammad Bagher Heydari et.al.|[2210.10141v1](http://arxiv.org/abs/2210.10141v1)|null|
