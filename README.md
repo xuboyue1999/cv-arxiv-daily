@@ -20,6 +20,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-20**|**Unruh deWitt probe of late time revival of quantum correlations in Friedmann spacetimes**|Ankit Dhanuka et.al.|[2210.11186v1](http://arxiv.org/abs/2210.11186v1)|null|
+|**2022-10-20**|**Infrared and visible image fusion via dual-domain adversarial learning**|Xiaowen Liu et.al.|[2210.11018v1](http://arxiv.org/abs/2210.11018v1)|null|
+|**2022-10-20**|**Exploring the cosmological dark matter coincidence using infrared fixed points**|Alexander C. Ritter et.al.|[2210.11011v1](http://arxiv.org/abs/2210.11011v1)|null|
+|**2022-10-19**|**SMC-Last Mosaic Images**|D. R. Mizuno et.al.|[2210.10874v1](http://arxiv.org/abs/2210.10874v1)|null|
+|**2022-10-19**|**Forming Stars in a Dual AGN Host: Molecular and Ionized Gas in the Nearby, Luminous Infrared Merger, Mrk 266**|Damien Beaulieu et.al.|[2210.10853v1](http://arxiv.org/abs/2210.10853v1)|null|
+|**2022-10-19**|**Domain-dependent surface adhesion in twisted few-layer graphene: Platform for moiré-assisted chemistry**|Valerie Hsieh et.al.|[2210.10843v1](http://arxiv.org/abs/2210.10843v1)|null|
 |**2022-10-19**|**Suppression of mid-infrared plasma resonance due to quantum confinement in delta-doped silicon**|Steve M. Young et.al.|[2210.10711v1](http://arxiv.org/abs/2210.10711v1)|null|
 |**2022-10-19**|**Optical conductivity of an anharmonic large polaron gas**|Matthew Houtput et.al.|[2210.10696v1](http://arxiv.org/abs/2210.10696v1)|null|
 |**2022-10-19**|**Fluorite-related iridate Pr$_3$IrO$_7$: Crystal growth, structure, magnetism, thermodynamic, and optical properties**|Harish Kumar et.al.|[2210.10496v1](http://arxiv.org/abs/2210.10496v1)|null|
@@ -860,6 +866,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-20**|**Self-Supervised Learning via Maximum Entropy Coding**|Xin Liu et.al.|[2210.11464v1](http://arxiv.org/abs/2210.11464v1)|**[link](https://github.com/xinliu20/mec)**|
+|**2022-10-20**|**MixMask: Revisiting Masked Siamese Self-supervised Learning in Asymmetric Distance**|Kirill Vishniakov et.al.|[2210.11456v1](http://arxiv.org/abs/2210.11456v1)|**[link](https://github.com/lightnessofbeing/mixmask)**|
+|**2022-10-20**|**How can a Radar Mask its Cognition?**|Kunal Pattanayak et.al.|[2210.11444v1](http://arxiv.org/abs/2210.11444v1)|null|
+|**2022-10-20**|**Delayed teraelectronvolt emission from GRB 980425/SN 1998bw and the origin of ultra-high-energy cosmic rays**|Nestor Mirabal et.al.|[2210.11430v1](http://arxiv.org/abs/2210.11430v1)|null|
+|**2022-10-20**|**Self-Supervised Learning with Masked Image Modeling for Teeth Numbering, Detection of Dental Restorations, and Instance Segmentation in Dental Panoramic Radiographs**|Amani Almalki et.al.|[2210.11404v1](http://arxiv.org/abs/2210.11404v1)|**[link](https://github.com/amanihalmalki/dentalmim)**|
+|**2022-10-20**|**TTTFlow: Unsupervised Test-Time Training with Normalizing Flow**|David Osowiechi et.al.|[2210.11389v1](http://arxiv.org/abs/2210.11389v1)|**[link](https://github.com/gustavovargashakim/tttflow)**|
+|**2022-10-20**|**Light speed variation from GRB 221009A**|Jie Zhu et.al.|[2210.11376v1](http://arxiv.org/abs/2210.11376v1)|null|
+|**2022-10-20**|**An X-ray Dim Isolated Neutron Star in Binary?**|Jie Lin et.al.|[2210.11360v1](http://arxiv.org/abs/2210.11360v1)|null|
+|**2022-10-20**|**Data-Efficient Strategies for Expanding Hate Speech Detection into Under-Resourced Languages**|Paul Röttger et.al.|[2210.11359v1](http://arxiv.org/abs/2210.11359v1)|**[link](https://github.com/paul-rottger/efficient-low-resource-hate-detection)**|
+|**2022-10-20**|**Extragalactic neutrino emission induced by Supermassive and Stellar Mass Black Hole mergers**|Ilja Jaroschewski et.al.|[2210.11337v1](http://arxiv.org/abs/2210.11337v1)|null|
 |**2022-10-19**|**TOIST: Task Oriented Instance Segmentation Transformer with Noun-Pronoun Distillation**|Pengfei Li et.al.|[2210.10775v1](http://arxiv.org/abs/2210.10775v1)|**[link](https://github.com/air-discover/toist)**|
 |**2022-10-19**|**Learning to Discover and Detect Objects**|Vladimir Fomenko et.al.|[2210.10774v1](http://arxiv.org/abs/2210.10774v1)|**[link](https://github.com/vlfom/rncdl)**|
 |**2022-10-19**|**Anomaly Detection Requires Better Representations**|Tal Reiss et.al.|[2210.10773v1](http://arxiv.org/abs/2210.10773v1)|null|
