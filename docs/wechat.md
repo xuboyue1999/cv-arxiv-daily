@@ -878,7 +878,7 @@
 - 2022-10-24, **Microlensing of gravitational waves by dark matter structures**, Malcolm Fairbairn et.al., Paper: [http://arxiv.org/abs/2210.13436v1](http://arxiv.org/abs/2210.13436v1)
 - 2022-10-24, **PseudoAugment: Learning to Use Unlabeled Data for Data Augmentation in Point Clouds**, Zhaoqi Leng et.al., Paper: [http://arxiv.org/abs/2210.13428v1](http://arxiv.org/abs/2210.13428v1)
 - 2022-10-24, **Twitter Users' Behavioral Response to Toxic Replies**, Ana Aleksandric et.al., Paper: [http://arxiv.org/abs/2210.13420v1](http://arxiv.org/abs/2210.13420v1)
-- 2022-10-24, **Emergent world representations: Exploring a sequence model trained on a synthetic task**, Kenneth Li et.al., Paper: [http://arxiv.org/abs/2210.13382v1](http://arxiv.org/abs/2210.13382v1)
+- 2022-10-24, **Emergent world representations: Exploring a sequence model trained on a synthetic task**, Kenneth Li et.al., Paper: [http://arxiv.org/abs/2210.13382v1](http://arxiv.org/abs/2210.13382v1), Code: **[https://github.com/likenneth/othello_world](https://github.com/likenneth/othello_world)**
 - 2022-10-24, **Comparison of Entropy Calculation Methods for Ransomware Encrypted File Identification**, Simon R Davies et.al., Paper: [http://arxiv.org/abs/2210.13376v1](http://arxiv.org/abs/2210.13376v1)
 - 2022-10-24, **Evidence for extended gaseous reservoirs around AGN at cosmic noon from ALMA CO(3-2) observations**, G. C. Jones et.al., Paper: [http://arxiv.org/abs/2210.13370v1](http://arxiv.org/abs/2210.13370v1)
 - 2022-10-24, **Novelty Detection in Time Series via Weak Innovations Representation: A Deep Learning Approach**, Xinyi Wang et.al., Paper: [http://arxiv.org/abs/2210.13358v1](http://arxiv.org/abs/2210.13358v1)
