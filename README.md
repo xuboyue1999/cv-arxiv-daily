@@ -1,4 +1,4 @@
-## Updated on 2022.10.24
+## Updated on 2022.10.25
 
 ## RGBT
 
@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-24**|**Chiral and trace anomalies in Deeply Virtual Compton Scattering**|Shohini Bhattacharya et.al.|[2210.13419v1](http://arxiv.org/abs/2210.13419v1)|null|
+|**2022-10-24**|**Razor-thin dust layers in protoplanetary disks: Limits on the vertical shear instability**|C. P. Dullemond et.al.|[2210.13413v1](http://arxiv.org/abs/2210.13413v1)|null|
+|**2022-10-24**|**Existence of a tricritical point for the Blume-Capel model on $\mathbb{Z}^d$**|Trishen Gunaratnam et.al.|[2210.13394v1](http://arxiv.org/abs/2210.13394v1)|null|
+|**2022-10-24**|**Confirmation of the star J004229.87+410551.8 in M31 as a B[e] supergiant**|Sarkisyan A. et.al.|[2210.13342v1](http://arxiv.org/abs/2210.13342v1)|null|
+|**2022-10-24**|**Single-Pixel Multimode Fiber Spectrometer via Wavefront Shaping**|Şahin Kürekci et.al.|[2210.13292v1](http://arxiv.org/abs/2210.13292v1)|null|
+|**2022-10-24**|**Polarization Calibration of a Microwave Polarimeter with Near-Infrared Up-Conversion for Optical Correlation and Detection**|Francisco J. Casas et.al.|[2210.13197v1](http://arxiv.org/abs/2210.13197v1)|null|
+|**2022-10-24**|**Iris super-resolution using CNNs: is photo-realism important to iris recognition?**|Eduardo Ribeiro et.al.|[2210.13125v1](http://arxiv.org/abs/2210.13125v1)|null|
+|**2022-10-24**|**Towards an efficient Iris Recognition System on Embedded Devices**|Daniel P. Benalcazar et.al.|[2210.13101v1](http://arxiv.org/abs/2210.13101v1)|null|
+|**2022-10-24**|**Long-range multiparticle interactions induced by neutrino exchange in neutron-star matter**|M. I. Krivoruchenko et.al.|[2210.13096v1](http://arxiv.org/abs/2210.13096v1)|null|
+|**2022-10-24**|**On the dust of tailless Oort-cloud comet C/2020 T2 (Palomar)**|Yuna Grace Kwon et.al.|[2210.13091v1](http://arxiv.org/abs/2210.13091v1)|null|
 |**2022-10-21**|**Star formation in IC1396: Kinematics and subcluster structure revealed by Gaia**|Mara E. Pelayo-Baldárrago et.al.|[2210.11930v1](http://arxiv.org/abs/2210.11930v1)|null|
 |**2022-10-21**|**The interstellar medium distribution, gas kinematics, and system dynamics of the far-infrared luminous quasar SDSS J2310+1855 at $z=6.0$**|Yali Shao et.al.|[2210.11926v1](http://arxiv.org/abs/2210.11926v1)|null|
 |**2022-10-21**|**Mid-infrared time-domain study of recent dust production events in the extreme debris disc of TYC 4209-1322-1**|A. Moór et.al.|[2210.11856v1](http://arxiv.org/abs/2210.11856v1)|null|
@@ -871,6 +881,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-24**|**Superconducting microsphere magnetically levitated in an anharmonic potential**|Martí Gutierrez Latorre et.al.|[2210.13451v1](http://arxiv.org/abs/2210.13451v1)|null|
+|**2022-10-24**|**Bridging Machine Learning and Sciences: Opportunities and Challenges**|Taoli Cheng et.al.|[2210.13441v1](http://arxiv.org/abs/2210.13441v1)|null|
+|**2022-10-24**|**Microlensing of gravitational waves by dark matter structures**|Malcolm Fairbairn et.al.|[2210.13436v1](http://arxiv.org/abs/2210.13436v1)|null|
+|**2022-10-24**|**PseudoAugment: Learning to Use Unlabeled Data for Data Augmentation in Point Clouds**|Zhaoqi Leng et.al.|[2210.13428v1](http://arxiv.org/abs/2210.13428v1)|null|
+|**2022-10-24**|**Twitter Users' Behavioral Response to Toxic Replies**|Ana Aleksandric et.al.|[2210.13420v1](http://arxiv.org/abs/2210.13420v1)|null|
+|**2022-10-24**|**Emergent world representations: Exploring a sequence model trained on a synthetic task**|Kenneth Li et.al.|[2210.13382v1](http://arxiv.org/abs/2210.13382v1)|null|
+|**2022-10-24**|**Comparison of Entropy Calculation Methods for Ransomware Encrypted File Identification**|Simon R Davies et.al.|[2210.13376v1](http://arxiv.org/abs/2210.13376v1)|null|
+|**2022-10-24**|**Evidence for extended gaseous reservoirs around AGN at cosmic noon from ALMA CO(3-2) observations**|G. C. Jones et.al.|[2210.13370v1](http://arxiv.org/abs/2210.13370v1)|null|
+|**2022-10-24**|**Novelty Detection in Time Series via Weak Innovations Representation: A Deep Learning Approach**|Xinyi Wang et.al.|[2210.13358v1](http://arxiv.org/abs/2210.13358v1)|null|
+|**2022-10-24**|**Minimal lensing solutions in the singular perturbative approach**|Christophe Alard et.al.|[2210.13351v1](http://arxiv.org/abs/2210.13351v1)|null|
 |**2022-10-21**|**Planet Engulfment Detections are Rare According to Observations and Stellar Modeling**|Aida Behmard et.al.|[2210.12121v1](http://arxiv.org/abs/2210.12121v1)|null|
 |**2022-10-21**|**Learning shape distributions from large databases of healthy organs: applications to zero-shot and few-shot abnormal pancreas detection**|Rebeca Vétil et.al.|[2210.12095v1](http://arxiv.org/abs/2210.12095v1)|null|
 |**2022-10-21**|**Proof-of-Principle Experiments of All-optical MeV Electrons Source for Femtosecond Diffraction Imaging**|Yu Fang et.al.|[2210.12093v1](http://arxiv.org/abs/2210.12093v1)|null|
