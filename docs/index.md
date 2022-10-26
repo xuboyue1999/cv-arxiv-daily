@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.25
+## Updated on 2022.10.26
 
 ## RGBT
 
@@ -24,6 +24,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-25**|**Van der Waals heterostructure mid-infrared emitters with electrically controllable polarization states and spectral characteristics**|Po-Liang Chen et.al.|[2210.14098v1](http://arxiv.org/abs/2210.14098v1)|null|
+|**2022-10-25**|**A long life of excess: The interacting transient SN 2017hcc**|S. Moran et.al.|[2210.14076v1](http://arxiv.org/abs/2210.14076v1)|null|
+|**2022-10-25**|**Terahertz Ionic Kerr Effect**|Martina Basini et.al.|[2210.14053v1](http://arxiv.org/abs/2210.14053v1)|null|
+|**2022-10-24**|**A Molecular Gas Ring Hidden in the Sombrero Galaxy**|Jessica Sutter et.al.|[2210.13527v1](http://arxiv.org/abs/2210.13527v1)|null|
+|**2022-10-24**|**Sub-1 Volt and High-Bandwidth Visible to Near-Infrared Electro-Optic Modulators**|Dylan Renaud et.al.|[2210.13521v1](http://arxiv.org/abs/2210.13521v1)|null|
 |**2022-10-24**|**Chiral and trace anomalies in Deeply Virtual Compton Scattering**|Shohini Bhattacharya et.al.|[2210.13419v1](http://arxiv.org/abs/2210.13419v1)|null|
 |**2022-10-24**|**Razor-thin dust layers in protoplanetary disks: Limits on the vertical shear instability**|C. P. Dullemond et.al.|[2210.13413v1](http://arxiv.org/abs/2210.13413v1)|null|
 |**2022-10-24**|**Existence of a tricritical point for the Blume-Capel model on $\mathbb{Z}^d$**|Trishen Gunaratnam et.al.|[2210.13394v1](http://arxiv.org/abs/2210.13394v1)|null|
@@ -885,6 +890,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-25**|**Deep orbital search for additional planets in the HR 8799 system**|William Thompson et.al.|[2210.14213v1](http://arxiv.org/abs/2210.14213v1)|null|
+|**2022-10-25**|**CMB footprints of high scale non-thermal leptogenesis**|Anish Ghoshal et.al.|[2210.14176v1](http://arxiv.org/abs/2210.14176v1)|null|
+|**2022-10-25**|**PolyHope: Dataset Creation for a Two-Level Hope Speech Detection Task from Tweets**|Fazlourrahman Balouchzahi et.al.|[2210.14136v1](http://arxiv.org/abs/2210.14136v1)|null|
+|**2022-10-25**|**p-adic Cellular Neural Networks: Applications to Image Processing**|B. A. Zambrano-Luna et.al.|[2210.14132v1](http://arxiv.org/abs/2210.14132v1)|null|
+|**2022-10-25**|**Rossiter-McLaughlin detection of the 9-month period transiting exoplanet HIP41378 d**|S. Grouffal et.al.|[2210.14125v1](http://arxiv.org/abs/2210.14125v1)|null|
+|**2022-10-25**|**Detection of Single-base Mismatches in DNA Sequences by using Electrochemically-gated Graphene Microwave Waveguides**|Patrik Gubeljak et.al.|[2210.14118v1](http://arxiv.org/abs/2210.14118v1)|null|
+|**2022-10-25**|**Model constraints based on the IceCube neutrino non-detection of GRB 201009A**|Shunke Ai et.al.|[2210.14116v1](http://arxiv.org/abs/2210.14116v1)|null|
+|**2022-10-25**|**Discharge of elongated grains in silos under rotational shear**|Tivadar Pongó et.al.|[2210.14115v1](http://arxiv.org/abs/2210.14115v1)|null|
+|**2022-10-25**|**Gravitational Waves and Primordial Black Hole Productions from Gluodynamics**|Song He et.al.|[2210.14094v1](http://arxiv.org/abs/2210.14094v1)|null|
+|**2022-10-25**|**A Global Wavelet Based Bootstrapped Test of Covariance Stationarity**|Jonathan B. Hill et.al.|[2210.14086v1](http://arxiv.org/abs/2210.14086v1)|null|
 |**2022-10-24**|**Superconducting microsphere magnetically levitated in an anharmonic potential**|Martí Gutierrez Latorre et.al.|[2210.13451v1](http://arxiv.org/abs/2210.13451v1)|null|
 |**2022-10-24**|**Bridging Machine Learning and Sciences: Opportunities and Challenges**|Taoli Cheng et.al.|[2210.13441v1](http://arxiv.org/abs/2210.13441v1)|null|
 |**2022-10-24**|**Microlensing of gravitational waves by dark matter structures**|Malcolm Fairbairn et.al.|[2210.13436v1](http://arxiv.org/abs/2210.13436v1)|null|
