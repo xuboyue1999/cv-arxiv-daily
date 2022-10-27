@@ -16,6 +16,10 @@
 
 ## Infrared
 
+- 2022-10-26, **Zero sound and higher-form symmetries in compressible holographic phases**, Richard A. Davison et.al., Paper: [http://arxiv.org/abs/2210.14802v1](http://arxiv.org/abs/2210.14802v1)
+- 2022-10-26, **Evolution of the optical response of the magnetic topological insulators Mn(Bi$_{1-x}$Sb$_{x}$)$_2$Te$_4$ with Sb content**, M. Köpf et.al., Paper: [http://arxiv.org/abs/2210.14538v1](http://arxiv.org/abs/2210.14538v1)
+- 2022-10-26, **RGB-T Semantic Segmentation with Location, Activation, and Sharpening**, Gongyang Li et.al., Paper: [http://arxiv.org/abs/2210.14530v1](http://arxiv.org/abs/2210.14530v1), Code: **[https://github.com/mathlee/lasnet](https://github.com/mathlee/lasnet)**
+- 2022-10-25, **New wrapper method based on normalized mutual information for dimension reduction and classification of hyperspectral images**, Hasna Nhaila et.al., Paper: [http://arxiv.org/abs/2210.14346v1](http://arxiv.org/abs/2210.14346v1)
 - 2022-10-25, **Van der Waals heterostructure mid-infrared emitters with electrically controllable polarization states and spectral characteristics**, Po-Liang Chen et.al., Paper: [http://arxiv.org/abs/2210.14098v1](http://arxiv.org/abs/2210.14098v1)
 - 2022-10-25, **A long life of excess: The interacting transient SN 2017hcc**, S. Moran et.al., Paper: [http://arxiv.org/abs/2210.14076v1](http://arxiv.org/abs/2210.14076v1)
 - 2022-10-25, **Terahertz Ionic Kerr Effect**, Martina Basini et.al., Paper: [http://arxiv.org/abs/2210.14053v1](http://arxiv.org/abs/2210.14053v1)
@@ -878,6 +882,16 @@
 
 ## Saliency Detection
 
+- 2022-10-26, **DiffusionDB: A Large-scale Prompt Gallery Dataset for Text-to-Image Generative Models**, Zijie J. Wang et.al., Paper: [http://arxiv.org/abs/2210.14896v1](http://arxiv.org/abs/2210.14896v1), Code: **[https://github.com/poloclub/diffusiondb](https://github.com/poloclub/diffusiondb)**
+- 2022-10-26, **Quantum gas microscopy of a geometrically frustrated Hubbard system**, Jirayu Mongkolkiattichai et.al., Paper: [http://arxiv.org/abs/2210.14895v1](http://arxiv.org/abs/2210.14895v1)
+- 2022-10-26, **Anisotropic multiresolution analyses for deep fake detection**, Wei Huang et.al., Paper: [http://arxiv.org/abs/2210.14874v1](http://arxiv.org/abs/2210.14874v1)
+- 2022-10-26, **Row-Factorization Matrices in Arf Numerical Semigroups and Defining Ideals**, Meral Süer et.al., Paper: [http://arxiv.org/abs/2210.14856v1](http://arxiv.org/abs/2210.14856v1)
+- 2022-10-26, **Causality Detection using Multiple Annotation Decision**, Quynh Anh Nguyen et.al., Paper: [http://arxiv.org/abs/2210.14852v1](http://arxiv.org/abs/2210.14852v1)
+- 2022-10-26, **ProVe: A Pipeline for Automated Provenance Verification of Knowledge Graphs against Textual Sources**, Gabriel Amaral et.al., Paper: [http://arxiv.org/abs/2210.14846v1](http://arxiv.org/abs/2210.14846v1)
+- 2022-10-26, **Synthetic Tumors Make AI Segment Tumors Better**, Qixin Hu et.al., Paper: [http://arxiv.org/abs/2210.14845v1](http://arxiv.org/abs/2210.14845v1), Code: **[https://github.com/mrgiovanni/synthetictumors](https://github.com/mrgiovanni/synthetictumors)**
+- 2022-10-26, **A hybrid map-$C_\ell$ component separation method for primordial CMB $B$-mode searches**, Susanna Azzoni et.al., Paper: [http://arxiv.org/abs/2210.14838v1](http://arxiv.org/abs/2210.14838v1)
+- 2022-10-26, **Ballot stuffing and participation privacy in pollsite voting**, Prashant Agrawal et.al., Paper: [http://arxiv.org/abs/2210.14833v1](http://arxiv.org/abs/2210.14833v1)
+- 2022-10-26, **Sulphur monoxide emission tracing an embedded planet in the HD 100546 protoplanetary disk**, Alice S. Booth et.al., Paper: [http://arxiv.org/abs/2210.14820v1](http://arxiv.org/abs/2210.14820v1)
 - 2022-10-25, **Deep orbital search for additional planets in the HR 8799 system**, William Thompson et.al., Paper: [http://arxiv.org/abs/2210.14213v1](http://arxiv.org/abs/2210.14213v1)
 - 2022-10-25, **CMB footprints of high scale non-thermal leptogenesis**, Anish Ghoshal et.al., Paper: [http://arxiv.org/abs/2210.14176v1](http://arxiv.org/abs/2210.14176v1)
 - 2022-10-25, **PolyHope: Dataset Creation for a Two-Level Hope Speech Detection Task from Tweets**, Fazlourrahman Balouchzahi et.al., Paper: [http://arxiv.org/abs/2210.14136v1](http://arxiv.org/abs/2210.14136v1)
