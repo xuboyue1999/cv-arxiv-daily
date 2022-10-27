@@ -1,4 +1,4 @@
-## Updated on 2022.10.26
+## Updated on 2022.10.27
 
 ## RGBT
 
@@ -892,7 +892,7 @@
 |**2022-10-25**|**p-adic Cellular Neural Networks: Applications to Image Processing**|B. A. Zambrano-Luna et.al.|[2210.14132v1](http://arxiv.org/abs/2210.14132v1)|null|
 |**2022-10-25**|**Rossiter-McLaughlin detection of the 9-month period transiting exoplanet HIP41378 d**|S. Grouffal et.al.|[2210.14125v1](http://arxiv.org/abs/2210.14125v1)|null|
 |**2022-10-25**|**Detection of Single-base Mismatches in DNA Sequences by using Electrochemically-gated Graphene Microwave Waveguides**|Patrik Gubeljak et.al.|[2210.14118v1](http://arxiv.org/abs/2210.14118v1)|null|
-|**2022-10-25**|**Model constraints based on the IceCube neutrino non-detection of GRB 201009A**|Shunke Ai et.al.|[2210.14116v1](http://arxiv.org/abs/2210.14116v1)|null|
+|**2022-10-26**|**Model constraints based on the IceCube neutrino non-detection of GRB 221009A**|Shunke Ai et.al.|[2210.14116v2](http://arxiv.org/abs/2210.14116v2)|null|
 |**2022-10-25**|**Discharge of elongated grains in silos under rotational shear**|Tivadar Pongó et.al.|[2210.14115v1](http://arxiv.org/abs/2210.14115v1)|null|
 |**2022-10-25**|**Gravitational Waves and Primordial Black Hole Productions from Gluodynamics**|Song He et.al.|[2210.14094v1](http://arxiv.org/abs/2210.14094v1)|null|
 |**2022-10-25**|**A Global Wavelet Based Bootstrapped Test of Covariance Stationarity**|Jonathan B. Hill et.al.|[2210.14086v1](http://arxiv.org/abs/2210.14086v1)|null|
