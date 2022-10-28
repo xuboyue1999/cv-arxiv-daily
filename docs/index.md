@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.27
+## Updated on 2022.10.28
 
 ## RGBT
 
@@ -24,6 +24,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-27**|**Supervised classification methods applied to airborne hyperspectral images: Comparative study using mutual information**|Hasna Nhaila et.al.|[2210.15422v1](http://arxiv.org/abs/2210.15422v1)|null|
+|**2022-10-27**|**Single photon detection performance of highly disordered NbTiN thin films**|Ruoyan Ma et.al.|[2210.15215v1](http://arxiv.org/abs/2210.15215v1)|null|
+|**2022-10-26**|**Anharmonic multiphonon origin of the valence plasmon in SrTi1-xNbxO3**|Caitlin S. Kengle et.al.|[2210.15026v1](http://arxiv.org/abs/2210.15026v1)|null|
 |**2022-10-26**|**Zero sound and higher-form symmetries in compressible holographic phases**|Richard A. Davison et.al.|[2210.14802v1](http://arxiv.org/abs/2210.14802v1)|null|
 |**2022-10-26**|**Evolution of the optical response of the magnetic topological insulators Mn(Bi$_{1-x}$Sb$_{x}$)$_2$Te$_4$ with Sb content**|M. Köpf et.al.|[2210.14538v1](http://arxiv.org/abs/2210.14538v1)|null|
 |**2022-10-26**|**RGB-T Semantic Segmentation with Location, Activation, and Sharpening**|Gongyang Li et.al.|[2210.14530v1](http://arxiv.org/abs/2210.14530v1)|**[link](https://github.com/mathlee/lasnet)**|
@@ -894,6 +897,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-27**|**Freezing-in hadrophilic dark matter at low reheating temperatures**|Prudhvi N. Bhattiprolu et.al.|[2210.15653v1](http://arxiv.org/abs/2210.15653v1)|null|
+|**2022-10-27**|**A shot in the Dark (Ages): a faint galaxy at $z=9.76$ confirmed with JWST**|Guido Roberts-Borsani et.al.|[2210.15639v1](http://arxiv.org/abs/2210.15639v1)|null|
+|**2022-10-27**|**Neutrinos from the Brightest Gamma-Ray Burst?**|Kohta Murase et.al.|[2210.15625v1](http://arxiv.org/abs/2210.15625v1)|null|
+|**2022-10-27**|**Controlled generation and detection of a thermal bias in Corbino devices under the quantum Hall regime**|Mariano A. Real et.al.|[2210.15599v1](http://arxiv.org/abs/2210.15599v1)|null|
+|**2022-10-27**|**A deep 1.4 GHz survey of the J1030 equatorial field: a new window on radio source populations across cosmic time**|Q. D'Amato et.al.|[2210.15595v1](http://arxiv.org/abs/2210.15595v1)|null|
+|**2022-10-27**|**Joint Multi-Person Body Detection and Orientation Estimation via One Unified Embedding**|Huayi Zhou et.al.|[2210.15586v1](http://arxiv.org/abs/2210.15586v1)|null|
+|**2022-10-27**|**Early in vivo Radiation Damage Quantification for Pediatric Craniospinal Irradiation Using Longitudinal MRI for Intensity Modulated Proton Therapy**|Chih-Wei Chang et.al.|[2210.15557v1](http://arxiv.org/abs/2210.15557v1)|null|
+|**2022-10-27**|**Hyperspectral Images Classification and Dimensionality Reduction using spectral interaction and SVM classifier**|Asma Elmaizi et.al.|[2210.15546v1](http://arxiv.org/abs/2210.15546v1)|null|
+|**2022-10-27**|**MHD decomposition explains diffuse $γ$-ray emission in Cygnus X**|Ottavio Fornieri et.al.|[2210.15542v1](http://arxiv.org/abs/2210.15542v1)|null|
+|**2022-10-27**|**Masked Transformer for image Anomaly Localization**|Axel De Nardin et.al.|[2210.15540v1](http://arxiv.org/abs/2210.15540v1)|null|
 |**2022-10-26**|**DiffusionDB: A Large-scale Prompt Gallery Dataset for Text-to-Image Generative Models**|Zijie J. Wang et.al.|[2210.14896v1](http://arxiv.org/abs/2210.14896v1)|**[link](https://github.com/poloclub/diffusiondb)**|
 |**2022-10-26**|**Quantum gas microscopy of a geometrically frustrated Hubbard system**|Jirayu Mongkolkiattichai et.al.|[2210.14895v1](http://arxiv.org/abs/2210.14895v1)|null|
 |**2022-10-26**|**Anisotropic multiresolution analyses for deep fake detection**|Wei Huang et.al.|[2210.14874v1](http://arxiv.org/abs/2210.14874v1)|null|
