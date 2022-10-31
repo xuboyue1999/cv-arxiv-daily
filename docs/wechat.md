@@ -1,4 +1,4 @@
-> Updated on 2022.10.30
+> Updated on 2022.10.31
 
 ## RGBT
 
@@ -16,6 +16,14 @@
 
 ## Infrared
 
+- 2022-10-28, **Logarithmic correction to black hole entropy in universal low-energy string theory models**, Sudip Karan et.al., Paper: [http://arxiv.org/abs/2210.16230v1](http://arxiv.org/abs/2210.16230v1)
+- 2022-10-28, **Object Segmentation of Cluttered Airborne LiDAR Point Clouds**, Mariona Caros et.al., Paper: [http://arxiv.org/abs/2210.16081v1](http://arxiv.org/abs/2210.16081v1)
+- 2022-10-28, **Time-dependent Monte Carlo continuum radiative transfer**, A. Bensberg et.al., Paper: [http://arxiv.org/abs/2210.16066v1](http://arxiv.org/abs/2210.16066v1)
+- 2022-10-28, **Thermal Infrared Image Inpainting via Edge-Aware Guidance**, Zeyu Wang et.al., Paper: [http://arxiv.org/abs/2210.16000v1](http://arxiv.org/abs/2210.16000v1)
+- 2022-10-28, **Low-loss silicon nitride photonic ICs for single-photon applications**, Kirill A. Buzaverov et.al., Paper: [http://arxiv.org/abs/2210.15984v1](http://arxiv.org/abs/2210.15984v1)
+- 2022-10-28, **Empirical temperature- and extinction-dependent extinction coefficients for the GALEX, Pan-STARRS1, Gaia, SDSS, 2MASS, and WISE passbands**, Ruoyi Zhang et.al., Paper: [http://arxiv.org/abs/2210.15918v1](http://arxiv.org/abs/2210.15918v1)
+- 2022-10-27, **Density and infrared band strength of interstellar carbon monoxide (CO) ice analogues**, Cristóbal González Díaz et.al., Paper: [http://arxiv.org/abs/2210.15768v1](http://arxiv.org/abs/2210.15768v1)
+- 2022-10-27, **Mid-Infrared Echoes of Ambiguous Nuclear Transients Reveal High Dust Covering Fractions: Evidence for Dusty Tori**, Jason T. Hinkle et.al., Paper: [http://arxiv.org/abs/2210.15681v1](http://arxiv.org/abs/2210.15681v1)
 - 2022-10-27, **Supervised classification methods applied to airborne hyperspectral images: Comparative study using mutual information**, Hasna Nhaila et.al., Paper: [http://arxiv.org/abs/2210.15422v1](http://arxiv.org/abs/2210.15422v1)
 - 2022-10-27, **Single photon detection performance of highly disordered NbTiN thin films**, Ruoyan Ma et.al., Paper: [http://arxiv.org/abs/2210.15215v1](http://arxiv.org/abs/2210.15215v1)
 - 2022-10-26, **Anharmonic multiphonon origin of the valence plasmon in SrTi1-xNbxO3**, Caitlin S. Kengle et.al., Paper: [http://arxiv.org/abs/2210.15026v1](http://arxiv.org/abs/2210.15026v1)
@@ -885,6 +893,16 @@
 
 ## Saliency Detection
 
+- 2022-10-28, **Multi-feature Dataset for Windows PE Malware Classification**, Muhammad Irfan Yousuf et.al., Paper: [http://arxiv.org/abs/2210.16285v1](http://arxiv.org/abs/2210.16285v1)
+- 2022-10-28, **Boulders Identification on Small Bodies Under Varying Illumination Conditions**, Mattia Pugliatti et.al., Paper: [http://arxiv.org/abs/2210.16283v1](http://arxiv.org/abs/2210.16283v1)
+- 2022-10-28, **ATM: Black-box Test Case Minimization based on Test Code Similarity and Evolutionary Search**, Rongqi Pan et.al., Paper: [http://arxiv.org/abs/2210.16269v1](http://arxiv.org/abs/2210.16269v1)
+- 2022-10-28, **Outlook for detecting the gravitational wave displacement and spin memory effects with current and future gravitational wave detectors**, Alexander M. Grant et.al., Paper: [http://arxiv.org/abs/2210.16266v1](http://arxiv.org/abs/2210.16266v1)
+- 2022-10-28, **On the Vulnerability of Data Points under Multiple Membership Inference Attacks and Target Models**, Mauro Conti et.al., Paper: [http://arxiv.org/abs/2210.16258v1](http://arxiv.org/abs/2210.16258v1)
+- 2022-10-28, **DOORS: Dataset fOr bOuldeRs Segmentation. Statistical properties and Blender setup**, Mattia Pugliatti et.al., Paper: [http://arxiv.org/abs/2210.16253v1](http://arxiv.org/abs/2210.16253v1)
+- 2022-10-28, **Interplay of Hidden Orbital Order and Superconductivity in CeCoIn5**, Weijiong Chen et.al., Paper: [http://arxiv.org/abs/2210.16235v1](http://arxiv.org/abs/2210.16235v1)
+- 2022-10-28, **Probing for targeted syntactic knowledge through grammatical error detection**, Christopher Davis et.al., Paper: [http://arxiv.org/abs/2210.16228v1](http://arxiv.org/abs/2210.16228v1)
+- 2022-10-28, **TripletTrack: 3D Object Tracking using Triplet Embeddings and LSTM**, Nicola Marinello et.al., Paper: [http://arxiv.org/abs/2210.16204v1](http://arxiv.org/abs/2210.16204v1)
+- 2022-10-30, **On Catalan Constant Continued Fractions**, David Naccache et.al., Paper: [http://arxiv.org/abs/2210.15669v1](http://arxiv.org/abs/2210.15669v1)
 - 2022-10-27, **Freezing-in hadrophilic dark matter at low reheating temperatures**, Prudhvi N. Bhattiprolu et.al., Paper: [http://arxiv.org/abs/2210.15653v1](http://arxiv.org/abs/2210.15653v1)
 - 2022-10-27, **A shot in the Dark (Ages): a faint galaxy at $z=9.76$ confirmed with JWST**, Guido Roberts-Borsani et.al., Paper: [http://arxiv.org/abs/2210.15639v1](http://arxiv.org/abs/2210.15639v1)
 - 2022-10-27, **Neutrinos from the Brightest Gamma-Ray Burst?**, Kohta Murase et.al., Paper: [http://arxiv.org/abs/2210.15625v1](http://arxiv.org/abs/2210.15625v1)
