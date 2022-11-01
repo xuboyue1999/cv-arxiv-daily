@@ -1,4 +1,4 @@
-## Updated on 2022.10.31
+## Updated on 2022.11.01
 
 ## RGBT
 
@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-31**|**The Near Infrared Imager and Slitless Spectrograph for JWST -- V. Kernel Phase Imaging and Data Analysis**|Jens Kammerer et.al.|[2210.17528v1](http://arxiv.org/abs/2210.17528v1)|null|
+|**2022-10-31**|**Ultrafast x-ray scattering from collective modes of the charge density wave in (TaSe$_4$)$_2$I**|Quynh L. Nguyen et.al.|[2210.17483v1](http://arxiv.org/abs/2210.17483v1)|null|
+|**2022-10-31**|**The Near Infrared Imager and Slitless Spectrograph for the James Webb Space Telescope -- IV. Aperture Masking Interferometry**|Anand Sivaramakrishnan et.al.|[2210.17434v1](http://arxiv.org/abs/2210.17434v1)|null|
+|**2022-10-31**|**Nondipole electron momentum offset as a probe of correlated three electron ionization in strongly driven atoms**|Georgios Petros Katsoulis et.al.|[2210.17394v1](http://arxiv.org/abs/2210.17394v1)|null|
+|**2022-10-31**|**Near-Infrared 3D Imaging with Upconversion Detection**|He Zhang et.al.|[2210.17286v1](http://arxiv.org/abs/2210.17286v1)|null|
+|**2022-10-31**|**LAD-RCNN:A Powerful Tool for Livestock Face Detection and Normalization**|Ling Sun et.al.|[2210.17146v1](http://arxiv.org/abs/2210.17146v1)|**[link](https://github.com/SheepBreedingLab-HZAU/LAD-RCNN)**|
+|**2022-10-31**|**Wafer-Scale Growth of Sb2Te3 Films via Low-Temperature ALD for Self-Powered Photodetector**|Jun Yang et.al.|[2210.17144v1](http://arxiv.org/abs/2210.17144v1)|null|
+|**2022-10-31**|**Heavily doped zinc oxide with plasma frequencies in the telecommunication wavelength range**|Alexander Koch et.al.|[2210.17126v1](http://arxiv.org/abs/2210.17126v1)|null|
+|**2022-10-31**|**Two-dimensional infrared-Raman spectroscopy as a probe of water's tetrahedrality**|Tomislav Begušić et.al.|[2210.17100v1](http://arxiv.org/abs/2210.17100v1)|null|
+|**2022-10-30**|**Discovery of a Dusty, Chemically Mature Companion to a z$\sim$4 Starburst Galaxy in JWST ERS Data**|Bo Peng et.al.|[2210.16968v1](http://arxiv.org/abs/2210.16968v1)|null|
 |**2022-10-28**|**Logarithmic correction to black hole entropy in universal low-energy string theory models**|Sudip Karan et.al.|[2210.16230v1](http://arxiv.org/abs/2210.16230v1)|null|
 |**2022-10-28**|**Object Segmentation of Cluttered Airborne LiDAR Point Clouds**|Mariona Caros et.al.|[2210.16081v1](http://arxiv.org/abs/2210.16081v1)|**[link](https://github.com/marionacaros/3d-object-segmentation)**|
 |**2022-10-28**|**Time-dependent Monte Carlo continuum radiative transfer**|A. Bensberg et.al.|[2210.16066v1](http://arxiv.org/abs/2210.16066v1)|null|
@@ -901,6 +911,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-31**|**Compressed IF-TEM: Time Encoding Analog-To-Digital Compression**|Saar Tarnopolsky et.al.|[2210.17544v1](http://arxiv.org/abs/2210.17544v1)|null|
+|**2022-10-31**|**Detecting emergent continuous symmetries at quantum criticality**|Mingru Yang et.al.|[2210.17539v1](http://arxiv.org/abs/2210.17539v1)|null|
+|**2022-10-31**|**The Ionizing Spectra of Extremely Metal-Poor O Stars: Constraints from the Only HII Region in Leo P**|O. Grace Telford et.al.|[2210.17535v1](http://arxiv.org/abs/2210.17535v1)|null|
+|**2022-10-31**|**The Near Infrared Imager and Slitless Spectrograph for JWST -- V. Kernel Phase Imaging and Data Analysis**|Jens Kammerer et.al.|[2210.17528v1](http://arxiv.org/abs/2210.17528v1)|null|
+|**2022-10-31**|**Quantum-Inspired Edge Detection Algorithms Implementation using New Dynamic Visual Data Representation and Short-Length Convolution Computation**|Artyom M. Grigoryan et.al.|[2210.17490v1](http://arxiv.org/abs/2210.17490v1)|null|
+|**2022-10-31**|**Low Complexity Detect and Avoid for Autonomous Agents in Cluttered Environments**|Mosab Diab et.al.|[2210.17482v1](http://arxiv.org/abs/2210.17482v1)|null|
+|**2022-10-31**|**Semantic Novelty Detection and Characterization in Factual Text Involving Named Entities**|Nianzu Ma et.al.|[2210.17440v1](http://arxiv.org/abs/2210.17440v1)|null|
+|**2022-10-31**|**A proton-recoil track imaging system for fast neutrons: the RIPTIDE detector**|P. Console Camprini et.al.|[2210.17431v1](http://arxiv.org/abs/2210.17431v1)|null|
+|**2022-10-31**|**Tree Detection and Diameter Estimation Based on Deep Learning**|Vincent Grondin et.al.|[2210.17424v1](http://arxiv.org/abs/2210.17424v1)|null|
+|**2022-10-31**|**Training Neural Networks for Sequential Change-point Detection**|Junghwan Lee et.al.|[2210.17312v1](http://arxiv.org/abs/2210.17312v1)|null|
 |**2022-10-28**|**Multi-feature Dataset for Windows PE Malware Classification**|Muhammad Irfan Yousuf et.al.|[2210.16285v1](http://arxiv.org/abs/2210.16285v1)|null|
 |**2022-10-28**|**Boulders Identification on Small Bodies Under Varying Illumination Conditions**|Mattia Pugliatti et.al.|[2210.16283v1](http://arxiv.org/abs/2210.16283v1)|null|
 |**2022-10-28**|**ATM: Black-box Test Case Minimization based on Test Code Similarity and Evolutionary Search**|Rongqi Pan et.al.|[2210.16269v1](http://arxiv.org/abs/2210.16269v1)|null|
