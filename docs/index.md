@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.11.01
+## Updated on 2022.11.02
 
 ## RGBT
 
@@ -24,6 +24,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-01**|**Infinite-Dimensional Adaptive Boundary Observer for Inner-Domain Temperature Estimation of 3D Electrosurgical Processes using Surface Thermography Sensing**|Hamza El-Kebir et.al.|[2211.00515v1](http://arxiv.org/abs/2211.00515v1)|null|
+|**2022-11-01**|**Can the Ferroelectric Soft Mode Trigger an Antiferromagnetic Phase Transition?**|André Maia et.al.|[2211.00386v1](http://arxiv.org/abs/2211.00386v1)|null|
+|**2022-11-01**|**Meta-Optics with Lithium Niobate**|Anna Fedotova et.al.|[2211.00359v1](http://arxiv.org/abs/2211.00359v1)|null|
+|**2022-11-01**|**Infrared thermotransmittance-based temperature field measurements in semitransparent media**|Coline Bourges et.al.|[2211.00275v1](http://arxiv.org/abs/2211.00275v1)|null|
+|**2022-11-01**|**Spin-polarization anisotropy included by mechanical bending in tungsten diselenide nanoribbons and tunable excitonic states**|Hong Tang et.al.|[2211.00258v1](http://arxiv.org/abs/2211.00258v1)|null|
+|**2022-11-01**|**The X-shaped radio galaxy J0725+5835 is associated with an AGN pair**|Xiaolong Yang et.al.|[2211.00254v1](http://arxiv.org/abs/2211.00254v1)|null|
+|**2022-11-01**|**Near-Infrared and Optical Observations of Type Ic SN 2021krf: Dust Formation and Luminous Late-time Emission**|Aravind P. Ravi et.al.|[2211.00205v1](http://arxiv.org/abs/2211.00205v1)|null|
+|**2022-10-31**|**Precise near-infrared photometry, accounting for precipitable water vapour at SPECULOOS Southern Observatory**|Peter P. Pedersen et.al.|[2211.00156v1](http://arxiv.org/abs/2211.00156v1)|null|
+|**2022-10-31**|**Floquet engineering of strongly-driven excitons in monolayer tungsten disulfide**|Yuki Kobayashi et.al.|[2211.00139v1](http://arxiv.org/abs/2211.00139v1)|null|
+|**2022-10-31**|**Is Facial Recognition Biased at Near-Infrared Spectrum As Well?**|Anoop Krishnan et.al.|[2211.00129v1](http://arxiv.org/abs/2211.00129v1)|null|
 |**2022-10-31**|**The Near Infrared Imager and Slitless Spectrograph for JWST -- V. Kernel Phase Imaging and Data Analysis**|Jens Kammerer et.al.|[2210.17528v1](http://arxiv.org/abs/2210.17528v1)|null|
 |**2022-10-31**|**Ultrafast x-ray scattering from collective modes of the charge density wave in (TaSe$_4$)$_2$I**|Quynh L. Nguyen et.al.|[2210.17483v1](http://arxiv.org/abs/2210.17483v1)|null|
 |**2022-10-31**|**The Near Infrared Imager and Slitless Spectrograph for the James Webb Space Telescope -- IV. Aperture Masking Interferometry**|Anand Sivaramakrishnan et.al.|[2210.17434v1](http://arxiv.org/abs/2210.17434v1)|null|
@@ -915,6 +925,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-01**|**A General Language for Modeling Social Media Account Behavior**|Alexander C. Nwala et.al.|[2211.00639v1](http://arxiv.org/abs/2211.00639v1)|null|
+|**2022-11-01**|**Estimating phase transition of perturbed J1-J2 Heisenberg quantum chain in mixtures of ground and first excited states**|Sayan Mondal et.al.|[2211.00623v1](http://arxiv.org/abs/2211.00623v1)|null|
+|**2022-11-01**|**MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model**|Junde Wu et.al.|[2211.00611v1](http://arxiv.org/abs/2211.00611v1)|null|
+|**2022-11-01**|**Fast Staircase Detection and Estimation using 3D Point Clouds with Multi-detection Merging for Heterogeneous Robots**|Prasanna Sriganesh et.al.|[2211.00610v1](http://arxiv.org/abs/2211.00610v1)|null|
+|**2022-11-01**|**The detection of possible transient Quasi-Periodic Oscillations in the $γ$-ray light curve of PKS 0244-470 and 4C+38.41**|Avik Kumar Das et.al.|[2211.00588v1](http://arxiv.org/abs/2211.00588v1)|null|
+|**2022-11-01**|**Simplicial distributions, convex categories and contextuality**|Aziz Kharoof et.al.|[2211.00571v1](http://arxiv.org/abs/2211.00571v1)|null|
+|**2022-11-01**|**No-audio speaking status detection in crowded settings via visual pose-based filtering and wearable acceleration**|Jose Vargas-Quiros et.al.|[2211.00549v1](http://arxiv.org/abs/2211.00549v1)|null|
+|**2022-11-01**|**Self-Supervised Learning with Limited Labeled Data for Prostate Cancer Detection in High Frequency Ultrasound**|Paul F. R. Wilson et.al.|[2211.00527v1](http://arxiv.org/abs/2211.00527v1)|null|
+|**2022-11-01**|**Zero Day Threat Detection Using Metric Learning Autoencoders**|Dhruv Nandakumar et.al.|[2211.00441v1](http://arxiv.org/abs/2211.00441v1)|null|
+|**2022-11-01**|**Metric Learning for User-defined Keyword Spotting**|Jaemin Jung et.al.|[2211.00439v1](http://arxiv.org/abs/2211.00439v1)|null|
 |**2022-10-31**|**Compressed IF-TEM: Time Encoding Analog-To-Digital Compression**|Saar Tarnopolsky et.al.|[2210.17544v1](http://arxiv.org/abs/2210.17544v1)|null|
 |**2022-10-31**|**Detecting emergent continuous symmetries at quantum criticality**|Mingru Yang et.al.|[2210.17539v1](http://arxiv.org/abs/2210.17539v1)|null|
 |**2022-10-31**|**The Ionizing Spectra of Extremely Metal-Poor O Stars: Constraints from the Only HII Region in Leo P**|O. Grace Telford et.al.|[2210.17535v1](http://arxiv.org/abs/2210.17535v1)|null|
