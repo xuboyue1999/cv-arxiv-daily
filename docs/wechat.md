@@ -16,6 +16,16 @@
 
 ## Infrared
 
+- 2022-11-02, **APERO: A PipelinE to Reduce Observations -- Demonstration with SPIRou**, Neil James Cook et.al., Paper: [http://arxiv.org/abs/2211.01358v1](http://arxiv.org/abs/2211.01358v1)
+- 2022-11-02, **Pump--probe x-ray microscopy of photo-induced magnetization dynamics at MHz repetition rates**, Kathinka Gerlinger et.al., Paper: [http://arxiv.org/abs/2211.01230v1](http://arxiv.org/abs/2211.01230v1)
+- 2022-11-02, **Global total precipitable water trends from 1958 to 2021**, Nenghan Wan et.al., Paper: [http://arxiv.org/abs/2211.01228v1](http://arxiv.org/abs/2211.01228v1)
+- 2022-11-02, **Type Ia Supernova cosmology combining data from the $Euclid$ mission and the Vera C. Rubin Observatory**, A. Bailey et.al., Paper: [http://arxiv.org/abs/2211.01206v1](http://arxiv.org/abs/2211.01206v1)
+- 2022-11-02, **Multicriticality in Yang-Lee edge singularity**, Máté Lencsés et.al., Paper: [http://arxiv.org/abs/2211.01123v1](http://arxiv.org/abs/2211.01123v1)
+- 2022-11-02, **Thunderstorm nowcasting with deep learning: a multi-hazard data fusion model**, Jussi Leinonen et.al., Paper: [http://arxiv.org/abs/2211.01001v1](http://arxiv.org/abs/2211.01001v1), Code: **[https://github.com/meteoswiss/c4dl-multi](https://github.com/meteoswiss/c4dl-multi)**
+- 2022-11-02, **On the temperature of lowest order inner bremsstrahlung**, Michael R. R. Good et.al., Paper: [http://arxiv.org/abs/2211.00946v1](http://arxiv.org/abs/2211.00946v1)
+- 2022-11-02, **The dust properties of star-forming galaxies in the first billion years**, Elisabete da Cunha et.al., Paper: [http://arxiv.org/abs/2211.00850v1](http://arxiv.org/abs/2211.00850v1)
+- 2022-11-02, **Determining the $CP$ Property of $ht\bar{t}$ Coupling via a Novel Jet Substructure Observable**, Zhite Yu et.al., Paper: [http://arxiv.org/abs/2211.00845v1](http://arxiv.org/abs/2211.00845v1)
+- 2022-11-02, **ALMA Observations for CO Emission from Luminous Lyman-break Galaxies at $z=6.0293$-$6.2037$**, Yoshiaki Ono et.al., Paper: [http://arxiv.org/abs/2211.00793v1](http://arxiv.org/abs/2211.00793v1)
 - 2022-11-01, **Infinite-Dimensional Adaptive Boundary Observer for Inner-Domain Temperature Estimation of 3D Electrosurgical Processes using Surface Thermography Sensing**, Hamza El-Kebir et.al., Paper: [http://arxiv.org/abs/2211.00515v1](http://arxiv.org/abs/2211.00515v1)
 - 2022-11-01, **Can the Ferroelectric Soft Mode Trigger an Antiferromagnetic Phase Transition?**, André Maia et.al., Paper: [http://arxiv.org/abs/2211.00386v1](http://arxiv.org/abs/2211.00386v1)
 - 2022-11-01, **Meta-Optics with Lithium Niobate**, Anna Fedotova et.al., Paper: [http://arxiv.org/abs/2211.00359v1](http://arxiv.org/abs/2211.00359v1)
@@ -913,6 +923,16 @@
 
 ## Saliency Detection
 
+- 2022-11-02, **Identifying Damage-Sensitive Spatial Vibration Characteristics of Bridges from Widespread Smartphone Data**, Liam Cronin et.al., Paper: [http://arxiv.org/abs/2211.01363v1](http://arxiv.org/abs/2211.01363v1)
+- 2022-11-02, **Disks, spikes, and clouds: distinguishing environmental effects on BBH gravitational waveforms**, Philippa S. Cole et.al., Paper: [http://arxiv.org/abs/2211.01362v1](http://arxiv.org/abs/2211.01362v1)
+- 2022-11-02, **Generation of Anonymous Chest Radiographs Using Latent Diffusion Models for Training Thoracic Abnormality Classification Systems**, Kai Packhäuser et.al., Paper: [http://arxiv.org/abs/2211.01323v1](http://arxiv.org/abs/2211.01323v1)
+- 2022-11-02, **Continual Conscious Active Fine-Tuning to Robustify Online Machine Learning Models Against Data Distribution Shifts**, Shawqi Al-Maliki et.al., Paper: [http://arxiv.org/abs/2211.01315v1](http://arxiv.org/abs/2211.01315v1)
+- 2022-11-02, **Parameter estimation methods for analyzing overlapping gravitational wave signals in the third-generation detector era**, Justin Janquart et.al., Paper: [http://arxiv.org/abs/2211.01304v1](http://arxiv.org/abs/2211.01304v1)
+- 2022-11-02, **Computational Desire Line Analysis of Cyclists on the Dybbølsbro Intersection in Copenhagen**, Simon Martin Breum et.al., Paper: [http://arxiv.org/abs/2211.01301v1](http://arxiv.org/abs/2211.01301v1)
+- 2022-11-02, **Modern GPR Target Recognition Methods**, Fabio Giovanneschi et.al., Paper: [http://arxiv.org/abs/2211.01277v1](http://arxiv.org/abs/2211.01277v1)
+- 2022-11-02, **Measuring the polarization content of gravitational waves with strongly lensed binary black hole mergers**, Ignacio Magaña Hernandez et.al., Paper: [http://arxiv.org/abs/2211.01272v1](http://arxiv.org/abs/2211.01272v1)
+- 2022-11-02, **Secure and Efficient Privacy-preserving Authentication Scheme using Cuckoo Filter in Remote Patient Monitoring Network**, Shafika Showkat Moni et.al., Paper: [http://arxiv.org/abs/2211.01270v1](http://arxiv.org/abs/2211.01270v1)
+- 2022-11-02, **Multi-Vector Retrieval as Sparse Alignment**, Yujie Qian et.al., Paper: [http://arxiv.org/abs/2211.01267v1](http://arxiv.org/abs/2211.01267v1)
 - 2022-11-01, **A General Language for Modeling Social Media Account Behavior**, Alexander C. Nwala et.al., Paper: [http://arxiv.org/abs/2211.00639v1](http://arxiv.org/abs/2211.00639v1)
 - 2022-11-01, **Estimating phase transition of perturbed J1-J2 Heisenberg quantum chain in mixtures of ground and first excited states**, Sayan Mondal et.al., Paper: [http://arxiv.org/abs/2211.00623v1](http://arxiv.org/abs/2211.00623v1)
 - 2022-11-01, **MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model**, Junde Wu et.al., Paper: [http://arxiv.org/abs/2211.00611v1](http://arxiv.org/abs/2211.00611v1)
