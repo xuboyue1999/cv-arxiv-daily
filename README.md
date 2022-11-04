@@ -20,6 +20,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-03**|**A Bayesian inference of relativistic mean-field model for neutron star matter from observation of NICER and GW170817/AT2017gfo**|Zhenyu Zhu et.al.|[2211.02007v1](http://arxiv.org/abs/2211.02007v1)|null|
+|**2022-11-03**|**The two-loop eight-point amplitude in ABJM theory**|Song He et.al.|[2211.01792v1](http://arxiv.org/abs/2211.01792v1)|null|
+|**2022-11-03**|**First Lunar Occultation Results with the TIRCAM2 Near-Infrared Imager at the Devasthal 3.6-m Telescope**|Saurabh Sharma et.al.|[2211.01682v1](http://arxiv.org/abs/2211.01682v1)|null|
+|**2022-11-03**|**The Unusual AGN Host NGC 1266: Evidence for Shocks in a Molecular Gas Rich S0 Galaxy with a Low Luminosity Nucleus**|Peibin Chen et.al.|[2211.01641v1](http://arxiv.org/abs/2211.01641v1)|null|
+|**2022-11-03**|**Dust temperature uncertainties hamper the inference of dust and molecular gas masses from the dust continuum emission of quiescent high-redshift galaxies**|R. K. Cochrane et.al.|[2211.01526v1](http://arxiv.org/abs/2211.01526v1)|null|
+|**2022-11-02**|**The Fifth Catalogue of Nearby Stars (CNS5)**|Alex Golovin et.al.|[2211.01449v1](http://arxiv.org/abs/2211.01449v1)|null|
+|**2022-11-02**|**Multi-photon polymerization using upconversion nanoparticles for tunable feature-size printing**|Qianyi Zhang et.al.|[2211.01437v1](http://arxiv.org/abs/2211.01437v1)|null|
 |**2022-11-02**|**APERO: A PipelinE to Reduce Observations -- Demonstration with SPIRou**|Neil James Cook et.al.|[2211.01358v1](http://arxiv.org/abs/2211.01358v1)|null|
 |**2022-11-02**|**Pump--probe x-ray microscopy of photo-induced magnetization dynamics at MHz repetition rates**|Kathinka Gerlinger et.al.|[2211.01230v1](http://arxiv.org/abs/2211.01230v1)|null|
 |**2022-11-02**|**Global total precipitable water trends from 1958 to 2021**|Nenghan Wan et.al.|[2211.01228v1](http://arxiv.org/abs/2211.01228v1)|null|
@@ -931,6 +938,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-03**|**Along Similar Lines: Local Obstacle Avoidance for Long-term Autonomous Path Following**|Jordy Sehn et.al.|[2211.02047v1](http://arxiv.org/abs/2211.02047v1)|null|
+|**2022-11-03**|**Could Giant Pretrained Image Models Extract Universal Representations?**|Yutong Lin et.al.|[2211.02043v1](http://arxiv.org/abs/2211.02043v1)|null|
+|**2022-11-03**|**Detecting galaxies in a large H{\sc i}~spectral cube**|Abinash Kumar Shaw et.al.|[2211.02041v1](http://arxiv.org/abs/2211.02041v1)|null|
+|**2022-11-03**|**On the observability and identification of Population III galaxies with JWST**|James A. A. Trussler et.al.|[2211.02038v1](http://arxiv.org/abs/2211.02038v1)|null|
+|**2022-11-03**|**Neutrino Origin of LHAASO's 18 TeV GRB221009A Photon**|Vedran Brdar et.al.|[2211.02028v1](http://arxiv.org/abs/2211.02028v1)|null|
+|**2022-11-03**|**Analyzing Performance Issues of Virtual Reality Applications**|Jason Hogan et.al.|[2211.02013v1](http://arxiv.org/abs/2211.02013v1)|null|
+|**2022-11-03**|**SAP-DETR: Bridging the Gap Between Salient Points and Queries-Based Transformer Detector for Fast Model Convergency**|Yang Liu et.al.|[2211.02006v1](http://arxiv.org/abs/2211.02006v1)|null|
+|**2022-11-03**|**Detecting nuclear mass distribution in isobar collisions via charmonium**|Jiaxing Zhao et.al.|[2211.01971v1](http://arxiv.org/abs/2211.01971v1)|null|
+|**2022-11-03**|**An Efficient Approach with Dynamic Multi-Swarm of UAVs for Forest Firefighting**|Josy John et.al.|[2211.01958v1](http://arxiv.org/abs/2211.01958v1)|null|
+|**2022-11-03**|**Impact of multiple modes on the evolution of self-interacting axion condensate around rotating black holes**|Hidetoshi Omiya et.al.|[2211.01949v1](http://arxiv.org/abs/2211.01949v1)|null|
 |**2022-11-02**|**Identifying Damage-Sensitive Spatial Vibration Characteristics of Bridges from Widespread Smartphone Data**|Liam Cronin et.al.|[2211.01363v1](http://arxiv.org/abs/2211.01363v1)|null|
 |**2022-11-02**|**Disks, spikes, and clouds: distinguishing environmental effects on BBH gravitational waveforms**|Philippa S. Cole et.al.|[2211.01362v1](http://arxiv.org/abs/2211.01362v1)|null|
 |**2022-11-02**|**Generation of Anonymous Chest Radiographs Using Latent Diffusion Models for Training Thoracic Abnormality Classification Systems**|Kai Packhäuser et.al.|[2211.01323v1](http://arxiv.org/abs/2211.01323v1)|null|
