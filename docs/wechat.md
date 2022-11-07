@@ -16,6 +16,10 @@
 
 ## Infrared
 
+- 2022-11-04, **Evidence for the disruption of a planetary system during the formation of the Helix Nebula**, Jonathan P. Marshall et.al., Paper: [http://arxiv.org/abs/2211.02251v1](http://arxiv.org/abs/2211.02251v1)
+- 2022-11-03, **Photometric and spectroscopic study of the EXor-like eruptive young star Gaia19fct**, Sunkyung Park et.al., Paper: [http://arxiv.org/abs/2211.02137v1](http://arxiv.org/abs/2211.02137v1)
+- 2022-11-03, **Unitarizing infinite-range forces: Graviton-graviton scattering, the graviball, and Coulomb scattering**, J. A. Oller et.al., Paper: [http://arxiv.org/abs/2211.02084v1](http://arxiv.org/abs/2211.02084v1)
+- 2022-11-03, **A spatially resolved analysis of star-formation burstiness by comparing UV and H$α$ in galaxies at z$\sim$1 with UVCANDELS**, Vihang Mehta et.al., Paper: [http://arxiv.org/abs/2211.02056v1](http://arxiv.org/abs/2211.02056v1)
 - 2022-11-03, **A Bayesian inference of relativistic mean-field model for neutron star matter from observation of NICER and GW170817/AT2017gfo**, Zhenyu Zhu et.al., Paper: [http://arxiv.org/abs/2211.02007v1](http://arxiv.org/abs/2211.02007v1)
 - 2022-11-03, **The two-loop eight-point amplitude in ABJM theory**, Song He et.al., Paper: [http://arxiv.org/abs/2211.01792v1](http://arxiv.org/abs/2211.01792v1)
 - 2022-11-03, **First Lunar Occultation Results with the TIRCAM2 Near-Infrared Imager at the Devasthal 3.6-m Telescope**, Saurabh Sharma et.al., Paper: [http://arxiv.org/abs/2211.01682v1](http://arxiv.org/abs/2211.01682v1)
@@ -930,6 +934,16 @@
 
 ## Saliency Detection
 
+- 2022-11-04, **Did JWST observe imprints of axion miniclusters or primordial black holes?**, Gert Hütsi et.al., Paper: [http://arxiv.org/abs/2211.02651v1](http://arxiv.org/abs/2211.02651v1)
+- 2022-11-04, **Robustness of Fusion-based Multimodal Classifiers to Cross-Modal Content Dilutions**, Gaurav Verma et.al., Paper: [http://arxiv.org/abs/2211.02646v1](http://arxiv.org/abs/2211.02646v1)
+- 2022-11-04, **A Theoretical Study on Solving Continual Learning**, Gyuhak Kim et.al., Paper: [http://arxiv.org/abs/2211.02633v1](http://arxiv.org/abs/2211.02633v1), Code: **[https://github.com/k-gyuhak/wptp](https://github.com/k-gyuhak/wptp)**
+- 2022-11-04, **Efficient Extrinsic Calibration of Multi-Sensor 3D LiDAR Systems for Autonomous Vehicles using Static Objects Information**, Brahayam Ponton et.al., Paper: [http://arxiv.org/abs/2211.02614v1](http://arxiv.org/abs/2211.02614v1)
+- 2022-11-04, **Ultrasensitive Surface-Enhanced Raman Spectroscopy Detection by Porous Silver Supraparticles from Self-Lubricating Drop Evaporation**, Tulsi Satyavir Dabodiya et.al., Paper: [http://arxiv.org/abs/2211.02611v1](http://arxiv.org/abs/2211.02611v1)
+- 2022-11-04, **Spatial field reconstruction with INLA: Application to simulated galaxies**, Majda Smole et.al., Paper: [http://arxiv.org/abs/2211.02602v1](http://arxiv.org/abs/2211.02602v1)
+- 2022-11-04, **Evaluating and Improving Factuality in Multimodal Abstractive Summarization**, David Wan et.al., Paper: [http://arxiv.org/abs/2211.02580v1](http://arxiv.org/abs/2211.02580v1), Code: **[https://github.com/meetdavidwan/faithful-multimodal-summ](https://github.com/meetdavidwan/faithful-multimodal-summ)**
+- 2022-11-04, **An information theoretic vulnerability metric for data integrity attacks on smart grids**, Xiuzhen Ye et.al., Paper: [http://arxiv.org/abs/2211.02538v1](http://arxiv.org/abs/2211.02538v1)
+- 2022-11-04, **Topological biomarkers for real-time detection of epileptic seizures**, Ximena Fernandez et.al., Paper: [http://arxiv.org/abs/2211.02523v1](http://arxiv.org/abs/2211.02523v1)
+- 2022-11-04, **Salt-bearing disk candidates around high-mass young stellar objects**, Adam Ginsburg et.al., Paper: [http://arxiv.org/abs/2211.02502v1](http://arxiv.org/abs/2211.02502v1)
 - 2022-11-03, **Along Similar Lines: Local Obstacle Avoidance for Long-term Autonomous Path Following**, Jordy Sehn et.al., Paper: [http://arxiv.org/abs/2211.02047v1](http://arxiv.org/abs/2211.02047v1)
 - 2022-11-03, **Could Giant Pretrained Image Models Extract Universal Representations?**, Yutong Lin et.al., Paper: [http://arxiv.org/abs/2211.02043v1](http://arxiv.org/abs/2211.02043v1)
 - 2022-11-03, **Detecting galaxies in a large H{\sc i}~spectral cube**, Abinash Kumar Shaw et.al., Paper: [http://arxiv.org/abs/2211.02041v1](http://arxiv.org/abs/2211.02041v1)
