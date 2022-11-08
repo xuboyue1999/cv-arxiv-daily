@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-07**|**Hyperbolic Phonon-Plasmon Modes in Grounded Graphene-hBN Heterostructures for Mid-Infrared Applications**|Mohammad Bagher Heydari et.al.|[2211.03701v1](http://arxiv.org/abs/2211.03701v1)|null|
+|**2022-11-07**|**Spin 1/2 from Gluons**|A. P. Balachandran et.al.|[2211.03692v1](http://arxiv.org/abs/2211.03692v1)|null|
+|**2022-11-07**|**Mirror-coupled plasmonic bound states in the continuum for tunable perfect absorption**|Juan Wang et.al.|[2211.03673v1](http://arxiv.org/abs/2211.03673v1)|null|
+|**2022-11-07**|**Quantum gravity and scale symmetry in cosmology**|C. Wetterich et.al.|[2211.03596v1](http://arxiv.org/abs/2211.03596v1)|null|
+|**2022-11-07**|**55 Cancri e's occultation captured with CHEOPS**|B. -O. Demory et.al.|[2211.03582v1](http://arxiv.org/abs/2211.03582v1)|null|
+|**2022-11-07**|**The MeerKAT Galaxy Clusters Legacy Survey: star formation in massive clusters at 0.15 < 𝑧 < 0.35**|Kabelo C. Kesebonye et.al.|[2211.03492v1](http://arxiv.org/abs/2211.03492v1)|null|
+|**2022-11-07**|**Spectral identification and classification of dusty stellar sources using spectroscopic and multiwavelength observations through machine learning**|Sepideh Ghaziasgar et.al.|[2211.03403v1](http://arxiv.org/abs/2211.03403v1)|null|
+|**2022-11-06**|**Improved torque estimator for condensed-phase quasicentroid molecular dynamics**|George Trenins et.al.|[2211.03099v1](http://arxiv.org/abs/2211.03099v1)|null|
+|**2022-11-06**|**Contrastive Weighted Learning for Near-Infrared Gaze Estimation**|Adam Lee et.al.|[2211.03073v1](http://arxiv.org/abs/2211.03073v1)|null|
+|**2022-11-06**|**Higher-order-modes enhanced phase-matched dispersive-wave generation in the deep-blue and UV spectral region**|X. T. Yang et.al.|[2211.03010v1](http://arxiv.org/abs/2211.03010v1)|null|
 |**2022-11-04**|**Evidence for the disruption of a planetary system during the formation of the Helix Nebula**|Jonathan P. Marshall et.al.|[2211.02251v1](http://arxiv.org/abs/2211.02251v1)|null|
 |**2022-11-03**|**Photometric and spectroscopic study of the EXor-like eruptive young star Gaia19fct**|Sunkyung Park et.al.|[2211.02137v1](http://arxiv.org/abs/2211.02137v1)|null|
 |**2022-11-03**|**Unitarizing infinite-range forces: Graviton-graviton scattering, the graviball, and Coulomb scattering**|J. A. Oller et.al.|[2211.02084v1](http://arxiv.org/abs/2211.02084v1)|null|
@@ -903,6 +913,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-06**|**Learning Dual-Fused Modality-Aware Representations for RGBD Tracking**|Shang Gao et.al.|[2211.03055v1](http://arxiv.org/abs/2211.03055v1)|**[link](https://github.com/shanggaog/dmtracker)**|
 |**2022-10-13**|**Autoregressive Uncertainty Modeling for 3D Bounding Box Prediction**|YuXuan Liu et.al.|[2210.07424v1](http://arxiv.org/abs/2210.07424v1)|null|
 |**2022-10-13**|**DCANet: Differential Convolution Attention Network for RGB-D Semantic Segmentation**|Lizhi Bai et.al.|[2210.06747v1](http://arxiv.org/abs/2210.06747v1)|null|
 |**2022-10-04**|**COPILOT: Human Collision Prediction and Localization from Multi-view Egocentric Videos**|Boxiao Pan et.al.|[2210.01781v1](http://arxiv.org/abs/2210.01781v1)|null|
@@ -942,6 +953,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-07**|**LensWatch: I. Resolved HST Observations and Constraints on the Strongly-Lensed Type Ia Supernova 2022qmx ("SN Zwicky")**|J. D. R. Pierel et.al.|[2211.03772v1](http://arxiv.org/abs/2211.03772v1)|null|
+|**2022-11-07**|**An instanton take on some knot detection results**|John A. Baldwin et.al.|[2211.03743v1](http://arxiv.org/abs/2211.03743v1)|null|
+|**2022-11-07**|**Dynamical mass measurements of two protoplanetary discs**|G. Lodato et.al.|[2211.03712v1](http://arxiv.org/abs/2211.03712v1)|null|
+|**2022-11-07**|**A Survey on Computer Vision based Human Analysis in the COVID-19 Era**|Fevziye Irem Eyiokur et.al.|[2211.03705v1](http://arxiv.org/abs/2211.03705v1)|null|
+|**2022-11-07**|**Privacy-Preserving Anomaly Detection in Stochastic Dynamical Systems: Synthesis of Optimal Gaussian Mechanisms**|Haleh Hayati et.al.|[2211.03698v1](http://arxiv.org/abs/2211.03698v1)|null|
+|**2022-11-07**|**Impedance Variation Detection at MISO Receivers**|Shaohan Wu et.al.|[2211.03677v1](http://arxiv.org/abs/2211.03677v1)|null|
+|**2022-11-07**|**Mirror-coupled plasmonic bound states in the continuum for tunable perfect absorption**|Juan Wang et.al.|[2211.03673v1](http://arxiv.org/abs/2211.03673v1)|null|
+|**2022-11-07**|**Egocentric Audio-Visual Noise Suppression**|Roshan Sharma et.al.|[2211.03643v1](http://arxiv.org/abs/2211.03643v1)|null|
+|**2022-11-07**|**Ultracool dwarfs in Gaia DR3**|L. M. Sarro et.al.|[2211.03641v1](http://arxiv.org/abs/2211.03641v1)|null|
+|**2022-11-07**|**Interpreting deep learning output for out-of-distribution detection**|Damian Matuszewski et.al.|[2211.03637v1](http://arxiv.org/abs/2211.03637v1)|null|
 |**2022-11-04**|**Did JWST observe imprints of axion miniclusters or primordial black holes?**|Gert Hütsi et.al.|[2211.02651v1](http://arxiv.org/abs/2211.02651v1)|null|
 |**2022-11-04**|**Robustness of Fusion-based Multimodal Classifiers to Cross-Modal Content Dilutions**|Gaurav Verma et.al.|[2211.02646v1](http://arxiv.org/abs/2211.02646v1)|null|
 |**2022-11-04**|**A Theoretical Study on Solving Continual Learning**|Gyuhak Kim et.al.|[2211.02633v1](http://arxiv.org/abs/2211.02633v1)|**[link](https://github.com/k-gyuhak/wptp)**|
