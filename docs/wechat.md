@@ -1,4 +1,4 @@
-> Updated on 2022.11.07
+> Updated on 2022.11.08
 
 ## RGBT
 
@@ -942,7 +942,7 @@
 - 2022-11-04, **Spatial field reconstruction with INLA: Application to simulated galaxies**, Majda Smole et.al., Paper: [http://arxiv.org/abs/2211.02602v1](http://arxiv.org/abs/2211.02602v1)
 - 2022-11-04, **Evaluating and Improving Factuality in Multimodal Abstractive Summarization**, David Wan et.al., Paper: [http://arxiv.org/abs/2211.02580v1](http://arxiv.org/abs/2211.02580v1), Code: **[https://github.com/meetdavidwan/faithful-multimodal-summ](https://github.com/meetdavidwan/faithful-multimodal-summ)**
 - 2022-11-04, **An information theoretic vulnerability metric for data integrity attacks on smart grids**, Xiuzhen Ye et.al., Paper: [http://arxiv.org/abs/2211.02538v1](http://arxiv.org/abs/2211.02538v1)
-- 2022-11-04, **Topological biomarkers for real-time detection of epileptic seizures**, Ximena Fernandez et.al., Paper: [http://arxiv.org/abs/2211.02523v1](http://arxiv.org/abs/2211.02523v1)
+- 2022-11-04, **Topological biomarkers for real-time detection of epileptic seizures**, Ximena Fernández et.al., Paper: [http://arxiv.org/abs/2211.02523v1](http://arxiv.org/abs/2211.02523v1)
 - 2022-11-04, **Salt-bearing disk candidates around high-mass young stellar objects**, Adam Ginsburg et.al., Paper: [http://arxiv.org/abs/2211.02502v1](http://arxiv.org/abs/2211.02502v1)
 - 2022-11-03, **Along Similar Lines: Local Obstacle Avoidance for Long-term Autonomous Path Following**, Jordy Sehn et.al., Paper: [http://arxiv.org/abs/2211.02047v1](http://arxiv.org/abs/2211.02047v1)
 - 2022-11-03, **Could Giant Pretrained Image Models Extract Universal Representations?**, Yutong Lin et.al., Paper: [http://arxiv.org/abs/2211.02043v1](http://arxiv.org/abs/2211.02043v1)
