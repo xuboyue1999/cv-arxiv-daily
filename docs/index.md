@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.11.08
+## Updated on 2022.11.09
 
 ## RGBT
 
@@ -29,7 +29,7 @@ layout: default
 |**2022-11-07**|**Mirror-coupled plasmonic bound states in the continuum for tunable perfect absorption**|Juan Wang et.al.|[2211.03673v1](http://arxiv.org/abs/2211.03673v1)|null|
 |**2022-11-07**|**Quantum gravity and scale symmetry in cosmology**|C. Wetterich et.al.|[2211.03596v1](http://arxiv.org/abs/2211.03596v1)|null|
 |**2022-11-07**|**55 Cancri e's occultation captured with CHEOPS**|B. -O. Demory et.al.|[2211.03582v1](http://arxiv.org/abs/2211.03582v1)|null|
-|**2022-11-07**|**The MeerKAT Galaxy Clusters Legacy Survey: star formation in massive clusters at 0.15 < 𝑧 < 0.35**|Kabelo C. Kesebonye et.al.|[2211.03492v1](http://arxiv.org/abs/2211.03492v1)|null|
+|**2022-11-08**|**The MeerKAT Galaxy Clusters Legacy Survey: star formation in massive clusters at 0.15 < z < 0.35**|Kabelo C. Kesebonye et.al.|[2211.03492v2](http://arxiv.org/abs/2211.03492v2)|null|
 |**2022-11-07**|**Spectral identification and classification of dusty stellar sources using spectroscopic and multiwavelength observations through machine learning**|Sepideh Ghaziasgar et.al.|[2211.03403v1](http://arxiv.org/abs/2211.03403v1)|null|
 |**2022-11-06**|**Improved torque estimator for condensed-phase quasicentroid molecular dynamics**|George Trenins et.al.|[2211.03099v1](http://arxiv.org/abs/2211.03099v1)|null|
 |**2022-11-06**|**Contrastive Weighted Learning for Near-Infrared Gaze Estimation**|Adam Lee et.al.|[2211.03073v1](http://arxiv.org/abs/2211.03073v1)|null|
@@ -957,7 +957,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-11-07**|**LensWatch: I. Resolved HST Observations and Constraints on the Strongly-Lensed Type Ia Supernova 2022qmx ("SN Zwicky")**|J. D. R. Pierel et.al.|[2211.03772v1](http://arxiv.org/abs/2211.03772v1)|null|
+|**2022-11-08**|**LensWatch: I. Resolved HST Observations and Constraints on the Strongly-Lensed Type Ia Supernova 2022qmx ("SN Zwicky")**|J. D. R. Pierel et.al.|[2211.03772v2](http://arxiv.org/abs/2211.03772v2)|null|
 |**2022-11-07**|**An instanton take on some knot detection results**|John A. Baldwin et.al.|[2211.03743v1](http://arxiv.org/abs/2211.03743v1)|null|
 |**2022-11-07**|**Dynamical mass measurements of two protoplanetary discs**|G. Lodato et.al.|[2211.03712v1](http://arxiv.org/abs/2211.03712v1)|null|
 |**2022-11-07**|**A Survey on Computer Vision based Human Analysis in the COVID-19 Era**|Fevziye Irem Eyiokur et.al.|[2211.03705v1](http://arxiv.org/abs/2211.03705v1)|null|
@@ -965,7 +965,7 @@ layout: default
 |**2022-11-07**|**Impedance Variation Detection at MISO Receivers**|Shaohan Wu et.al.|[2211.03677v1](http://arxiv.org/abs/2211.03677v1)|null|
 |**2022-11-07**|**Mirror-coupled plasmonic bound states in the continuum for tunable perfect absorption**|Juan Wang et.al.|[2211.03673v1](http://arxiv.org/abs/2211.03673v1)|null|
 |**2022-11-07**|**Egocentric Audio-Visual Noise Suppression**|Roshan Sharma et.al.|[2211.03643v1](http://arxiv.org/abs/2211.03643v1)|null|
-|**2022-11-07**|**Ultracool dwarfs in Gaia DR3**|L. M. Sarro et.al.|[2211.03641v1](http://arxiv.org/abs/2211.03641v1)|null|
+|**2022-11-08**|**Ultracool dwarfs in Gaia DR3**|L. M. Sarro et.al.|[2211.03641v2](http://arxiv.org/abs/2211.03641v2)|null|
 |**2022-11-07**|**Interpreting deep learning output for out-of-distribution detection**|Damian Matuszewski et.al.|[2211.03637v1](http://arxiv.org/abs/2211.03637v1)|null|
 |**2022-11-04**|**Did JWST observe imprints of axion miniclusters or primordial black holes?**|Gert Hütsi et.al.|[2211.02651v1](http://arxiv.org/abs/2211.02651v1)|null|
 |**2022-11-04**|**Robustness of Fusion-based Multimodal Classifiers to Cross-Modal Content Dilutions**|Gaurav Verma et.al.|[2211.02646v1](http://arxiv.org/abs/2211.02646v1)|null|
