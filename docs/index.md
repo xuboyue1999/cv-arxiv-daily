@@ -24,6 +24,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-08**|**Evaluation of Color Anomaly Detection in Multispectral Images For Synthetic Aperture Sensing**|Francis Seits et.al.|[2211.04293v1](http://arxiv.org/abs/2211.04293v1)|null|
+|**2022-11-08**|**Visualizing the ultra-structure of microorganisms using table-top extreme ultraviolet imaging**|Chang Liu et.al.|[2211.04135v1](http://arxiv.org/abs/2211.04135v1)|null|
+|**2022-11-07**|**A Highly Magnified Gravitationally Lensed Red QSO at z = 2.5 with a Significant Flux Ratio Anomaly**|Eilat Glikman et.al.|[2211.03866v1](http://arxiv.org/abs/2211.03866v1)|null|
+|**2022-11-07**|**Revealing the progenitor of SN 2021zby through analysis of the $TESS$ shock-cooling light curve**|Qinan Wang et.al.|[2211.03811v1](http://arxiv.org/abs/2211.03811v1)|null|
+|**2022-11-07**|**Once is an Instance, Twice is a Hobby: Multiple Optical and Near-Infrared Changing-Look Events in NGC 5273**|J. M. M. Neustadt et.al.|[2211.03801v1](http://arxiv.org/abs/2211.03801v1)|null|
+|**2022-11-07**|**The demographics of obscured AGN from X-ray spectroscopy guided by multiwavelength information**|Brivael Laloux et.al.|[2211.03800v1](http://arxiv.org/abs/2211.03800v1)|null|
 |**2022-11-07**|**Hyperbolic Phonon-Plasmon Modes in Grounded Graphene-hBN Heterostructures for Mid-Infrared Applications**|Mohammad Bagher Heydari et.al.|[2211.03701v1](http://arxiv.org/abs/2211.03701v1)|null|
 |**2022-11-07**|**Spin 1/2 from Gluons**|A. P. Balachandran et.al.|[2211.03692v1](http://arxiv.org/abs/2211.03692v1)|null|
 |**2022-11-07**|**Mirror-coupled plasmonic bound states in the continuum for tunable perfect absorption**|Juan Wang et.al.|[2211.03673v1](http://arxiv.org/abs/2211.03673v1)|null|
@@ -957,6 +963,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-08**|**Algorithmic Bias in Machine Learning Based Delirium Prediction**|Sandhya Tripathi et.al.|[2211.04442v1](http://arxiv.org/abs/2211.04442v1)|null|
+|**2022-11-08**|**Continuous Isotropic-Nematic transition in compressed rod-like based nanocolloid**|Joanna Łoś et.al.|[2211.04432v1](http://arxiv.org/abs/2211.04432v1)|null|
+|**2022-11-08**|**Automated detection of coronaL MAss ejecta origiNs for space weather AppliCations (ALMANAC)**|Thomas Williams et.al.|[2211.04405v1](http://arxiv.org/abs/2211.04405v1)|null|
+|**2022-11-08**|**The ALICE experiment - A journey through QCD**|ALICE Collaboration et.al.|[2211.04384v1](http://arxiv.org/abs/2211.04384v1)|null|
+|**2022-11-08**|**A Multimodal Approach for Dementia Detection from Spontaneous Speech with Tensor Fusion Layer**|Loukas Ilias et.al.|[2211.04368v1](http://arxiv.org/abs/2211.04368v1)|null|
+|**2022-11-08**|**Lebesgue decompositions and the Gleason--Whitney property for operator algebras**|Raphaël Clouâtre et.al.|[2211.04366v1](http://arxiv.org/abs/2211.04366v1)|null|
+|**2022-11-08**|**The giant low surface brightness galaxy Malin 1: new constraints for its molecular gas mass from GBT/ARGUS observations**|Gaspar Galaz et.al.|[2211.04342v1](http://arxiv.org/abs/2211.04342v1)|null|
+|**2022-11-08**|**Calibrated Perception Uncertainty Across Objects and Regions in Bird's-Eye-View**|Markus Kängsepp et.al.|[2211.04340v1](http://arxiv.org/abs/2211.04340v1)|null|
+|**2022-11-08**|**Demonstration of Gd-GEM detector design for neutron macromolecular crystallography applications**|D. Pfeiffer et.al.|[2211.04335v1](http://arxiv.org/abs/2211.04335v1)|null|
+|**2022-11-08**|**Universal features of entanglement entropy in the honeycomb Hubbard model**|Jonathan D'Emidio et.al.|[2211.04334v1](http://arxiv.org/abs/2211.04334v1)|null|
 |**2022-11-08**|**LensWatch: I. Resolved HST Observations and Constraints on the Strongly-Lensed Type Ia Supernova 2022qmx ("SN Zwicky")**|J. D. R. Pierel et.al.|[2211.03772v2](http://arxiv.org/abs/2211.03772v2)|null|
 |**2022-11-07**|**An instanton take on some knot detection results**|John A. Baldwin et.al.|[2211.03743v1](http://arxiv.org/abs/2211.03743v1)|null|
 |**2022-11-07**|**Dynamical mass measurements of two protoplanetary discs**|G. Lodato et.al.|[2211.03712v1](http://arxiv.org/abs/2211.03712v1)|null|
