@@ -16,6 +16,12 @@
 
 ## Infrared
 
+- 2022-11-09, **Infrared Renormalons in Supersymmetric Theories**, Mikhail Shifman et.al., Paper: [http://arxiv.org/abs/2211.05090v1](http://arxiv.org/abs/2211.05090v1)
+- 2022-11-09, **Large Interferometer For Exoplanets (LIFE): VIII. Where is the phosphine? Observing exoplanetary PH3 with a space based MIR nulling interferometer**, D. Angerhausen et.al., Paper: [http://arxiv.org/abs/2211.04975v1](http://arxiv.org/abs/2211.04975v1)
+- 2022-11-09, **Interactive Feature Embedding for Infrared and Visible Image Fusion**, Fan Zhao et.al., Paper: [http://arxiv.org/abs/2211.04877v1](http://arxiv.org/abs/2211.04877v1)
+- 2022-11-08, **Two Candidates for Dual AGN in Dwarf-Dwarf Galaxy Mergers**, Marko Mićić et.al., Paper: [http://arxiv.org/abs/2211.04609v1](http://arxiv.org/abs/2211.04609v1)
+- 2022-11-08, **Spectral narrowing of phonon signature in time-domain sum-frequency spectroscopy**, Richard Kiessling et.al., Paper: [http://arxiv.org/abs/2211.04593v1](http://arxiv.org/abs/2211.04593v1)
+- 2022-11-08, **Constraining the Star Formation Rate using Joint CIB Continuum and [CII] Intensity Mapping**, Zilu Zhou et.al., Paper: [http://arxiv.org/abs/2211.04531v1](http://arxiv.org/abs/2211.04531v1)
 - 2022-11-08, **Evaluation of Color Anomaly Detection in Multispectral Images For Synthetic Aperture Sensing**, Francis Seits et.al., Paper: [http://arxiv.org/abs/2211.04293v1](http://arxiv.org/abs/2211.04293v1)
 - 2022-11-08, **Visualizing the ultra-structure of microorganisms using table-top extreme ultraviolet imaging**, Chang Liu et.al., Paper: [http://arxiv.org/abs/2211.04135v1](http://arxiv.org/abs/2211.04135v1)
 - 2022-11-07, **A Highly Magnified Gravitationally Lensed Red QSO at z = 2.5 with a Significant Flux Ratio Anomaly**, Eilat Glikman et.al., Paper: [http://arxiv.org/abs/2211.03866v1](http://arxiv.org/abs/2211.03866v1)
@@ -951,6 +957,16 @@
 
 ## Saliency Detection
 
+- 2022-11-09, **Clinical Contrastive Learning for Biomarker Detection**, Kiran Kokilepersaud et.al., Paper: [http://arxiv.org/abs/2211.05092v1](http://arxiv.org/abs/2211.05092v1)
+- 2022-11-09, **Cross-lingual Transfer Learning for Check-worthy Claim Identification over Twitter**, Maram Hasanain et.al., Paper: [http://arxiv.org/abs/2211.05087v1](http://arxiv.org/abs/2211.05087v1)
+- 2022-11-09, **Are ultrafast inflows in AGN truly rare -- or just much harder to see?**, Ken Pounds et.al., Paper: [http://arxiv.org/abs/2211.05048v1](http://arxiv.org/abs/2211.05048v1)
+- 2022-11-09, **Reflectance and fluorescence characteristics of PTFE coated with TPB at visible, UV, and VUV as a function of thickness**, J. Haefner et.al., Paper: [http://arxiv.org/abs/2211.05024v1](http://arxiv.org/abs/2211.05024v1)
+- 2022-11-09, **Optical property measurements of lithium chloride aqueous solution for neutrino detection**, Ye Liang et.al., Paper: [http://arxiv.org/abs/2211.05023v1](http://arxiv.org/abs/2211.05023v1)
+- 2022-11-09, **Detecting Languages Unintelligible to Multilingual Models through Local Structure Probes**, Louis Clouâtre et.al., Paper: [http://arxiv.org/abs/2211.05015v1](http://arxiv.org/abs/2211.05015v1)
+- 2022-11-09, **Large Interferometer For Exoplanets (LIFE): VIII. Where is the phosphine? Observing exoplanetary PH3 with a space based MIR nulling interferometer**, D. Angerhausen et.al., Paper: [http://arxiv.org/abs/2211.04975v1](http://arxiv.org/abs/2211.04975v1)
+- 2022-11-09, **High-contrast Imaging around a 2 Myr-old CI Tau with a Close-in Gas Giant**, Toshinori Shimizu et.al., Paper: [http://arxiv.org/abs/2211.04960v1](http://arxiv.org/abs/2211.04960v1)
+- 2022-11-09, **High-sensitivity low-noise photodetector using large-area silicon photomultiplier**, Takahiko Masuda et.al., Paper: [http://arxiv.org/abs/2211.04933v1](http://arxiv.org/abs/2211.04933v1)
+- 2022-11-09, **Detecting gamma-rays with moderate resolution and large field of view: Particle detector arrays and water Cherenkov technique**, Michael A. DuVernois et.al., Paper: [http://arxiv.org/abs/2211.04932v1](http://arxiv.org/abs/2211.04932v1)
 - 2022-11-08, **Algorithmic Bias in Machine Learning Based Delirium Prediction**, Sandhya Tripathi et.al., Paper: [http://arxiv.org/abs/2211.04442v1](http://arxiv.org/abs/2211.04442v1)
 - 2022-11-08, **Continuous Isotropic-Nematic transition in compressed rod-like based nanocolloid**, Joanna Łoś et.al., Paper: [http://arxiv.org/abs/2211.04432v1](http://arxiv.org/abs/2211.04432v1)
 - 2022-11-08, **Automated detection of coronaL MAss ejecta origiNs for space weather AppliCations (ALMANAC)**, Thomas Williams et.al., Paper: [http://arxiv.org/abs/2211.04405v1](http://arxiv.org/abs/2211.04405v1)
