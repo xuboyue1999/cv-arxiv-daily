@@ -16,6 +16,13 @@
 
 ## Infrared
 
+- 2022-11-10, **Identification of Large Equivalent Width Dusty Galaxies at 4 $<$ z $<$ 6 from Sub-mm Colours**, Denis Burgarella et.al., Paper: [http://arxiv.org/abs/2211.05744v1](http://arxiv.org/abs/2211.05744v1)
+- 2022-11-10, **Near-infrared and visible-light periocular recognition with Gabor features using frequency-adaptive automatic eye detection**, Fernando Alonso-Fernandez et.al., Paper: [http://arxiv.org/abs/2211.05544v1](http://arxiv.org/abs/2211.05544v1)
+- 2022-11-10, **Scaling solutions for asymptotically free quantum gravity**, Saswato Sen et.al., Paper: [http://arxiv.org/abs/2211.05508v1](http://arxiv.org/abs/2211.05508v1)
+- 2022-11-10, **A Model of the Globally-averaged Thermospheric Energy Balance**, Karthik Venkataramani et.al., Paper: [http://arxiv.org/abs/2211.05301v1](http://arxiv.org/abs/2211.05301v1)
+- 2022-11-09, **Saturn's atmospheric response to the large influx of ring material inferred from Cassini INMS measurements**, Julianne I. Moses et.al., Paper: [http://arxiv.org/abs/2211.05253v1](http://arxiv.org/abs/2211.05253v1)
+- 2022-11-09, **Extracting, Visualizing, and Learning from Dynamic Data: Perfusion in Surgical Video for Tissue Characterization**, Jonathan P. Epperlein et.al., Paper: [http://arxiv.org/abs/2211.05153v1](http://arxiv.org/abs/2211.05153v1)
+- 2022-11-09, **SN 2022ann: A type Icn supernova from a dwarf galaxy that reveals helium in its circumstellar environment**, K. W. Davis et.al., Paper: [http://arxiv.org/abs/2211.05134v1](http://arxiv.org/abs/2211.05134v1)
 - 2022-11-09, **Infrared Renormalons in Supersymmetric Theories**, Mikhail Shifman et.al., Paper: [http://arxiv.org/abs/2211.05090v1](http://arxiv.org/abs/2211.05090v1)
 - 2022-11-09, **Large Interferometer For Exoplanets (LIFE): VIII. Where is the phosphine? Observing exoplanetary PH3 with a space based MIR nulling interferometer**, D. Angerhausen et.al., Paper: [http://arxiv.org/abs/2211.04975v1](http://arxiv.org/abs/2211.04975v1)
 - 2022-11-09, **Interactive Feature Embedding for Infrared and Visible Image Fusion**, Fan Zhao et.al., Paper: [http://arxiv.org/abs/2211.04877v1](http://arxiv.org/abs/2211.04877v1)
@@ -957,6 +964,16 @@
 
 ## Saliency Detection
 
+- 2022-11-10, **MGLenS: Modified gravity weak lensing simulations for emulation-based cosmological inference**, Joachim Harnois-Déraps et.al., Paper: [http://arxiv.org/abs/2211.05779v1](http://arxiv.org/abs/2211.05779v1)
+- 2022-11-10, **InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions**, Wenhai Wang et.al., Paper: [http://arxiv.org/abs/2211.05778v1](http://arxiv.org/abs/2211.05778v1), Code: **[https://github.com/opengvlab/internimage](https://github.com/opengvlab/internimage)**
+- 2022-11-10, **NLO computation of diffractive di-hadron production in a saturation framework**, Michael Fucilla et.al., Paper: [http://arxiv.org/abs/2211.05774v1](http://arxiv.org/abs/2211.05774v1)
+- 2022-11-10, **Testing velocity kinks as a planet-detection method: Do velocity kinks in surface gas emission trace planetary spiral wakes in the midplane continuum?**, Jessica Speedie et.al., Paper: [http://arxiv.org/abs/2211.05757v1](http://arxiv.org/abs/2211.05757v1)
+- 2022-11-10, **External Inverse-Compton and Proton Synchrotron Emission from the Reverse Shock as the Origin of VHE Gamma-Rays from the Hyper-Bright GRB 221009A**, B. Theodore Zhang et.al., Paper: [http://arxiv.org/abs/2211.05754v1](http://arxiv.org/abs/2211.05754v1)
+- 2022-11-10, **Ultrafast formation of topological defects in a 2D charge density wave**, Yun Cheng et.al., Paper: [http://arxiv.org/abs/2211.05748v1](http://arxiv.org/abs/2211.05748v1)
+- 2022-11-10, **MIGHTEE: Deep 1.4 GHz Source Counts and the Sky Temperature Contribution of Star Forming Galaxies and Active Galactic Nuclei**, C. L. Hale et.al., Paper: [http://arxiv.org/abs/2211.05741v1](http://arxiv.org/abs/2211.05741v1)
+- 2022-11-10, **DiaASQ: A Benchmark of Conversational Aspect-based Sentiment Quadruple Analysis**, Bobo Li et.al., Paper: [http://arxiv.org/abs/2211.05705v1](http://arxiv.org/abs/2211.05705v1)
+- 2022-11-10, **Variable Energy X-ray Fluorescence Source**, S. R. Elliott et.al., Paper: [http://arxiv.org/abs/2211.05691v1](http://arxiv.org/abs/2211.05691v1)
+- 2022-11-10, **Demonstration of Quantum Advantage in Microwave Quantum Radar**, Réouven Assouly et.al., Paper: [http://arxiv.org/abs/2211.05684v1](http://arxiv.org/abs/2211.05684v1)
 - 2022-11-09, **Clinical Contrastive Learning for Biomarker Detection**, Kiran Kokilepersaud et.al., Paper: [http://arxiv.org/abs/2211.05092v1](http://arxiv.org/abs/2211.05092v1)
 - 2022-11-09, **Cross-lingual Transfer Learning for Check-worthy Claim Identification over Twitter**, Maram Hasanain et.al., Paper: [http://arxiv.org/abs/2211.05087v1](http://arxiv.org/abs/2211.05087v1)
 - 2022-11-09, **Are ultrafast inflows in AGN truly rare -- or just much harder to see?**, Ken Pounds et.al., Paper: [http://arxiv.org/abs/2211.05048v1](http://arxiv.org/abs/2211.05048v1)
