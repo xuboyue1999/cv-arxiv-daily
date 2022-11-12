@@ -23,7 +23,7 @@
 |**2022-11-10**|**Identification of Large Equivalent Width Dusty Galaxies at 4 $<$ z $<$ 6 from Sub-mm Colours**|Denis Burgarella et.al.|[2211.05744v1](http://arxiv.org/abs/2211.05744v1)|null|
 |**2022-11-10**|**Near-infrared and visible-light periocular recognition with Gabor features using frequency-adaptive automatic eye detection**|Fernando Alonso-Fernandez et.al.|[2211.05544v1](http://arxiv.org/abs/2211.05544v1)|null|
 |**2022-11-10**|**Scaling solutions for asymptotically free quantum gravity**|Saswato Sen et.al.|[2211.05508v1](http://arxiv.org/abs/2211.05508v1)|null|
-|**2022-11-10**|**A Model of the Globally-averaged Thermospheric Energy Balance**|Karthik Venkataramani et.al.|[2211.05301v1](http://arxiv.org/abs/2211.05301v1)|null|
+|**2022-11-10**|**A Model of the Globally-averaged Thermospheric Energy Balance**|Karthik Venkataramani et.al.|[2211.05301v1](http://arxiv.org/abs/2211.05301v1)|**[link](https://github.com/kvenkman/ace1d)**|
 |**2022-11-09**|**Saturn's atmospheric response to the large influx of ring material inferred from Cassini INMS measurements**|Julianne I. Moses et.al.|[2211.05253v1](http://arxiv.org/abs/2211.05253v1)|null|
 |**2022-11-09**|**Extracting, Visualizing, and Learning from Dynamic Data: Perfusion in Surgical Video for Tissue Characterization**|Jonathan P. Epperlein et.al.|[2211.05153v1](http://arxiv.org/abs/2211.05153v1)|null|
 |**2022-11-09**|**SN 2022ann: A type Icn supernova from a dwarf galaxy that reveals helium in its circumstellar environment**|K. W. Davis et.al.|[2211.05134v1](http://arxiv.org/abs/2211.05134v1)|null|
