@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-11**|**Physically-Based Face Rendering for NIR-VIS Face Recognition**|Yunqi Miao et.al.|[2211.06408v1](http://arxiv.org/abs/2211.06408v1)|**[link](https://github.com/deepinsight/insightface)**|
+|**2022-11-11**|**Wilsonian approach to the interaction $φ^2(iφ)^\varepsilon$**|Wen-Yuan Ai et.al.|[2211.06273v1](http://arxiv.org/abs/2211.06273v1)|null|
+|**2022-11-11**|**Early and late time cosmology: the $f(R)$ gravity perspective**|Francesco Bajardi et.al.|[2211.06268v1](http://arxiv.org/abs/2211.06268v1)|null|
+|**2022-11-11**|**A sub-Neptune planet around TOI-1695 discovered and characterized with SPIRou and TESS**|F. Kiefer et.al.|[2211.06205v1](http://arxiv.org/abs/2211.06205v1)|null|
+|**2022-11-11**|**Nanoscale local modification of PMMA refractive index by tip-enhanced femtosecond pulsed laser irradiation**|Denis E. Tranca et.al.|[2211.06159v1](http://arxiv.org/abs/2211.06159v1)|null|
+|**2022-11-11**|**Study of the electronic structure and optical absorption spectrum of the gold aromatic toroid D$_{6h}$-Au$_{42}$**|Gennadiy Ivanovich Mironov et.al.|[2211.06128v1](http://arxiv.org/abs/2211.06128v1)|null|
+|**2022-11-11**|**Interactive Context-Aware Network for RGB-T Salient Object Detection**|Yuxuan Wang et.al.|[2211.06097v1](http://arxiv.org/abs/2211.06097v1)|null|
+|**2022-11-11**|**Ultimate limits of exoplanet spectroscopy: a quantum approach**|Zixin Huang et.al.|[2211.06050v1](http://arxiv.org/abs/2211.06050v1)|null|
+|**2022-11-11**|**Carnegie Supernova Project-II: Near-infrared spectral diversity and template of Type Ia Supernovae**|Jing Lu et.al.|[2211.05998v1](http://arxiv.org/abs/2211.05998v1)|null|
+|**2022-11-11**|**Palm Vein Recognition via Multi-task Loss Function and Attention Layer**|Jiashu Lou et.al.|[2211.05970v1](http://arxiv.org/abs/2211.05970v1)|null|
 |**2022-11-10**|**Identification of Large Equivalent Width Dusty Galaxies at 4 $<$ z $<$ 6 from Sub-mm Colours**|Denis Burgarella et.al.|[2211.05744v1](http://arxiv.org/abs/2211.05744v1)|null|
 |**2022-11-10**|**Near-infrared and visible-light periocular recognition with Gabor features using frequency-adaptive automatic eye detection**|Fernando Alonso-Fernandez et.al.|[2211.05544v1](http://arxiv.org/abs/2211.05544v1)|null|
 |**2022-11-10**|**Scaling solutions for asymptotically free quantum gravity**|Saswato Sen et.al.|[2211.05508v1](http://arxiv.org/abs/2211.05508v1)|null|
@@ -972,6 +982,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-11**|**Two-Step Online Trajectory Planning of a Quadcopter in Indoor Environments with Obstacles**|Martin Zimmermann et.al.|[2211.06377v1](http://arxiv.org/abs/2211.06377v1)|null|
+|**2022-11-11**|**Phase-Shifting Coder: Predicting Accurate Orientation in Oriented Object Detection**|Yi Yu et.al.|[2211.06368v1](http://arxiv.org/abs/2211.06368v1)|**[link](https://github.com/open-mmlab/mmrotate)**|
+|**2022-11-11**|**Comparative Analysis of TRGBs (CATs) from Unsupervised, Multi-Halo-Field Measurements: Contrast is Key**|J. Wu et.al.|[2211.06354v1](http://arxiv.org/abs/2211.06354v1)|null|
+|**2022-11-11**|**Refuting spectral compatibility of quantum marginals**|Felix Huber et.al.|[2211.06349v1](http://arxiv.org/abs/2211.06349v1)|null|
+|**2022-11-11**|**Striving for data-model efficiency: Identifying data externalities on group performance**|Esther Rolf et.al.|[2211.06348v1](http://arxiv.org/abs/2211.06348v1)|null|
+|**2022-11-11**|**Simultaneous Active and Passive Information Transfer for Reconfigurable Intelligent Surface Aided MIMO Systems**|Wenjun Jiang et.al.|[2211.06344v1](http://arxiv.org/abs/2211.06344v1)|null|
+|**2022-11-11**|**A Pop III generated dust screen at z~16**|Fulvio Melia et.al.|[2211.06316v1](http://arxiv.org/abs/2211.06316v1)|null|
+|**2022-11-11**|**Sensor Visibility Estimation: Metrics and Methods for Systematic Performance Evaluation and Improvement**|Joachim Börger et.al.|[2211.06308v1](http://arxiv.org/abs/2211.06308v1)|null|
+|**2022-11-11**|**A Residuals-Based Nonparametric Variance Ratio Test for Cointegration**|Karsten Reichold et.al.|[2211.06288v1](http://arxiv.org/abs/2211.06288v1)|null|
+|**2022-11-11**|**Disentangled Uncertainty and Out of Distribution Detection in Medical Generative Models**|Kumud Lakara et.al.|[2211.06250v1](http://arxiv.org/abs/2211.06250v1)|null|
 |**2022-11-10**|**MGLenS: Modified gravity weak lensing simulations for emulation-based cosmological inference**|Joachim Harnois-Déraps et.al.|[2211.05779v1](http://arxiv.org/abs/2211.05779v1)|null|
 |**2022-11-10**|**InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions**|Wenhai Wang et.al.|[2211.05778v1](http://arxiv.org/abs/2211.05778v1)|**[link](https://github.com/opengvlab/internimage)**|
 |**2022-11-10**|**NLO computation of diffractive di-hadron production in a saturation framework**|Michael Fucilla et.al.|[2211.05774v1](http://arxiv.org/abs/2211.05774v1)|null|
