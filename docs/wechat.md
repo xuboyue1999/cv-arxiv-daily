@@ -1,4 +1,4 @@
-> Updated on 2022.11.14
+> Updated on 2022.11.15
 
 ## RGBT
 
@@ -19,7 +19,7 @@
 - 2022-11-11, **Physically-Based Face Rendering for NIR-VIS Face Recognition**, Yunqi Miao et.al., Paper: [http://arxiv.org/abs/2211.06408v1](http://arxiv.org/abs/2211.06408v1), Code: **[https://github.com/deepinsight/insightface](https://github.com/deepinsight/insightface)**
 - 2022-11-11, **Wilsonian approach to the interaction $φ^2(iφ)^\varepsilon$**, Wen-Yuan Ai et.al., Paper: [http://arxiv.org/abs/2211.06273v1](http://arxiv.org/abs/2211.06273v1)
 - 2022-11-11, **Early and late time cosmology: the $f(R)$ gravity perspective**, Francesco Bajardi et.al., Paper: [http://arxiv.org/abs/2211.06268v1](http://arxiv.org/abs/2211.06268v1)
-- 2022-11-11, **A sub-Neptune planet around TOI-1695 discovered and characterized with SPIRou and TESS**, F. Kiefer et.al., Paper: [http://arxiv.org/abs/2211.06205v1](http://arxiv.org/abs/2211.06205v1)
+- 2022-11-14, **A sub-Neptune planet around TOI-1695 discovered and characterized with SPIRou and TESS**, F. Kiefer et.al., Paper: [http://arxiv.org/abs/2211.06205v2](http://arxiv.org/abs/2211.06205v2)
 - 2022-11-11, **Nanoscale local modification of PMMA refractive index by tip-enhanced femtosecond pulsed laser irradiation**, Denis E. Tranca et.al., Paper: [http://arxiv.org/abs/2211.06159v1](http://arxiv.org/abs/2211.06159v1)
 - 2022-11-11, **Study of the electronic structure and optical absorption spectrum of the gold aromatic toroid D$_{6h}$-Au$_{42}$**, Gennadiy Ivanovich Mironov et.al., Paper: [http://arxiv.org/abs/2211.06128v1](http://arxiv.org/abs/2211.06128v1)
 - 2022-11-11, **Interactive Context-Aware Network for RGB-T Salient Object Detection**, Yuxuan Wang et.al., Paper: [http://arxiv.org/abs/2211.06097v1](http://arxiv.org/abs/2211.06097v1)
@@ -974,7 +974,7 @@
 
 ## Saliency Detection
 
-- 2022-11-11, **Two-Step Online Trajectory Planning of a Quadcopter in Indoor Environments with Obstacles**, Martin Zimmermann et.al., Paper: [http://arxiv.org/abs/2211.06377v1](http://arxiv.org/abs/2211.06377v1)
+- 2022-11-14, **Two-Step Online Trajectory Planning of a Quadcopter in Indoor Environments with Obstacles**, Martin Zimmermann et.al., Paper: [http://arxiv.org/abs/2211.06377v2](http://arxiv.org/abs/2211.06377v2)
 - 2022-11-11, **Phase-Shifting Coder: Predicting Accurate Orientation in Oriented Object Detection**, Yi Yu et.al., Paper: [http://arxiv.org/abs/2211.06368v1](http://arxiv.org/abs/2211.06368v1), Code: **[https://github.com/open-mmlab/mmrotate](https://github.com/open-mmlab/mmrotate)**
 - 2022-11-11, **Comparative Analysis of TRGBs (CATs) from Unsupervised, Multi-Halo-Field Measurements: Contrast is Key**, J. Wu et.al., Paper: [http://arxiv.org/abs/2211.06354v1](http://arxiv.org/abs/2211.06354v1)
 - 2022-11-11, **Refuting spectral compatibility of quantum marginals**, Felix Huber et.al., Paper: [http://arxiv.org/abs/2211.06349v1](http://arxiv.org/abs/2211.06349v1)
