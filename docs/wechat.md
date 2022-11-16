@@ -16,6 +16,15 @@
 
 ## Infrared
 
+- 2022-11-15, **Terahertz semiconductor laser source at -12 C**, Ali Khalatpour et.al., Paper: [http://arxiv.org/abs/2211.08125v1](http://arxiv.org/abs/2211.08125v1)
+- 2022-11-15, **Imaging of HH80-81 jet in the NIR shock tracers H$_2$ and [Fe II]**, Sreelekshmi Mohan et.al., Paper: [http://arxiv.org/abs/2211.08012v1](http://arxiv.org/abs/2211.08012v1)
+- 2022-11-14, **Optimal spectral lines for measuring chromospheric magnetic fields**, P. Judge et.al., Paper: [http://arxiv.org/abs/2211.07770v1](http://arxiv.org/abs/2211.07770v1)
+- 2022-11-14, **Classification of local ultraluminous infrared galaxies and quasars with kernel principal component analysis**, Evangelos S. Papaefthymiou et.al., Paper: [http://arxiv.org/abs/2211.07758v1](http://arxiv.org/abs/2211.07758v1)
+- 2022-11-14, **Argyres-Douglas Avatars of Coulomb Branch Physics**, Chinmaya Bhargava et.al., Paper: [http://arxiv.org/abs/2211.07757v1](http://arxiv.org/abs/2211.07757v1)
+- 2022-11-14, **Hazy with a chance of star spots: constraining the atmosphere of the young planet, K2-33b**, Pa Chia Thao et.al., Paper: [http://arxiv.org/abs/2211.07728v1](http://arxiv.org/abs/2211.07728v1)
+- 2022-11-14, **A Circumplanetary Dust Ring May Explain the Extreme Spectral Slope of the 10 Myr Young Exoplanet K2-33b**, Kazumasa Ohno et.al., Paper: [http://arxiv.org/abs/2211.07706v1](http://arxiv.org/abs/2211.07706v1)
+- 2022-11-14, **$L$-band Spectra of Young Brown Dwarfs**, Samuel Beiler et.al., Paper: [http://arxiv.org/abs/2211.07673v1](http://arxiv.org/abs/2211.07673v1)
+- 2022-11-14, **A BayeSN Distance Ladder: $H_0$ from a consistent modelling of Type Ia supernovae from the optical to the near infrared**, Suhail Dhawan Stephen Thorp et.al., Paper: [http://arxiv.org/abs/2211.07657v1](http://arxiv.org/abs/2211.07657v1)
 - 2022-11-14, **Saturn's Seasonal Variability from Four Decades of Ground-Based Mid-Infrared Observations**, James S. D. Blake et.al., Paper: [http://arxiv.org/abs/2211.07486v1](http://arxiv.org/abs/2211.07486v1)
 - 2022-11-14, **Observations of pores and surrounding regions with CO 4.66 μm lines by BBSO/CYRA**, Yongliang Song et.al., Paper: [http://arxiv.org/abs/2211.07100v1](http://arxiv.org/abs/2211.07100v1)
 - 2022-11-11, **Physically-Based Face Rendering for NIR-VIS Face Recognition**, Yunqi Miao et.al., Paper: [http://arxiv.org/abs/2211.06408v1](http://arxiv.org/abs/2211.06408v1), Code: **[https://github.com/deepinsight/insightface](https://github.com/deepinsight/insightface)**
@@ -977,6 +986,16 @@
 
 ## Saliency Detection
 
+- 2022-11-15, **Air Pollution Hotspot Detection and Source Feature Analysis using Cross-domain Urban Data**, Yawen Zhang et.al., Paper: [http://arxiv.org/abs/2211.08400v1](http://arxiv.org/abs/2211.08400v1)
+- 2022-11-15, **Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction**, Ali Behrouz et.al., Paper: [http://arxiv.org/abs/2211.08378v1](http://arxiv.org/abs/2211.08378v1), Code: **[https://github.com/ubc-systopia/anomuly](https://github.com/ubc-systopia/anomuly)**
+- 2022-11-15, **Easy to Decide, Hard to Agree: Reducing Disagreements Between Saliency Methods**, Josip Jukić et.al., Paper: [http://arxiv.org/abs/2211.08369v1](http://arxiv.org/abs/2211.08369v1)
+- 2022-11-15, **A Survey on the Integration of Machine Learning with Sampling-based Motion Planning**, Troy McMahon et.al., Paper: [http://arxiv.org/abs/2211.08368v1](http://arxiv.org/abs/2211.08368v1)
+- 2022-11-15, **Classifying text using machine learning models and determining conversation drift**, Chaitanya Chadha et.al., Paper: [http://arxiv.org/abs/2211.08365v1](http://arxiv.org/abs/2211.08365v1)
+- 2022-11-15, **Motor imagery classification using EEG spectrograms**, Saadat Ullah Khan et.al., Paper: [http://arxiv.org/abs/2211.08350v1](http://arxiv.org/abs/2211.08350v1)
+- 2022-11-15, **Photometric detection of internal gravity waves in upper main-sequence stars. III. Comparison of amplitude spectrum fitting and Gaussian process regression using celerite2**, Dominic M. Bowman et.al., Paper: [http://arxiv.org/abs/2211.08347v1](http://arxiv.org/abs/2211.08347v1)
+- 2022-11-15, **Time-varying Bayesian Network Meta-Analysis**, Patrick M. LeBlanc et.al., Paper: [http://arxiv.org/abs/2211.08312v1](http://arxiv.org/abs/2211.08312v1)
+- 2022-11-15, **PARTNR: Pick and place Ambiguity Resolving by Trustworthy iNteractive leaRning**, Jelle Luijkx et.al., Paper: [http://arxiv.org/abs/2211.08304v1](http://arxiv.org/abs/2211.08304v1)
+- 2022-11-15, **Radial Velocity Survey for Planets around Young stars (RVSPY) A transiting warm super-Jovian planet around HD 114082, a young star with a debris disk**, O. Zakhozhay et.al., Paper: [http://arxiv.org/abs/2211.08294v1](http://arxiv.org/abs/2211.08294v1)
 - 2022-11-14, **EVA: Exploring the Limits of Masked Visual Representation Learning at Scale**, Yuxin Fang et.al., Paper: [http://arxiv.org/abs/2211.07636v1](http://arxiv.org/abs/2211.07636v1), Code: **[https://github.com/baaivision/eva](https://github.com/baaivision/eva)**
 - 2022-11-14, **Semantic Similarity Models for Depression Severity Estimation**, Anxo Pérez et.al., Paper: [http://arxiv.org/abs/2211.07624v1](http://arxiv.org/abs/2211.07624v1)
 - 2022-11-14, **Federated Learning for Autoencoder-based Condition Monitoring in the Industrial Internet of Things**, Soeren Becker et.al., Paper: [http://arxiv.org/abs/2211.07619v1](http://arxiv.org/abs/2211.07619v1)
