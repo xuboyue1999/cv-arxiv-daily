@@ -1,4 +1,4 @@
-> Updated on 2022.11.15
+> Updated on 2022.11.16
 
 ## RGBT
 
@@ -16,6 +16,8 @@
 
 ## Infrared
 
+- 2022-11-14, **Saturn's Seasonal Variability from Four Decades of Ground-Based Mid-Infrared Observations**, James S. D. Blake et.al., Paper: [http://arxiv.org/abs/2211.07486v1](http://arxiv.org/abs/2211.07486v1)
+- 2022-11-14, **Observations of pores and surrounding regions with CO 4.66 μm lines by BBSO/CYRA**, Yongliang Song et.al., Paper: [http://arxiv.org/abs/2211.07100v1](http://arxiv.org/abs/2211.07100v1)
 - 2022-11-11, **Physically-Based Face Rendering for NIR-VIS Face Recognition**, Yunqi Miao et.al., Paper: [http://arxiv.org/abs/2211.06408v1](http://arxiv.org/abs/2211.06408v1), Code: **[https://github.com/deepinsight/insightface](https://github.com/deepinsight/insightface)**
 - 2022-11-11, **Wilsonian approach to the interaction $φ^2(iφ)^\varepsilon$**, Wen-Yuan Ai et.al., Paper: [http://arxiv.org/abs/2211.06273v1](http://arxiv.org/abs/2211.06273v1)
 - 2022-11-11, **Early and late time cosmology: the $f(R)$ gravity perspective**, Francesco Bajardi et.al., Paper: [http://arxiv.org/abs/2211.06268v1](http://arxiv.org/abs/2211.06268v1)
@@ -936,7 +938,8 @@
 
 ## RGBD
 
-- 2022-11-06, **Learning Dual-Fused Modality-Aware Representations for RGBD Tracking**, Shang Gao et.al., Paper: [http://arxiv.org/abs/2211.03055v1](http://arxiv.org/abs/2211.03055v1), Code: **[https://github.com/shanggaog/dmtracker](https://github.com/shanggaog/dmtracker)**
+- 2022-11-15, **Boosting Semi-Supervised 3D Object Detection with Semi-Sampling**, Xiaopei Wu et.al., Paper: [http://arxiv.org/abs/2211.07084v2](http://arxiv.org/abs/2211.07084v2)
+- 2022-11-15, **Learning Dual-Fused Modality-Aware Representations for RGBD Tracking**, Shang Gao et.al., Paper: [http://arxiv.org/abs/2211.03055v2](http://arxiv.org/abs/2211.03055v2), Code: **[https://github.com/shanggaog/dmtracker](https://github.com/shanggaog/dmtracker)**
 - 2022-10-13, **Autoregressive Uncertainty Modeling for 3D Bounding Box Prediction**, YuXuan Liu et.al., Paper: [http://arxiv.org/abs/2210.07424v1](http://arxiv.org/abs/2210.07424v1)
 - 2022-10-13, **DCANet: Differential Convolution Attention Network for RGB-D Semantic Segmentation**, Lizhi Bai et.al., Paper: [http://arxiv.org/abs/2210.06747v1](http://arxiv.org/abs/2210.06747v1)
 - 2022-10-04, **COPILOT: Human Collision Prediction and Localization from Multi-view Egocentric Videos**, Boxiao Pan et.al., Paper: [http://arxiv.org/abs/2210.01781v1](http://arxiv.org/abs/2210.01781v1)
@@ -974,6 +977,16 @@
 
 ## Saliency Detection
 
+- 2022-11-14, **EVA: Exploring the Limits of Masked Visual Representation Learning at Scale**, Yuxin Fang et.al., Paper: [http://arxiv.org/abs/2211.07636v1](http://arxiv.org/abs/2211.07636v1), Code: **[https://github.com/baaivision/eva](https://github.com/baaivision/eva)**
+- 2022-11-14, **Semantic Similarity Models for Depression Severity Estimation**, Anxo Pérez et.al., Paper: [http://arxiv.org/abs/2211.07624v1](http://arxiv.org/abs/2211.07624v1)
+- 2022-11-14, **Federated Learning for Autoencoder-based Condition Monitoring in the Industrial Internet of Things**, Soeren Becker et.al., Paper: [http://arxiv.org/abs/2211.07619v1](http://arxiv.org/abs/2211.07619v1)
+- 2022-11-14, **Between News and History: Identifying Networked Topics of Collective Attention on Wikipedia**, Patrick Gildersleve et.al., Paper: [http://arxiv.org/abs/2211.07616v1](http://arxiv.org/abs/2211.07616v1)
+- 2022-11-14, **Classical shadow tomography for continuous variables quantum systems**, Simon Becker et.al., Paper: [http://arxiv.org/abs/2211.07578v1](http://arxiv.org/abs/2211.07578v1)
+- 2022-11-14, **Minkowski Functionals of CMB polarisation intensity with Pynkowski: theory and application to Planck data**, Alessandro Carones et.al., Paper: [http://arxiv.org/abs/2211.07562v1](http://arxiv.org/abs/2211.07562v1)
+- 2022-11-14, **Review of the online analyses of multi-messenger alerts and electromagnetic transient events with the ANTARES neutrino telescope**, A. Albert et.al., Paper: [http://arxiv.org/abs/2211.07551v1](http://arxiv.org/abs/2211.07551v1)
+- 2022-11-15, **Phenotype Detection in Real World Data via Online MixEHR Algorithm**, Ying Xu et.al., Paper: [http://arxiv.org/abs/2211.07549v2](http://arxiv.org/abs/2211.07549v2)
+- 2022-11-14, **Marine Microalgae Detection in Microscopy Images: A New Dataset**, Shizheng Zhou et.al., Paper: [http://arxiv.org/abs/2211.07546v1](http://arxiv.org/abs/2211.07546v1)
+- 2022-11-15, **FLARES VIII. The Emergence of Passive Galaxies in the Early Universe ($z > 5$)**, Christopher C. Lovell et.al., Paper: [http://arxiv.org/abs/2211.07540v2](http://arxiv.org/abs/2211.07540v2)
 - 2022-11-14, **Two-Step Online Trajectory Planning of a Quadcopter in Indoor Environments with Obstacles**, Martin Zimmermann et.al., Paper: [http://arxiv.org/abs/2211.06377v2](http://arxiv.org/abs/2211.06377v2)
 - 2022-11-11, **Phase-Shifting Coder: Predicting Accurate Orientation in Oriented Object Detection**, Yi Yu et.al., Paper: [http://arxiv.org/abs/2211.06368v1](http://arxiv.org/abs/2211.06368v1), Code: **[https://github.com/open-mmlab/mmrotate](https://github.com/open-mmlab/mmrotate)**
 - 2022-11-11, **Comparative Analysis of TRGBs (CATs) from Unsupervised, Multi-Halo-Field Measurements: Contrast is Key**, J. Wu et.al., Paper: [http://arxiv.org/abs/2211.06354v1](http://arxiv.org/abs/2211.06354v1)
