@@ -24,6 +24,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-16**|**RG flows in 2d QCD**|Diego Delmastro et.al.|[2211.09036v1](http://arxiv.org/abs/2211.09036v1)|null|
+|**2022-11-16**|**Amphiphilic diblock copolymers as functional surfaces for protein chromatography**|Raghu K. Moorthy et.al.|[2211.08974v1](http://arxiv.org/abs/2211.08974v1)|null|
+|**2022-11-16**|**MCL-1 promiscuity and the structural resilience of its binding partners**|Philipp J. Heckmeier et.al.|[2211.08934v1](http://arxiv.org/abs/2211.08934v1)|null|
+|**2022-11-15**|**Characterisation of Timau National Observatory using limited in-situ measurements**|Rhorom Priyatikanto et.al.|[2211.08918v1](http://arxiv.org/abs/2211.08918v1)|null|
+|**2022-11-16**|**Two-loop form factors for pseudo-scalar quarkonium production and decay**|Samuel Abreu et.al.|[2211.08838v1](http://arxiv.org/abs/2211.08838v1)|null|
+|**2022-11-16**|**Interaction between massive star winds and the interstellar medium**|Jonathan Mackey et.al.|[2211.08808v1](http://arxiv.org/abs/2211.08808v1)|null|
+|**2022-11-16**|**Infrared scalar one-loop three point integrals in loop regularization**|Jin Zhang et.al.|[2211.08720v1](http://arxiv.org/abs/2211.08720v1)|null|
+|**2022-11-15**|**Calibration of hybrid resolved star formation rate recipes based on PHANGS-MUSE H$α$ and H$β$ maps**|Francesco Belfiore et.al.|[2211.08487v1](http://arxiv.org/abs/2211.08487v1)|null|
+|**2022-11-15**|**XGAPS: a sub-arcsecond cross-match of Galactic Plane Surveys**|S. Scaringi et.al.|[2211.08463v1](http://arxiv.org/abs/2211.08463v1)|null|
+|**2022-11-15**|**The parton-level structure of $e^+e^-$ to 2 jets at N$^3$LO**|Petr Jakubčík et.al.|[2211.08446v1](http://arxiv.org/abs/2211.08446v1)|null|
 |**2022-11-15**|**Terahertz semiconductor laser source at -12 C**|Ali Khalatpour et.al.|[2211.08125v1](http://arxiv.org/abs/2211.08125v1)|null|
 |**2022-11-15**|**Imaging of HH80-81 jet in the NIR shock tracers H$_2$ and [Fe II]**|Sreelekshmi Mohan et.al.|[2211.08012v1](http://arxiv.org/abs/2211.08012v1)|null|
 |**2022-11-14**|**Optimal spectral lines for measuring chromospheric magnetic fields**|P. Judge et.al.|[2211.07770v1](http://arxiv.org/abs/2211.07770v1)|null|
@@ -998,6 +1008,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-16**|**Token Turing Machines**|Michael S. Ryoo et.al.|[2211.09119v1](http://arxiv.org/abs/2211.09119v1)|null|
+|**2022-11-16**|**Global impact of emerging internetwork fields on the low solar atmosphere**|Milan Gošić et.al.|[2211.09111v1](http://arxiv.org/abs/2211.09111v1)|null|
+|**2022-11-16**|**Interpretable Few-shot Learning with Online Attribute Selection**|Mohammad Reza Zarei et.al.|[2211.09107v1](http://arxiv.org/abs/2211.09107v1)|null|
+|**2022-11-16**|**Revisiting pseudo-Dirac neutrino scenario after recent solar neutrino data**|S. Ansarifard et.al.|[2211.09105v1](http://arxiv.org/abs/2211.09105v1)|null|
+|**2022-11-16**|**ATEAM: Knowledge Integration from Federated Datasets for Vehicle Feature Extraction using Annotation Team of Experts**|Abhijit Suprem et.al.|[2211.09098v1](http://arxiv.org/abs/2211.09098v1)|null|
+|**2022-11-16**|**Unconventional charge-to-spin conversions in graphene/MoTe2 van der Waals heterostructures**|Nerea Ontoso et.al.|[2211.09095v1](http://arxiv.org/abs/2211.09095v1)|null|
+|**2022-11-16**|**Psychophysiology-aided Perceptually Fluent Speech Analysis of Children Who Stutter**|Yi Xiao et.al.|[2211.09089v1](http://arxiv.org/abs/2211.09089v1)|null|
+|**2022-11-16**|**Egocentric Hand-object Interaction Detection**|Yao Lu et.al.|[2211.09067v1](http://arxiv.org/abs/2211.09067v1)|null|
+|**2022-11-16**|**Neutrinos production by photons scattered on the dark matter**|Vitaly Beylin et.al.|[2211.09054v1](http://arxiv.org/abs/2211.09054v1)|null|
+|**2022-11-16**|**A moving horizon state and parameter estimation scheme with guaranteed robust convergence**|Julian D. Schiller et.al.|[2211.09053v1](http://arxiv.org/abs/2211.09053v1)|null|
 |**2022-11-15**|**Air Pollution Hotspot Detection and Source Feature Analysis using Cross-domain Urban Data**|Yawen Zhang et.al.|[2211.08400v1](http://arxiv.org/abs/2211.08400v1)|null|
 |**2022-11-15**|**Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction**|Ali Behrouz et.al.|[2211.08378v1](http://arxiv.org/abs/2211.08378v1)|**[link](https://github.com/ubc-systopia/anomuly)**|
 |**2022-11-15**|**Easy to Decide, Hard to Agree: Reducing Disagreements Between Saliency Methods**|Josip Jukić et.al.|[2211.08369v1](http://arxiv.org/abs/2211.08369v1)|null|
