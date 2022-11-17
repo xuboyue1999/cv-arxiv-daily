@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.11.16
+## Updated on 2022.11.17
 
 ## RGBT
 
@@ -32,7 +32,7 @@ layout: default
 |**2022-11-14**|**Hazy with a chance of star spots: constraining the atmosphere of the young planet, K2-33b**|Pa Chia Thao et.al.|[2211.07728v1](http://arxiv.org/abs/2211.07728v1)|null|
 |**2022-11-14**|**A Circumplanetary Dust Ring May Explain the Extreme Spectral Slope of the 10 Myr Young Exoplanet K2-33b**|Kazumasa Ohno et.al.|[2211.07706v1](http://arxiv.org/abs/2211.07706v1)|null|
 |**2022-11-14**|**$L$-band Spectra of Young Brown Dwarfs**|Samuel Beiler et.al.|[2211.07673v1](http://arxiv.org/abs/2211.07673v1)|null|
-|**2022-11-14**|**A BayeSN Distance Ladder: $H_0$ from a consistent modelling of Type Ia supernovae from the optical to the near infrared**|Suhail Dhawan Stephen Thorp et.al.|[2211.07657v1](http://arxiv.org/abs/2211.07657v1)|null|
+|**2022-11-16**|**A BayeSN Distance Ladder: $H_0$ from a consistent modelling of Type Ia supernovae from the optical to the near infrared**|Suhail Dhawan et.al.|[2211.07657v2](http://arxiv.org/abs/2211.07657v2)|null|
 |**2022-11-14**|**Saturn's Seasonal Variability from Four Decades of Ground-Based Mid-Infrared Observations**|James S. D. Blake et.al.|[2211.07486v1](http://arxiv.org/abs/2211.07486v1)|null|
 |**2022-11-14**|**Observations of pores and surrounding regions with CO 4.66 μm lines by BBSO/CYRA**|Yongliang Song et.al.|[2211.07100v1](http://arxiv.org/abs/2211.07100v1)|null|
 |**2022-11-11**|**Physically-Based Face Rendering for NIR-VIS Face Recognition**|Yunqi Miao et.al.|[2211.06408v1](http://arxiv.org/abs/2211.06408v1)|**[link](https://github.com/deepinsight/insightface)**|
