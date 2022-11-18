@@ -20,6 +20,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-17**|**A Census of the Taurus Star-forming Region and Neighboring Associations with Gaia**|K. L. Luhman et.al.|[2211.09785v1](http://arxiv.org/abs/2211.09785v1)|null|
+|**2022-11-17**|**Exposing the threshold structure of loop integrals**|Zeno Capatti et.al.|[2211.09653v1](http://arxiv.org/abs/2211.09653v1)|null|
+|**2022-11-17**|**A Detailed Look at the Most Obscured Galactic Nuclei in the Mid-Infrared**|F. R. Donnan et.al.|[2211.09628v1](http://arxiv.org/abs/2211.09628v1)|null|
+|**2022-11-17**|**Photometric redshift estimation of galaxies in the DESI Legacy Imaging Surveys**|Changhua Li et.al.|[2211.09492v1](http://arxiv.org/abs/2211.09492v1)|null|
+|**2022-11-17**|**Optical and X-ray studies of Be/X-ray binary 1A 0535+262 during its 2020 giant outburst**|Birendra Chhotaray et.al.|[2211.09491v1](http://arxiv.org/abs/2211.09491v1)|null|
+|**2022-11-17**|**Learning Domain and Pose Invariance for Thermal-to-Visible Face Recognition**|Cedric Nimpa Fondje et.al.|[2211.09350v1](http://arxiv.org/abs/2211.09350v1)|null|
+|**2022-11-17**|**Longitudinal thermal imaging for scalable non-residential HVAC and occupant behaviour characterization**|Vasantha Ramani et.al.|[2211.09288v1](http://arxiv.org/abs/2211.09288v1)|null|
+|**2022-11-16**|**New Generation Stellar Spectral Libraries in the Optical and Near-Infrared I: The Recalibrated UVES-POP Library for Stellar Population Synthesis**|Sviatoslav Borisov et.al.|[2211.09130v1](http://arxiv.org/abs/2211.09130v1)|null|
 |**2022-11-16**|**RG flows in 2d QCD**|Diego Delmastro et.al.|[2211.09036v1](http://arxiv.org/abs/2211.09036v1)|null|
 |**2022-11-16**|**Amphiphilic diblock copolymers as functional surfaces for protein chromatography**|Raghu K. Moorthy et.al.|[2211.08974v1](http://arxiv.org/abs/2211.08974v1)|null|
 |**2022-11-16**|**MCL-1 promiscuity and the structural resilience of its binding partners**|Philipp J. Heckmeier et.al.|[2211.08934v1](http://arxiv.org/abs/2211.08934v1)|null|
@@ -963,6 +971,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-17**|**ImLiDAR: Cross-Sensor Dynamic Message Propagation Network for 3D Object Detection**|Yiyang Shen et.al.|[2211.09518v1](http://arxiv.org/abs/2211.09518v1)|null|
 |**2022-11-15**|**Boosting Semi-Supervised 3D Object Detection with Semi-Sampling**|Xiaopei Wu et.al.|[2211.07084v2](http://arxiv.org/abs/2211.07084v2)|null|
 |**2022-11-15**|**Learning Dual-Fused Modality-Aware Representations for RGBD Tracking**|Shang Gao et.al.|[2211.03055v2](http://arxiv.org/abs/2211.03055v2)|**[link](https://github.com/shanggaog/dmtracker)**|
 |**2022-10-13**|**Autoregressive Uncertainty Modeling for 3D Bounding Box Prediction**|YuXuan Liu et.al.|[2210.07424v1](http://arxiv.org/abs/2210.07424v1)|null|
@@ -1004,6 +1013,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-17**|**Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information**|Weijie Su et.al.|[2211.09807v1](http://arxiv.org/abs/2211.09807v1)|null|
+|**2022-11-17**|**Exact Quantum Algorithms for Quantum Phase Recognition: Renormalization Group and Error Correction**|Ethan Lake et.al.|[2211.09803v1](http://arxiv.org/abs/2211.09803v1)|null|
+|**2022-11-17**|**MOTRv2: Bootstrapping End-to-End Multi-Object Tracking by Pretrained Object Detectors**|Yuang Zhang et.al.|[2211.09791v1](http://arxiv.org/abs/2211.09791v1)|**[link](https://github.com/megvii-research/MOTRv2)**|
+|**2022-11-17**|**Radiometric sensitivity and resolution of synthetic tracking imaging for orbital debris monitoring**|Hasan Bahcivan et.al.|[2211.09789v1](http://arxiv.org/abs/2211.09789v1)|null|
+|**2022-11-17**|**DiffusionDet: Diffusion Model for Object Detection**|Shoufa Chen et.al.|[2211.09788v1](http://arxiv.org/abs/2211.09788v1)|**[link](https://github.com/shoufachen/diffusiondet)**|
+|**2022-11-17**|**A Census of the Taurus Star-forming Region and Neighboring Associations with Gaia**|K. L. Luhman et.al.|[2211.09785v1](http://arxiv.org/abs/2211.09785v1)|null|
+|**2022-11-17**|**Monitoring machine learning (ML)-based risk prediction algorithms in the presence of confounding medical interventions**|Jean Feng et.al.|[2211.09781v1](http://arxiv.org/abs/2211.09781v1)|**[link](https://github.com/jjfeng/monitoring_ml_cmi)**|
+|**2022-11-17**|**Engineering and probing non-Abelian chiral spin liquids using periodically driven ultracold atoms**|Bo-Ye Sun et.al.|[2211.09777v1](http://arxiv.org/abs/2211.09777v1)|null|
+|**2022-11-17**|**D$^3$ETR: Decoder Distillation for Detection Transformer**|Xiaokang Chen et.al.|[2211.09768v1](http://arxiv.org/abs/2211.09768v1)|null|
+|**2022-11-17**|**Heart Abnormality Detection from Heart Sound Signals using MFCC Feature and Dual Stream Attention Based Network**|Nayeeb Rashid et.al.|[2211.09751v1](http://arxiv.org/abs/2211.09751v1)|null|
 |**2022-11-16**|**Token Turing Machines**|Michael S. Ryoo et.al.|[2211.09119v1](http://arxiv.org/abs/2211.09119v1)|null|
 |**2022-11-16**|**Global impact of emerging internetwork fields on the low solar atmosphere**|Milan Gošić et.al.|[2211.09111v1](http://arxiv.org/abs/2211.09111v1)|null|
 |**2022-11-16**|**Interpretable Few-shot Learning with Online Attribute Selection**|Mohammad Reza Zarei et.al.|[2211.09107v1](http://arxiv.org/abs/2211.09107v1)|null|
