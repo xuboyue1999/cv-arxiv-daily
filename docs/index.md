@@ -24,6 +24,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-18**|**Quantum theory of light-driven coherent lattice dynamics**|Fabio Caruso et.al.|[2211.10424v1](http://arxiv.org/abs/2211.10424v1)|null|
+|**2022-11-18**|**A strong H- opacity signal in the near-infrared emission spectrum of the ultra-hot Jupiter KELT-9b**|Bob Jacobs et.al.|[2211.10297v1](http://arxiv.org/abs/2211.10297v1)|null|
+|**2022-11-18**|**NLO Oriented Event-Shape Distributions for Massive Quarks**|Alejandro Bris et.al.|[2211.10239v1](http://arxiv.org/abs/2211.10239v1)|null|
+|**2022-11-18**|**Dark dust II: Properties in the general field of the diffuse ISM**|Ralf Siebenmorgen et.al.|[2211.10146v1](http://arxiv.org/abs/2211.10146v1)|null|
+|**2022-11-18**|**WISE Green Objects (WGOs): the massive star candidates in the whole Galactic Plane ($\mid b \mid <2^\circ$)**|Chang Zhang et.al.|[2211.10063v1](http://arxiv.org/abs/2211.10063v1)|null|
+|**2022-11-17**|**How dark the sky: the JWST backgrounds**|Jane R. Rigby et.al.|[2211.09890v1](http://arxiv.org/abs/2211.09890v1)|null|
+|**2022-11-17**|**Recovery of Phosphine in Venus' Atmosphere from SOFIA Observations**|Jane S. Greaves et.al.|[2211.09852v1](http://arxiv.org/abs/2211.09852v1)|null|
+|**2022-11-17**|**Detecting planetary mass companions near the water frost-line using JWST interferometry**|Shrishmoy Ray et.al.|[2211.09830v1](http://arxiv.org/abs/2211.09830v1)|null|
 |**2022-11-17**|**A Census of the Taurus Star-forming Region and Neighboring Associations with Gaia**|K. L. Luhman et.al.|[2211.09785v1](http://arxiv.org/abs/2211.09785v1)|null|
 |**2022-11-17**|**Exposing the threshold structure of loop integrals**|Zeno Capatti et.al.|[2211.09653v1](http://arxiv.org/abs/2211.09653v1)|**[link](https://github.com/apelloni/cLTD)**|
 |**2022-11-17**|**A Detailed Look at the Most Obscured Galactic Nuclei in the Mid-Infrared**|F. R. Donnan et.al.|[2211.09628v1](http://arxiv.org/abs/2211.09628v1)|null|
@@ -1017,6 +1025,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-18**|**Bandwidth and visibility improvement in detection of a weak signal using mode entanglement and swapping**|Yue Jiang et.al.|[2211.10403v1](http://arxiv.org/abs/2211.10403v1)|null|
+|**2022-11-18**|**Hunting for bumps in the margins**|David Yallup et.al.|[2211.10391v1](http://arxiv.org/abs/2211.10391v1)|null|
+|**2022-11-18**|**A strong H- opacity signal in the near-infrared emission spectrum of the ultra-hot Jupiter KELT-9b**|Bob Jacobs et.al.|[2211.10297v1](http://arxiv.org/abs/2211.10297v1)|null|
+|**2022-11-18**|**MeV-GeV Gamma-ray Emission from SNR G327.1-1.1 Discovered by the Fermi-LAT**|Jordan Eagle et.al.|[2211.10281v1](http://arxiv.org/abs/2211.10281v1)|null|
+|**2022-11-18**|**Integrated Space Domain Awareness and Communication System**|Selen Gecgel Cetin et.al.|[2211.10260v1](http://arxiv.org/abs/2211.10260v1)|null|
+|**2022-11-18**|**Circuit Design for Predictive Maintenance**|Taner Dosluoglu et.al.|[2211.10248v1](http://arxiv.org/abs/2211.10248v1)|null|
+|**2022-11-18**|**Speaker Overlap-aware Neural Diarization for Multi-party Meeting Analysis**|Zhihao Du et.al.|[2211.10243v1](http://arxiv.org/abs/2211.10243v1)|null|
+|**2022-11-18**|**Adversarial Detection by Approximation of Ensemble Boundary**|T. Windeatt et.al.|[2211.10227v1](http://arxiv.org/abs/2211.10227v1)|null|
+|**2022-11-18**|**A new catalogue of solar flare events from soft x-ray GOES signal in the period 1986-2020**|Nicola Plutino et.al.|[2211.10189v1](http://arxiv.org/abs/2211.10189v1)|null|
+|**2022-11-18**|**Skew scattering by magnetic monopoles and anomalous Hall effect in spin-orbit coupled systems**|Jun Mochida et.al.|[2211.10180v1](http://arxiv.org/abs/2211.10180v1)|null|
 |**2022-11-17**|**Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information**|Weijie Su et.al.|[2211.09807v1](http://arxiv.org/abs/2211.09807v1)|null|
 |**2022-11-17**|**Exact Quantum Algorithms for Quantum Phase Recognition: Renormalization Group and Error Correction**|Ethan Lake et.al.|[2211.09803v1](http://arxiv.org/abs/2211.09803v1)|null|
 |**2022-11-17**|**MOTRv2: Bootstrapping End-to-End Multi-Object Tracking by Pretrained Object Detectors**|Yuang Zhang et.al.|[2211.09791v1](http://arxiv.org/abs/2211.09791v1)|**[link](https://github.com/megvii-research/MOTRv2)**|
